@@ -1,0 +1,8 @@
+﻿formulation_id,nonwater_score,water_included_score,nonwater_prediction,water_included_prediction,prediction_changed,explicitly_added_water_pct,represented_with_water_pct,unresolved_stock_pct,interpretation
+Q_T1_C1,0.6343285307764598,0.630989396332435,1,1,False,97.27,99.7,0.2999999999999998,Sensitivity only: water absent from all final training components; not a replacement validated representation
+Q_T1_C2,0.4782035735399345,0.6290927029040149,0,1,True,98.5,99.7,0.2999999999999998,Sensitivity only: water absent from all final training components; not a replacement validated representation
+Q_T3_C1,0.4712367388607567,0.6277882979783066,0,1,True,97.5,99.5,0.5,Sensitivity only: water absent from all final training components; not a replacement validated representation
+Q_T3_C2,0.7152155031001587,0.6404983990453369,1,1,False,89.225,99.52499999999999,0.4749999999999996,Sensitivity only: water absent from all final training components; not a replacement validated representation
+Q_T3_C3,0.7253107518106197,0.6446293099228673,1,1,False,86.425,99.525,0.4749999999999996,Sensitivity only: water absent from all final training components; not a replacement validated representation
+Q_T3_C4,0.5785257385424214,0.626781543939199,1,1,False,91.625,99.525,0.4749999999999996,Sensitivity only: water absent from all final training components; not a replacement validated representation
+Q_T3_C5,0.5881033093412646,0.6266569101779383,1,1,False,88.425,99.52499999999999,0.4749999999999996,Sensitivity only: water absent from all final training components; not a replacement validated representation

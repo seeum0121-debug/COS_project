@@ -1,0 +1,42 @@
+{
+  "status": "passed",
+  "rows": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8,
+    10,
+    11,
+    14,
+    31,
+    84,
+    182,
+    333,
+    496,
+    606,
+    607,
+    608,
+    609,
+    610,
+    614,
+    615,
+    621,
+    627,
+    638,
+    665,
+    667,
+    671
+  ],
+  "representations": [
+    "wmean",
+    "max"
+  ],
+  "selection": "First 3 and highest component count per original role/EPA class",
+  "predict_sha256": "6126f477fbcc0f911abdf0284019bc64d1a16b908e64a01389765d6586aa6c68",
+  "rtol": 1e-09,
+  "atol": 1e-09
+}

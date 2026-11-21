@@ -1,0 +1,13 @@
+{
+  "formulation_id": "EyeIrritation6pack_PID936",
+  "components": [
+    {
+      "smiles": "CC1(C)[C@H](C=C(Cl)C(F)(F)F)[C@@H]1C(=O)O[C@@H](C#N)c1cccc(Oc2ccccc2)c1",
+      "weight": 0.625
+    },
+    {
+      "smiles": "C#CCC1=C(C)C(OC(=O)C2C(C=C(C)C)C2(C)C)CC1=O",
+      "weight": 0.375
+    }
+  ]
+}

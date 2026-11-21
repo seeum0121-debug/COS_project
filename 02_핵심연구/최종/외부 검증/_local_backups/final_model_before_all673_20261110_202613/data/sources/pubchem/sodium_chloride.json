@@ -1,0 +1,15 @@
+{
+  "request_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7647-14-5/property/ConnectivitySMILES,InChIKey,MolecularFormula/JSON",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 5234,
+          "MolecularFormula": "ClNa",
+          "ConnectivitySMILES": "[Na+].[Cl-]",
+          "InChIKey": "FAPWRFPIFSIZLT-UHFFFAOYSA-M"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "snapshot": "cir_ingredients.csv",
+    "original_path": "C:\\Users\\DS\\COS\\최종\\외부 검증\\Eye_cosmetic_validation_20261109\\sources\\cosmetic_validation\\cir_ingredients.csv",
+    "sha256": "ec28b1aea5c0cbf6030b43e6da1059fe8b47a5ce0c88415e8765942dfbc18612",
+    "bytes": 14004
+  },
+  {
+    "snapshot": "flea_tick_shampoo.csv",
+    "original_path": "C:\\Users\\DS\\COS\\최종\\외부 검증\\Eye_cosmetic_validation_20261109\\sources\\cosmetic_validation\\flea_tick_shampoo.csv",
+    "sha256": "ec7007153842f85cc0188a81f457ec7614ec614b823b8af4f8cf7c261a09393e",
+    "bytes": 11328
+  },
+  {
+    "snapshot": "zein.csv",
+    "original_path": "C:\\Users\\DS\\COS\\최종\\외부 검증\\Eye_cosmetic_validation_20261109\\sources\\cosmetic_validation\\lechuga2025_surfactant_mixture_zein.csv",
+    "sha256": "934be014b5e364bf4e5470b8824a12b3788405235bd6ebd2698ea8ad252a0a44",
+    "bytes": 35950
+  },
+  {
+    "snapshot": "quat_formulations.csv",
+    "original_path": "C:\\Users\\DS\\COS\\최종\\외부 검증\\Eye_재외부검증_20261109\\inputs\\quat_formulations.csv",
+    "sha256": "fb8827eac39e8a2bf19176f5b106a1f4632b3fc019d06fad0c12d3540b0cb38d",
+    "bytes": 4532
+  },
+  {
+    "snapshot": "quat_components.csv",
+    "original_path": "C:\\Users\\DS\\COS\\최종\\외부 검증\\Eye_재외부검증_20261109\\inputs\\quat_components.csv",
+    "sha256": "3862e93a91062f78c26c936c127f6691dd99820846407ef5d94aef636a2d8aee",
+    "bytes": 3507
+  },
+  {
+    "snapshot": "quat_observations.csv",
+    "original_path": "C:\\Users\\DS\\COS\\최종\\외부 검증\\Eye_재외부검증_20261109\\inputs\\quat_observations.csv",
+    "sha256": "7b2539462a1b4a7972d296daab8c6428c2282b1547a4a409e49a701a458007bb",
+    "bytes": 4025
+  },
+  {
+    "snapshot": "structure_registry.csv",
+    "original_path": "C:\\Users\\DS\\COS\\최종\\외부 검증\\Eye_재외부검증_20261109\\inputs\\structure_registry.csv",
+    "sha256": "9154fcd3364dce92069449b0cf54f5b79310c97014eddaebf01118153e7d42fc",
+    "bytes": 2390
+  },
+  {
+    "snapshot": "shampoo_patent_observations.csv",
+    "original_path": "C:\\Users\\DS\\COS\\최종\\외부 검증\\Eye_재외부검증_20261109\\inputs\\shampoo_patent_observations.csv",
+    "sha256": "429f8f8d9ab31a4f31b53ab4a4b1d0db213878eb2e3c3d3ca6ce2d3234e8aeac",
+    "bytes": 491
+  },
+  {
+    "snapshot": "zodiac_source.json",
+    "original_path": "C:\\Users\\DS\\COS\\최종\\외부 검증\\Eye_재외부검증_20261109\\inputs\\zodiac_source.json",
+    "sha256": "3370d18ff02c84c8313b04cc4ef568766d38e5692d92027edf213a4bcbb88a51",
+    "bytes": 995
+  },
+  {
+    "snapshot": "source_adjudication.json",
+    "original_path": "C:\\Users\\DS\\COS\\최종\\외부 검증\\Eye_cosmetic_validation_20261109\\source_adjudication.json",
+    "sha256": "d69718cce54867d2d0172331cf513f51375bc679f3285fa6e4575af3088edc0b",
+    "bytes": 3934
+  },
+  {
+    "snapshot": "EPA_review.csv",
+    "original_path": "C:\\Users\\DS\\COS\\최종\\외부 검증\\EPA_재검토_추가자료_20261109\\EPA_라벨_재검토.csv",
+    "sha256": "0e1c4ef86450e28c593551c1871c1f68c75f3ff6890b3420c29aff9900847aaf",
+    "bytes": 3345
+  },
+  {
+    "snapshot": "additional_sources.csv",
+    "original_path": "C:\\Users\\DS\\COS\\최종\\외부 검증\\EPA_재검토_추가자료_20261109\\추가자료_후보와중복.csv",
+    "sha256": "ee59fa0111af0ec948826afcd11e357e77d67d5c200c2a37ff5cabd85cf8d443",
+    "bytes": 3096
+  },
+  {
+    "snapshot": "CIR_previous_audit.csv",
+    "original_path": "C:\\Users\\DS\\COS\\최종\\외부 검증\\Eye_cosmetic_validation_20261109\\outputs\\CIR_eye_audit_predictions.csv",
+    "sha256": "abb4f962d4c3586203296434a60623da8f61029be236a965a8796399581eb154",
+    "bytes": 11480
+  },
+  {
+    "snapshot": "rerun_summary.json",
+    "original_path": "C:\\Users\\DS\\COS\\최종\\외부 검증\\Eye_재외부검증_20261109\\outputs\\summary.json",
+    "sha256": "ed8f1bdb620cc640bc5a78eff2ae24145da9b767ed13732ee1cea82c09d97beb",
+    "bytes": 2137
+  },
+  {
+    "snapshot": "training_metadata_read_only",
+    "original_path": "C:\\Users\\DS\\COS\\최종\\외부 검증\\Eye_cosmetic_validation_20261109\\training_reference\\input_snapshot.csv",
+    "sha256": "f22f4e1e8d74268a78a6a8d059e1a8dbd20e62692d07d5fb87a384a190224150",
+    "bytes": 7869762
+  }
+]

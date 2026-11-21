@@ -1,0 +1,5 @@
+﻿pair_id,control,treatment,selection
+P1,Q_T1_C2,Q_T1_C1,same quaternary identity and nominal active concentration; EDTA/NaOH addition
+P2,Q_T2_C1,Q_T2_C2,same quaternary identity and nominal active concentration; EDTA/NaOH addition
+P3,Q_T2_C3,Q_T2_C4,same quaternary identity and nominal active concentration; EDTA/NaOH addition
+P4,Q_T2_C5,Q_T2_C6,same quaternary identity and nominal active concentration; EDTA/NaOH addition

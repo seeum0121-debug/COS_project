@@ -1,0 +1,12 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 311,
+        "MolecularFormula": "C6H8O7",
+        "SMILES": "C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+        "InChIKey": "KRKNYBCHXYNGOX-UHFFFAOYSA-N"
+      }
+    ]
+  }
+}

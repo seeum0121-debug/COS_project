@@ -1,0 +1,35 @@
+{
+  "created_before_predictions_utc": "2026-11-09T02:29:24.465863+00:00",
+  "model_sha256": "d71394e691ac5072e4ce900a53b47ddbb65c8685961fe2c9536411acfbbc58a2",
+  "threshold": 0.4814867474694138,
+  "refit": false,
+  "threshold_tuning": false,
+  "new_EPA_labels_assigned": false,
+  "candidates_screened": 29,
+  "quat_cases_predicted": 15,
+  "quat_cases_held": 6,
+  "shampoo_cases_held": 7,
+  "additional_SDS_case": 1,
+  "primary_input": "As-added explicit nonwater molecular ingredients; patent homolog weight ratios; normalized using frozen predictor. Water excluded: none in 673-row training linkage. Stock solvents and unreported compounds not invented.",
+  "primary_diagnostic": "Spearman association with day-7 original Draize composite; descriptive, not EPA accuracy. All 15 cases and deduplicated/nontraining-feature cases reported.",
+  "secondary_diagnostics": [
+    "Trapezoid area days 1-7 / 6; no imputation required",
+    "Four prespecified equal-quat-concentration pairs: direction of day-7 change",
+    "Seven cases with known stock strength: add only explicitly computed added water as out-of-training-representation sensitivity"
+  ],
+  "duplicate_policy": "Hash rounded feature vectors; report mean observed endpoint per unique vector and remove matches to final-fit training inputs in separate analysis.",
+  "source_independence": "Check metadata, chemistry and exact feature matches; missing original-study identifiers prevents proof of study independence.",
+  "metrics_forbidden": [
+    "EPA accuracy or AUC from patent composite scores",
+    "pooled accuracy over patents and SDS",
+    "independent-sample p-values for related formulations"
+  ],
+  "source_limits": [
+    "Patents are not independent peer-reviewed replications",
+    "Table 1 control day1 text/table conflict retained",
+    "No raw animal/tissue scores",
+    "pH/neutralization absent in model",
+    "Inorganic/EDTA ingredients may be outside training chemical space"
+  ],
+  "source_download_note": "Direct local download failed with WinError 10013; web-tool extracted text saved with URLs. These are not original PDF files."
+}

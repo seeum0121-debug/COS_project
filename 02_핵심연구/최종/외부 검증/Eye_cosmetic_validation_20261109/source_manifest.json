@@ -1,0 +1,55 @@
+{
+  "repo": "https://github.com/tjdbf061106-sketch/COS",
+  "commit": "a693ae5fb43197cac4dc530a5371f1682ede2c3c",
+  "retrieval": "local Git object database (live network inaccessible)",
+  "latest_main_verified": false,
+  "created_at": "2026-11-09T01:35:32.585713+00:00",
+  "files": [
+    {
+      "path": "cosmetic_validation/Lechuga2025_surfactant_zein_dataset.xlsx",
+      "git_blob": "7995093e27c1c6954ed5c776c816e8699207401d",
+      "available": true,
+      "bytes": 31937,
+      "sha256": "11c837c415c02521d9e607ac27437799fa40728147a4728b43a43acec7ce64e6",
+      "retrieved_from": "C:\\Users\\DS\\COS\\최종\\검증\\skin_team_audit_20261108\\source"
+    },
+    {
+      "path": "cosmetic_validation/cir_ingredients.csv",
+      "git_blob": "57968f2f7b55f3870d5a783db0359c220b3036d9",
+      "available": true,
+      "bytes": 14004,
+      "sha256": "ec28b1aea5c0cbf6030b43e6da1059fe8b47a5ce0c88415e8765942dfbc18612"
+    },
+    {
+      "path": "cosmetic_validation/eye_irritation_validation.ipynb",
+      "git_blob": "52a1a5ec910bc6cec83c2dbb4fed52b9299e53a6",
+      "available": true,
+      "bytes": 74862,
+      "sha256": "7d9b51df71d07b884d47ccdf8162d238e1c64c317d5e548911c2d621f090da2a",
+      "retrieved_from": "C:\\Users\\DS\\COS\\최종\\검증\\skin_team_audit_20261108\\source"
+    },
+    {
+      "path": "cosmetic_validation/flea_tick_shampoo.csv",
+      "git_blob": "e8c4678b67462a7673cc9ac5bfe7184d08501118",
+      "available": true,
+      "bytes": 11328,
+      "sha256": "ec7007153842f85cc0188a81f457ec7614ec614b823b8af4f8cf7c261a09393e",
+      "retrieved_from": "C:\\Users\\DS\\COS\\최종\\검증\\skin_team_audit_20261108\\source"
+    },
+    {
+      "path": "cosmetic_validation/lechuga2025_surfactant_mixture_zein.csv",
+      "git_blob": "9f95d801e33ecbf1b47d0f8293117cb527964021",
+      "available": true,
+      "bytes": 35950,
+      "sha256": "934be014b5e364bf4e5470b8824a12b3788405235bd6ebd2698ea8ad252a0a44"
+    },
+    {
+      "path": "cosmetic_validation/skin_irritation_validation.ipynb",
+      "git_blob": "ce74e36bb138a1fc98058f54bdf7953bf9a45d8b",
+      "available": true,
+      "bytes": 82249,
+      "sha256": "967d7741e83c088acd9a41aa0bf966900a32b62f933328b984c63020f6e51b91",
+      "retrieved_from": "C:\\Users\\DS\\COS\\최종\\검증\\skin_team_audit_20261108\\source"
+    }
+  ]
+}

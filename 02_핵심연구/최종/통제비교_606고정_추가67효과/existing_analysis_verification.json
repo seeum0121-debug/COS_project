@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "old_oof_sha256": "cb271b12258b657534b5ebfbb7a887cfbd361c2b8baa3a98438e53391f440702",
+  "new_oof_sha256": "cfa6161ffd67e705e6d077502038246d320313d23e545bc3544e42b17bfdab45",
+  "metric_rows": 144,
+  "interpretation": {
+    "changed_protocol_on_same606": "Same evaluation identities, but changed splits/training sizes/tuning. Descriptive combined effect, not an isolated causal factor.",
+    "evaluation_population_same_predictions": "Same new fitted outer-model predictions. Changes only reported population from original606 to all673; nonlinear metrics are not additive per-record averages.",
+    "fixed05": "Prespecified diagnostic cutoff, not tuned against these held-out outcomes and not a deployment recommendation.",
+    "limitations": "Repeated seeds are correlated; no independent external performance or confidence interval."
+  }
+}

@@ -1,0 +1,349 @@
+1498407982884498013-06583181 (https://patentimages.storage.googleapis.com/b7/00/04/820177bb8a5e58/US6583181.pdf)
+citeturn31view0 [wordlim: 200] Crawled: 1.2 years ago; Content type: application/pdf; Number of pages: 7; Source: open({"ref_id":"turn28view1","lineno":440}); Total lines: 685
+L386@P3: the biologically active agent effective for its intended use.
+L387@P3: For example, an ophthalmic Solution containing antiglau
+L388@P3: coma agent can contain an antiglaucoma effective amount of
+L389@P3: the agent.
+L390@P3: The ophthalmic Solution may include other additives as
+L391@P3: known in the art.
+L392@P3: The ophthalmic Solution is generally Substantially free of
+L393@P3: imidazoline compounds. Preferably, the ophthalmic Solution
+L394@P3: contains less than 0.1% and, more preferably, less than
+L395@P3: 0.01% by weight of imidazoline compounds, based upon
+L396@P3: 100% total weight of ophthalmic solution.
+L397@P3: The ophthalmic Solution is generally administered ocu
+L398@P3: larly in the form of droplets or as an eye wash. For instance,
+L399@P3: an ophthalmic Solution of the present invention containing
+L400@P3: an antiglaucoma agent may be ocularly administered to an
+L401@P3: animal, Such as a human, in need thereof to treat glaucoma.
+L402@P3: The ophthalmic Solution may be prepared by any method
+L403@P3: known in the art. For example, the Solution may be prepared by mixing the quaternary ammonium compound and/or
+L404@P3: amine, electrolyte, biologically active agent, Solvent, and
+L405@P3: other additives.
+L406@P3: The following examples are illustrative of the present
+L407@P3: invention, however, it will be understood that the invention
+L408@P3: is not limited to the Specific details Set forth in the examples.
+L409@P3: All percentages are by weight unless otherwise indicated.
+L410@P3: EXAMPLE 1.
+L411@P3: The formulation in Table 1 below was prepared by mixing the appropriate ingredients. The ocular irritation of each
+L412@P3: formulation was determined by the Draize rabbit eye test,
+L413@P3: which is an acute eye irritation evaluation method currently accepted by the U.S. Environmental Protection Agency
+L414@P3: (EPA). The Draize rabbit eye test is described in Principles and Procedures for Evaluating the Toxicity of Household
+L415@P3: Products, National Academy of Science Publication 1138
+L416@P3: (1977), which is hereby incorporated by reference. Briefly,
+L417@P3: in the Draize rabbit eye test, three or six rabbits are used. A
+L418@P3: test formulation is administered to one eye of each rabbit.
+L419@P3: The other eye is used as a control. The eyes are compared at
+L420@P3: various timepoints for cornea opacity, damage to the iris, and
+L421@P3: damage to the conjunctiva. Higher draize Scores indicate
+L422@P3: increased ocular irritation. A draize Score of Zero indicates
+L423@P3: no ocular irritation. The results are shown in Table 1.
+L424@P3: COMPARATIVE EXAMPLE 2
+L425@P3: The formulation described in Table 1 was prepared and
+L426@P3: tested as described in Example 1. The results are shown in
+L427@P3: Table 1.
+L428@P3: TABLE 1.
+L429@P3: Comparative
+L430@P3: Example 1 Example 2
+L431@P3: Ingredients NaOH (pellet) O.33
+L432@P3: (% by weight) EDTA (acid) O.90
+L433@P3: FMB (R) 1210-8 1.50 1.50
+L434@P3-4: Deionized Water C.S. C.S. US 6,583,181 B1
+L435@P4: 7
+L436@P4: TABLE 1-continued
+L437@P4: Comparative
+L438@P4: Example 1 Example 2
+L439@P4: Characteristics pH 7.1 6.9
+L440@P4: % of Active 1.2 1.2
+L441@P4: Quaternary
+L442@P4: Ammonium
+L443@P4: Compound
+L444@P4: Draize score Day 1 26.3 41.7
+L445@P4: Day 2 23.2 36.5
+L446@P4: Day 3 2O.O 31.8
+L447@P4: Day 4 15.O 32.O
+L448@P4: Day 7 7.7 3O.O
+L449@P4: Day 10 3.7
+L450@P4: Day 14 O.O 19.7
+L451@P4: Day 21 19.0
+L452@P4: "FMB (R) 1210-8 is a mixture of 60% by weight of Bardac (R) 2280 (an
+L453@P4: 80% solution of didecyldimethyl ammonium chloride) and 40% by weight
+L454@P4: of Barquat (R) MB-80 (an 80% solution of alkyl (C 50%; C, 40%, C.
+L455@P4: 10%) dimethyl benzyl ammonium chloride) and is available from Lonza,
+L456@P4: Inc. of Fairlawn, N.J.
+L457@P4: Comparative Example 2, which did not contain EDTA,
+L458@P4: had an initial Draize score of 47.1 and a Draize score of 19.0
+L459@P4: after 21 days. In contrast, Example 1, which contained
+L460@P4: EDTA, had an initial Draize scoe of 26.3 and a Draize score
+L461@P4: of 0.0 after 14 days.
+L462@P4: EXAMPLE 3
+L463@P4: The formulations described in Table 2 below containing
+L464@P4: didecyl dimethyl ammonium chlorides (available as Bar
+L465@P4: dac(R) 22 from Lonza, Inc.), alkyl (C 50%, C, 40%, C
+L466@P4: 10%) dimethyl benzyl ammonium chloride (available as
+L467@P4: Barquat(R) MB from Lonza, Inc.), or alkyl (C 60%, C
+L468@P4: 30%, C, 5%, Cs, 5%) dimethyl benzyl ammonium chlo
+L469@P4: rides (available as Barquate) MX from Lonza, Inc.) were
+L470@P4: prepared and tested by the Draize rabbit eye test described
+L471@P4: in Example 1. The results are shown in Table 2.
+L472@P4: 15
+L473@P4: 25
+L474@P4: 35
+L475@P4: TABLE 2
+L476@P4: Barquat (R) Barquat (R)
+L477@P4: Bardac (E) 22 MB MB
+L478@P4: Experiment 1. 2 1. 2 1. 2
+L479@P4: Ingredients NaOH 0.4 - 0.4 - 0.48
+L480@P4: (% by weight) (pellet)
+L481@P4: EDTA 1.0 - 1.O - 1.2
+L482@P4: (acid)
+L483@P4: Quaternary 1.O 1.O 1.O 1.O 128 1.28
+L484@P4: Ammonium
+L485@P4: Compound
+L486@P4: (active)
+L487@P4: Deionized C.S. C.S. C.S. C.S. C.S. C.S.
+L488@P4: Water
+L489@P4: pH 7.1 7.5 7.5 7.4 7.O 6.9
+L490@P4: Draize score Day 1 29.2 15.5 18.3 12.8 18.O 8.7
+L491@P4: Day 2 24.5 11.2 17.8 7.7 12.7 3.7
+L492@P4: Day 3 23.8 7.2 14.3 6.3 9.2 4.2
+L493@P4: Day 4 22.5 8.5 10.8 7.0 7.0 3.0
+L494@P4: Day 7 17.7 1.7 6.3 2.0 3.O O.3
+L495@P4: Day 10 17.3 1.7 5.7 O.O 2O O.O
+L496@P4: Day 14 16.0 1.O O.3 1.7 -
+L497@P4: Day 18 9.7 O.O. O.O 1.3 -
+L498@P4: Day 21 4.3 1.0 -
+L499@P4: 8
+L500@P4: EXAMPLE 4
+L501@P4: The formulations containing alkyl (C 50%; C, 40%,
+L502@P4: C 10%) dimethyl benzyl ammonium chloride, which is
+L503@P4: available as Barquate MB-80 from Lonza, Inc., shown in
+L504@P4: Table 3 below were prepared and tested by the Draize rabbit
+L505@P4: eye test described in Example 1. The results are shown in
+L506@P4: Table 3.
+L507@P4: TABLE 3
+L508@P4: Experiment 1. 2 3 4 5
+L509@P4: Ingredients, Barquat (R) 2.O 1.9 1.9 1.9 1.9
+L510@P4: weight % MB-8O
+L511@P4: (active)
+L512@P4: EDTA (acid) 6.0 8.0 - - NaOH 2.4 3.2 - 3.2
+L513@P4: (pellets)
+L514@P4: NaCl, 6.0 - granular
+L515@P4: Glycolic 6.O
+L516@P4: acid, powder
+L517@P4: Distilled C.S. C.S C.S. C.S. C.S. water
+L518@P4: pH 7.0 7.0 7.2 7.0 7.0
+L519@P4: Draize score Day 33.5 16.2 15.O 27.4 18.0
+L520@P4: Day 2 29.3 10.7 13.2 12.7 17.7
+L521@P4: Day 3 29.7 7.8 8.3 7.8 11.8
+L522@P4: Day 4 24.5 4.5 7.8 6.5 15.O
+L523@P4: Day 7 21.0 1.O 3.7 15.3 8.3
+L524@P4: Day 10 14.3 3.3 3.7 O.O O.O
+L525@P4: Day 14 12.7 O.O 3.3 - Day 18 7.6 - 3.7 - -
+L526@P4: Day 21 4.7 0.0 -
+L527@P4: EXAMPLE 5
+L528@P4: The formulations containing alkyl dimethyl benzyl
+L529@P4: ammonium chlorides (available as Barquat(R) MB-80 and
+L530@P4: MX-50 from Lonza, Inc.) and a mixture of alkyl dimethyl benzyl ammonium chlorides and dialkyl dimethyl ammo
+L531@P4: nium chloride (available as Bardac(R) 205M from Lonza, Inc.) described in Table 4 below were prepared and tested by
+L532@P4: Barquat (R) MX
+L533@P4: 1. 2
+L534@P4: O8 1.6
+L535@P4: 2O 4.O
+L536@P4: 2.O 2.1
+L537@P4: C.S. C.S.
+L538@P4: 7.O 7.O
+L539@P4: 25.5 16.5
+L540@P4: 2OS 9.2
+L541@P4: 24.5 6.8
+L542@P4: 20.3 10.8
+L543@P4: 123 S.O
+L544@P4: 11.7 1.7
+L545@P4: 4.7 1.O
+L546@P4: O3 O.O
+L547@P4-5: O.O O.O US 6,583,181 B1
+L548@P5: the Draize rabbit eye test described in Example 1. The
+L549@P5: results are shown in Table 4.
+L550@P5: TABLE 4
+L551@P5: Bar
+L552@P5: Barquat (R) dac(R)
+L553@P5: MB-8O Barquat (R) MX-50 205M'
+L554@P5: Ingredients, Quaternary 1.92 1.92 1.92 1.92 1.92 160
+L555@P5: weight % Ammonium
+L556@P5: Compound 1O
+L557@P5: (active)
+L558@P5: EDTA (acid) 6.00 - 4.00 4.00 - 6.OO NaOH 2.40 - 1.62 1.62 - 2.40
+L559@P5: (pellets)
+L560@P5: NaCl, 6.00 - 4.00
+L561@P5: granular 15
+L562@P5: Distilled C.S. C.S. C.S. C.S. C.S. C.S. water
+L563@P5: Charac- pH 7.0 6.65 7.1 7.0 7.3 7.0
+L564@P5: teristics Quaternary 2.06 1.94 2.OO 2.0 2.O 1.71
+L565@P5: Ammonium
+L566@P5: Conc., 26 2O
+L567@P5: Actives
+L568@P5: Draize score Day 1 16.3 17.0 18.7 25.0 12.O. 17.8
+L569@P5: Day 2 12.8 11.7 17.5 14.5 6.7 17.0
+L570@P5: Day 3 8.2 9.O 15.8 18.2 4.7 12.7
+L571@P5: Day 4 3.8 7.2 13.O 7.7 3.3 6.5
+L572@P5: Day 7 5.0 4.3 9.5 12.3 2.8 2.0 25
+L573@P5: Day 10 O.7 4.3 8.0 1.7 4.3 O.7
+L574@P5: Day 14 O.7 O.O O.O 1.O O.7 O.O
+L575@P5: Day 18 O.3 4.3 O.3
+L576@P5: Day 21 O.O O.O O.O
+L577@P5: "Bardac (R) 205M is a mixture of 60% by weight of Bardac (R) 2050 (a 50% 3O
+L578@P5: solution of (20% di-C alkyl, 30% di-Cio alkyl, 50% C alkyl Co alkyl) dimethyl ammonium chloride) and 40% by weight of Barquat (R) MB-50 (a
+L579@P5: 50% solution of alkyl (C 50%; C, 40%, C, 10%) dimethylbenzyl
+L580@P5: ammonium chloride)
+L581@P5: EXAMPLE 6 35
+L582@P5: A solution containing 2.4% by weight of Barquate)
+L583@P5: MB-80, 6.0% by weight of EDTA acid, 2.4% by weight of
+L584@P5: sodium hydroxide (NaOH) pellets, and a quantum sufficit of
+L585@P5: deionized water was prepared. The pH of the Solution was
+L586@P5: 6.8 and the concentration of active quaternary ammonium
+L587@P5: compound in the solution was 2.0%. The solution was
+L588@P5: diluted to 1/128th of its original concentration, with water
+L589@P5: having a hardness of 500 ppm.
+L590@P5: 40
+L591@P5: The effectiveness of the use dilution as a sanitizer was as
+L592@P5: determined according to the Germicidal and Detergent Sani
+--------------------------------------------------------------------------------
+US6583181B1 - Antimicrobial quaternary ammonium compositions with reduced ocular irritation - Google Patents (https://patents.google.com/patent/US6583181B1/en)
+citeturn31view1 [wordlim: 200] Crawled: 4 weeks ago; Content type: text/html; Source: open({"ref_id":"https://patents.google.com/patent/US6583181B1/en","lineno":589}); Total lines: 880
+L549: pH  |  | 7.1  | 7.5  | 7.5  | 7.4  | 7.0  | 6.9  | 7.0  | 7.0
+L550: Draize score  | Day 1  | 29.2  | 15.5  | 18.3  | 12.8  | 18.0  | 8.7  | 25.5  | 16.5
+L551:  | Day 2  | 24.5  | 11.2  | 17.8  | 7.7  | 12.7  | 3.7  | 20.5  | 9.2
+L552:  | Day 3  | 23.8  | 7.2  | 14.3  | 6.3  | 9.2  | 4.2  | 24.5  | 6.8
+L553:  | Day 4  | 22.5  | 8.5  | 10.8  | 7.0  | 7.0  | 3.0  | 20.3  | 10.8
+L554:  | Day 7  | 17.7  | 1.7  | 6.3  | 2.0  | 3.0  | 0.3  | 12.3  | 5.0
+L555:  | Day 10  | 17.3  | 1.7  | 5.7  | 0.0  | 2.0  | 0.0  | 11.7  | 1.7
+L556:  | Day 14  | 16.0  | 1.0  | 0.3  | —  | 1.7  | —  | 4.7  | 1.0
+L557:  | Day 18  | 9.7  | 0.0  | 0.0  | —  | 1.3  | —  | 0.3  | 0.0
+L558:  | Day 21  | 4.3  | —  | —  | —  | 1.0  | —  | 0.0  | 0.0
+L559: EXAMPLE 4
+L560: 
+L561: The formulations containing alkyl (C_{14 }50%; C_{12 }40%, C_{16 }10%) dimethyl benzyl ammonium chloride, which is available as Barquat® MB-80 from Lonza, Inc., shown in Table 3 below were prepared and tested by the Draize rabbit eye test described in Example 1. The results are shown in Table 3.
+L562: TABLE 3
+L563: Experiment  | 1  | 2  | 3  | 4  | 5
+L564: Ingredients,  | Barquat ®  | 2.0  | 1.9  | 1.9  | 1.9  | 1.9
+L565: weight %  | MB-80
+L566:  | (active)
+L567:  | EDTA (acid)  | —  | 6.0  | 8.0  | —  | —
+L568:  | NaOH  | —  | 2.4  | 3.2  | —  | 3.2
+L569:  | (pellets)
+L570:  | NaCl,  | —  | —  | —  | 6.0  | —
+L571:  | granular
+L572:  | Glycolic  | —  | —  | —  | —  | 6.0
+L573:  | acid, powder
+L574:  | Distilled  | q.s.  | q.s  | q.s.  | q.s.  | q.s.
+L575:  | water
+L576: pH  | 7.0  | 7.0  | 7.2  | 7.0  | 7.0
+L577: Draize score  | Day 1  | 33.5  | 16.2  | 15.0  | 27.4  | 18.0
+L578:  | Day 2  | 29.3  | 10.7  | 13.2  | 12.7  | 17.7
+L579:  | Day 3  | 29.7  | 7.8  | 8.3  | 7.8  | 11.8
+L580:  | Day 4  | 24.5  | 4.5  | 7.8  | 6.5  | 15.0
+L581:  | Day 7  | 21.0  | 1.0  | 3.7  | 15.3  | 8.3
+L582:  | Day 10  | 14.3  | 3.3  | 3.7  | 0.0  | 0.0
+L583:  | Day 14  | 12.7  | 0.0  | 3.3  | —  | —
+L584:  | Day 18  | 7.6  | —  | 3.7  | —  | —
+L585:  | Day 21  | 4.7  | —  | 0.0  | —  | —
+L586: EXAMPLE 5
+L587: 
+L588: The formulations containing alkyl dimethyl benzyl ammonium chlorides (available as Barquat® MB-80 and MX-50 from Lonza, Inc.) and a mixture of alkyl dimethyl benzyl ammonium chlorides and dialkyl dimethyl ammonium chloride (available as Bardac® 205M from Lonza, Inc.) described in Table 4 below were prepared and tested by the Draize rabbit eye test described in Example 1. The results are shown in Table 4.
+L589:  | TABLE 4
+L590:  |
+L591:  |  |  | Bar-
+L592:  | Barquat ®  |  | dac ®
+L593:  | MB-80  | Barquat ® MX-50  | 205M^{1}
+L594:  |
+L595: Ingredients,  | Quaternary  | 1.92  | 1.92  | 1.92  | 1.92  | 1.92  | 1.60
+L596: weight %  | Ammonium
+L597:  | Compound
+L598:  | (active)
+L599:  | EDTA (acid)  | 6.00  | —  | 4.00  | 4.00  | —  | 6.00
+L600:  | NaOH  | 2.40  | —  | 1.62  | 1.62  | —  | 2.40
+L601:  | (pellets)
+L602:  | NaCl,  | —  | 6.00  | —  | —  | 4.00  | —
+L603:  | granular
+L604:  | Distilled  | q.s.  | q.s  | q.s.  | q.s.  | q.s.  | q.s.
+L605:  | water
+L606: Charac-  | pH  | 7.0  | 6.65  | 7.1  | 7.0  | 7.3  | 7.0
+L607: teristics  | Quaternary  | 2.06  | 1.94  | 2.00  | 2.0  | 2.0  | 1.71
+L608:  | Ammonium
+L609:  | Conc., %
+L610:  | Actives
+L611: Draize score  | Day 1  | 16.3  | 17.0  | 18.7  | 25.0  | 12.0  | 17.8
+L612:  | Day 2  | 12.8  | 11.7  | 17.5  | 14.5  | 6.7  | 17.0
+L613:  | Day 3  | 8.2  | 9.0  | 15.8  | 18.2  | 4.7  | 12.7
+L614:  | Day 4  | 3.8  | 7.2  | 13.0  | 7.7  | 3.3  | 6.5
+L615:  | Day 7  | 5.0  | 4.3  | 9.5  | 12.3  | 2.8  | 2.0
+L616:  | Day 10  | 0.7  | 4.3  | 8.0  | 1.7  | 4.3  | 0.7
+L617:  | Day 14  | 0.7  | 0.0  | 0.0  | 1.0  | 0.7  | 0.0
+L618:  | Day 18  | 0.3  | —  | —  | 4.3  | 0.3  | —
+L619:  | Day 21  | 0.0  | —  | —  | 0.0  | 0.0  | —
+L620: ^{1}Bardac ® 205M is a mixture of 60% by weight of Bardac ® 2050 (a 50% solution of (20% di-C_{8 }alkyl, 30% di-C_{10 }alkyl, 50% C_{8 }alkyl C_{10 }alkyl) dimethyl ammonium chloride) and 40% by weight of Barquat ® MB-50 (a 50% solution of alkyl (C_{14 }50%; C_{12 }40%, C_{16 }10%) dimethyl benzyl ammonium chloride)
+L621: EXAMPLE 6
+L622: 
+L623: A solution containing 2.4% by weight of Barquat® MB-80, 6.0% by weight of EDTA acid, 2.4% by weight of sodium hydroxide (NaOH) pellets, and a quantum sufficit of deionized water was prepared. The pH of the solution was 6.8 and the concentration of active quaternary ammonium compound in the solution was 2.0%. The solution was diluted to 1/128th of its original concentration, with water having a hardness of 500 ppm.
+L624: The effectiveness of the use dilution as a sanitizer was determined according to the Germicidal and Detergent Sanitizing Test (Food Contact Sanitizer Test) described in Official Methods of Analysis of the AOAC, 16^{th }Edition (1995) against Escherichia coli and Staphylococcus aureus. The results are shown in Table 5 below.
+L625: TABLE 5
+L626:  | Concentration of  |
+L627:  | Quaternary  |
+L628:  | Ammonium  | Contact time
+L629: Organism  | Compound (ppm)  | 30 seconds  | 60 seconds
+L630: E. coli  | 150  | 99.999%  | 99.999%
+L631: (ATCC 11229)
+L632: S. aureus  | 150  | 99.999%  | 99.999%
+L633: (ATCC 65)
+L634: 
+L635: EXAMPLE 7
+L636: The formulations described in Table 6 below containing alkyl (C_{14 }50%, C_{12 }40%, C_{16 }10%) dimethyl benzyl ammonium chloride (available as Barquat® MB from Lonza, Inc.) were prepared. The formulations were diluted to 1/128th of their original concentration with water having a hardness of 500 ppm.
+L637: The effectiveness of the use dilutions as sanitizers was determined according to the Germicidal and Detergent Sanitizing Test (Food Contact Sanitizer Test) described in Official Methods of Analysis of the AOAC, 16^{th }Edition (1995) against Escherichia coli. The contact time was 30 seconds. Formulation 1 eliminated 99.9937% of the E. coli, which is below the U.S. EPA's standards for indirect food contact surface sanitizers as described in U.S. EPA DIS/TSS-4. Formulation 2 eliminated 99.999% of the E.
+L638: coli and therefore exceeds the U.S. EPA's standards for indirect food contact surface sanitizers.
+L639:  | TABLE 6
+L640:  |
+L641:  |  |  | Formulation
+L642:  |  | Formulation 1  | 2
+L643:  |
+L644: Ingredients  | NaOH (pellet)  | —  | 1.6
+L645: (% by weight)  | EDTA (acid)  | —  | 4.0
+L646:  | Barquat ® MB (active)  | 2.0  | 2.0
+L647:  | Deionized Water  | q.s.  | q.s.
+L648: pH  |  | 7.0  | 7.1
+L649: 
+L650: All patents, applications, articles, publications, and test methods mentioned above are hereby incorporated by reference.
+L651: Many variations of the present invention will suggest themselves to those skilled in the art in light of the above detailed description. Such obvious variations are within the full intended scope of the appended claims.
+L652: ## Claims (8)
+L653: 
+L654: What is claimed is:
+L655: 
+L656: 1. A method of preventing ocular irritation due to a solution containing a quaternary ammonium compound comprising adding an effective amount of an electrolyte to the solution to prevent ocular irritation due to the quaternary ammonium compound.
+L657: 
+L658: 2. The method of claim 1, wherein the electrolyte is a sodium salt of ethylenediaminetetraacetic acid.
+L659: 3. The method of claim 1, wherein the weight ratio of quaternary ammonium compound to electrolyte ranges from about 10:1 to about 1:10.
+L660: 
+L661: 4. An aqueous composition consisting of:
+L662: 
+L663: a) from about 0.5 to about 4.0% by weight of a quaternary ammonium chloride; and
+L664: b) from about 4.0 to about 15.0% by weight of at least one electrolyte selected from sodium salts of ethylenediaminetetraacetic acid, sodium glycolate, sodium chloride, and mixtures thereof, based upon 100% total weight of composition, wherein the composition is free of imidazoline compounds.
+L665: 
+L666: 5. The aqueous composition of claim 4, wherein the quaternary ammonium compound has the formula
+L667: 
+L668: wherein
+L669: 
+L670: R^{1 }is a linear or branched C_{1}-C_{4 }alkyl or linear or branched C_{1}-C_{4 }alkoxy;
+L671: R^{2 }is a linear or branched C_{1}-C_{18 }alkyl or linear or branched C_{1}-C_{18 }alkoxy;
+L672: 
+L673: R^{3 }is a linear or branched C_{6}-C_{18 }alkyl or is —R^{5}—O—R^{6}—O(C_{6}H_{5})R^{7};
+L674: 
+L675: R^{4 }is a linear or branched C_{6}-C_{18 }alkyl, benzyl, or (C_{2}-C_{18 }alkyl) benzyl;
+L676: 
+L677: R^{5 }and R^{6 }are independently linear or branched C_{1}-C_{8 }alkyl;
+L678: 
+L679: R^{7 }is linear or branched C_{1}-C_{12 }alkyl; and
+L680: 
+L681: X is an anion.
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn31view2 [wordlim: 200] Source: open({"ref_id":"https://patentimages.storage.googleapis.com/e5/50/ae/dcb0fb1694744d/US4992266.pdf","lineno":null}); 
+URL https://patentimages.storage.googleapis.com/e5/50/ae/dcb0fb1694744d/US4992266.pdf is not accessible via this tool.

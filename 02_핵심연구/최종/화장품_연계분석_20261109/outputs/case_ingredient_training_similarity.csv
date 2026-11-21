@@ -1,0 +1,9 @@
+﻿cas,smiles,exact_cas_in_training,exact_structure_in_training,nearest_training_tanimoto,nearest_training_cas,nearest_training_smiles,interpretation
+123-86-4,CCCCOC(=O)C,False,False,0.4,9003-13-8,CCCCOCCCO,Descriptive fingerprint similarity only; no validated applicability-domain cutoff
+141-78-6,CCOC(=O)C,False,False,0.4117647058823529,79-21-0,CC(=O)OO,Descriptive fingerprint similarity only; no validated applicability-domain cutoff
+144-55-8,C(=O)(O)[O-].[Na+],False,False,0.5,1184-64-1,O=C([O-])[O-].[Cu+2],Descriptive fingerprint similarity only; no validated applicability-domain cutoff
+64-17-5,CCO,True,True,1.0,64-17-5,CCO,Descriptive fingerprint similarity only; no validated applicability-domain cutoff
+67-63-0,CC(C)O,True,True,1.0,67-63-0,CC(C)O,Descriptive fingerprint similarity only; no validated applicability-domain cutoff
+77-92-9,C(C(=O)O)C(CC(=O)O)(C(=O)O)O,True,True,1.0,77-92-9,O=C(O)CC(O)(CC(=O)O)C(=O)O,Descriptive fingerprint similarity only; no validated applicability-domain cutoff
+7732-18-5,O,False,False,0.07142857142857142,1897-45-6,N#Cc1c(Cl)c(Cl)c(Cl)c(C#N)c1Cl,Descriptive fingerprint similarity only; no validated applicability-domain cutoff
+7757-82-6,[O-]S(=O)(=O)[O-].[Na+].[Na+],False,False,0.2608695652173913,151-21-3,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],Descriptive fingerprint similarity only; no validated applicability-domain cutoff

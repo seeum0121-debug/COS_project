@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-09",
+  "prior_run": "C:\\Users\\DS\\COS\\최종\\외부 검증\\Eye_cosmetic_validation_20261109",
+  "guidance_url": "https://www.epa.gov/sites/production/files/documents/label-review-manual.pdf",
+  "binary_label_proxy_changes": 0,
+  "exact_category_uncertainty_corrected": [
+    "2724-485",
+    "2724-485-270"
+  ],
+  "new_predictions_run": false,
+  "new_EPA_labels_assigned": false,
+  "strict_validated_external_cases": 0,
+  "new_candidate_sources": 3,
+  "duplicate_family_sources": 3,
+  "extracted_measured_shampoo_rows": 7,
+  "additional_data_training_overlap_checked": false,
+  "pdf_files_downloaded": false,
+  "priority": "This addendum supersedes category certainty and performance interpretation in the prior report; preserves its arithmetic."
+}

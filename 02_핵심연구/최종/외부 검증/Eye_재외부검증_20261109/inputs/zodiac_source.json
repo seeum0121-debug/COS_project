@@ -1,0 +1,38 @@
+{
+  "formulation_id": "Zodiac_2724_792",
+  "product": "Zodiac Flea & Tick Shampoo for Dogs & Cats",
+  "epa_reg": "2724-792",
+  "label_proxy": 0,
+  "label_proxy_category": "III or IV inferred from FIFRA eye-specific statement; not a study-confirmed class",
+  "sds_date": "2016-04-07",
+  "sds_url": "https://www.domyown.com/msds/Zodiac_Flea_and_Tick_Shampoo_for_Dogs_and_Cats_SDS_2020.pdf",
+  "label_url": "https://www3.epa.gov/pesticides/chem_search/ppls/002724-00792-20150129.pdf",
+  "resolved": [
+    {
+      "component_id": "PBO",
+      "low": 0.5,
+      "high": 0.5
+    },
+    {
+      "component_id": "ethanol",
+      "low": 1.69,
+      "high": 1.95
+    }
+  ],
+  "unresolved": [
+    {
+      "name": "pyrethrins",
+      "pct": 0.05
+    },
+    {
+      "name": "coconut fatty acid monoethanolamide",
+      "low": 1.08,
+      "high": 1.2
+    },
+    {
+      "name": "other ingredients",
+      "pct": "balance"
+    }
+  ],
+  "strict_validation_eligible": false
+}

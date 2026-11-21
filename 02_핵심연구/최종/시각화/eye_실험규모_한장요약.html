@@ -1,0 +1,327 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Eye 실험 규모 한눈에</title>
+<style>
+:root{
+  color-scheme: light;
+  --surface-0:#f4f3f0;
+  --surface-1:#fcfcfb;
+  --surface-2:#eceae5;
+  --border:#dedbd4;
+  --border-strong:#c3c0b7;
+  --text-primary:#0b0b0b;
+  --text-secondary:#52514e;
+  --text-muted:#7a7872;
+  --s1:#2a78d6;
+  --s2:#eb6834;
+  --s3:#1baf7a;
+  --s4:#eda100;
+  --s7:#6250d6;
+  --seq-100:#cde2fb; --seq-200:#9ec5f4; --seq-300:#6da7ec;
+  --seq-450:#2a78d6; --seq-550:#1c5cab; --seq-650:#104281;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    color-scheme: dark;
+    --surface-0:#121211;
+    --surface-1:#1a1a19;
+    --surface-2:#232321;
+    --border:#33332f;
+    --border-strong:#4b4a45;
+    --text-primary:#f0efec;
+    --text-secondary:#c3c2b7;
+    --text-muted:#908e85;
+    --s1:#3987e5;
+    --s2:#d95926;
+    --s3:#199e70;
+    --s4:#c98500;
+    --s7:#9085e9;
+    --seq-100:#184f95; --seq-200:#1c5cab; --seq-300:#256abf;
+    --seq-450:#3987e5; --seq-550:#5598e7; --seq-650:#86b6ef;
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme: dark;
+  --surface-0:#121211; --surface-1:#1a1a19; --surface-2:#232321;
+  --border:#33332f; --border-strong:#4b4a45;
+  --text-primary:#f0efec; --text-secondary:#c3c2b7; --text-muted:#908e85;
+  --s1:#3987e5; --s2:#d95926; --s3:#199e70; --s4:#c98500; --s7:#9085e9;
+  --seq-100:#184f95; --seq-200:#1c5cab; --seq-300:#256abf;
+  --seq-450:#3987e5; --seq-550:#5598e7; --seq-650:#86b6ef;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{
+  background:var(--surface-0);
+  color:var(--text-primary);
+  font-family:"Pretendard","Malgun Gothic","Apple SD Gothic Neo",system-ui,-apple-system,"Segoe UI",sans-serif;
+  -webkit-font-smoothing:antialiased;
+  font-feature-settings:"tnum" 1;
+}
+.page{max-width:1180px;margin:0 auto;padding:34px 16px 56px}
+header.top{display:flex;flex-wrap:wrap;gap:16px;align-items:baseline;justify-content:space-between;
+  padding-bottom:16px;border-bottom:2px solid var(--border-strong);margin-bottom:26px}
+h1{font-size:clamp(24px,3.6vw,34px);line-height:1.2;margin:0;letter-spacing:-.02em}
+.meta{color:var(--text-muted);font-size:13px;white-space:nowrap}
+.theme-btn{appearance:none;border:1px solid var(--border-strong);background:var(--surface-1);
+  color:var(--text-secondary);border-radius:999px;padding:4px 11px;font-size:12px;cursor:pointer;
+  font-family:inherit;margin-left:14px}
+.theme-btn:hover{border-color:var(--text-muted);color:var(--text-primary)}
+
+h2{font-size:17px;letter-spacing:-.01em;margin:0 0 16px;color:var(--text-primary)}
+section{margin-bottom:26px}
+
+/* KPI */
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(168px,1fr));gap:10px}
+.kpi{background:var(--surface-1);border:1px solid var(--border);border-radius:12px;padding:16px 16px 14px}
+.kpi .v{font-size:clamp(28px,4.4vw,36px);font-weight:650;letter-spacing:-.025em;line-height:1.05}
+.kpi .v small{font-size:.46em;font-weight:500;color:var(--text-secondary);margin-left:3px;letter-spacing:0}
+.kpi .k{font-size:13px;color:var(--text-secondary);margin-top:7px;line-height:1.4}
+.kpi.lead{background:var(--surface-2);border-color:var(--border-strong)}
+.kpi.lead .v{color:var(--s1)}
+
+/* generic card */
+.card{background:var(--surface-1);border:1px solid var(--border);border-radius:12px;padding:20px 20px 18px}
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+@media (max-width:900px){.cols{grid-template-columns:1fr}}
+
+/* bar chart */
+.bars{display:flex;flex-direction:column;gap:9px}
+.bar-row{display:grid;grid-template-columns:165px 1fr 70px;align-items:center;gap:12px;
+  padding:3px 4px;border-radius:7px;cursor:default}
+.bar-row:hover{background:var(--surface-2)}
+.bar-lab{font-size:13px;color:var(--text-secondary);text-align:right;line-height:1.3}
+.bar-track{height:16px}
+.bar-fill{height:16px;border-radius:0 4px 4px 0;background:var(--s1);min-width:3px}
+.bar-val{font-size:14px;color:var(--text-primary);font-weight:650;text-align:right}
+
+/* 탐색한 공간 */
+.space{display:flex;flex-direction:column;gap:14px}
+.sp{display:grid;grid-template-columns:140px 1fr 44px;align-items:center;gap:12px}
+.sp .n{font-size:13.5px;font-weight:650;line-height:1.35}
+.sp .n em{display:block;font-style:normal;font-size:11.5px;font-weight:400;color:var(--text-muted);margin-top:2px}
+.sp .dots{display:flex;flex-wrap:wrap;gap:4px}
+.sp .dots i{width:14px;height:14px;border-radius:3px;background:var(--s1);display:block}
+.sp .c{font-size:20px;font-weight:650;color:var(--s1);text-align:right}
+
+/* matrix */
+.matrix{width:100%;border-collapse:separate;border-spacing:0;font-size:12px}
+.matrix th{font-weight:500;color:var(--text-secondary);padding:0 0 10px;text-align:center;font-size:12.5px}
+.matrix th.rowh{text-align:left;width:200px;padding-right:12px}
+.matrix td{padding:2px 3px}
+.matrix td.rowh{text-align:left;color:var(--text-primary);font-size:12.5px;padding:3px 12px 3px 2px;
+  white-space:nowrap;line-height:1.35}
+.matrix tr:hover td.rowh{color:var(--s1)}
+.cell{height:21px;border-radius:4px;background:var(--surface-2);display:flex;align-items:center;
+  justify-content:center;font-size:11.5px;color:#fff;font-weight:650}
+.cell.off{background:var(--surface-2)}
+.legend{display:flex;align-items:center;gap:5px;font-size:12px;color:var(--text-muted);margin-top:16px}
+.swatch{width:20px;height:11px;border-radius:3px;display:inline-block}
+
+/* flow */
+.flow{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:10px}
+.step{background:var(--surface-1);border:1px solid var(--border);border-left:3px solid var(--s1);
+  border-radius:9px;padding:12px 14px}
+.step .n{font-size:11px;letter-spacing:.05em;color:var(--text-muted)}
+.step .t{font-size:14px;font-weight:650;margin:4px 0 5px;line-height:1.3}
+.step .b{font-size:12px;color:var(--text-secondary);line-height:1.45}
+.step.s2{border-left-color:var(--s2)}
+.step.s3{border-left-color:var(--s3)}
+.step.s4{border-left-color:var(--s4)}
+.step.s7{border-left-color:var(--s7)}
+
+footer{border-top:1px solid var(--border);padding-top:16px;margin-top:10px;
+  font-size:12.5px;color:var(--text-muted);line-height:1.7}
+details{margin-top:16px}
+summary{cursor:pointer;font-size:12.5px;color:var(--text-secondary);padding:4px 0}
+summary:hover{color:var(--text-primary)}
+table.tbl{width:100%;border-collapse:collapse;font-size:12.5px;margin-top:10px}
+table.tbl th,table.tbl td{border-bottom:1px solid var(--border);padding:7px 8px;text-align:right}
+table.tbl th:first-child,table.tbl td:first-child{text-align:left}
+table.tbl th{color:var(--text-secondary);font-weight:500}
+</style>
+</head>
+<body>
+<div class="page">
+
+<header class="top">
+  <h1>Eye 엔드포인트 — 실험 전체 규모</h1>
+  <div class="meta">집계일 2026-11-10<button class="theme-btn" id="tbtn" type="button">◐ 테마</button></div>
+</header>
+
+<section>
+  <div class="kpis">
+    <div class="kpi lead"><div class="v">23<small>개</small></div><div class="k">실험 트랙</div></div>
+    <div class="kpi lead"><div class="v">21,518<small>회</small></div><div class="k">하이퍼파라미터 후보 적합</div></div>
+    <div class="kpi lead"><div class="v">1,200<small>회</small></div><div class="k">nested CV outer 모델 학습</div></div>
+    <div class="kpi"><div class="v">714<small>건</small></div><div class="k">저장된 성능 레코드</div></div>
+    <div class="kpi"><div class="v">7<small>종</small></div><div class="k">모델 계열</div></div>
+    <div class="kpi"><div class="v">3,261<small>행</small></div><div class="k">외부 보조학습 자료</div></div>
+  </div>
+</section>
+
+<section class="cols">
+  <div class="card">
+    <h2>실행 규모 — 트랙별 후보 적합 횟수</h2>
+    <div class="bars" id="bars"></div>
+  </div>
+  <div class="card">
+    <h2>탐색한 공간 — 바꿔 본 축</h2>
+    <div class="space" id="space"></div>
+  </div>
+</section>
+
+<section>
+  <div class="card">
+    <h2>무엇을 바꿔 가며 돌렸나 — 실험 × 탐색축</h2>
+    <table class="matrix" id="matrix"></table>
+    <div class="legend">
+      좁게
+      <span class="swatch" style="background:var(--seq-100)"></span>
+      <span class="swatch" style="background:var(--seq-200)"></span>
+      <span class="swatch" style="background:var(--seq-300)"></span>
+      <span class="swatch" style="background:var(--seq-450)"></span>
+      <span class="swatch" style="background:var(--seq-550)"></span>
+      <span class="swatch" style="background:var(--seq-650)"></span>
+      넓게 탐색
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>실험이 이어진 순서</h2>
+  <div class="flow">
+    <div class="step"><div class="n">1부</div><div class="t">통합 집계</div>
+      <div class="b">EPA · EPA+GHS · GJC를 한 규약으로</div></div>
+    <div class="step s2"><div class="n">2부 · 00–06</div><div class="t">진단과 모델 보강</div>
+      <div class="b">673행 중 331행 중복 확인</div></div>
+    <div class="step s2"><div class="n">3부 · 07–10</div><div class="t">2차 탐색</div>
+      <div class="b">표현 · 보정 · 앙상블 모두 효과 없음</div></div>
+    <div class="step s3"><div class="n">4부 · 11</div><div class="t">입력을 고치다</div>
+      <div class="b">단일성분 농도 약분, 221행 → 18행</div></div>
+    <div class="step s4"><div class="n">5부</div><div class="t">production 검증</div>
+      <div class="b">outer 360회 전량 재실행</div></div>
+    <div class="step s7"><div class="n">6부</div><div class="t">외부 보조학습</div>
+      <div class="b">STopTox 3,261행으로 보조모델 학습</div></div>
+    <div class="step s7"><div class="n">7부</div><div class="t">종합</div>
+      <div class="b">독립 외부검증 적격 0행</div></div>
+    <div class="step s4"><div class="n">8부</div><div class="t">집계 방식 비교</div>
+      <div class="b">가중평균 vs 특징별 최댓값</div></div>
+    <div class="step"><div class="n">9부</div><div class="t">최종 모델 확정</div>
+      <div class="b">lr / wmean · MCC 0.294</div></div>
+    <div class="step s3"><div class="n">10부</div><div class="t">추가 67행 통제비교</div>
+      <div class="b">ΔMCC 부호 일관되지 않음</div></div>
+  </div>
+</section>
+
+<details>
+  <summary>집계 근거 표 보기</summary>
+  <table class="tbl" id="tbl"></table>
+</details>
+
+<footer>
+  eye 엔드포인트만 집계했습니다. skin 결과와 중단·대체된 실행은 제외했습니다.<br>
+  수행한 실험의 양과 범위를 보여주는 자료이며, 성능 우열이나 모델 채택 결론은 담고 있지 않습니다.
+</footer>
+
+</div>
+
+<script>
+const fits = [
+  {n:"5부 농도 production", c:7200, o:360},
+  {n:"8부 집계 방식 비교", c:3600, o:180},
+  {n:"EPA+GHS 라벨조합", c:2400, o:120},
+  {n:"EPA 단독 production", c:1838, o:90},
+  {n:"6부 STopTox 외부 보조", c:1800, o:90},
+  {n:"9부 최종 모델 확정", c:1800, o:90},
+  {n:"10부 추가 67행 통제비교", c:1800, o:90},
+  {n:"GJC 혼합물 3종", c:1080, o:180}
+];
+const maxC = Math.max(...fits.map(d=>d.c));
+document.getElementById('bars').innerHTML = fits.map(d=>`
+  <div class="bar-row" title="${d.n} · 후보 적합 ${d.c.toLocaleString()}회 · outer 학습 ${d.o}회">
+    <div class="bar-lab">${d.n}</div>
+    <div class="bar-track"><div class="bar-fill" style="width:${(d.c/maxC*100).toFixed(1)}%"></div></div>
+    <div class="bar-val">${d.c.toLocaleString()}</div>
+  </div>`).join('');
+
+const space = [
+  ["라벨 정의", 4, "A(≤2) · B(≤3) · GHS 2A · GHS 2B"],
+  ["모델 계열", 7, "LR · RF · ET · SVM · XGB · LGBM · CatBoost"],
+  ["분할 seed", 3, "42 · 202 · 777"],
+  ["표현 · 피처안", 12, "Morgan · MACCS · 기술자 · 농도 결합"],
+  ["후보 격자", 20, "모델당 하이퍼파라미터 후보"]
+];
+document.getElementById('space').innerHTML = space.map(([n,k,d])=>`
+  <div class="sp">
+    <div class="n">${n}<em>${d}</em></div>
+    <div class="dots">${'<i></i>'.repeat(k)}</div>
+    <div class="c">${k}</div>
+  </div>`).join('');
+
+const axes = ["라벨","모델 계열","분할 seed","후보 격자","표현 / 피처안"];
+const rows = [
+  ["EPA 단독 production",      [2,7,1,20,1]],
+  ["EPA+GHS 라벨조합",          [4,6,1,20,1]],
+  ["GJC MACCS / 화학특징",      [2,1,1,6,3]],
+  ["GJC 반복검증",              [2,2,3,6,2]],
+  ["00–01 진단 · 상한",         [2,0,0,0,0]],
+  ["02 앙상블",                 [2,0,1,0,12]],
+  ["03 그룹화 수정",            [2,6,3,6,2]],
+  ["04 순서형",                 [2,5,3,6,2]],
+  ["05 최악성분",               [2,4,3,6,2]],
+  ["06 특징 재조합",            [2,6,3,6,6]],
+  ["07 표현 결합",              [2,4,2,6,2]],
+  ["08 확률 보정",              [2,3,3,6,3]],
+  ["09 지문 계열 (중단)",        [2,1,1,6,5]],
+  ["10 교차 앙상블",            [2,0,3,6,12]],
+  ["11 농도 복원",              [2,5,2,6,4]],
+  ["5부 농도 production",       [2,6,3,20,2]],
+  ["6부 STopTox 외부 보조",     [2,3,3,20,2]],
+  ["8부 집계 방식 비교",         [2,3,3,20,2]],
+  ["9부 최종 모델 확정",         [1,3,3,20,2]],
+  ["10부 추가 67행 통제비교",    [1,3,3,20,2]]
+];
+const colMax = axes.map((_,j)=>Math.max(...rows.map(r=>r[1][j])));
+const steps = ["var(--seq-100)","var(--seq-200)","var(--seq-300)","var(--seq-450)","var(--seq-550)","var(--seq-650)"];
+function cell(v,j){
+  if(!v) return `<div class="cell off"></div>`;
+  const idx = Math.min(5, Math.max(0, Math.round(v/colMax[j]*5)));
+  return `<div class="cell" style="background:${steps[idx]};color:${idx>=3?'#fff':'var(--text-primary)'}">${v}</div>`;
+}
+document.getElementById('matrix').innerHTML =
+  `<thead><tr><th class="rowh"></th>${axes.map(a=>`<th>${a}</th>`).join('')}</tr></thead>` +
+  `<tbody>${rows.map(([n,v])=>
+    `<tr><td class="rowh">${n}</td>${v.map((x,j)=>`<td title="${n} — ${axes[j]}: ${x||'해당 없음'}">${cell(x,j)}</td>`).join('')}</tr>`
+  ).join('')}</tbody>`;
+
+const tblRows = [
+  ["EPA 단독 production (2 run)", 90, 1838, 24],
+  ["EPA+GHS 라벨조합", 120, 2400, 24],
+  ["GJC MACCS", 30, 180, 6],
+  ["GJC 화학특징", 30, 180, 6],
+  ["GJC 반복검증", 120, 720, 24],
+  ["번호실험 00–11 탐색", "—", "—", 432],
+  ["5부 농도 production 검증", 360, 7200, 72],
+  ["6부 STopTox 외부 보조학습", 90, 1800, 36],
+  ["8부 집계 방식 비교 (wmean vs max)", 180, 3600, 36],
+  ["9부 최종 모델 확정 (673행 전량)", 90, 1800, 30],
+  ["10부 추가 67행 통제비교 (606행 고정)", 90, 1800, 24]
+];
+const f = x => typeof x === 'number' ? x.toLocaleString() : x;
+document.getElementById('tbl').innerHTML =
+  `<thead><tr><th>실행</th><th>outer 학습</th><th>후보 적합</th><th>저장 레코드</th></tr></thead>` +
+  `<tbody>${tblRows.map(r=>`<tr><td>${r[0]}</td><td>${f(r[1])}</td><td>${f(r[2])}</td><td>${r[3]}</td></tr>`).join('')}
+  <tr style="font-weight:650"><td>합계</td><td>1,200</td><td>21,518</td><td>714</td></tr></tbody>`;
+
+document.getElementById('tbtn').addEventListener('click',()=>{
+  const cur=document.documentElement.getAttribute('data-theme');
+  const dark=cur?cur==='dark':matchMedia('(prefers-color-scheme: dark)').matches;
+  document.documentElement.setAttribute('data-theme',dark?'light':'dark');
+});
+</script>
+</body>
+</html>

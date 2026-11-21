@@ -1,0 +1,52 @@
+[
+  {
+    "url": "https://www.canada.ca/en/environment-climate-change/services/evaluating-existing-substances/statusprioritized-substances2.html",
+    "status": 200,
+    "sha256": "cbcaac1adde93554b6b74e5ef76df7bb631c4dfb7d48e2f2082121faa2bfebf8"
+  },
+  {
+    "url": "https://www.canada.ca/en/environment-climate-change/services/evaluating-existing-substances/statusprioritized-substances5.html",
+    "status": 200,
+    "sha256": "0ced8e1089319bcd4aebce8c848e928010f471be9265e59e5976d7c8494b2314"
+  },
+  {
+    "url": "https://www.canada.ca/en/environment-climate-change/services/evaluating-existing-substances/statusprioritized-substances1.html",
+    "status": 404,
+    "sha256": "84b77899078574d06cb1cf7c1bf2e3cf75bcc7fd563f2919a4fda73aac7a4b5a"
+  },
+  {
+    "url": "https://www.canada.ca/en/environment-climate-change/services/evaluating-existing-substances/statusprioritized-substances-3.html",
+    "status": 200,
+    "sha256": "bed20dc82bc70cb4dcec6b735ec681e1dba9ef4155b4445575c65eb60c0446dd"
+  },
+  {
+    "url": "https://www.canada.ca/en/environment-climate-change/services/evaluating-existing-substances/statusprioritized-substances6.html",
+    "status": 200,
+    "sha256": "5f290164d71ef50d48d1d6782c9a052c3bfabae4bf285db22e543e4f9804b7a3"
+  },
+  {
+    "url": "https://www.canada.ca/en/environment-climate-change/services/evaluating-existing-substances/statusprioritized-substances-1.html",
+    "status": 200,
+    "sha256": "9d441f88afad88c7598d54177eac02b68cf636a071c305c7f18a337a24100de8"
+  },
+  {
+    "url": "https://www.canada.ca/en/environment-climate-change/services/evaluating-existing-substances/statusprioritized-substances4.html",
+    "status": 200,
+    "sha256": "f21f99778c2d35978f258aee61e8bf0f26e730017694de9ed573ea21af083204"
+  },
+  {
+    "url": "https://www.canada.ca/en/environment-climate-change/services/evaluating-existing-substances/statusprioritized-substances3.html",
+    "status": 200,
+    "sha256": "ec3d149680a8053ee0c372b71f0512d2f8359f16bdf8a617f15cd67e335023bd"
+  },
+  {
+    "url": "https://www.canada.ca/en/environment-climate-change/services/evaluating-existing-substances/statusprioritized-substances7.html",
+    "status": 200,
+    "sha256": "c8d0d70893caacb716e622b1a0916380f73023023359a838376111c9a1aaf037"
+  },
+  {
+    "url": "https://www.canada.ca/en/environment-climate-change/services/evaluating-existing-substances/statusprioritized-substances-2.html",
+    "status": 200,
+    "sha256": "8e7db393e25864257007dee43072c5184bdacf989cfaef3f02bc26a6abb90070"
+  }
+]

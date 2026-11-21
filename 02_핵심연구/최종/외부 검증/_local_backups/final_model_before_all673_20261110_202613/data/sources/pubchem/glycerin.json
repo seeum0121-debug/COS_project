@@ -1,0 +1,15 @@
+{
+  "request_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/56-81-5/property/ConnectivitySMILES,InChIKey,MolecularFormula/JSON",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 753,
+          "MolecularFormula": "C3H8O3",
+          "ConnectivitySMILES": "C(C(CO)O)O",
+          "InChIKey": "PEDCQBHIVMGVHV-UHFFFAOYSA-N"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "correlation_is_prethreshold": true,
+  "score_spearman": -0.5698961337724598,
+  "threshold_scenarios": [
+    {
+      "threshold": 0.3,
+      "n_positive": 15,
+      "score_spearman": -0.5698961337724598
+    },
+    {
+      "threshold": 0.4814867474694138,
+      "n_positive": 11,
+      "score_spearman": -0.5698961337724598
+    },
+    {
+      "threshold": 0.5,
+      "n_positive": 10,
+      "score_spearman": -0.5698961337724598
+    },
+    {
+      "threshold": 0.6,
+      "n_positive": 8,
+      "score_spearman": -0.5698961337724598
+    },
+    {
+      "threshold": 0.7,
+      "n_positive": 2,
+      "score_spearman": -0.5698961337724598
+    }
+  ],
+  "positive_score_column_verified": true,
+  "positive_target": "EPA I/II",
+  "negative_target": "EPA III/IV",
+  "control_score": 0.4782035735399345,
+  "treated_score": 0.6343285307764598,
+  "control_day7": 30.0,
+  "treated_day7": 7.7,
+  "actual_logit_change": 0.638072698645416,
+  "exact_computational_contributions": [
+    {
+      "component": "EDTA",
+      "actual_wt_pct": 0.9,
+      "nominal_normalized_weight": 0.37037037037037035,
+      "logit_change_contribution": 0.5708847717451395,
+      "undefined_component_descriptors": 0
+    },
+    {
+      "component": "NaOH",
+      "actual_wt_pct": 0.33,
+      "nominal_normalized_weight": 0.13580246913580246,
+      "logit_change_contribution": 0.06718792690027622,
+      "undefined_component_descriptors": 8
+    }
+  ],
+  "interpretation": "Contributions explain this frozen computation, not chemical toxicity or causal biological mechanisms.",
+  "caveats": [
+    "EPA binary classification and day-7 composite severity are different targets.",
+    "Nominal as-added ingredients do not represent neutralized species or final pH.",
+    "Water omission and relative normalization remove absolute dilution information.",
+    "These external cases cannot establish an optimal EPA cutoff without reliable binary labels."
+  ],
+  "model_sha256": "d71394e691ac5072e4ce900a53b47ddbb65c8685961fe2c9536411acfbbc58a2",
+  "model_or_threshold_changed": false
+}

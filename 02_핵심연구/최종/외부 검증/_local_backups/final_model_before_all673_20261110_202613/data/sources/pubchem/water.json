@@ -1,0 +1,15 @@
+{
+  "request_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7732-18-5/property/ConnectivitySMILES,InChIKey,MolecularFormula/JSON",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 962,
+          "MolecularFormula": "H2O",
+          "ConnectivitySMILES": "O",
+          "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "path": "C:\\Users\\DS\\COS\\최종\\외부 검증\\검증데이터_목록_20261109\\검증용_데이터목록.csv",
+    "sha256": "0bed4aae6e8cff220cd0e0fa3621c59c376c439f6802d2e258506d9542b7ce82"
+  },
+  {
+    "path": "C:\\Users\\DS\\COS\\최종\\외부 검증\\검증데이터_목록_20261109\\출처목록.csv",
+    "sha256": "ad7863f413ef207b11ee1863c9c2419a43acca016d727c2a93e72a4082c2db9e"
+  },
+  {
+    "path": "C:\\Users\\DS\\COS\\최종\\외부 검증\\Eye_cosmetic_validation_20261109\\training_reference\\input_snapshot.csv",
+    "sha256": "f22f4e1e8d74268a78a6a8d059e1a8dbd20e62692d07d5fb87a384a190224150"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "request_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/50-21-5/property/ConnectivitySMILES,InChIKey,MolecularFormula/JSON",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 612,
+          "MolecularFormula": "C3H6O3",
+          "ConnectivitySMILES": "CC(C(=O)O)O",
+          "InChIKey": "JVTAAEKCZFNVCJ-UHFFFAOYSA-N"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,484 @@
+{
+  "created_utc": "2026-11-08T08:56:43.097493+00:00",
+  "source_folder": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict",
+  "destination_folder": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108",
+  "moves": [
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\analyze_cases.py",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\analyze_cases.py",
+      "package_path": "analyze_cases.py",
+      "sha256": "a2fbc408c80d4a83c7193815bb2a86570500ee840b7c3c26f2b848b669eea8d2",
+      "bytes": 3667,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\artifact_checksums.json",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\original_run_checksums.json",
+      "package_path": "original_run_checksums.json",
+      "sha256": "e67a6c55a65e21cdb99422dfcb2a76f09a3578b0df48b068e719984d38fd89fd",
+      "bytes": 245123,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\aux_features.npy",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\aux_features.npy",
+      "package_path": "aux_features.npy",
+      "sha256": "76def042ed14286f3f5c41d2c3cc1afe3e75e9e19d2a6d961bbedf5dbc1b5ee3",
+      "bytes": 21664,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\baby_concentration_case_comparisons.csv",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\baby_concentration_case_comparisons.csv",
+      "package_path": "baby_concentration_case_comparisons.csv",
+      "sha256": "d1df292f2624b060e736d3efb02bea125c7e75b35added963592347c554f4562",
+      "bytes": 3018,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\baby_supplier_case_comparisons.csv",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\baby_supplier_case_comparisons.csv",
+      "package_path": "baby_supplier_case_comparisons.csv",
+      "sha256": "754313bfe2fb20cfb70eeffda8c99116d379c7f67cf69fed1f99bc57609bfa45",
+      "bytes": 1537,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\baby_table2_observation_audit.csv",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\baby_table2_observation_audit.csv",
+      "package_path": "baby_table2_observation_audit.csv",
+      "sha256": "a9e7528c275fe595a9d7f840b492bfa8c67f3f76bd38375c5edb771c191ab3f1",
+      "bytes": 47909,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\baby_table3_observation_audit.csv",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\baby_table3_observation_audit.csv",
+      "package_path": "baby_table3_observation_audit.csv",
+      "sha256": "c9b779535ad9d7d3936c446e8a242f5298407bc244dfba7665d257465c62f2e8",
+      "bytes": 3412,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\build_report.py",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\build_report.py",
+      "package_path": "build_report.py",
+      "sha256": "a8562b766e0bdd4a437321beb7946001d1571c5b7ece7f8239f06136efd7cb63",
+      "bytes": 19931,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\common.py",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\common.py",
+      "package_path": "common.py",
+      "sha256": "f9e4854b903545ffc5c5ada4b2ea4043228e2259d0254f372e297a896c9fcf95",
+      "bytes": 1414,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\component_teacher_domain.csv",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\component_teacher_domain.csv",
+      "package_path": "component_teacher_domain.csv",
+      "sha256": "91d65c276d2568391c1625dd84a9788fb25e7dd572c226bee9e3d2ca1b5aaa17",
+      "bytes": 17640,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\control_reuse_audit.json",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\control_reuse_audit.json",
+      "package_path": "control_reuse_audit.json",
+      "sha256": "4efdc68e5baaf82a1554cb890f1234a7a0155e5d56dd1ed0c8e718c3b54e3c69",
+      "bytes": 22473,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\data_audit.json",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\data_audit.json",
+      "package_path": "data_audit.json",
+      "sha256": "8ba765904c4b6402239f13f4c3854dae4e1f8a0f655e817b7896d8f4119012dc",
+      "bytes": 2719,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\descriptive_case_summary.json",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\descriptive_case_summary.json",
+      "package_path": "descriptive_case_summary.json",
+      "sha256": "df6bcb650c3e51e2d3811cc70b1d550621c9878bb1ac526185c0e4814248be02",
+      "bytes": 854,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\environment.json",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\environment.json",
+      "package_path": "environment.json",
+      "sha256": "bc50376a6b42e379f20cdbd31b5b8be90420e4ebecf78e8eddc8ba39385ba67f",
+      "bytes": 447,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\external_validation_audit.json",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\external_validation_audit.json",
+      "package_path": "external_validation_audit.json",
+      "sha256": "f1210e1c47ccd3a22bb24f1c754eaabf8b5a5761e5f411608cb0ad2d04c398f8",
+      "bytes": 4381,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\eye_external_auxiliary_validation.ipynb",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\eye_external_auxiliary_validation.ipynb",
+      "package_path": "eye_external_auxiliary_validation.ipynb",
+      "sha256": "7876fef44fed8319fe249065b3ca1be50a4dccfcb2c16bc30389422526b11090",
+      "bytes": 210736,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\iivs_original_endpoint_cases.csv",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\iivs_original_endpoint_cases.csv",
+      "package_path": "iivs_original_endpoint_cases.csv",
+      "sha256": "6b046b983a2a7b82072a941df64c62c6dc85453d7f51aecb88d3797f46940a64",
+      "bytes": 9670,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\iivs_table2_observation_audit.csv",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\iivs_table2_observation_audit.csv",
+      "package_path": "iivs_table2_observation_audit.csv",
+      "sha256": "9ae1d207ecbcf10d27269680495c01424393dc43184fbdaf0395d0e59a879a2c",
+      "bytes": 9308,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\metrics_by_fold.csv",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\metrics_by_fold.csv",
+      "package_path": "metrics_by_fold.csv",
+      "sha256": "d80855bd90054f5563771a6dc8d149fcb15488e4ce7bbbf1000b9ac517c6d13c",
+      "bytes": 38964,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\metrics_by_seed.csv",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\metrics_by_seed.csv",
+      "package_path": "metrics_by_seed.csv",
+      "sha256": "fa7300962bc284c8c4835bc927d786d4234c8fc95f8914523f7d0deb53ce83d9",
+      "bytes": 7541,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\outer_oof_predictions.csv",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\outer_oof_predictions.csv",
+      "package_path": "outer_oof_predictions.csv",
+      "sha256": "e984d7199590e4740b012601b0c2677f81a046f50cb7fafb4df6e10987ba8058",
+      "bytes": 2077125,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\paired_delta_by_seed.csv",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\paired_delta_by_seed.csv",
+      "package_path": "paired_delta_by_seed.csv",
+      "sha256": "13ca26b9caa298cfa2aade48ef7a1a4913df1ed7cd3a3596e0002f44053340e7",
+      "bytes": 1298,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\paired_delta_mcc.pdf",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\paired_delta_mcc.pdf",
+      "package_path": "paired_delta_mcc.pdf",
+      "sha256": "47bf2dd5ebfc690a848d2acd5fcad3f9dfe5372059f7ba61c5c1c1346205f6c2",
+      "bytes": 27589,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\paired_delta_mcc.png",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\paired_delta_mcc.png",
+      "package_path": "paired_delta_mcc.png",
+      "sha256": "61baed1b1a7f0a9f2b825e025439311166c83507ca09ffd4b2f5994077992743",
+      "bytes": 69385,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\paired_summary.csv",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\paired_summary.csv",
+      "package_path": "paired_summary.csv",
+      "sha256": "6935c23dcc5ef8dfcadfc5b3988638dc253b12d30aad8019e4121118811af0db",
+      "bytes": 1178,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\plot_results.py",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\plot_results.py",
+      "package_path": "plot_results.py",
+      "sha256": "a845dad254d2098bad4bcd1f63ca7c3aa519a8edd2e9638d3509edb5b39d4d06",
+      "bytes": 1587,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\preparation_verification.json",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\preparation_verification.json",
+      "package_path": "preparation_verification.json",
+      "sha256": "56f77994b06c65ceec68502123442577a15c13d36585546835c04195ec04be68",
+      "bytes": 562,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\prepare.py",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\prepare.py",
+      "package_path": "prepare.py",
+      "sha256": "08d23f14cff6f75b3201b30933672ded5a347d5cd93757f28c989e4dbccf0362",
+      "bytes": 18202,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\prepared.json",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\prepared.json",
+      "package_path": "prepared.json",
+      "sha256": "17ee404034fd0b5f007b0ad447056ae4293a46dca025f970b156448135e91ece",
+      "bytes": 426,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\production_component_scores.csv",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\production_component_scores.csv",
+      "package_path": "production_component_scores.csv",
+      "sha256": "ef0d7ba9dd43da6d3d81711cffda8218cc1545ee557c30b94406e28c696f64ad",
+      "bytes": 355326,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\production_teacher_domain.csv",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\production_teacher_domain.csv",
+      "package_path": "production_teacher_domain.csv",
+      "sha256": "8913a1a5d07f2c4fbcb57a7a30d49f9f61db49ec1c41f14f73be6aa9b1b5a005",
+      "bytes": 60649,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\protected_hashes_before.json",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\protected_hashes_before.json",
+      "package_path": "protected_hashes_before.json",
+      "sha256": "453edc0fbc6ffeea93d6fc51684fcbb38c974ff271fbf21614b9dafeece65e4e",
+      "bytes": 1821496,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\protocol.json",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\protocol.json",
+      "package_path": "protocol.json",
+      "sha256": "425c25122a027f42831e4d18a1aaac47ba3a0873a435ea686c593e4fd1f67252",
+      "bytes": 3081,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\RESULTS.txt",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\RESULTS.txt",
+      "package_path": "RESULTS.txt",
+      "sha256": "4002c9641c3b9d6a5df279c9614412f182e95d8b815049e3f5516c27eeb0aed8",
+      "bytes": 10723,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\review_cosmetics.py",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\review_cosmetics.py",
+      "package_path": "review_cosmetics.py",
+      "sha256": "eb332e40275c2d8cdbc7ec027a9bdf016f8544ee4bda06518eb87d1c276540f6",
+      "bytes": 12900,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\run_config.json",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\run_config.json",
+      "package_path": "run_config.json",
+      "sha256": "832d619d0088ead1204276180c0ec7de94088a5e2720108dedd2cf9802be9965",
+      "bytes": 215114,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\RUN_INSTRUCTIONS.txt",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\RUN_INSTRUCTIONS.txt",
+      "package_path": "RUN_INSTRUCTIONS.txt",
+      "sha256": "0e38b209f265326cd5f45d876ba087fe13ccf2a06e991c387b743a7a9fe9be90",
+      "bytes": 2935,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\run_transfer.py",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\run_transfer.py",
+      "package_path": "run_transfer.py",
+      "sha256": "98e80ef2d6cdb15d6b5f89294c771a1a4ef4d466fb480f43aaff85183e4c7e6c",
+      "bytes": 9985,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\screening_structure_universe.csv",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\screening_structure_universe.csv",
+      "package_path": "screening_structure_universe.csv",
+      "sha256": "844557808c000616fd15604d0cffba6d4d85fe2f24eb61f85e4dbfb2e10e9918",
+      "bytes": 167964,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\stoptx_aux_training.csv",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\stoptx_aux_training.csv",
+      "package_path": "stoptx_aux_training.csv",
+      "sha256": "c6f52b86b3eb69a4e75c68d9731ab7367a4a6a7f52b0a5591baa0d31fcfacdb1",
+      "bytes": 1099353,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\stoptx_identity_audit.csv",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\stoptx_identity_audit.csv",
+      "package_path": "stoptx_identity_audit.csv",
+      "sha256": "64803b84154d5c6ceec8bd9218b77fc72dd1ed712d123497a71faa1dd7f462ca",
+      "bytes": 1186757,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\stoptx_teacher.joblib",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\stoptx_teacher.joblib",
+      "package_path": "stoptx_teacher.joblib",
+      "sha256": "9feb84c1cb019bd852b3261fe6d86feeba11b3daad37fa85fd0c31bdb7c2eff6",
+      "bytes": 7047148,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\teacher_source_internal_metrics.json",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\teacher_source_internal_metrics.json",
+      "package_path": "teacher_source_internal_metrics.json",
+      "sha256": "91fb3d714cc1a58f2e865ebb98eb57434431acae5fb2f85b5aecb64da2caa18b",
+      "bytes": 286,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\teacher_source_internal_oof.csv",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\teacher_source_internal_oof.csv",
+      "package_path": "teacher_source_internal_oof.csv",
+      "sha256": "eefe4c200eee13679d7fa284a14ccf5f0445c029bead2f7cc3955b948f8b9d1f",
+      "bytes": 88094,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\training_attrition_disjoint.csv",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\training_attrition_disjoint.csv",
+      "package_path": "training_attrition_disjoint.csv",
+      "sha256": "cb688d457276ce5304cd66bc93c0fc376337470a28ed7c3304d2d85f331e43d1",
+      "bytes": 268,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\training_complete.json",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\training_complete.json",
+      "package_path": "training_complete.json",
+      "sha256": "d1b92450eb1fecaee1b40d914f28fe156f5df3614bfaf6e276da58b8bbb90991",
+      "bytes": 282,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\verification.json",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\verification.json",
+      "package_path": "verification.json",
+      "sha256": "270c64eb1acb6fa83a848ced966b6593305274ff8519cf6fa7abf12339a97394",
+      "bytes": 597,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\verify_transfer.py",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\verify_transfer.py",
+      "package_path": "verify_transfer.py",
+      "sha256": "27bbade06dd07454bd62ae2d69275dd844a80bdcfd277a46ed2455dada32d3a7",
+      "bytes": 9649,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\sources\\baby_paper.pdf",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\sources\\baby_paper.pdf",
+      "package_path": "sources/baby_paper.pdf",
+      "sha256": "c8dcf93e7c13fc9aa6ad165a8c98d4b5a6a5ad6aea4c4570540fadc52f77b47c",
+      "bytes": 391383,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\sources\\baby_paper_download.json",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\sources\\baby_paper_download.json",
+      "package_path": "sources/baby_paper_download.json",
+      "sha256": "fb1227aba77a77356e025d040b5a0647753882fdeeeced65d85fb416b37ec8cd",
+      "bytes": 193,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\sources\\baby_supplement.pdf",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\sources\\baby_supplement.pdf",
+      "package_path": "sources/baby_supplement.pdf",
+      "sha256": "97c5345b4ae37aab14db1a94a5b519c9532e4b7d40861081c1d164f64fcf0f06",
+      "bytes": 159285,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\sources\\stoptx_original_paper.pdf",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\sources\\stoptx_original_paper.pdf",
+      "package_path": "sources/stoptx_original_paper.pdf",
+      "sha256": "a1f3730af3e2aa5d114c0314e690bf183cf223a83ee1cebffa953db1d9703f01",
+      "bytes": 2415158,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\sources\\stoptx_paper_download.json",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\sources\\stoptx_paper_download.json",
+      "package_path": "sources/stoptx_paper_download.json",
+      "sha256": "cdc1dbd9c3817b2628e687b3760f7f072a4c3c67e07edb68693374fd0e781f91",
+      "bytes": 175,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\sources\\canada_priority_inventory.csv",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\sources\\canada_priority_inventory.csv",
+      "package_path": "sources/canada_priority_inventory.csv",
+      "sha256": "14c5c6c3ac1363d5a49c339ba64a54355150c10f8d41658af003984ce4550dfb",
+      "bytes": 1136468,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\sources\\canada_inventory_download_v2.json",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\sources\\canada_inventory_download_v2.json",
+      "package_path": "sources/canada_inventory_download_v2.json",
+      "sha256": "b422e30784fca50cc611a9b3c3386e18efe2ad61c93321b639206734c4571d9b",
+      "bytes": 2556,
+      "action": "move"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\claude\\external_aux_20261108T1705_strict\\sources\\download_attempts.json",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\sources\\download_attempts.json",
+      "package_path": "sources/download_attempts.json",
+      "sha256": "1cc8a96761038b9d5a0731c4e9fc2f96b1c7122f8b53696250c5a4ebbadc4db3",
+      "bytes": 1476,
+      "action": "move"
+    }
+  ],
+  "shared_source_copies": [
+    {
+      "source": "C:\\Users\\DS\\COS\\eye_external_search_20261108T163250\\stoptx_eye_training_table_s4.csv",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\sources\\stoptx_eye_training_table_s4.csv",
+      "package_path": "sources/stoptx_eye_training_table_s4.csv",
+      "sha256": "096f36d7224c1b2037193c29525595e2228ed11efdbf52f92a4785e6d71c8df5",
+      "action": "copy_shared_source_preserved"
+    },
+    {
+      "source": "C:\\Users\\DS\\COS\\eye_external_search_20261108T163250\\download_provenance.json",
+      "destination": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\sources\\download_provenance.json",
+      "package_path": "sources/download_provenance.json",
+      "sha256": "893a797d1bded4a5e56b187c24ea8759bb43cf945ffaf11fe6a01e6b3aaf4719",
+      "action": "copy_shared_source_preserved"
+    }
+  ],
+  "checkpoint_archive": {
+    "path": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\검증체크포인트.zip",
+    "sha256": "9e843c4195c9d5b67d08fa169b26652bdea1c673e6b9103d40a3b05fb2ad20b6",
+    "members": 1890,
+    "source_preserved": true
+  },
+  "omitted_root_files": [
+    "aux_features.csv",
+    "production_component_linkage.csv",
+    "transfer.stderr.log",
+    "transfer.stdout.log"
+  ],
+  "reason": "Only final required artifacts; historical code and reports preserved byte-for-byte"
+}

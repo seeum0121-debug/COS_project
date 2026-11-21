@@ -1,0 +1,9 @@
+{
+  "input_and_model_hashes_unchanged": true,
+  "original_run_hashes_checked": 43,
+  "manual_logistic_score_max_error": 0.0,
+  "patent_EPA_labels_not_invented": true,
+  "all_prespecified_equal_concentration_pairs_verified": true,
+  "frozen_threshold": 0.4814867474694138,
+  "refitted": false
+}

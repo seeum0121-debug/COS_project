@@ -1,0 +1,15 @@
+{
+  "request_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/65-85-0/property/ConnectivitySMILES,InChIKey,MolecularFormula/JSON",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 243,
+          "MolecularFormula": "C7H6O2",
+          "ConnectivitySMILES": "C1=CC=C(C=C1)C(=O)O",
+          "InChIKey": "WPYMKLBDIGXBTP-UHFFFAOYSA-N"
+        }
+      ]
+    }
+  }
+}

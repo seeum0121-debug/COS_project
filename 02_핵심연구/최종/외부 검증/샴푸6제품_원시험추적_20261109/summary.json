@@ -1,0 +1,18 @@
+{
+  "products_traced": 6,
+  "basic_registration_families": 5,
+  "families_with_named_study_mrid_candidates": 1,
+  "eye_study_mrid_citations": 2,
+  "skin_study_mrid_citations": 1,
+  "product_chemistry_mrid_citations": 1,
+  "dated_review_leads": 2,
+  "csf_version_records": 7,
+  "csf_records_verified_in_pdf_text": 5,
+  "full_original_eye_skin_reports_obtained": 0,
+  "full_review_documents_obtained": 0,
+  "formal_epa_validation_eligible": 0,
+  "training_metadata_name_id_matches": 0,
+  "new_predictions": false,
+  "labels_changed": false,
+  "external_requests_sent": false
+}

@@ -1,0 +1,11 @@
+최신 학습 코호트·비교 결과: 18. cohort_consolidation/v2/report.html
+통합 Excel: 18. cohort_consolidation/v2/cohort_correction_v2.xlsx
+현재 연구 기준: 699건(철회 출처 제외, 이분류 충돌 포함).
+민감도 분석: 693건(실제 이분류 충돌3그룹6건 제외). 4등급만 다른14건 복원.
+두 학습 정책의 평가: 동일699건 주 비교 / 공통693건 보조 비교, 동일 난수·폴드·피처.
+현재 모델: v2/models/binary_retained699.joblib 및 binary_exclude693.joblib, 연구 기본 임계값0.5.
+화장품 완전 분자 조성·독립성 확정 검증셋은 여전히0개. 화장품 전이학습·외부검증 미실행.
+최신 자료 확보 조사: 17. composition_independence_resolution/report.html
+화장품 원료 투입량 입력: 16. cosmetics_transfer_preparation/CTFA32_material_token_inputs.json
+시행착오: 시행착오/index.html. 수정 전18단계: 시행착오/2026-10-31_18단계_수정전/
+기존18단계679건 모델과 루트 예측·표는 과거 이력이며 최신 보고에는 v2 사용.

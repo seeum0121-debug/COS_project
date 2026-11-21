@@ -1,0 +1,28 @@
+{
+  "request": {
+    "find": [
+      {
+        "ref_id": "turn59view0",
+        "pattern": "Shampoo"
+      },
+      {
+        "ref_id": "turn59view1",
+        "pattern": "Shampoo"
+      },
+      {
+        "ref_id": "turn59view2",
+        "pattern": "Shampoo"
+      },
+      {
+        "ref_id": "turn59view3",
+        "pattern": "Shampoo"
+      },
+      {
+        "ref_id": "turn59view4",
+        "pattern": "Shampoo"
+      }
+    ],
+    "response_length": "long"
+  },
+  "result": "Index for Pyrethrins (Pc Code 069001) | Pesticides | US EPA (https://archive.epa.gov/pesticides/chemicalsearch/chemical/foia/web/html/069001.html)\nciteturn60view0 [wordlim: 200] Crawled: last month; Content type: text/html; Source: find({\"ref_id\":\"turn59view0\",\"pattern\":\"Shampoo\"}); Total lines: 498\nNo matching text found for \"Shampoo\"--------------------------------------------------------------------------------\nIndex for Piperonyl butoxide (Pc Code 067501) | Pesticides | US EPA (https://archive.epa.gov/pesticides/chemicalsearch/chemical/foia/web/html/067501.html)\nciteturn60view1 [wordlim: 200] Crawled: 2 months ago; Content type: text/html; Source: find({\"ref_id\":\"turn59view1\",\"pattern\":\"Shampoo\"}); Total lines: 348\nNo matching text found for \"Shampoo\"--------------------------------------------------------------------------------\nIndex for Pyriproxyfen (Pc Code 129032) | Pesticides | US EPA (https://archive.epa.gov/pesticides/chemicalsearch/chemical/foia/web/html/129032.html)\nciteturn60view2 [wordlim: 200] Crawled: last week; Content type: text/html; Source: find({\"ref_id\":\"turn59view2\",\"pattern\":\"Shampoo\"}); Total lines: 482\nNo matching text found for \"Shampoo\"--------------------------------------------------------------------------------\nIndex for MGK 264 (Pc Code 057001) | Pesticides | US EPA (https://archive.epa.gov/pesticides/chemicalsearch/chemical/foia/web/html/057001.html)\nciteturn60view3 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: find({\"ref_id\":\"turn59view3\",\"pattern\":\"Shampoo\"}); Total lines: 159\nNo matching text found for \"Shampoo\"--------------------------------------------------------------------------------\nIndex for S-Methoprene (Pc Code 105402) | Pesticides | US EPA (https://archive.epa.gov/pesticides/chemicalsearch/chemical/foia/web/html/105402.html)\nciteturn60view4 [wordlim: 200] Crawled: last week; Content type: text/html; Source: find({\"ref_id\":\"turn59view4\",\"pattern\":\"Shampoo\"}); Total lines: 337\nNo matching text found for \"Shampoo\""
+}

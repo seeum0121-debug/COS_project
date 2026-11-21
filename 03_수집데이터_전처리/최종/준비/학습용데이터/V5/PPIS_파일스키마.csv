@@ -1,0 +1,19 @@
+﻿file,field,start_1_based,end_inclusive,data_type,meaning,source_url,dictionary_date,schema_verified_against_downloaded_bulk
+PRODUCT.TXT,REG_NR,1,11,string,등록번호: leading zero 유지; 회사 6자리 + 제품 5자리,https://www.epa.gov/sites/default/files/2021-01/documents/ppis-data-dictionary.pdf,2021-01-12,False
+PRODUCT.TXT,FORM_CODE,12,13,string,FORMNAME과 연결,https://www.epa.gov/sites/default/files/2021-01/documents/ppis-data-dictionary.pdf,2021-01-12,False
+PRODUCT.TXT,TOX_CODE,14,14,string,signal word: 1 Danger; 2 Warning; 3 Caution; 0 None. 피부/눈 독성 아님,https://www.epa.gov/sites/default/files/2021-01/documents/ppis-data-dictionary.pdf,2021-01-12,False
+PRODUCT.TXT,APPR_DATE,15,22,YYYYMMDD,승인일,https://www.epa.gov/sites/default/files/2021-01/documents/ppis-data-dictionary.pdf,2021-01-12,False
+PRODUCT.TXT,CAN_DATE,23,30,YYYYMMDD,취소/이전일,https://www.epa.gov/sites/default/files/2021-01/documents/ppis-data-dictionary.pdf,2021-01-12,False
+PRODUCT.TXT,CT_CODE,31,32,string,상태변경 이유,https://www.epa.gov/sites/default/files/2021-01/documents/ppis-data-dictionary.pdf,2021-01-12,False
+PRODUCT.TXT,PROD_NAME,33,102,string,제품명,https://www.epa.gov/sites/default/files/2021-01/documents/ppis-data-dictionary.pdf,2021-01-12,False
+FORMULA.TXT,REG_NR,1,11,string,PRODUCT와 연결,https://www.epa.gov/sites/default/files/2021-01/documents/ppis-data-dictionary.pdf,2021-01-12,False
+FORMULA.TXT,PC_CODE,12,17,string,CHEMCAS/CHEMNAME과 연결,https://www.epa.gov/sites/default/files/2021-01/documents/ppis-data-dictionary.pdf,2021-01-12,False
+FORMULA.TXT,PC_PCT,18,24,numeric (dictionary decimals 4),활성성분 %; 파일 실제 소수점 표기를 확인한 뒤 파싱,https://www.epa.gov/sites/default/files/2021-01/documents/ppis-data-dictionary.pdf,2021-01-12,False
+CHEMCAS.TXT,PC_CODE,1,6,string,PC_CODE↔CAS는 다대다,https://www.epa.gov/sites/default/files/2021-01/documents/ppis-data-dictionary.pdf,2021-01-12,False
+CHEMCAS.TXT,CAS_NR,7,16,string,10자리 숫자를 CAS 표시형식으로 변환; 체크섬 검증 필요,https://www.epa.gov/sites/default/files/2021-01/documents/ppis-data-dictionary.pdf,2021-01-12,False
+CHEMNAME.TXT,PC_CODE,1,6,string,성분 코드,https://www.epa.gov/sites/default/files/2021-01/documents/ppis-data-dictionary.pdf,2021-01-12,False
+CHEMNAME.TXT,CNAME_TYPE,7,26,string,명칭 유형,https://www.epa.gov/sites/default/files/2021-01/documents/ppis-data-dictionary.pdf,2021-01-12,False
+CHEMNAME.TXT,PC_NAME,27,296,string,성분명,https://www.epa.gov/sites/default/files/2021-01/documents/ppis-data-dictionary.pdf,2021-01-12,False
+CHEMNAME.TXT,DISPLAY_IND,297,297,string,표시명 여부,https://www.epa.gov/sites/default/files/2021-01/documents/ppis-data-dictionary.pdf,2021-01-12,False
+FORMNAME.TXT,FORM_CODE,1,2,string,제형 코드,https://www.epa.gov/sites/default/files/2021-01/documents/ppis-data-dictionary.pdf,2021-01-12,False
+FORMNAME.TXT,FORM_DESC,3,80,string,제형 설명,https://www.epa.gov/sites/default/files/2021-01/documents/ppis-data-dictionary.pdf,2021-01-12,False

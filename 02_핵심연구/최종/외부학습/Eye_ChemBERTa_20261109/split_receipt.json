@@ -1,0 +1,20 @@
+{
+  "protocol_sha256": "c6c51a5d45a8f6148ece10b3168ac5ebfb79d0cd30292aed94b016244cffc668",
+  "train_rows": 533,
+  "holdout_rows": 118,
+  "train_groups": 322,
+  "holdout_groups": 63,
+  "train_classes": [
+    432,
+    101
+  ],
+  "holdout_classes": [
+    95,
+    23
+  ],
+  "purged_augmentation": [
+    641,
+    651
+  ],
+  "excluded_tokenizer_rows": 20
+}

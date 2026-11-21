@@ -1,0 +1,10 @@
+{
+  "C:\\Users\\DS\\COS\\최종\\외부 검증\\Eye_cosmetic_validation_20261109\\training_reference\\input_snapshot.csv": "f22f4e1e8d74268a78a6a8d059e1a8dbd20e62692d07d5fb87a384a190224150",
+  "C:\\Users\\DS\\COS\\최종\\외부 검증\\Eye_cosmetic_validation_20261109\\training_reference\\component_linkage.csv": "6fe2f3b08861bc5255e1e4d63f788fe3ca6845dc57e6713ca1b3759b565ab974",
+  "C:\\Users\\DS\\COS\\최종\\외부 검증\\Eye_cosmetic_validation_20261109\\training_reference\\wmean.npy": "8c9960cd54a71af8fc96a9cc401d6f3e28f6d33551d72be029a4bd2d6ef28bb7",
+  "C:\\Users\\DS\\COS\\최종\\외부 검증\\Eye_cosmetic_validation_20261109\\model\\eye_A_LR_wmean.joblib": "d71394e691ac5072e4ce900a53b47ddbb65c8685961fe2c9536411acfbbc58a2",
+  "C:\\Users\\DS\\COS\\최종\\검증\\skin_team_audit_20261108\\source\\pretraining\\best\\model.safetensors": "8bfea57ec448ee11aa37e6c046f2c750a404b24d2d61cd62515a9af9b946dfd4",
+  "C:\\Users\\DS\\COS\\최종\\검증\\skin_team_audit_20261108\\source\\pretraining\\best\\config.json": "5353fa58a6147ba6abb2f9f2d4f6112dbced651107010b984d464fe71c122503",
+  "C:\\Users\\DS\\COS\\최종\\검증\\skin_team_audit_20261108\\source\\pretraining\\best\\tokenizer.json": "1879e1bc5562e4bc5053f9d8e4d9344b92adbeb079a16c6cda5534e1eb67ab09",
+  "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_ChemBERTa_20261109\\protocol.json": "c6c51a5d45a8f6148ece10b3168ac5ebfb79d0cd30292aed94b016244cffc668"
+}

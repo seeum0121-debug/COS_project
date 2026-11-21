@@ -1,0 +1,28 @@
+{
+  "frozen_at_utc": "2026-11-09T01:38:33.007626+00:00",
+  "model_sha256": "d71394e691ac5072e4ce900a53b47ddbb65c8685961fe2c9536411acfbbc58a2",
+  "model": "Eye A LogisticRegression weighted mean, all-data refit 673 rows",
+  "positive": "EPA I/II",
+  "negative": "EPA III/IV",
+  "threshold": 0.4814867474694138,
+  "operator": ">=",
+  "refit_or_external_threshold_selection": false,
+  "primary_task": "Five flea/tick animal shampoo products, frozen-model external case evaluation",
+  "scope": "Animal pesticide shampoos; do not generalize to human cosmetics.",
+  "inputs": "Only source resolved SMILES with disclosed quantities; midpoint for ranges. No invented water, UVCB or balance structures.",
+  "sensitivity": "Enumerate all low/high corners of represented ingredient ranges plus midpoint. Unknown ingredient amounts are not modeled.",
+  "grouping": "Report product rows and first-two-segment EPA-registration groups separately; average scores within registration group; no claim of independent original studies.",
+  "deduplication_selection": "No product is chosen based on outcomes; all members retained in product table; family aggregation fixed as mean.",
+  "leakage": [
+    "CAS component overlap (not automatically leakage)",
+    "canonical structure overlap",
+    "represented mixture signature",
+    "exact feature vector matches",
+    "product-name/registration/source-url matching"
+  ],
+  "strict_full_formulation_gate": "Full represented composition, compatible independently audited endpoint, no unresolved original-study independence. Otherwise exploratory partial-composition case comparison.",
+  "CIR": "Secondary ingredient-only diagnostic; use supplied labels without retuning. Separate neat vs diluted; no unknown vehicle inference; exclude known CAS/SMILES mismatch SLS. No claim of confirmed external validation.",
+  "CIR_grouping": "Report repeated-CAS contradictions and equal-CAS weighted metrics; repeated concentrations are not independent chemicals.",
+  "zein": "Excluded from eye classification metrics: protein solubilization endpoint is not an in-vivo EPA eye outcome.",
+  "uncertainty": "No inferential CI or significance claim for 3 registration groups; use raw counts and explicit limitations."
+}

@@ -1,0 +1,70 @@
+{
+  "status": "trained_and_internally_evaluated",
+  "endpoint": "Eye EPA I/II versus III/IV; no Zein labels",
+  "metrics": {
+    "ChemBERTa_Eye": {
+      "n": 118,
+      "threshold": 0.5,
+      "MCC": 0.08205269695097135,
+      "ROC_AUC": 0.679633867276888,
+      "sensitivity": 0.6086956521739131,
+      "specificity": 0.49473684210526314,
+      "balanced_accuracy": 0.5517162471395881,
+      "TN": 47,
+      "FP": 48,
+      "FN": 9,
+      "TP": 14
+    },
+    "LR_same_training_split": {
+      "n": 118,
+      "threshold": 0.5,
+      "MCC": 0.2942120484059211,
+      "ROC_AUC": 0.731350114416476,
+      "sensitivity": 0.6521739130434783,
+      "specificity": 0.7052631578947368,
+      "balanced_accuracy": 0.6787185354691075,
+      "TN": 67,
+      "FP": 28,
+      "FN": 8,
+      "TP": 15
+    }
+  },
+  "delta_MCC": -0.21215935145494974,
+  "paired_group_bootstrap_delta_MCC_95CI": [
+    -0.47099329346138846,
+    0.0901970651227586
+  ],
+  "bootstrap_valid": 2000,
+  "split": {
+    "protocol_sha256": "c6c51a5d45a8f6148ece10b3168ac5ebfb79d0cd30292aed94b016244cffc668",
+    "train_rows": 533,
+    "holdout_rows": 118,
+    "train_groups": 322,
+    "holdout_groups": 63,
+    "train_classes": [
+      432,
+      101
+    ],
+    "holdout_classes": [
+      95,
+      23
+    ],
+    "purged_augmentation": [
+      641,
+      651
+    ],
+    "excluded_tokenizer_rows": 20
+  },
+  "shared_individual_component_smiles": 65,
+  "test_unique_component_smiles": 98,
+  "independent_external_EPA_evaluation": false,
+  "encoder_frozen": true,
+  "original_LR_preserved": true,
+  "limitations": [
+    "Internal heldout formulations, not independent external experiments",
+    "Individual ingredient overlap allowed; not unseen-component generalization",
+    "Prior data and LR hyperparameter selection exposure",
+    "Upstream MLM corpus overlap unknown; no supervised encoder fine-tuning",
+    "No cosmetic safety claim; zero means EPA III/IV, not no eye irritation"
+  ]
+}

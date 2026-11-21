@@ -1,0 +1,111 @@
+{
+  "scope": "figures from reconstructed OOF results; not original-model recovery",
+  "metrics_recalculated_from_predictions": {
+    "source_centered_transfer": {
+      "n": 16,
+      "correct": 14,
+      "accuracy": 0.875,
+      "MCC": 0.7125253031944253,
+      "ROC_AUC": 0.7636363636363637,
+      "balanced_accuracy": 0.8,
+      "confusion_matrix": [
+        [
+          3,
+          2
+        ],
+        [
+          0,
+          11
+        ]
+      ],
+      "threshold": 0.5
+    },
+    "zero_centered_control": {
+      "n": 16,
+      "correct": 14,
+      "accuracy": 0.875,
+      "MCC": 0.7125253031944253,
+      "ROC_AUC": 0.7818181818181817,
+      "balanced_accuracy": 0.8,
+      "confusion_matrix": [
+        [
+          3,
+          2
+        ],
+        [
+          0,
+          11
+        ]
+      ],
+      "threshold": 0.5
+    },
+    "frozen_source": {
+      "n": 16,
+      "correct": 11,
+      "accuracy": 0.6875,
+      "MCC": 0.0,
+      "ROC_AUC": 0.6909090909090909,
+      "balanced_accuracy": 0.5,
+      "confusion_matrix": [
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          11
+        ]
+      ],
+      "threshold": 0.48345327423625106
+    }
+  },
+  "roc_fpr": [
+    0.0,
+    0.2,
+    0.2,
+    0.2,
+    0.2,
+    0.2,
+    0.2,
+    0.2,
+    0.2,
+    0.2,
+    0.4,
+    0.4,
+    0.4,
+    0.6,
+    0.8,
+    1.0
+  ],
+  "roc_tpr": [
+    0.0,
+    0.0,
+    0.09090909090909091,
+    0.18181818181818182,
+    0.2727272727272727,
+    0.36363636363636365,
+    0.45454545454545453,
+    0.5454545454545454,
+    0.6363636363636364,
+    0.8181818181818182,
+    0.8181818181818182,
+    0.9090909090909091,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "source_hashes": {
+    "oof_predictions.csv": "371d058791516cdde975ff68913589d7190ecf84cf44b1874f1b095f6b080772",
+    "metrics.json": "15afe5d1df151fcf87329d1f87b3761b35bd0c9d5ec0b27a14f7f9c2377cd9f2",
+    "metadata.json": "722c6adccaa4b81413cc9927fea11b4f3c59467fe0b7f06d53178c71f7475f65",
+    "bootstrap_ci.json": "fbbd88027bac932818eb2a3d672aa3abf2080c8316785563e73b2c5f3878b694",
+    "protocol.json": "2bd138f0487c2761038d8da2e4876233e2bc84be375de735031678c552dc8780",
+    "mapping.json": "c84dee628fa76f4340b5bd15e987ab4ea5da481a75040bd320f64004ddcfdc30",
+    "source_model/eye_A_final.joblib": "5d5c0532cd12fd00927c9564ee28dc9c95a8bb396a049c705c77dcafaf5b28e5"
+  },
+  "outputs": {
+    "C:\\Users\\DS\\COS\\최종\\ㅎ.최종정리파일\\eye 전이학습 시각화.png": "b9c24cd9f228d7866df6c6a6df8ed2d6ccf410d25f278bee1e147584e43439c9",
+    "C:\\Users\\DS\\COS\\최종\\ㅎ.최종정리파일\\eye 전이학습.png": "94df7b67b59ed255088b7125b461028f84cec9a50719d669eaf2226ec6474f50"
+  }
+}

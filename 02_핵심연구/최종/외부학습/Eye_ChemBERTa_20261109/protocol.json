@@ -1,0 +1,16 @@
+{
+  "objective": "Frozen ChemBERTa encoder with a newly trained Eye EPA I/II versus III/IV head; no Zein supervision",
+  "endpoint": "1=EPA I/II; 0=EPA III/IV. Zero is not absence of all eye irritation.",
+  "encoder": "Archived mixture-003 checkpoint; DeepChem/ChemBERTa-77M-MLM lineage; no supervised encoder fine-tuning",
+  "representation": "384-dimensional nonspecial token mean per original component SMILES, then normalized component-weighted mean. Same disclosed components as Eye LR; no new inferred structures or 11 archived-head covariates.",
+  "eligibility": "Entire formulation excluded if any component fails tokenizer length/unknown-token check; no truncation or silent ingredient deletion",
+  "evaluation": "Internal grouped holdout, not independent external validation. Existing 606 evaluation-pool rows partitioned with StratifiedGroupKFold(n_splits=5,shuffle=true,random_state=42), first fold fixed before scoring.",
+  "groups": "Connected union of existing split_group_id, comp_group_id, structure_group_id, identical wmean vectors; all repeated related formulations kept together. Individual component overlap is allowed and explicitly reported; not a novel-component evaluation.",
+  "augmentation": "67 augmentation_train_only rows used for training except any group connected to heldout rows, which is purged",
+  "preprocessing": "Imputer and StandardScaler fitted on training only",
+  "new_head": "LogisticRegression C=1.0, max_iter=5000, random_state=42, balanced sample weights computed from training labels, fixed threshold 0.5; no tuning on holdout",
+  "LR_comparator": "Clone original LR pipeline (C=0.0001), refit on identical training rows with identical balanced sample weights; primary threshold 0.5. Original all-data LR artifact untouched and not scored as an independent holdout baseline.",
+  "metrics": ["MCC", "ROC_AUC", "sensitivity", "specificity", "balanced_accuracy", "confusion_matrix"],
+  "uncertainty": "2000 paired holdout-group bootstrap resamples, seed=20261109, percentile 95% CI for MCC difference; single-class resamples excluded",
+  "limitations": ["Dataset and prior model choices previously examined; not prospective untouched data", "Upstream encoder pretraining overlap unknown; archived MLM was unsupervised", "No verified independent EPA external sample set available", "STopTox GHS labels not converted to EPA", "No cosmetic finished-product safety claim"]
+}

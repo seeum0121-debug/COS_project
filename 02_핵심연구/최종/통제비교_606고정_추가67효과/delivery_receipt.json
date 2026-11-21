@@ -1,0 +1,18 @@
+{
+  "status": "complete",
+  "comparison_identity": "c2bed18ac023d17ca6755b17cd847fd33e5953b1f58773d4d68d36b94c7744a0",
+  "no_final_model_replaced": true,
+  "files": {
+    "audit.json": "95fcc4c362c8804cbfd85a4af59913788deda3cfea64eb62e467fde8547f42bb",
+    "controlled_config.json": "b88d62244354f67643c38f0cf8a814d733d91d30b378d1d1526ab8aa41bf2587",
+    "verify_controlled_results.py": "56f9d92b619a0fc9263213c5a3582191018071580c6dbe8bb47518728d91fcb8",
+    "auditor_correction.json": "71de84a998a78e8d927a82ce6dc387baaf36e21c526c1978b7b2f119cc87a7b9",
+    "INTERPRETATION.txt": "80e5d9d52acc5963a2e6ed7e7f8974f5ab24e95b1655ee0289d2e73e7460794d",
+    "analyze_existing.py": "bf193d9fa191fc8bced8a1da5b6e0a8b0eee6225f248819951835fe59737a04e",
+    "existing_analysis_verification.json": "d9c7b813e369001fb81841ea94a58b93da70c18094f8c53012b25c78de7cd336",
+    "existing_protocol_metrics.csv": "37d36d81167e204ec713be7f37fe78a9c7e0cd8647be4bbcf1a7f21d878ede9e",
+    "existing_protocol_summary.csv": "50e750baa083198f707988bb05306df971c3885ae21e76ba18ed8b9bf72993da",
+    "existing_protocol_deltas.csv": "a11fd28fe71d61558632bda34e2037841aa3c35e169827973fff63087df84f8d",
+    "status.json": "26deb28f3c0aeb3e5eae0b7eae91d20bdc767c0e5a4162082989e4352d0409f7"
+  }
+}

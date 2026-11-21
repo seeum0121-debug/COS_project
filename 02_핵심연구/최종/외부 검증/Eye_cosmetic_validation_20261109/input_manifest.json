@@ -1,0 +1,42 @@
+{
+  "model\\eye_A_LR_wmean.joblib": {
+    "source": "C:\\Users\\DS\\COS\\최종\\최종모델\\eye_A_LR_wmean.joblib",
+    "sha256": "d71394e691ac5072e4ce900a53b47ddbb65c8685961fe2c9536411acfbbc58a2"
+  },
+  "model\\predict.py": {
+    "source": "C:\\Users\\DS\\COS\\최종\\최종모델\\predict.py",
+    "sha256": "9600c6001a8c7576ddb42ca55d5802a0d736607743adf23637f6e7ef55989ee7"
+  },
+  "model\\metadata.json": {
+    "source": "C:\\Users\\DS\\COS\\최종\\최종모델\\metadata.json",
+    "sha256": "4fca7229f48880ca82d03840747c644073ab4a73c8d4e958d247d6a935d254f4"
+  },
+  "model\\feature_names.json": {
+    "source": "C:\\Users\\DS\\COS\\최종\\최종모델\\feature_names.json",
+    "sha256": "1500757e4264c4989e46688c296f5a5621d87d47412f91fd4ed19ee9a9c4f38a"
+  },
+  "model\\requirements-lock.txt": {
+    "source": "C:\\Users\\DS\\COS\\최종\\최종모델\\requirements-lock.txt",
+    "sha256": "fca600307328eec54ec0f1ebf4d4a68b82e3ebfce006fa39a9b44a5900a2c2e1"
+  },
+  "model\\smoke_test_cases.json": {
+    "source": "C:\\Users\\DS\\COS\\최종\\최종모델\\smoke_test_cases.json",
+    "sha256": "14b58cff6e737d61f52147eac3e221fc7516c53f0fd0bae3e5e5319a661755e6"
+  },
+  "model\\checksums.json": {
+    "source": "C:\\Users\\DS\\COS\\최종\\최종모델\\checksums.json",
+    "sha256": "5d3c7f3ef85bd7243d37a056560fbde46e5ff5711456506b7e43d555a8c8c119"
+  },
+  "training_reference\\input_snapshot.csv": {
+    "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\모델 최종\\aggregation_compare_20261109\\input_snapshot.csv",
+    "sha256": "f22f4e1e8d74268a78a6a8d059e1a8dbd20e62692d07d5fb87a384a190224150"
+  },
+  "training_reference\\component_linkage.csv": {
+    "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\모델 최종\\aggregation_compare_20261109\\component_linkage.csv",
+    "sha256": "6fe2f3b08861bc5255e1e4d63f788fe3ca6845dc57e6713ca1b3759b565ab974"
+  },
+  "training_reference\\wmean.npy": {
+    "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\모델 최종\\aggregation_compare_20261109\\wmean.npy",
+    "sha256": "8c9960cd54a71af8fc96a9cc401d6f3e28f6d33551d72be029a4bd2d6ef28bb7"
+  }
+}

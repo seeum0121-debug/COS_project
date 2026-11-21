@@ -1,0 +1,269 @@
+US6583181B1 - Antimicrobial quaternary ammonium compositions with reduced ocular irritation - Google Patents (https://patents.google.com/patent/US6583181B1/en)
+citeturn34view0 [wordlim: 200] Crawled: 4 weeks ago; Content type: text/html; Source: open({"ref_id":"https://patents.google.com/patent/US6583181B1/en","lineno":506}); Total lines: 880
+L471: Also, the use dilution preferably contains an effective amount of electrolyte to prevent ocular irritation due to the quaternary ammonium compound and/or amine.
+L472: 
+L473: In one embodiment, the use dilution contains an aqueous solvent comprising hard water of at least 200, 300, 400, 500, or 750 ppm of water hardness. As discussed above, the concentrate and use dilution of the present invention remain effective against microorganisms, such as pathogenic bacteria, in hard water.
+L474: The use dilution may be applied to a substrate in order to disinfect and/or sanitize the substrate. The use dilution may be applied by any method known in the art including, but not limited to, brushing, spraying, soaking, and the like. For example, the use dilution may be absorbed or incorporated into wipes which are then rubbed against a substrate.
+L475: The use dilution may also be used in clean-in-place applications, i.e., by recirculating the use dilution in pipes, kettles, tanks, and the like to clean, disinfect, and/or sanitize the same.
+L476: Substrates which may be sanitized and disinfected with the use dilution include, but are not limited to, those located in dairies, homes, swimming pools, canneries, food processing plants, restaurants, hospitals, institutions, and industry, including secondary oil recovery. For example, the use dilution can be used to sanitize diary plant equipment, milking machines, milk pails, tank trucks, and the like.
+L477: The use dilution can also be used to sanitize floors, walls, furniture, mirrors, toilet fixtures, and wood surfaces, such as fence rails, porch rails, decks, roofing, siding, window frames, and door frames. The use dilutions are particularly well suited for application on indirect food contact surfaces, such as cutting boards, utensils, containers, dishes, wash basins, and countertops.
+L478: The use dilution may also be applied to the skin, such as the hands or face, in order to disinfect and sanitize them. For instance, the use dilution or concentrate of the present invention may be incorporated into a hand dip or hand soap, such as that used by workers in the meat and poultry industry and the medical fields. Alternatively, the use dilution may be absorbed or incorporated into personal care items, such as facial and hand wipes.
+L479: The use dilution or concentrate may also be incorporated into sanitizing laundry rinses.
+L480: 
+L481: The concentrate and use dilution may be prepared by any method known in the art. For example, they may be prepared by mixing the quaternary ammonium compound and/or amine, electrolyte, solvent, and other additives. The use dilution may also be prepared by adding a solvent, such as water, to the concentrate.
+L482: 
+L483: Ophthalmic Solution
+L484: Another embodiment of the invention is an ophthalmic solution comprising a quaternary ammonium compound, an amine, or a combination thereof, an electrolyte and, optionally, a biologically active agent. The ophthalmic solution typically contains an antimicrobial, antibacterial, and/or antifungal effective amount of quaternary ammonium compound and/or amine. According to one preferred embodiment, the quaternary ammonium compound and/or amine acts as a preservative in the ophthalmic solution.
+L485: The ophthalmic solution generally contains an effective amount of the electrolyte to prevent ocular irritation due to the quaternary ammonium compound and amine and to neutralize the toxic effects of the quaternary ammonium compound or amine.
+L486: The aforementioned quaternary ammonium compounds and electrolytes may also be included in the ophthalmic solution. More preferred quaternary ammonium compounds include, but are not limited to, benzalkonium chlorides, such as alkyl benzyl dimethyl ammonium chlorides, and benzethonium chloride.
+L487: The ophthalmic solution broadly contains from about 0.05 to about 2.0%, preferably from about 0.1 to about 1.0%, and more preferably from about 0.2 to about 0.8% by weight of quaternary ammonium compound, amine, or a combination thereof, based upon 100% total weight of ophthalmic solution.
+L488: The ophthalmic solution broadly contains from about 1.0 to about 15.0%, preferably from about 3.0 to about 8.0%, and more preferably from about 4.0 to about 6.0% by weight of electrolyte, based upon 100% total weight of ophthalmic solution.
+L489: The weight ratio of quaternary ammonium compound and amine to electrolyte in the solution broadly ranges from about 10:1 to about 1:10 and preferably ranges from about 2:1 to about 1:4.
+L490: 
+L491: Preferred biologically active agents include, but are not limited to, those which may be administered by the ocular route. A non-limiting example of such an agent is an antiglaucoma agent, such as pilcocarpine, timodol maleate, carbachol, isoflurophate, epinephrine, dipvefrin, and demecarium bromide.
+L492: The ophthalmic solution typically includes an amount of the biologically active agent effective for its intended use. For example, an ophthalmic solution containing antiglaucoma agent can contain an antiglaucoma effective amount of the agent.
+L493: 
+L494: The ophthalmic solution may include other additives as known in the art.
+L495: The ophthalmic solution is generally substantially free of imidazoline compounds. Preferably, the ophthalmic solution contains less than 0.1% and, more preferably, less than 0.01% by weight of imidazoline compounds, based upon 100% total weight of ophthalmic solution.
+L496: The ophthalmic solution is generally administered ocularly in the form of droplets or as an eye wash. For instance, an ophthalmic solution of the present invention containing an antiglaucoma agent may be ocularly administered to an animal, such as a human, in need thereof to treat glaucoma.
+L497: The ophthalmic solution may be prepared by any method known in the art. For example, the solution may be prepared by mixing the quaternary ammonium compound and/or amine, electrolyte, biologically active agent, solvent, and other additives.
+L498: 
+L499: The following examples are illustrative of the present invention, however, it will be understood that the invention is not limited to the specific details set forth in the examples. All percentages are by weight unless otherwise indicated.
+L500: 
+L501: EXAMPLE 1
+L502: The formulation in Table 1 below was prepared by mixing the appropriate ingredients. The ocular irritation of each formulation was determined by the Draize rabbit eye test, which is an acute eye irritation evaluation method currently accepted by the U.S. Environmental Protection Agency (EPA). The Draize rabbit eye test is described in Principles and Procedures for Evaluating the Toxicity of Household Products, National Academy of Science Publication 1138 (1977), which is hereby incorporated by reference.
+L503: Briefly, in the Draize rabbit eye test, three or six rabbits are used. A test formulation is administered to one eye of each rabbit. The other eye is used as a control. The eyes are compared at various timepoints for cornea opacity, damage to the iris, and damage to the conjunctiva. Higher draize scores indicate increased ocular irritation. A draize score of zero indicates no ocular irritation. The results are shown in Table 1.
+L504: COMPARATIVE EXAMPLE 2
+L505: 
+L506: The formulation described in Table 1 was prepared and tested as described in Example 1. The results are shown in Table 1.
+L507:  | TABLE 1
+L508:  |
+L509:  |  |  | Comparative
+L510:  |  | Example 1  | Example 2
+L511:  |
+L512: Ingredients  | NaOH (pellet)  | 0.33  | —
+L513: (% by weight)  | EDTA (acid)  | 0.90  | —
+L514:  | FMB ® 1210-8^{1}  | 1.50  | 1.50
+L515:  | Deionized Water  | q.s.  | q.s.
+L516: Characteristics  | pH  | 7.1  | 6.9
+L517:  | % of Active  | 1.2  | 1.2
+L518:  | Quaternary
+L519:  | Ammonium
+L520:  | Compound
+L521: Draize score  | Day 1  | 26.3  | 41.7
+L522:  | Day 2  | 23.2  | 36.5
+L523:  | Day 3  | 20.0  | 31.8
+L524:  | Day 4  | 15.0  | 32.0
+L525:  | Day 7  | 7.7  | 30.0
+L526:  | Day 10  | 3.7  | —
+L527:  | Day 14  | 0.0  | 19.7
+L528:  | Day 21  | —  | 19.0
+L529: ^{1}FMB ® 1210-8 is a mixture of 60% by weight of Bardac ® 2280 (an 80% solution of didecyldimethyl ammonium chloride) and 40% by weight of Barquat ® MB-80 (an 80% solution of alkyl (C_{14 }50%; C_{12 }40%, C_{16 }10%) dimethyl benzyl ammonium chloride) and is available from Lonza, Inc. of Fairlawn, N.J.
+L530: Comparative Example 2, which did not contain EDTA, had an initial Draize score of 47.1 and a Draize score of 19.0 after 21 days. In contrast, Example 1, which contained EDTA, had an initial Draize scoe of 26.3 and a Draize score of 0.0 after 14 days.
+L531: 
+L532: EXAMPLE 3
+L533: The formulations described in Table 2 below containing didecyl dimethyl ammonium chlorides (available as Bardac® 22 from Lonza, Inc.), alkyl (C_{14 }50%, C_{12 }40%, C_{16 }10%) dimethyl benzyl ammonium chloride (available as Barquat® MB from Lonza, Inc.), or alkyl (C_{14 }60%, C_{16 }30%, C_{12 }5%, C_{18 }5%) dimethyl benzyl ammonium chlorides (available as Barquat® MX from Lonza, Inc.) were prepared and tested by the Draize rabbit eye test described in Example 1. The results are shown in Table 2.
+L534:  | TABLE 2
+L535:  |
+L536:  |  | Barquat ®  | Barquat ®  | Barquat ®
+L537:  | Bardac ® 22  | MB  | MB  | MX
+L538: Experiment  | 1  | 2  | 1  | 2  | 1  | 2  | 1  | 2
+L539: Ingredients  | NaOH  | —  | 0.4  | —  | 0.4  | —  | 0.48  | 0.8  | 1.6
+L540: (% by weight)  | (pellet)
+L541:  | EDTA  | —  | 1.0  | —  | 1.0  | —  | 1.2  | 2.0  | 4.0
+L542:  | (acid)
+L543:  | Quaternary  | 1.0  | 1.0  | 1.0  | 1.0  | 1.28  | 1.28  | 2.0  | 2.1
+L544:  | Ammonium
+L545:  | Compound
+L546:  | (active)
+L547:  | Deionized  | q.s.  | q.s.  | q.s.  | q.s.  | q.s.  | q.s.  | q.s.  | q.s.
+L548:  | Water
+L549: pH  |  | 7.1  | 7.5  | 7.5  | 7.4  | 7.0  | 6.9  | 7.0  | 7.0
+L550: Draize score  | Day 1  | 29.2  | 15.5  | 18.3  | 12.8  | 18.0  | 8.7  | 25.5  | 16.5
+L551:  | Day 2  | 24.5  | 11.2  | 17.8  | 7.7  | 12.7  | 3.7  | 20.5  | 9.2
+L552:  | Day 3  | 23.8  | 7.2  | 14.3  | 6.3  | 9.2  | 4.2  | 24.5  | 6.8
+L553:  | Day 4  | 22.5  | 8.5  | 10.8  | 7.0  | 7.0  | 3.0  | 20.3  | 10.8
+L554:  | Day 7  | 17.7  | 1.7  | 6.3  | 2.0  | 3.0  | 0.3  | 12.3  | 5.0
+L555:  | Day 10  | 17.3  | 1.7  | 5.7  | 0.0  | 2.0  | 0.0  | 11.7  | 1.7
+L556:  | Day 14  | 16.0  | 1.0  | 0.3  | —  | 1.7  | —  | 4.7  | 1.0
+L557:  | Day 18  | 9.7  | 0.0  | 0.0  | —  | 1.3  | —  | 0.3  | 0.0
+L558:  | Day 21  | 4.3  | —  | —  | —  | 1.0  | —  | 0.0  | 0.0
+L559: EXAMPLE 4
+L560: 
+L561: The formulations containing alkyl (C_{14 }50%; C_{12 }40%, C_{16 }10%) dimethyl benzyl ammonium chloride, which is available as Barquat® MB-80 from Lonza, Inc., shown in Table 3 below were prepared and tested by the Draize rabbit eye test described in Example 1. The results are shown in Table 3.
+L562: TABLE 3
+L563: Experiment  | 1  | 2  | 3  | 4  | 5
+L564: Ingredients,  | Barquat ®  | 2.0  | 1.9  | 1.9  | 1.9  | 1.9
+L565: weight %  | MB-80
+L566:  | (active)
+L567:  | EDTA (acid)  | —  | 6.0  | 8.0  | —  | —
+L568:  | NaOH  | —  | 2.4  | 3.2  | —  | 3.2
+L569:  | (pellets)
+L570:  | NaCl,  | —  | —  | —  | 6.0  | —
+L571:  | granular
+L572:  | Glycolic  | —  | —  | —  | —  | 6.0
+L573:  | acid, powder
+L574:  | Distilled  | q.s.  | q.s  | q.s.  | q.s.  | q.s.
+L575:  | water
+L576: pH  | 7.0  | 7.0  | 7.2  | 7.0  | 7.0
+L577: Draize score  | Day 1  | 33.5  | 16.2  | 15.0  | 27.4  | 18.0
+L578:  | Day 2  | 29.3  | 10.7  | 13.2  | 12.7  | 17.7
+L579:  | Day 3  | 29.7  | 7.8  | 8.3  | 7.8  | 11.8
+L580:  | Day 4  | 24.5  | 4.5  | 7.8  | 6.5  | 15.0
+L581:  | Day 7  | 21.0  | 1.0  | 3.7  | 15.3  | 8.3
+L582:  | Day 10  | 14.3  | 3.3  | 3.7  | 0.0  | 0.0
+L583:  | Day 14  | 12.7  | 0.0  | 3.3  | —  | —
+L584:  | Day 18  | 7.6  | —  | 3.7  | —  | —
+L585:  | Day 21  | 4.7  | —  | 0.0  | —  | —
+L586: EXAMPLE 5
+L587: 
+L588: The formulations containing alkyl dimethyl benzyl ammonium chlorides (available as Barquat® MB-80 and MX-50 from Lonza, Inc.) and a mixture of alkyl dimethyl benzyl ammonium chlorides and dialkyl dimethyl ammonium chloride (available as Bardac® 205M from Lonza, Inc.) described in Table 4 below were prepared and tested by the Draize rabbit eye test described in Example 1. The results are shown in Table 4.
+L589:  | TABLE 4
+L590:  |
+L591:  |  |  | Bar-
+L592:  | Barquat ®  |  | dac ®
+L593:  | MB-80  | Barquat ® MX-50  | 205M^{1}
+L594:  |
+L595: Ingredients,  | Quaternary  | 1.92  | 1.92  | 1.92  | 1.92  | 1.92  | 1.60
+L596: weight %  | Ammonium
+L597:  | Compound
+L598:  | (active)
+L599:  | EDTA (acid)  | 6.00  | —  | 4.00  | 4.00  | —  | 6.00
+L600:  | NaOH  | 2.40  | —  | 1.62  | 1.62  | —  | 2.40
+L601:  | (pellets)
+L602:  | NaCl,  | —  | 6.00  | —  | —  | 4.00  | —
+L603:  | granular
+L604:  | Distilled  | q.s.  | q.s  | q.s.  | q.s.  | q.s.  | q.s.
+L605:  | water
+L606: Charac-  | pH  | 7.0  | 6.65  | 7.1  | 7.0  | 7.3  | 7.0
+L607: teristics  | Quaternary  | 2.06  | 1.94  | 2.00  | 2.0  | 2.0  | 1.71
+L608:  | Ammonium
+L609:  | Conc., %
+L610:  | Actives
+L611: Draize score  | Day 1  | 16.3  | 17.0  | 18.7  | 25.0  | 12.0  | 17.8
+L612:  | Day 2  | 12.8  | 11.7  | 17.5  | 14.5  | 6.7  | 17.0
+L613:  | Day 3  | 8.2  | 9.0  | 15.8  | 18.2  | 4.7  | 12.7
+L614:  | Day 4  | 3.8  | 7.2  | 13.0  | 7.7  | 3.3  | 6.5
+L615:  | Day 7  | 5.0  | 4.3  | 9.5  | 12.3  | 2.8  | 2.0
+L616:  | Day 10  | 0.7  | 4.3  | 8.0  | 1.7  | 4.3  | 0.7
+L617:  | Day 14  | 0.7  | 0.0  | 0.0  | 1.0  | 0.7  | 0.0
+L618:  | Day 18  | 0.3  | —  | —  | 4.3  | 0.3  | —
+L619:  | Day 21  | 0.0  | —  | —  | 0.0  | 0.0  | —
+L620: ^{1}Bardac ® 205M is a mixture of 60% by weight of Bardac ® 2050 (a 50% solution of (20% di-C_{8 }alkyl, 30% di-C_{10 }alkyl, 50% C_{8 }alkyl C_{10 }alkyl) dimethyl ammonium chloride) and 40% by weight of Barquat ® MB-50 (a 50% solution of alkyl (C_{14 }50%; C_{12 }40%, C_{16 }10%) dimethyl benzyl ammonium chloride)
+L621: EXAMPLE 6
+L622: 
+L623: A solution containing 2.4% by weight of Barquat® MB-80, 6.0% by weight of EDTA acid, 2.4% by weight of sodium hydroxide (NaOH) pellets, and a quantum sufficit of deionized water was prepared. The pH of the solution was 6.8 and the concentration of active quaternary ammonium compound in the solution was 2.0%. The solution was diluted to 1/128th of its original concentration, with water having a hardness of 500 ppm.
+L624: The effectiveness of the use dilution as a sanitizer was determined according to the Germicidal and Detergent Sanitizing Test (Food Contact Sanitizer Test) described in Official Methods of Analysis of the AOAC, 16^{th }Edition (1995) against Escherichia coli and Staphylococcus aureus. The results are shown in Table 5 below.
+L625: TABLE 5
+L626:  | Concentration of  |
+L627:  | Quaternary  |
+L628:  | Ammonium  | Contact time
+L629: Organism  | Compound (ppm)  | 30 seconds  | 60 seconds
+L630: E. coli  | 150  | 99.999%  | 99.999%
+L631: (ATCC 11229)
+L632: S. aureus  | 150  | 99.999%  | 99.999%
+L633: (ATCC 65)
+L634: 
+L635: EXAMPLE 7
+L636: The formulations described in Table 6 below containing alkyl (C_{14 }50%, C_{12 }40%, C_{16 }10%) dimethyl benzyl ammonium chloride (available as Barquat® MB from Lonza, Inc.) were prepared. The formulations were diluted to 1/128th of their original concentration with water having a hardness of 500 ppm.
+L637: The effectiveness of the use dilutions as sanitizers was determined according to the Germicidal and Detergent Sanitizing Test (Food Contact Sanitizer Test) described in Official Methods of Analysis of the AOAC, 16^{th }Edition (1995) against Escherichia coli. The contact time was 30 seconds. Formulation 1 eliminated 99.9937% of the E. coli, which is below the U.S. EPA's standards for indirect food contact surface sanitizers as described in U.S. EPA DIS/TSS-4. Formulation 2 eliminated 99.999% of the E.
+L638: coli and therefore exceeds the U.S. EPA's standards for indirect food contact surface sanitizers.
+L639:  | TABLE 6
+L640:  |
+L641:  |  |  | Formulation
+L642:  |  | Formulation 1  | 2
+L643:  |
+L644: Ingredients  | NaOH (pellet)  | —  | 1.6
+L645: (% by weight)  | EDTA (acid)  | —  | 4.0
+L646:  | Barquat ® MB (active)  | 2.0  | 2.0
+L647:  | Deionized Water  | q.s.  | q.s.
+L648: pH  |  | 7.0  | 7.1
+L649: 
+L650: All patents, applications, articles, publications, and test methods mentioned above are hereby incorporated by reference.
+L651: Many variations of the present invention will suggest themselves to those skilled in the art in light of the above detailed description. Such obvious variations are within the full intended scope of the appended claims.
+L652: ## Claims (8)
+L653: 
+L654: What is claimed is:
+L655: 
+L656: 1. A method of preventing ocular irritation due to a solution containing a quaternary ammonium compound comprising adding an effective amount of an electrolyte to the solution to prevent ocular irritation due to the quaternary ammonium compound.
+L657: 
+L658: 2. The method of claim 1, wherein the electrolyte is a sodium salt of ethylenediaminetetraacetic acid.
+L659: 3. The method of claim 1, wherein the weight ratio of quaternary ammonium compound to electrolyte ranges from about 10:1 to about 1:10.
+L660: 
+L661: 4. An aqueous composition consisting of:
+L662: 
+L663: a) from about 0.5 to about 4.0% by weight of a quaternary ammonium chloride; and
+L664: b) from about 4.0 to about 15.0% by weight of at least one electrolyte selected from sodium salts of ethylenediaminetetraacetic acid, sodium glycolate, sodium chloride, and mixtures thereof, based upon 100% total weight of composition, wherein the composition is free of imidazoline compounds.
+L665: 
+L666: 5. The aqueous composition of claim 4, wherein the quaternary ammonium compound has the formula
+L667: 
+L668: wherein
+L669: 
+L670: R^{1 }is a linear or branched C_{1}-C_{4 }alkyl or linear or branched C_{1}-C_{4 }alkoxy;
+L671: R^{2 }is a linear or branched C_{1}-C_{18 }alkyl or linear or branched C_{1}-C_{18 }alkoxy;
+L672: 
+L673: R^{3 }is a linear or branched C_{6}-C_{18 }alkyl or is —R^{5}—O—R^{6}—O(C_{6}H_{5})R^{7};
+L674: 
+L675: R^{4 }is a linear or branched C_{6}-C_{18 }alkyl, benzyl, or (C_{2}-C_{18 }alkyl) benzyl;
+L676: 
+L677: R^{5 }and R^{6 }are independently linear or branched C_{1}-C_{8 }alkyl;
+L678: 
+L679: R^{7 }is linear or branched C_{1}-C_{12 }alkyl; and
+L680: 
+L681: X is an anion.
+L682: 6. The aqueous composition of claim 5, wherein the quaternary ammonium compound is selected from the group consisting of alkyldimethylbenzyl ammonium chloride, dialkylmethylbenzyl ammonium chloride, dialkyldimethylammonium chloride, alkyldimethylethylbenzyl ammonium chloride, diisobutylphenoxyethoxyethyl chloride, and any combination of any of the foregoing.
+L683: 
+L684: 7. The aqueous composition of claim 6, wherein the quaternary ammonium compound is a (C_{12}-C_{18 }alkyl) dimethylbenzyl ammonium chloride.
+L685: 8. The aqueous composition of claim 6, wherein the dialkyldimethylammonium chloride is selected from the group consisting of dioctyldimethylammonium chloride, octyldecyldimethylammonium chloride, didecyldimethylammonium chloride, decylisononyldimethylammonium chloride, diisodecyldimethylammonium chloride, and any combination of any of the foregoing.
+L686: 
+L687: US09/721,523 2000-11-22 2000-11-22 Antimicrobial quaternary ammonium compositions with reduced ocular irritation Expired - Fee Related 【7†US6583181B1 (en)】
+L688: ## Priority Applications (1)
+L689: 
+L690: Application Number  | Priority Date  | Filing Date  | Title
+L691: --- | --- | --- | ---
+L692: US09/721,523 【7†US6583181B1 (en)】  | 2000-11-22  | 2000-11-22  | Antimicrobial quaternary ammonium compositions with reduced ocular irritation
+L693: ## Applications Claiming Priority (1)
+L694: 
+L695: Application Number  | Priority Date  | Filing Date  | Title
+L696: --- | --- | --- | ---
+L697: US09/721,523 【7†US6583181B1 (en)】  | 2000-11-22  | 2000-11-22  | Antimicrobial quaternary ammonium compositions with reduced ocular irritation
+L698: 
+L699: ## Publications (1)
+L700: 
+L701: Publication Number  | Publication Date
+L702: --- | ---
+L703: US6583181B1 true 【7†US6583181B1 (en)】  | 2003-06-24
+L704: 
+L705: # Family
+L706: 
+L707: ## ID=24898317
+L708: ## Family Applications (1)
+L709: 
+L710: Application Number  | Title  | Priority Date  | Filing Date
+L711: --- | --- | --- | ---
+L712: US09/721,523 Expired - Fee Related 【7†US6583181B1 (en)】  | 2000-11-22  | 2000-11-22  | Antimicrobial quaternary ammonium compositions with reduced ocular irritation
+L713: 
+L714: ## Country Status (1)
+L715: 
+L716: Country  | Link
+L717: --- | ---
+L718: US (1)  | 【7†US6583181B1 (en)】
+L719: ## Cited By (40)
+L720: * Cited by examiner, † Cited by third party
+L721: Publication number  | Priority date  | Publication date  | Assignee  | Title
+L722: --- | --- | --- | --- | ---
+L723: 【8†US20030153622A1 (en)】 *  | 2001-09-17  | 2003-08-14  | Menicon Co., Ltd.  | Ophthalmic solution and contact lens solution
+L724: 【9†US20040047763A1 (en)】 *  | 2001-12-05  | 2004-03-11  | Peter Kite  | Anti-microbial systems and methods
+L725: 【10†US20040235982A1 (en)】 *  | 2003-05-19  | 2004-11-25  | Rabasco John Joseph  | Polymer emulsions resistant to biodeterioration
+L726: 【11†US20050003978A1 (en)】 *  | 2003-05-28  | 2005-01-06  | Lonza Inc.  | Quaternary ammonium carbonates and bicarbonates as anticorrosive agents
+L727: 【12†US20050232894A1 (en)】 *  | 2004-04-20  | 2005-10-20  | Weiner Gregory M  | Antimicrobial skin treatment composition and methods for producing and using an antimicrobial skin treatment composition
+L728: 【13†US20070197422A1 (en)】 *  | 2006-02-13  | 2007-08-23  | Andreas Dettmann  | Alkaline disinfecting and cleaning compositions having improved cleaning efficiency
+L729: 【14†US20080287331A1 (en)】 *  | 2007-05-18  | 2008-11-20  | Hai-Hui Lin  | Low voc cleaning composition for cleaning printing blankets and ink rollers
+L730: 【15†US20090047533A1 (en)】 *  | 2007-08-14  | 2009-02-19  | Houghton Technical Corp.  | Composition and method for treating fibrous materials
+L731: 【16†WO2011047686A1 (en)】  | 2009-10-20  | 2011-04-28  | Gram Equipment A/S  | A cooling plant in particular for the processing of food and a method of cleaning the cooling plant
+L732: 【17†US8541472B2 (en)】  | 2001-12-05  | 2013-09-24  | Aseptica, Inc.  | Antiseptic compositions, methods and systems
+L733: 【18†WO2015028522A1 (en)】 *  | 2013-09-02  | 2015-03-05  | Jacobs University Bremen Ggmbh  | Compositions comprising bacteriostatic agents and brilliant blue g
+L734: 【19†US9131683B2 (en)】  | 2011-09-30  | 2015-09-15  | The Sherwin-Williams Company  | High quality antimicrobial paint composition
+L735: 【20†US20160324737A1 (en)】 *  | 2014-01-17  | 2016-11-10  | Otsuka Pharmaceutical Co., Ltd.  | Emulsion composition for skin
+L736: 【21†US9565858B2 (en)】  | 2012-07-02  | 2017-02-14  | Reckitt Benckiser Llc  | Aqueous alcoholic microbicidal compositions comprising zinc ions
+

@@ -1,0 +1,8 @@
+﻿example,draize_mean_24h,draize_mean_48h,draize_mean_72h,draize_mean_day7,reported_7day_weighted_average,epa_category,binary_label,source_table
+1,30.0,21.3,13.0,0.7,7.4,,,US4992266A Table II
+2,32.0,27.0,20.0,16.7,18.5,,,US4992266A Table II
+3,33.3,27.0,17.7,6.4,12.4,,,US4992266A Table II
+4,34.0,27.7,19.3,8.0,13.7,,,US4992266A Table II
+5,31.7,19.6,13.0,2.0,8.1,,,US4992266A Table II
+6,32.0,27.3,23.0,13.0,16.9,,,US4992266A Table II
+7,36.6,28.6,19.1,12.0,16.3,,,US4992266A Table II

@@ -1,0 +1,190 @@
+{
+  "source_models": {
+    "previous_sha256": "d71394e691ac5072e4ce900a53b47ddbb65c8685961fe2c9536411acfbbc58a2",
+    "all673_sha256": "5d5c0532cd12fd00927c9564ee28dc9c95a8bb396a049c705c77dcafaf5b28e5",
+    "previous_evaluation_rows": 606,
+    "new_evaluation_rows": 673,
+    "both_training_rows": 673
+  },
+  "source_thresholds": {
+    "previous": 0.4814867474694138,
+    "all673": 0.48345327423625106
+  },
+  "identical_source_feature_names": true,
+  "source_preprocessing_identical": true,
+  "source_coefficient_max_abs_difference": 0.0,
+  "source_intercept_max_abs_difference": 0.0,
+  "target_features_labels_groups_unchanged": true,
+  "transfer_protocol_unchanged": true,
+  "prediction_differences": {
+    "frozen_source": {
+      "max_abs_score_difference": 0.0,
+      "changed_predictions": 0
+    },
+    "source_centered_transfer": {
+      "max_abs_score_difference": 0.0,
+      "changed_predictions": 0
+    },
+    "zero_centered_control": {
+      "max_abs_score_difference": 0.0,
+      "changed_predictions": 0
+    }
+  },
+  "previous_metrics": {
+    "source_centered_transfer": {
+      "n": 16,
+      "correct": 14,
+      "accuracy": 0.875,
+      "MCC": 0.7125253031944253,
+      "ROC_AUC": 0.7636363636363637,
+      "balanced_accuracy": 0.8,
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          3,
+          2
+        ],
+        [
+          0,
+          11
+        ]
+      ]
+    },
+    "zero_centered_control": {
+      "n": 16,
+      "correct": 14,
+      "accuracy": 0.875,
+      "MCC": 0.7125253031944253,
+      "ROC_AUC": 0.7818181818181817,
+      "balanced_accuracy": 0.8,
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          3,
+          2
+        ],
+        [
+          0,
+          11
+        ]
+      ]
+    },
+    "frozen_source": {
+      "n": 16,
+      "correct": 11,
+      "accuracy": 0.6875,
+      "MCC": 0.0,
+      "ROC_AUC": 0.6909090909090909,
+      "balanced_accuracy": 0.5,
+      "threshold": 0.4814867474694138,
+      "confusion_matrix": [
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          11
+        ]
+      ]
+    },
+    "frozen_source_at_0.5": {
+      "n": 16,
+      "correct": 11,
+      "accuracy": 0.6875,
+      "MCC": 0.0,
+      "ROC_AUC": 0.6909090909090909,
+      "balanced_accuracy": 0.5,
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          11
+        ]
+      ]
+    }
+  },
+  "all673_source_metrics": {
+    "source_centered_transfer": {
+      "n": 16,
+      "correct": 14,
+      "accuracy": 0.875,
+      "MCC": 0.7125253031944253,
+      "ROC_AUC": 0.7636363636363637,
+      "balanced_accuracy": 0.8,
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          3,
+          2
+        ],
+        [
+          0,
+          11
+        ]
+      ]
+    },
+    "zero_centered_control": {
+      "n": 16,
+      "correct": 14,
+      "accuracy": 0.875,
+      "MCC": 0.7125253031944253,
+      "ROC_AUC": 0.7818181818181817,
+      "balanced_accuracy": 0.8,
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          3,
+          2
+        ],
+        [
+          0,
+          11
+        ]
+      ]
+    },
+    "frozen_source": {
+      "n": 16,
+      "correct": 11,
+      "accuracy": 0.6875,
+      "MCC": 0.0,
+      "ROC_AUC": 0.6909090909090909,
+      "balanced_accuracy": 0.5,
+      "threshold": 0.48345327423625106,
+      "confusion_matrix": [
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          11
+        ]
+      ]
+    },
+    "frozen_source_at_0.5": {
+      "n": 16,
+      "correct": 11,
+      "accuracy": 0.6875,
+      "MCC": 0.0,
+      "ROC_AUC": 0.6909090909090909,
+      "balanced_accuracy": 0.5,
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          11
+        ]
+      ]
+    }
+  },
+  "scope": "16-target-row, 15-group OOF reconstruction; source-cohort overlap unresolved; not an independent evaluation of the full-target refit."
+}

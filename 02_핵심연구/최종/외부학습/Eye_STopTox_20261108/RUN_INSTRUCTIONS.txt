@@ -1,0 +1,51 @@
+This directory is the final, strict-screened experiment. The sibling directory
+external_aux_20261108T1705 contains a superseded, interrupted preliminary run.
+Do not combine its predictions with this directory or call it a completed result.
+
+All commands use the same local Python environment recorded in environment.json.
+The original production input, code, notebook and completed results are read-only.
+
+Reading completed results does not require retraining:
+  RESULTS.txt
+  eye_external_auxiliary_validation.ipynb (executed outputs included)
+  paired_summary.csv / paired_delta_by_seed.csv
+  external_validation_audit.json
+  verification.json / artifact_checksums.json
+
+To reproduce in a NEW sibling directory under eye/claude:
+1. Copy only the .py scripts and the sources directory into that new directory.
+   Do not copy checkpoints, .running locks, or generated result tables.
+2. Run from that new directory, in this order:
+   python -B prepare.py
+   python -B review_cosmetics.py
+   python -B analyze_cases.py
+   python -B verify_transfer.py --preparation-only
+   python -B run_transfer.py --workers 10
+   python -B verify_transfer.py
+   python -B build_report.py
+3. Compare file identities and numerical results. The protected input/source code
+   hashes and installed package versions must match the saved production config.
+
+The original source paths are fixed in common.py and the original Eye harness.
+The source snapshot includes the government inventory used for the additional
+UVCB/polymer exclusions. Reproduction itself makes no network requests.
+
+run_transfer.py can resume candidate and outer checkpoints with matching identity.
+Its exclusive transfer.running file prevents duplicate execution. If a process
+was interrupted externally, verify that its recorded PID and workers have ended
+before recovering the stale lock. Never remove a lock for an active experiment.
+prepare.py and final report writers deliberately refuse to overwrite artifacts;
+use a fresh sibling directory for a clean rerun.
+
+Interpretation:
+- 606 existing target observations are evaluated; 67 augmentation rows train only.
+- The no-external-training control is the original CONCENTRATION arm (2269 features).
+- LR/SVM/LightGBM are the three downstream families in this new comparison.
+- Same fold indices and threshold SE/SP-gap selection rule; arm-specific cutoffs.
+- Original production's six-model / 360-job experiment is preserved, not relabelled.
+- STopTox GHS observations train a new fixed component-score model; no EPA labels
+  are assigned to these source chemicals and no old ChemBERTa weights are used.
+- Source internal CV metrics are diagnostic, not independent external performance.
+- Cosmetic candidate observations never enter learning/tuning/threshold selection.
+- Original-study linkage and inventory coverage remain incomplete; this is a
+  bounded empirical transfer experiment, not proof of universal source independence.

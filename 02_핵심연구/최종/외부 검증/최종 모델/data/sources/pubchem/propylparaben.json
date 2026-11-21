@@ -1,0 +1,15 @@
+{
+  "request_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/94-13-3/property/ConnectivitySMILES,InChIKey,MolecularFormula/JSON",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 7175,
+          "MolecularFormula": "C10H12O3",
+          "ConnectivitySMILES": "CCCOC(=O)C1=CC=C(C=C1)O",
+          "InChIKey": "QELSKZZBTMNZEB-UHFFFAOYSA-N"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,434 @@
+US EPA - Label Review Manual (https://www.epa.gov/sites/production/files/documents/label-review-manual.pdf)
+citeturn41view0 [wordlim: 200] Crawled: 5 days ago; Content type: application/pdf; Number of pages: 265; Source: find({"ref_id":"https://www.epa.gov/sites/production/files/documents/label-review-manual.pdf","pattern":"Table 7. Typical Statements"}); Total lines: 9315
+L2272@P73: combined to form a concise paragraph. Repetitious sentences should be omitted. In
+L2273@P73: cases where the toxicity categories are not known, the precautionary labeling must be
+L2274@P73: consistent with the signal word.
+L2275@P73: 6. Related Information. Hazards to Humans and Domestic Animals statements must be
+L2276@P73: appropriate for all uses on the label. These statements must be consistent with each use
+L2277@P73: pattern listed on the label. No statement should be used that is reasonably beyond the
+L2278@P73: control of the typical applicator. Hazards to Humans and Domestic Animals statements
+L2279@P73: must not require use of specialized equipment which would not be readily available to
+L2280@P73: the typical user of the product.
+L2281@P73: 7. Products that contain greater than 4% Methanol. If the product contains 4% or more
+L2282@P73: of methanol, the Agency believes that in order to mitigate potential risk the following
+L2283@P73: statement should be added to the label:
+L2284@P73: “Methanol may cause blindness”.
+L2285@P73: Table 3. Typical Statements for Acute Oral Toxicity
+L2286@P73: Toxicity
+L2287@P73: Category
+L2288@P73: Signal Word Statements
+L2289@P73: I DANGER-POISON
+L2290@P73: Skull &
+L2291@P73: Crossbones
+L2292@P73: required
+L2293@P73: Fatal if swallowed. Wash thoroughly with soap and water after
+L2294@P73: handling and before eating, drinking, chewing gum, using
+L2295@P73: tobacco or using the toilet.
+L2296@P73: II WARNING May be fatal if swallowed. Wash thoroughly with soap and water
+L2297@P73: after handling and before eating, drinking, chewing gum, using
+L2298@P73: tobacco or using the toilet.
+L2299@P73: III CAUTION Harmful if swallowed. Wash thoroughly with soap and water after
+L2300@P73: handling and before eating, drinking, chewing gum, using
+L2301@P73: tobacco or using the toilet.
+L2302@P73: IV CAUTION
+L2303@P73: (optional)
+L2304@P73: No statements are required. However, the registrant may choose
+L2305@P73-74: to use category III labeling.Label Review Manual
+L2306@P74: Chapter 7: Precautionary Statements 7-7
+L2307@P74: Table 4. Typical Statements for Acute Dermal Toxicity
+L2308@P74: Toxicity
+L2309@P74: Category
+L2310@P74: Signal Word Statements
+L2311@P74: I DANGER-POISON
+L2312@P74: Skull &
+L2313@P74: Crossbones
+L2314@P74: required
+L2315@P74: Fatal if absorbed through skin. Do not get in eyes, on skin, or on
+L2316@P74: clothing. Wash thoroughly with soap and water after handling and
+L2317@P74: before eating, drinking, chewing gum, using tobacco or using the
+L2318@P74: toilet. Wear (specify appropriate protective clothing). Remove and
+L2319@P74: wash contaminated clothing before reuse.
+L2320@P74: II WARNING May be fatal if absorbed through skin. Do not get in eyes, on skin,
+L2321@P74: or on clothing. Wash thoroughly with soap and water after
+L2322@P74: handling and before eating, drinking, chewing gum, using tobacco
+L2323@P74: or using the toilet. Wear (specify appropriate protective clothing).
+L2324@P74: Remove and wash contaminated clothing before reuse.
+L2325@P74: III CAUTION Harmful if absorbed through skin. Avoid contact with skin, eyes or
+L2326@P74: clothing. Wash thoroughly with soap and water after handling and
+L2327@P74: before eating, drinking, chewing gum, using tobacco or using the
+L2328@P74: toilet. Remove and wash contaminated clothing before reuse.
+L2329@P74: Wear (specify any appropriate protective clothing, if appropriate).
+L2330@P74: IV CAUTION
+L2331@P74: (optional)
+L2332@P74: No statements are required. However, the registrant may choose
+L2333@P74: to use category III labeling.
+L2334@P74: Table 5. Typical Statements for Acute Inhalation Toxicity
+L2335@P74: Toxicity
+L2336@P74: Category
+L2337@P74: Signal Word Statements
+L2338@P74: I DANGER-POISON
+L2339@P74: Skull &
+L2340@P74: Crossbones
+L2341@P74: required
+L2342@P74: Fatal if inhaled. Do not breathe (dust, vapor, or spray mist).*
+L2343@P74: Wear (specify appropriate respiratory protection from Table 5,
+L2344@P74: Chapter 10). Remove and wash contaminated clothing before
+L2345@P74: reuse.
+L2346@P74: II WARNING May be fatal if inhaled. Do not breathe (dust, vapor or spray
+L2347@P74: mist).* Wear (specify appropriate respiratory protection from
+L2348@P74: Table 5, Chapter 10). Remove and wash contaminated clothing
+L2349@P74: before reuse.
+L2350@P74: III CAUTION Harmful if inhaled. Avoid breathing (dust, vapor or spray mist).*
+L2351@P74: Remove and wash contaminated clothing before reuse.
+L2352@P74: IV CAUTION
+L2353@P74: (optional)
+L2354@P74: No statements are required. However, the registrant may choose
+L2355@P74: to use category III labeling.
+L2356@P74-75: * Choose the word which appropriately describes the product during use. Label Review Manual
+L2357@P75: Chapter 7: Precautionary Statements 7-8
+L2358@P75: Table 6. Typical Statements for Primary Eye Irritation
+L2359@P75: Toxicity
+L2360@P75: Category
+L2361@P75: Signal Word Statements
+L2362@P75: I DANGER Corrosive.* Causes irreversible eye damage. Do not get in eyes or
+L2363@P75: on clothing. Wear (specify appropriate protective eyewear such as
+L2364@P75: goggles, face shield, or safety glasses). Wash thoroughly with soap
+L2365@P75: and water after handling and before eating, drinking, chewing gum,
+L2366@P75: using tobacco or using the toilet. Remove and wash contaminated
+L2367@P75: clothing before reuse.
+L2368@P75: II WARNING Causes substantial but temporary eye injury. Do not get in eyes or
+L2369@P75: on clothing. Wear (specify appropriate protective eyewear such as
+L2370@P75: goggles, face shield, or safety glasses). Wash thoroughly with soap
+L2371@P75: and water after handling and before eating, drinking, chewing gum,
+L2372@P75: using tobacco or using the toilet. Remove and wash contaminated
+L2373@P75: clothing before reuse.
+L2374@P75: III CAUTION Causes moderate eye irritation. Avoid contact with eyes or clothing.
+L2375@P75: Wear (specify protective eyewear, if appropriate). Wash thoroughly
+L2376@P75: with soap and water after handling and before eating, drinking,
+L2377@P75: chewing gum, using tobacco or using the toilet.
+L2378@P75: IV CAUTION
+L2379@P75: (optional)
+L2380@P75: No statements are required. However, the registrant may choose to
+L2381@P75: use category III labeling.
+L2382@P75: *The term “corrosive” is not required if corrosive effects were not observed during the study.
+L2383@P75: Table 7. Typical Statements for Primary Skin Irritation
+L2384@P75: Toxicity
+L2385@P75: Category
+L2386@P75: Signal Word Statements
+L2387@P75: I DANGER Corrosive. Causes skin burns. Do not get in eyes, on skin, or on
+L2388@P75: clothing. Wear (specify appropriate protective clothing and gloves).
+L2389@P75: Wash thoroughly with soap and water after handling and before
+L2390@P75: eating, drinking, chewing gum, using tobacco or using the toilet.
+L2391@P75: Remove and wash contaminated clothing before reuse.
+L2392@P75: II WARNING Causes skin irritation. Do not get on skin or on clothing. Wear
+L2393@P75: (specify appropriate protective clothing and gloves). Wash
+L2394@P75: thoroughly with soap and water after handling and before eating,
+L2395@P75: drinking, chewing gum, using tobacco or using the toilet. Remove
+L2396@P75: and wash contaminated clothing before reuse.
+L2397@P75: III CAUTION Avoid contact with skin or clothing. Wash thoroughly with soap and
+L2398@P75: water after handling and before eating, drinking, chewing gum,
+L2399@P75: using tobacco or using the toilet. Wear (specify protective clothing
+L2400@P75: and gloves, if appropriate).
+L2401@P75: IV CAUTION
+L2402@P75: (optional)
+L2403@P75: No statements are required. However, the registrant may choose to
+L2404@P75-76: use category III labeling.Label Review Manual
+L2405@P76: Chapter 7: Precautionary Statements 7-9
+L2406@P76: Table 8. Typical Statements for Dermal Sensitization*
+L2407@P76: Study Results Statement
+L2408@P76: Product is a sensitizer or is positive for
+L2409@P76: sensitization
+L2410@P76: Prolonged or frequently repeated skin contact may
+L2411@P76: cause allergic reactions in some individuals.
+L2412@P76: Product is not a sensitizer or is negative
+L2413@P76: for sensitization
+L2414@P76: No labeling is required for this result.
+L2415@P76: *A positive dermal sensitization study for a category IV product does not trigger a PPE requirement.
+L2416@P76: E. Personal Protective Equipment (PPE)
+L2417@P76: PPE requirements are specified for uses covered under the Worker Protection Standard
+L2418@P76: (WPS), but there are no regulatory requirements for non-WPS products, products used by
+L2419@P76: residents, or products intended only for manufacturing use. However, to protect human
+L2420@P76: health, the following guidance is offered.
+L2421@P76: 1. For Non-WPS (Industrial/Commercial) Uses. While there are no regulatory
+L2422@P76: requirements that demand PPE for non-WPS products, many states test applicators for
+L2423@P76: their comprehension regarding what types of PPE are used and how to use it correctly,
+L2424@P76: however, this training and testing is normally only done for users of RUPs, not
+L2425@P76: unclassified pesticides. Label reviewers should ensure that adequate, understandable
+L2426@P76: language regarding the types of PPE that should be worn for the product’s hazards is
+L2427@P76: included in any label, whether RUP or unclassified. In cases where the reviewers
+L2428@P76: determine PPE would be necessary, the various PPE tables in Chapter 10 provide
+L2429@P76: information about which PPE is protective in specific circumstances. If there is an
+L2430@P76: applicable regulatory document which specifies PPE requirements based on concerns
+L2431@P76: specific to the active ingredient then those PPE requirements must be placed on the
+L2432@P76: label.
+L2433@P76: 2. For Products used by Residents/Consumers. In order to protect human health, label
+L2434@P76: reviewers should review the toxicity data and the product’s uses to determine whether
+L2435@P76: PPE would be necessary to meet the standards for registration. In cases where the
+L2436@P76: reviewers determine PPE would be necessary, the PPE tables in Chapter 10 provide
+L2437@P76: information about which PPE is protective in specific circumstances. In some cases, the
+L2438@P76: PPE indicated in these tables may need to be modified; for example, to fit the
+L2439@P76: consumer’s ability to acquire it. For example, “shoes” may need to be substituted for
+L2440@P76: “chemical resistant footwear” or “safety glasses” may need to be substituted for
+L2441@P76: “protective eyewear”. If there is an applicable regulatory document which specifies PPE
+L2442@P76: requirements based on concerns specific to the active ingredient then those PPE
+L2443@P76-77: requirements must be placed on the label. Label Review Manual
+L2444@P77: Chapter 7: Precautionary Statements 7-10
+L2445@P77: F. First Aid Statements
+L2446@P77: 1. When Required. A First Aid statement is required when any acute toxicity study result
+L2447@P77: is classified as category I, II, or III. It is acceptable, but not required, for the registrant to
+L2448@P77: include First Aid statements for products that are classified as category IV.
+L2449@P77: 2. Appropriate Headers. The first aid statements appear under either of the following
+L2450@P77: headings: “First Aid” or “Statements of Practical Treatment”. (PR Notice 2001-1). The
+L2451@P77: heading “First Aid” is preferred by the Agency. In addition, EPA historically has not
+L2452@P77: allowed the heading “Antidote” in conjunction with the first aid statements unless a
+L2453@P77: specific antidote is necessary.
+L2454@P77: 3. Location and Prominence. First Aid statements shall appear on the front panel of the
+L2455@P77: label for all products classified as toxicity category I (40 CFR 156.68). The Agency
+L3274@P101: such as most dust or granular formulations, pellets/tablets (baits), impregnated materials, etc.
+L3275@P101: If the CSF indicates “not applicable” or “N/A for flammability”, you may skip this section.
+L3276@P101: Table 1. Typical Statements for Flammable Products
+L3277@P101: Criteria Required Text
+L3278@P101: (A) Pressurized Products
+L3279@P101: Flash point at or below 20°F
+L3280@P101: (-7°C) or if there is a
+L3281@P101: flashback at any valve
+L3282@P101: opening
+L3283@P101: Extremely flammable. Contents under pressure. Keep away from
+L3284@P101: fire, sparks, and heated surfaces. Do not puncture or incinerate
+L3285@P101: container. Exposure to temperatures above 130°F may cause
+L3286@P101: bursting.
+L3287@P101: Flash point above 20°F (-
+L3288@P101: 7°C)to 80°F (27°C) or if the
+L3289@P101: flame extension is greater
+L3290@P101: than 18 inches long at a
+L3291@P101: distance of 6 inches from the
+L3292@P101: flame
+L3293@P101: Flammable. Contents under pressure. Keep away from heat,
+L3294@P101: sparks, and open flame. Do not puncture or incinerate container.
+L3295@P101: Exposure to temperatures above 130°F may cause bursting.
+L3296@P101: All other pressurized
+L4099@P118: product labeling. For guidance on which PPE is considered more protective, consult
+L4100@P118: Table 7.
+L4101@P118: Note: All end-use occupational use products (WPS or non-WPS) must have the
+L4102@P118-119: minimum baseline handler PPE of long-sleeved shirt, long pants and socks and shoes. Label Review Manual
+L4103@P119: Chapter 10: Worker Protection Labeling 10-13
+L4104@P119: Table 7. Guide to Selecting the Most Protective Handler PPE Level of Protection
+L4105@P119: Type of PPE Minimum
+L4106@P119: Required
+L4107@P119: Next Highest
+L4108@P119: Level of
+L4109@P119: Protection
+L4110@P119: Next Highest
+L4111@P119: Level of
+L4224@P121: documents also require User Safety Recommendations for Non-WPS occupational use
+L4225@P121: products. Although the registrant may include any appropriate user safety recommendations
+L4226@P121: on their label, below are some typical statements required by the regulatory assessment
+L4227@P121: documents or found on many products.
+L4228@P121: Example of a User Safety Recommendations Box showing sample
+L4229@P121: language:
+L4230@P121: “User Safety Recommendations”
+L4231@P121: “Users should remove clothing/PPE immediately if pesticide gets inside. Then
+L4232@P121: wash thoroughly and put on clean clothing”.
+L4233@P121: “Users should remove PPE immediately after handling this product. Wash the
+L4234@P121: outside of gloves before removing. As soon as possible, wash thoroughly and
+L4235@P121: change into clean clothing”.
+L4236@P121: VII. Directions for use
+L4237@P121: For products subject to the WPS, there are four types of worker protection statements that
+L4238@P121: generally appear in the Directions for Use of a label. They are as follows:
+L4239@P121: A. Required Statements;
+--------------------------------------------------------------------------------
+US EPA, Pesticide Product Label, SIVAD FLEA & TICK SHAMPOO,09/10/2015 (https://www3.epa.gov/pesticides/chem_search/ppls/069061-00012-20150910.pdf)
+citeturn41view1 [wordlim: 200] Crawled: 3 weeks ago; Content type: application/pdf; Number of pages: 5; Source: find({"ref_id":"https://www3.epa.gov/pesticides/chem_search/ppls/069061-00012-20150910.pdf","pattern":"skin irritation"}); Total lines: 170
+L52@P2: Re-Registration_Master Label, dated March 23, 2015
+L53@P2: Page 1 of 3
+L54@P2: [FRONT PANEL]
+L55@P2: SIVAD
+L56@P2:  Flea & Tick Shampoo™
+L57@P2: FOR DOGS, CATS AND HORSES
+L58@P2: Kills fleas and ticks through contact
+L59@P2: ACTIVE INGREDIENTS:
+L60@P2:  Pyrethrins (CAS# 8003-34-7) ............................................... 0.15%
+L61@P2:  Piperonyl Butoxide* (CAS# 51-03-6) .................................... 0.30%
+L62@P2:  N-Octyl bicycloheptene dicarboximide**
+L63@P2:  (CAS # 113-48-4) ................................................................ 0.50%
+L64@P2: OTHER INGREDIENTS ........................................................ 99.05%
+L65@P2: TOTAL ................................................................................ 100.00%
+L66@P2: * (butyl carbityl) (6-propylpiperonyl) ether and related compounds
+L67@P2: ** MGK®
+L68@P2:  264 Insecticide Synergist
+L69@P2: KEEP OUT OF REACH OF CHILDREN
+L70@P2: WARNING
+L71@P2:  SEE [SIDE] [OTHER] [BACK] PANEL FOR [ADDITIONAL] PRECAUTIONARY STATEMENTS
+L72@P2: EPA REG. NO. 69061-12
+L73@P2: EPA Est. No. 50591-GA-01
+L74@P2: Manufactured by:
+L75@P2: Davis Manufacturing and Packaging Inc.
+L76@P2: 541 Proctor Avenue
+L77@P2: Scottdale, GA 30079
+L78@P2:  800-292-2424
+L79@P2: www.davismfg.com
+L80@P2: Net Contents:
+L81@P2: Batch code:/Lot No.:
+L82@P2: Sep 10, 2015
+L83@P2-3: 69061-12NOTE to Reviewer: (parenthetical text is informational); [bracketed text is optional or alternate wording].
+L84@P3: Sivad Flea & Tick Shampoo (EPA Reg. No. 69061-12)
+L85@P3: Re-Registration_Master Label, dated March 23, 2015
+L86@P3: Page 2 of 3
+L87@P3: [SIDE PANEL]
+L88@P3: Sivad Flea & Tick Shampoo kills fleas and ticks on dogs and cats over 12 weeks of age and on
+L89@P3: horses. It cleans and conditions while leaving the coat shiny and smelling fresh.
+L90@P3: PRECAUTIONARY STATEMENTS
+L91@P3: HAZARDS TO HUMANS AND DOMESTIC ANIMALS
+L92@P3: WARNING
+L93@P3: Causes substantial but temporary eye injury. Causes skin irritation. Do not get in eyes, on skin or
+L94@P3: clothing. Wear goggles or face shield. Harmful if inhaled. Avoid breathing vapors or spray mist.
+L95@P3: Wash thoroughly with soap and water after handling and before eating, drinking, chewing gum,
+L96@P3: using tobacco or using the toilet. Remove clothing immediately if pesticide gets inside. Then wash
+L97@P3: thoroughly and put on clean clothing. Remove and wash contaminated clothing before reuse.
+L98@P3: Wear long-sleeved shirt, long pants, socks plus shoes and chemical-resistant gloves.
+L99@P3: PHYSICAL OR CHEMICAL HAZARDS
+L100@P3: Combustible: Do not use or store near heat or open flame.
+L101@P3: FIRST AID
+L102@P3: IF IN
+L103@P3: EYES
+L104@P3: x Hold eye open and rinse slowly and gently with water for 15-20
+L105@P3: minutes.
+L106@P3: x Remove contact lenses, if present, after the first 5 minutes, then
+L107@P3: continue rinsing eyes.
+L108@P3: x Call a poison control center or doctor for treatment advice.
+L109@P3: IF ON SKIN OR
+L110@P3: ON CLOTHING
+L111@P3: x Take off contaminated clothing immediately.
+L112@P3: x Rinse skin immediately with plenty of water for 15-20 minutes.
+L113@P3: x Call a poison control center or doctor for further treatment advice.
+L114@P3: IF
+L115@P3: INHALED
+L116@P3: x Move person to fresh air.
+L117@P3: x If person is not breathing, call 911 or an ambulance. Then give
+L118@P3: artificial respiration, preferably mouth to mouth if possible.
+L119@P3: x Call a poison control center or doctor for treatment advice.
+L120@P3: Have a product container or label with you when calling a poison control center or doctor, or going
+L121@P3: for treatment. For additional information on this product (including health concerns, medical
+L122@P3: emergencies or pesticide incidents) you may call 1-888-740-8712 or the National Pesticide
+L123@P3: Information Center at 1-800-858-7378.
+L124@P3: DIRECTIONS FOR USE
+L125@P3: It is a violation of Federal law to use this product in a manner inconsistent with its labeling.
+L126@P3: Use Restrictions
+L127@P3: Apply this product only as specified on this label. Do not repeat treatment for 7 days. Do not apply to pets
+L128@P3: less than 12 weeks old. Consult a veterinarian before applying this product on medicated, debilitated, aged,
+L129@P3: pregnant or nursing animals. Certain medications can interact with pesticides. Consult a veterinarian before
+L130@P3: using on medicated animals. Sensitivities may occur after using ANY pesticide product for pets. If signs of
+L131@P3: sensitivity occur, bathe your pet with mild soap and water and rinse with large amounts of water. If signs
+L132@P3-4: continue, consult a veterinarian immediately. NOTE to Reviewer: (parenthetical text is informational); [bracketed text is optional or alternate wording].
+L133@P4: Sivad Flea & Tick Shampoo (EPA Reg. No. 69061-12)
+L134@P4: Re-Registration_Master Label, dated March 23, 2015
+L135@P4: Page 3 of 3
+L136@P4: READ ENTIRE LABEL BEFORE EACH USE.
+L137@P4: USE ONLY ON DOGS, CATS AND HORSES.
+L138@P4: USE ONLY IN A WELL VENTILATED AREA.
+L139@P4: HOW TO USE: For use on dogs, cats and horses for the control of fleas and ticks. Wet the animal’s coat for
+L140@P4: 2-3 minutes with warm water. Apply shampoo on head and ears and lather. Then repeat procedure with
+L141@P4: neck, chest, middle and hindquarters, finishing with the legs last and paying special attention to the
+--------------------------------------------------------------------------------
+US EPA, Pesticide Product Label, PYROCIDE FLEA & TICK SHAMPOO 51921, 12/24/2013 (https://www3.epa.gov/pesticides/chem_search/ppls/001021-01723-20131224.pdf)
+citeturn41view2 [wordlim: 200] Crawled: last month; Content type: application/pdf; Number of pages: 5; Source: find({"ref_id":"https://www3.epa.gov/pesticides/chem_search/ppls/001021-01723-20131224.pdf","pattern":"skin irritation"}); Total lines: 324
+L207@P3: [Kills Fleas and Ticks on contact]
+L208@P3: [Leaves pet smelling fresh and clean]
+L209@P3: [Leaves no sticky residue on your(oet]
+L210@P3: [Leaves pet's coat shiny clean] c r. ?
+L211@P3: [Cleans and conditions pet's coatf
+L212@P3:  r
+L213@P3: t
+L214@P3: r (
+L215@P3: c e
+L216@P3: '- C <
+L217@P3: (
+L218@P3: . c
+L219@P3: c r c f
+L220@P3: r c
+L221@P3: c c c r .
+L222@P3: 0.150%
+L223@P3: 0.300%
+L224@P3: 0.479%
+L225@P3: 99.071%
+L226@P3: 100.000%
+L227@P3: f C I, C f
+L228@P3: * Equivalent to 0.240% (butylcarbityl) (6-propylpiperonyl) ether and 0.060% related
+L229@P3: compounds
+L230@P3: "MGK 264 Insecticide Synergist
+L231@P3: PYROCIDE® and MGK* - Registered trademarks of McLaughlin Gormley King Company
+L232@P3: KEEP OUT OF REACH OF CHILDREN
+L233@P3: WARNING
+L234@P3: FIRST AID
+L235@P3: IF IN EYES:
+L236@P3: IF ON SKIN OR CLOTHING:
+L237@P3: IF INHALED:
+L238@P3: Hold eye open and rinse slowly and gently with water for 15-20 minutes.
+L239@P3: Remove contact lenses, if present, after the first 5 minutes, then continue rinsing eyes.
+L240@P3: Call a poison control center or doctor for treatment advice.
+L241@P3: Take off contaminated clothing.
+L242@P3: Rinse skin immediately with plenty of water for 15-20 minutes.
+L243@P3: Call a poison control center or doctor for treatment advice.
+L244@P3: Move person to fresh air.
+L245@P3: If person is not breathing, call 91 1 or an ambulance. Then give artificial respiration, preferably mouth-to-mouth if
+L246@P3: possible.
+L247@P3: • Call a poison control center or doctor for further treatment advice.
+L248@P3: Have the product container or label with you when calling a poison control center or doctoror going for treatment. For information regarding medical
+L249@P3: emergencies or pesticide incidents, call 1-888-740-8712.
+L250@P3: Manufactured by
+L251@P3: MGK
+L252@P3: 8810 Tenth Avenue North
+L253@P3: Minneapolis, MN 55427
+L254@P3: DEC 2 4 2013
+L255@P3: EPA Reg. No. 1021-1723
+L256@P3: Net Contents:
+L257@P3: EPAEst. No. 1021-MN-2
+L258@P3: PRECAUTIONARY STATEMENTS
+L259@P3: HAZARDS TO HUMANS AND DOMESTIC ANIMALS
+L260@P3: WARNING
+L261@P3: Causes substantial but temporary eye injury. Causes skin irritation. Do not get in eyes, on skin, or clothing. Harmful if inhaled. Avoid breathing
+L262@P3: product vapor. If available, wear protective eyewear such as goggles or safety glasses. Wear gloves made out of any water proof material. Wash
+L263@P3: thoroughly with soap and water after handling and before eating, drinking, chewing gum, using tobacco, or using the toilet. Remove and wash
+L264@P3: contaminated clothing before reuse.
+L265@P3: PHYSICAL OR CHEMICAL HAZARDS
+L266@P3: Combustible. Do not use or store near heat or open flame.
+L267@P3-4: 51921_1021-1723_1113 Page 1 of 2DIRECTIONS FOR USE
+L268@P4: It is a violation of Federal Law to use this product
+L269@P4: in a manner inconsistent with its labeling.
+L270@P4: READ ENTIRE LABEL BEFORE EACH USE. USE ONLY ON HORSES, FERRETS, DOGS, and CATS. Follow all precautions and directions.
+L271@P4: [SHAKE WELL BEFORE USE]
+L272@P4: For use on Horses, Ferrets, Dogs, Cats, Puppies^and Kittens over the age of 12 weeks for control of Fleas and Ticks. Do not repeat treatment for 7
+L273@P4: "days. "DoTiot use on puppies and kittens under 12 weeks. Consult a veterinarian before using this product on debilitated, aged, pregnant, orfiursing
+L274@P4: animals. Sensitivities may occur using any pesticide product for pets. If signs of sensitivity occur, bathe your pet with mild soap and rinse with large
+L275@P4: amounts of water. If signs continue, consult a veterinarian immediately. r < t
+L276@P4: r crc ( r
+L277@P4: c •
+L278@P4: HOW TO USE: Wet the animal's coat for 2-3 minutes with warm water. Apply shampoo on head and ears and lather. Then repeatcprocedure with
+L279@P4: neck, chest, and middle and hindquarters, finishing legs last and paying special attention to the footpads (between the toes) and uoderboe'y aVeas.
+L280@P4: Wash the head and ear areas carefully, making sure to keep the shampoo out of the animal's eyes. NOTE: A drop tof glycerin in eachce
+L281@P4: r
+L282@P4: ye before
+L283@P4: bathing may prevent or reduce irritation if the shampoo gets in the animal's eyes. Pay special attention to the base:.of'tSeTail,-as it is a'place
+L284@P4: frequented by fleas. Fully lather animal and let lather remain on animal for 5 minutes before rinsing thoroughly with* water/'NOTE^TlTis^final step is an
+L285@P4: important part of grooming procedure. tcrcr r c<r,- r ,
+L286@P4: For small dogs and cats less than 15 pounds, wrapping the animal in a towel for several minutes to absorb moistur°-ir.revised. This'alsc wil^allow
+L287@P4: dying fleas and ticks to crawl off animal into towel before drying animal with a towel or blow dryer. < c c t c '' •
+L288@P4: Flea and tick control on the animal is only part of the solution to the problem. The inside of the house and the outdoor area usedjb^ttje'ranimal must
+L289@P4: also be treated for complete control.
+L290@P4:  c
+L291@P4: <• c
+L292@P4: STORAGE AND DISPOSAL <•><•< •
+L293@P4: Do not contaminate water, food, or feed by storage and disposal.
+L294@P4: Pesticide Storage:
+L295@P4: Store in a cool dry area. Always store pesticides in the original container. Store away from food and pet food.-
+L296@P4: Pesticide Disposal and Container Handling:
+L297@P4: Nonrefillable container. Do not'reuse or refill this container.
+L298@P4: If empty:
+L299@P4: Place in trash or offer for recycling if available.
+L300@P4: If partly filled:
+L301@P4: Call your local solid waste agency for disposal instructions. Never place unused product down any indoor or outdoor drain.
+L302@P4: [Optional storage and disposal for containers larger than 5 gallon capacity:]
+L303@P4: STORAGE AND DISPOSAL
+L304@P4: Do not contaminate water,' food or feed by storage and disposal.
+L305@P4: PESTICIDE STORAGE: Store in a cool, dry place. Keep container closed.
+

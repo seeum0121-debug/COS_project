@@ -1,0 +1,45 @@
+{
+  "cases": [
+    {
+      "document_id": 277977,
+      "title": "Body Spray",
+      "tier": "primary_cosmetic",
+      "represented_cas": [
+        "64-17-5",
+        "7732-18-5"
+      ],
+      "omitted_reason": "Ethoxylated hydrogenated castor oil is a distributed mixture; no single structure is assigned.",
+      "reason": "Three reported components; two discrete structures; source amount ranges for all components."
+    },
+    {
+      "document_id": 281340,
+      "title": "Nail Polish",
+      "tier": "primary_cosmetic",
+      "represented_cas": [
+        "123-86-4",
+        "141-78-6",
+        "67-63-0"
+      ],
+      "omitted_reason": "Nitrocellulose is a polymer of unspecified chain length/nitration; no surrogate structure.",
+      "reason": "Four reported components; three discrete solvents; source amount ranges for all components."
+    },
+    {
+      "document_id": 277611,
+      "title": "Bath Fizz",
+      "tier": "supplementary_title_only",
+      "represented_cas": [
+        "77-92-9",
+        "144-55-8",
+        "7757-82-6"
+      ],
+      "omitted_reason": "Nonoxynol-10 is a distributed ethoxylated mixture; no single structure is assigned.",
+      "reason": "Four reported components; three discrete identities; source amount ranges for all components. Supplementary title-only cosmetics screen."
+    }
+  ],
+  "selection": "Purposive demonstrations, not a representative product sample or score-based selection.",
+  "score_scope": "ONLY normalized resolved ingredient subset. No whole-product safety or irritation classification.",
+  "mass_constraint": "Sum of represented amounts plus omitted component lower bounds <= 1. Unreported remainder stays unknown.",
+  "salt_representation": "Retain full ionic SMILES for Morgan bits; saved model uses largest fragment descriptors. Do not simulate solution chemistry.",
+  "interactions": "Model has no explicit pH, reaction, aerosol exposure, polymer grade or molecular interaction inputs.",
+  "completeness": "None of these three cases has a fully structure-resolved product representation; all are conditional sensitivity cases."
+}

@@ -1,0 +1,225 @@
+Addendum to the Prospective and Retrospective Evaluation of the Eye Irritation Potential of Agrochemical Formulations (January 2025) (https://ntp.niehs.nih.gov/sites/default/files/2025-01/Phase3_FormulationRpt_FD_Jan2025_508.pdf)
+citeturn32view0 [wordlim: 200] Crawled: 4 days ago; Content type: application/pdf; Number of pages: 39; Source: open({"ref_id":"https://ntp.niehs.nih.gov/sites/default/files/2025-01/Phase3_FormulationRpt_FD_Jan2025_508.pdf","lineno":239}); Total lines: 1295
+L193@P10: technical and scientific support for the Interagency Coordinating Committee on the Validation of
+L194@P10: Alternative Methods (ICCVAM) and ICCVAM workgroup activities, peer review panels, expert
+L195@P10: panels, workshops, and validation efforts.
+L196@P10: In addition to providing support for ICCVAM, NICEATM:
+L197@P10: • Supports NTP activities, especially those contributing to the U.S. government’s
+L198@P10: interagency Tox21 initiative.
+L199@P10: • Conducts analyses and evaluations and coordinates independent validation studies on
+L200@P10: novel and high-priority alternative testing approaches.
+L201@P10: • Provides information to test method developers, regulators, and regulated industry
+L202@P10: through its website and workshops on topics of interest.
+L203@P10: NICEATM’s activities are guided in part by the “Strategic Roadmap for Establishing New
+L204@P10: Approaches to Evaluate the Safety of Chemicals and Medical Products in the United States”
+L205@P10: issued by ICCVAM in 2018. One objective articulated in the Strategic Roadmap was that
+L206@P10: ICCVAM agencies would utilize public-private partnerships to promote cross-sector
+L207@P10: communication and cooperation. An implementation plan developed for the Strategic Roadmap
+L208@P10: stated that NICEATM, ICCVAM, and collaborators would advance the use of integrated
+L209@P10: approaches to testing and assessment and defined approaches to enable prediction of skin and
+L210@P10: eye irritation hazard. The project described in this report was undertaken to address both of these
+L211@P10-11: objectives.Eye Irritation Potential of Agrochemical Formulations January 2025
+L212@P11: 1
+L213@P11: 1. INTRODUCTION
+L214@P11: This report serves as an addendum to the NIEHS report, “Prospective and
+L215@P11: Retrospective Evaluation of the Eye Irritation Potential of Agrochemical
+L216@P11: Formulations” (Choksi et al., 2021) describing the two-phased evaluation of
+L217@P11: agrochemical formulations conducted previously. Herein we describe a third phase of
+L218@P11: prospective studies conducted to evaluate the usefulness and limitations of a group of
+L219@P11: in vitro test methods1 that could potentially be combined into a defined approach to
+L220@P11: assign hazard classification and personal protective equipment (PPE) labeling for eye
+L221@P11: irritation potential based on the United Nations Globally Harmonized System for
+L222@P11: Classification and Labeling of Chemicals (GHS) and U.S. Environmental Protection
+L223@P11: Agency (EPA) hazard classification systems (EPA, 2004; United Nations, 2019;
+L224@P11: Table 1). While the scope of this report is focused on the methods and results
+L225@P11: associated with Phase 3 prospective testing, we have also included results from
+L226@P11: Phases 1 and 2 to provide a comprehensive view of the full study results in one place.
+L227@P11: By doing so, we can provide the results used for analyses and interpretation of the full
+L228@P11: data set generated throughout all phases of this study. Given the recognized
+L229@P11: limitations of the in vivo test method (Clippinger et al., 2021; Luechtefeld et al.,
+L230@P11: 2016), particularly with respect to mild and moderate irritants, we have not included
+L231@P11: concordance analyses herein but instead provided results that can be assessed across
+L232@P11: all assays included in all three study phases.
+L233@P11: 1
+L234@P11: The phrase “in vitro test method” encompasses test methods where living tissues are taken directly
+L235@P11: from a living organism and tested outside the natural conditions (i.e., ex vivo test method) and where
+L236@P11: replicate biological matter (e.g., cell lines) outside of a living organism is tested (i.e., in vitro test
+L237@P11-12: method).Eye Irritation Potential of Agrochemical Formulations January 2025
+L238@P12: 2
+L239@P12: Table 1. EPA and GHS Ocular Irritation Classification Systems
+L240@P12: EPA
+L241@P12: Category
+L242@P12: EPA
+L243@P12: Classificationa
+L244@P12: EPA PPE
+L245@P12: Requirement
+L246@P12: GHS
+L247@P12: Category
+L248@P12: GHS
+L249@P12: Classificationb
+L250@P12: GHS PPE
+L251@P12: Requirement
+L252@P12: I
+L253@P12: Corrosive
+L254@P12: (irreversible
+L255@P12: destruction of
+L256@P12: ocular tissue), or
+L257@P12: corneal involvement
+L258@P12: or irritation lasting
+L259@P12: for more than 21
+L260@P12: days after
+L261@P12: administration of
+L262@P12: substance
+L263@P12: Eye protection 1
+L264@P12: Effects on the
+L265@P12: cornea, iris, or
+L266@P12: conjunctiva that are
+L267@P12: not expected to
+L268@P12: reverse or do not
+L269@P12: fully reverse within
+L270@P12: 21 days
+L271@P12: Eye protection
+L272@P12: II
+L273@P12: Corneal
+L274@P12: involvement or
+L275@P12: irritation clearing in
+L276@P12: 8 to 21 days after
+L277@P12: administration of
+L278@P12: substance
+L279@P12: Eye protection 2A
+L280@P12: Effects on the
+L281@P12: cornea, iris, or
+L282@P12: conjunctiva that
+L283@P12: fully reverse within
+L284@P12: 21 days
+L285@P12: Eye protection
+L286@P12: III
+L287@P12: Corneal
+L288@P12: involvement or
+L289@P12: irritation clearing in
+L290@P12: ≤7 days after
+L291@P12: administration of
+L292@P12: substance
+L293@P12: No minimumc 2B
+L294@P12: Effects on the
+L295@P12: cornea, iris, or
+L296@P12: conjunctiva that
+L297@P12: fully reverse within
+L298@P12: 7 days
+L299@P12: Eye protection
+L300@P12: IV
+L301@P12: Irritation clearing in
+L302@P12: <24 hours after
+L303@P12: administration of
+L304@P12: substance
+L305@P12: No minimumc NC
+L306@P12: No effects are
+L307@P12: produced, or
+L308@P12: minimal effects
+L309@P12: observed that do not
+L310@P12: lead to classification
+L311@P12: None noted
+L312@P12: a
+L313@P12: A positive response for the EPA classification system is defined as a corneal opacity or iritis score ≥1, or
+L314@P12: conjunctival redness or chemosis score ≥2 in a single animal at any observed time point up to 21 days after
+L315@P12: substance administration. bA Category 1 GHS classification is applied when a substance produces either (a) mean corneal opacity score ≥3
+L316@P12: or iritis score ≥1.5 (over Days 1, 2, and 3) in at least two of three tested animals or (b) a score >0 on Day 21. A
+L317@P12: Category 2A and 2B classification is applied when a substance produces either (a) mean corneal opacity or iritis
+L318@P12: score ≥1 or (b) conjunctival chemosis or conjunctival redness score ≥2 (over Days 1, 2, and 3) in at least two of
+L319@P12: three tested animals. c
+L320@P12: EPA may recommend inclusion of eye protection labelling for Category III substances, if deemed appropriate.
+L321@P12: Abbreviations: NC = not classified; PPE = personal protective equipment.
+L322@P12: As detailed previously (Choksi et al., 2021), PETA Science Consortium International
+L323@P12: e.V., CropLife America (CLA) companies, and NICEATM collaborated in Phases 1
+L324@P12: and 2 of this study to evaluate a set of 16 agrochemical formulations in a common set
+L325@P12: of in vitro eye irritation and corrosion test method protocols. Based on an assessment
+L326@P12: of those results, and considering other factors (e.g., the relevance of each method to
+L327@P12: humans, applicability to agrochemical formulations, inclusion in an Organisation for
+L328@P12: Economic Co-operation and Development [OECD] Test Guideline [TG]), the
+L329@P12: EpiOcular™ (EO) standard protocol and the bovine corneal opacity and permeability
+L330@P12: (BCOP) standard protocol (with histopathology) were selected to proceed with Phase
+L331@P12: 3, which expanded the number of mild and moderate irritant formulations tested (i.e.,
+L332@P12: formulations classified based on the in vivo rabbit test as GHS Category 2A or 2B, or
+L333@P12-13: EPA Category II or III). The common set of test methods included in the evaluation Eye Irritation Potential of Agrochemical Formulations January 2025
+L334@P13: 3
+L335@P13: was also expanded in Phase 3. In addition to the Phase 3 formulations, the 16
+L336@P13: formulations from Phases 1 and 2 were tested in the SkinEthic Time-to-Toxicity
+L337@P13: approach for liquids (TTL) and the EyeIRR-IS method. Additionally, 12 middle
+L338@P13: irritancy formulations were tested in the in vitro depth of injury (IVDoI) method.
+L339@P13: A total of 29 formulations with available historical in vivo test have been tested in as
+L340@P13: many as five in vitro eye irritation and corrosion test methods (Table 2). Hazard
+L341@P13: classifications based on each test method and associated decision criteria were used to
+L342@P13: assign the categories that were then used for determining the extent of agreement
+L343@P13: across all test methods.
+L344@P13: Table 2. Index of Prospective Testing Phase of Agrochemical Formulations in
+L345@P13: Non-Animal Methods
+L346@P13: Formulation
+L347@P13: Code
+L348@P13: Historical
+L349@P13: In Vivo
+L350@P13: Rabbit
+L351@P13: EPA
+L352@P13: Class.
+L353@P13: Historical
+L354@P13: In Vivo
+L355@P13: Rabbit
+L356@P13: GHS
+L357@P13: Class.
+L358@P13: BCOP EO TTL IVDoI EyeIRR-IS
+L359@P13: A IV NC Phase 1 Phase 1 Phase 3 IS Phase 3
+L360@P13: B IV NC Phase 1 Phase 1 Phase 3 IS Phase 3
+L361@P13: C IV NC Phase 1 Phase 1 Phase 3 IS Phase 3
+L362@P13: D I 1 Phase 1 Phase 1 Phase 3 IS Phase 3
+L363@P13: E I 1 Phase 1 Phase 1 Phase 3 IS Phase 3
+L364@P13: F I 1 Phase 1 Phase 1 Phase 3 IS Phase 3
+L365@P13: G I 1 Phase 2 Phase 2 Phase 3 IS Phase 3
+L366@P13: H I 1 Phase 2 Phase 2 Phase 3 IS Phase 3
+L367@P13: I I 1 Phase 2 Phase 2 Phase 3 IS Phase 3
+L368@P13: J I 1 Phase 2 Phase 2 Phase 3 IS Phase 3
+L369@P13: K II 2A Phase 2 Phase 2 Phase 3 IS Phase 3
+L370@P13: L III NC Phase 2 Phase 2 Phase 3 IS Phase 3
+L371@P13: M IV NC Phase 2 Phase 2 Phase 3 IS Phase 3
+L372@P13: N IV NC Phase 2 Phase 2 Phase 3 IS Phase 3
+L373@P13: O IV NC Phase 2 Phase 2 Phase 3 IS Phase 3
+L374@P13: P IV NC Phase 2 Phase 2 Phase 3 IS Phase 3
+L375@P13: Q II NC Phase 3 Phase 3 Phase 3 Phase 3 Phase 3
+L376@P13: R II 2A Phase 3 Phase 3 Phase 3 Phase 3 Phase 3
+L377@P13: S III 2B Phase 3 Phase 3 Phase 3 Phase 3 Phase 3
+L378@P13: T III NC Phase 3 Phase 3 Phase 3 Phase 3 Phase 3
+L379@P13: U II 2A Phase 3 Phase 3 Phase 3 Phase 3 Phase 3
+L380@P13: V III 2B Phase 3 Phase 3 Phase 3 Phase 3 Phase 3
+L381@P13: W III NC Phase 3 Phase 3 Phase 3 Phase 3 Phase 3
+L382@P13: X II 2A Phase 3 Phase 3 Phase 3 Phase 3 Phase 3
+L383@P13: Y II 2A Phase 3 Phase 3 Phase 3 Phase 3 Phase 3
+L384@P13: Z III NC Phase 3 Phase 3 Phase 3 Phase 3 Phase 3
+L385@P13: AA II 2A Phase 3 Phase 3 Phase 3 Phase 3 Phase 3
+L386@P13: AB III 2B Phase 3 Phase 3 Not
+L387@P13: tested
+L388@P13: Not
+L389@P13: tested
+L390@P13: Not
+L391@P13: tested
+L392@P13: AC III NC Phase 3 Phase 3 Phase 3 Phase 3 Phase 3
+L393@P13: - Total - 29 29 28 28 28
+L394@P13: Abbreviations: BCOP = bovine corneal opacity and permeability; Class. = classification; EO = EpiOcular; IS =
+L395@P13: independent study; IVDoI = in vitro depth of injury; NC = not classified; TTL = SkinEthic Time-to-Toxicity
+L396@P13-14: approach for liquids.Eye Irritation Potential of Agrochemical Formulations January 2025
+L397@P14: 4
+L398@P14: 2. MATERIALS AND METHODS
+L399@P14: 2.1 Phase 3 Goals
+L400@P14: Prospective testing in Phase 3 was focused on compiling a comprehensive
+L401@P14: dataset of results from multiple in vitro eye irritation test methods for a
+L402@P14: reference list of agrochemicals. These results will be used as a proof-ofprinciple to determine whether these method(s) might be useful in defined
+L403@P14: approaches to determine the eye irritation potential of agrochemical
+L404@P14: formulations.
+L405@P14: Accordingly, in Phase 3, 13 formulations classified as moderately (EPA
+L406@P14: Category II; GHS Category 2A) or mildly irritating (EPA Category III; GHS
+L407@P14: Category 2B), based on existing in vivo rabbit data and according to at least
+L408@P14: one of the two classification systems, were tested in EO and BCOP (n=5 EPA
+L409@P14: II/GHS 2A; n=1 EPA II/GHS NC; n=3 EPA III/GHS 2B; n=4 EPA III/GHS
+L410@P14: NC).
+L411@P14: All formulations from all phases were also tested in TTL and EyeIRR-IS,
+L412@P14: except formulation AB for which the donated volume was insufficient to test in
+L413@P14: these methods. The formulations tested in TTL and EyeIRR-IS represented the
+L414@P14: full range of classifications (n=7 EPA I/GHS 1; n=6 EPA II/GHS 2A; n=1 EPA
+

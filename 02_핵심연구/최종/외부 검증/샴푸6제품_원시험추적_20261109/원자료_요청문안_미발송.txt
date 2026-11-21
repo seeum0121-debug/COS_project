@@ -1,0 +1,42 @@
+﻿검토용 자료 요청문안 — 발송/제출하지 않음
+실제 요청 시 요청자 정보·연락처·요청범위를 사용자가 검토하여 채워야 합니다.
+EPA 안내: https://www.epa.gov/foia/guide-foia-requests-pesticide-information
+
+Subject: Records identifying eye/skin irritation studies and formulation versions for five pesticide shampoo registrations
+
+To the EPA Office of Pesticide Programs records staff,
+
+I am seeking releasable records that connect the following registered shampoo products to their primary eye irritation and primary skin irritation studies and the formulation versions evaluated. Please provide available Data Evaluation Records (DERs), acute toxicity reviews, study citations, and releasable study reports. Where formulations are confidential, a non-confidential confirmation of the applicable CSF version and any bridging or waiver rationale would still be useful.
+
+1. EPA Reg. No. 1021-1723, Pyrocide Flea & Tick Shampoo 51921:
+   MRID 44539104, G. Wnorowski (1997), primary eye irritation in rabbits, Product Safety Labs project 5145, 26 pages;
+   MRID 44539105, G. Wnorowski (1997), primary eye irritation in rabbits, Product Safety Labs project 5536, 25 pages;
+   MRID 44539106, G. Wnorowski (1997), primary skin irritation in rabbits, Product Safety Labs project 5146, 17 pages;
+   MRID 44539108, W. Grise (1996), product chemistry, McLaughlin Gormley King Co., 7 pages.
+   These citations are in the EPA bibliography at the URL below, PDF page 196. Please identify differences between the two eye studies and confirm which study/formula supports No-Bite Flea & Tick Shampoo, distributor registration 1021-1723-12281, SDS dated 2015-07-06. We have not established that the test batches and this SDS are identical.
+   https://www3.epa.gov/pesticides/nas/final/diazinon/appendix-2-4.pdf
+
+2. EPA Reg. No. 2724-792, RF2066 Shampoo:
+   Acute Toxicity Review dated April 9, 2008 and Product Chemistry Review dated March 11, 2008, listed as enclosures on PDF page 4 of the registration document:
+   https://www3.epa.gov/pesticides/chem_search/ppls/002724-00792-20080426.pdf
+   Also identify any reviews and underlying MRIDs associated with the January 29, 2015 letter, Decision Numbers 410827 and 412069, and their applicability to the Zodiac SDS dated 2016-04-07.
+
+3. EPA Reg. No. 2724-485, RF-9414 Shampoo:
+   Acute toxicity and product chemistry reviews referenced by the June 19, 2012 letter, Decision Numbers 412327 and 410679, and underlying eye/skin MRIDs. The available search-index text lists Basic and Alternate CSFs dated December 21, 2010; the full PDF could not be retrieved in our search.
+   Please identify the applicable formula for Zodiac Oatmeal Conditioning Shampoo (SDS 2016-06-24) and Adams Plus Flea & Tick Shampoo with Precor (2724-485-270; SDS 2020-10-29).
+   The April 5, 2018 letter lists Basic and Alternate 1 CSFs dated January 7, 2015 and Alternate 2 dated October 6, 2017 (foaming formulation addition), Decisions 534916 and 534918. Please identify any test-data bridging used across these versions.
+
+4. EPA Reg. No. 69061-12, Sivad Flea & Tick Shampoo / Davis:
+   Eye/skin irritation DERs and study MRIDs underlying the September 10, 2015 action, Decision Numbers 414109, 411781, and 410235, and applicable Basic/Alternate 1 CSFs dated July 19, 2012.
+   Please clarify the relation to the Davis product SDS dated May 28, 2025. The repository reports registration 69061-12-50591; the official basic label identifies 69061-12 and separately lists establishment 50591-GA-01. Please verify the appropriate product identity rather than inferring it from similar numbers.
+
+5. EPA Reg. No. 270-324, Farnam 2009 Insecticide / Adams Flea & Tick Cleansing Shampoo:
+   Eye/skin irritation reviews, referenced MRIDs, and applicable CSF version underlying the January 10, 2018 toxicity-label amendment, Decision Number 533083, with relation to the SDS dated September 28, 2023. The June 25, 2025 label amendment, Decision 567010 / Case 473758, is an additional identity reference, not evidence of a new eye study.
+
+For each available study/review, useful fields are the tested product name and lot, formulation identifier/version, concentration or dilution and vehicle, dose/contact duration and rinsing conditions, measured test pH if reported, animal-level tissue scores and recovery, and the EPA endpoint-specific classification and rationale.
+
+Please provide electronic copies of releasable records and omit material that is not releasable. This draft makes no claim that all requested records or formulation details are publicly available. Please advise before incurring fees; no payment commitment is included in this draft.
+
+Requester name: [to be completed]
+Mailing address: [to be completed]
+Contact: [to be completed]

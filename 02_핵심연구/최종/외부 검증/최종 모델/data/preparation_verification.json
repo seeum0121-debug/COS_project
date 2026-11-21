@@ -1,0 +1,11 @@
+{
+  "candidate_rows": 25,
+  "included_rows": 16,
+  "positive": 11,
+  "negative": 5,
+  "labels_reextracted_from_original_D5": true,
+  "labels_match_archived_registry": true,
+  "source_hashes_match": true,
+  "recipe_table": "archived extraction from Appendix B4",
+  "independence_from_source_training": "unresolved"
+}

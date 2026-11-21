@@ -1,0 +1,267 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>종합 외부검증 보고서</title>
+<style>
+:root {
+  --bg:#fff; --fg:#17181c; --muted:#5d6370; --line:#e3e6ec; --soft:#f6f7f9;
+  --accent:#2f5fd0; --bad:#b4342b; --bad-bg:#fdf2f1; --good:#1d7a4c; --good-bg:#f0f9f4;
+  --warn:#8a5a00; --warn-bg:#fdf6e6; --key:#3b4ca8; --key-bg:#eef1fc;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg:#15171b; --fg:#e9ecf1; --muted:#9aa3b2; --line:#2b2f37; --soft:#1c1f25;
+  --accent:#7da4f5; --bad:#f08279; --bad-bg:#2b1b1a; --good:#6fd39c; --good-bg:#15241c;
+  --warn:#e2b55c; --warn-bg:#2a2317; --key:#9fb4fb; --key-bg:#1b2033;
+} }
+:root[data-theme="dark"] {
+  --bg:#15171b; --fg:#e9ecf1; --muted:#9aa3b2; --line:#2b2f37; --soft:#1c1f25;
+  --accent:#7da4f5; --bad:#f08279; --bad-bg:#2b1b1a; --good:#6fd39c; --good-bg:#15241c;
+  --warn:#e2b55c; --warn-bg:#2a2317; --key:#9fb4fb; --key-bg:#1b2033;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);line-height:1.68;font-size:15px;
+ font-family:-apple-system,"Segoe UI","Malgun Gothic",sans-serif}
+.wrap{max-width:1000px;margin:0 auto;padding:48px 16px 88px}
+h1{font-size:1.7rem;margin:0 0 6px;letter-spacing:-0.015em}
+h2{font-size:1.2rem;margin:46px 0 12px;padding-bottom:7px;border-bottom:1px solid var(--line)}
+h3{font-size:1rem;margin:28px 0 8px;color:var(--muted)}
+.sub{color:var(--muted);font-size:.9rem;margin:0 0 26px}
+.callout{border-left:3px solid var(--warn);background:var(--warn-bg);padding:13px 16px;
+ border-radius:0 6px 6px 0;margin:18px 0;font-size:.93rem}
+.callout.red{border-color:var(--bad);background:var(--bad-bg)}
+.callout.key{border-color:var(--key);background:var(--key-bg)}
+.callout strong{display:block;margin-bottom:4px}
+table{width:100%;border-collapse:collapse;margin:14px 0;font-size:.87rem}
+th,td{padding:9px 10px;text-align:left;border-bottom:1px solid var(--line);
+ vertical-align:top}
+th{background:var(--soft);font-weight:600;font-size:.79rem;color:var(--muted)}
+td.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap;
+ font-family:ui-monospace,Consolas,monospace}
+td.lbl{font-weight:600;white-space:nowrap} td.strong{font-weight:700}
+.tag{display:inline-block;padding:2px 9px;border-radius:11px;font-size:.75rem;
+ font-weight:600;white-space:nowrap}
+.tag.bad{background:var(--bad-bg);color:var(--bad)}
+.tag.good{background:var(--good-bg);color:var(--good)}
+.tag.neutral{background:var(--soft);color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(168px,1fr));gap:11px;margin:16px 0}
+.stat{border:1px solid var(--line);border-radius:8px;padding:13px 15px;background:var(--soft)}
+.stat .k{font-size:.75rem;color:var(--muted);margin-bottom:3px}
+.stat .v{font-size:1.28rem;font-weight:700;font-variant-numeric:tabular-nums;letter-spacing:-0.02em}
+.stat .u{font-size:.75rem;color:var(--muted);font-weight:400}
+.note{color:var(--muted);font-size:.87rem}
+code{font-family:ui-monospace,Consolas,monospace;font-size:.85em;background:var(--soft);
+ padding:1.5px 5px;border-radius:4px}
+ul{padding-left:20px} li{margin:6px 0}
+ol{padding-left:22px} ol li{margin:9px 0}
+footer{margin-top:58px;padding-top:18px;border-top:1px solid var(--line);
+ color:var(--muted);font-size:.82rem}
+@media(max-width:620px){table{font-size:.8rem} th,td{padding:7px 6px}}
+</style></head><body><div class="wrap">
+
+<h1>Eye A 모델 — 종합 외부검증 보고서</h1>
+<p class="sub">4개 외부자료 통합 분석 · 2026-11-09 · 모델 임계값 0.481487 고정, 재학습 없음</p>
+
+<div class="callout red">
+  <strong>가장 중요한 사실: 엄격한 외부검증 표본은 여전히 0건입니다.</strong>
+  네 자료 어디에도 <b>① 전체 조성 ② 독립적인 원시험 EPA 등급 ③ 학습자료와의
+  중복 부재</b>를 모두 충족하는 사례가 없습니다. 아래 수치는 전부 탐색적
+  진단이며, EPA 분류 성능 추정치가 아닙니다.
+</div>
+
+<div class="callout key">
+  <strong>새로운 발견: 두 독립 혼합물 자료의 역상관이 모두 적용범위 안에서 사라집니다.</strong>
+  quat 혼합물(특허 US6583181B1)과 화장품 계면활성제(Lechuga 2025)는 서로 다른
+  출처·엔드포인트·연구진임에도 전체 표본에서 똑같이 음의 순위상관을 보였습니다
+  (-0.570 / -0.344).
+  그런데 학습 화학공간 안쪽으로 제한하면 두 자료 모두 0 근처 또는 양수로 바뀝니다
+  (+0.148 / +0.039).
+  <b>즉 "모델이 혼합물에서 뒤집혀 있다"는 해석은 두 자료 모두에서 지지되지 않으며,
+  관찰된 역상관은 외삽 구간의 현상입니다.</b> 단, 적용범위 내 표본이 각각
+  7건과 50건뿐이라
+  전이가 입증된 것도 아닙니다.
+</div>
+
+<h2>자료 개요</h2>
+<table>
+  <thead><tr><th>자료</th><th>출처</th><th>표본</th><th>엔드포인트</th>
+  <th>주 결과</th><th>엄격검증</th></tr></thead>
+  <tbody>
+    <tr>
+      <td class="lbl">벼룩·진드기 샴푸</td>
+      <td>EPA 등록 라벨 5제품</td>
+      <td class="num">4 / 5</td>
+      <td>EPA 등급 라벨 대리값</td>
+      <td>정확도 0.00 · MCC -1.00</td>
+      <td><span class="tag bad">0건</span></td>
+    </tr>
+    <tr>
+      <td class="lbl">CIR 성분</td>
+      <td>CIR 최종보고서</td>
+      <td class="num">22 / 31</td>
+      <td>환산 EPA 등급</td>
+      <td>미검증 출처 라벨 · 모순 CAS 3건</td>
+      <td><span class="tag bad">0건</span></td>
+    </tr>
+    <tr>
+      <td class="lbl">quat 혼합물</td>
+      <td>특허 US6583181B1 Tables 1–4</td>
+      <td class="num">15 / 29</td>
+      <td>7일 눈자극 총점</td>
+      <td>Spearman -0.570 · 쌍 방향일치 0/4</td>
+      <td><span class="tag bad">0건</span></td>
+    </tr>
+    <tr>
+      <td class="lbl">화장품 계면활성제</td>
+      <td>Lechuga 2025 ACS Omega</td>
+      <td class="num">163 / 205</td>
+      <td>zein number (in vitro)</td>
+      <td>단일 +0.062 · 혼합 -0.344</td>
+      <td><span class="tag bad">0건</span></td>
+    </tr>
+  </tbody>
+</table>
+<p class="note">EPA 라벨 재검토 부록은 별도 예측을 수행하지 않았습니다. 라벨 이진값 변경
+0건, 등급 확정 표현 정정
+2건, 신규 후보 출처
+3건, 중복 계열 3건입니다.</p>
+
+<h2>교차 발견 — 혼합물 역상관의 적용범위 의존성</h2>
+<p class="note">두 자료를 동일한 척도(학습 673행 wmean 기준 표준화 유클리드 거리)로
+재계산했습니다. 학습 분포 분위수는 p50=0.780,
+p75=0.997,
+p90=1.227,
+p95=1.445입니다.</p>
+<table>
+  <thead>
+    <tr><th rowspan="2">적용범위 기준</th>
+      <th colspan="3">quat 혼합물 (vs 7일 총점)</th>
+      <th colspan="3">화장품 계면활성제 (vs zein number)</th></tr>
+    <tr><th>n</th><th>rho</th><th>p</th><th>n</th><th>rho</th><th>p</th></tr>
+  </thead>
+  <tbody>
+        <tr><td class="lbl">전체</td>
+          <td class="num">15</td>
+          <td class="num strong">-0.570</td>
+          <td class="num">0.027</td>
+          <td class="num">103</td>
+          <td class="num strong">-0.344</td>
+          <td class="num">0.014</td>
+        </tr>
+        <tr><td class="lbl">p90</td>
+          <td class="num">7</td>
+          <td class="num strong">+0.148</td>
+          <td class="num">0.751</td>
+          <td class="num">41</td>
+          <td class="num strong">-0.209</td>
+          <td class="num">0.284</td>
+        </tr>
+        <tr><td class="lbl">p95</td>
+          <td class="num">7</td>
+          <td class="num strong">+0.148</td>
+          <td class="num">0.751</td>
+          <td class="num">50</td>
+          <td class="num strong">+0.039</td>
+          <td class="num">0.821</td>
+        </tr></tbody>
+</table>
+<div class="callout">
+  <strong>이 표를 과장하면 안 됩니다.</strong>
+  적용범위 내 표본이 quat 7건, 화장품
+  50건(군집 18개)에
+  불과합니다. "역상관이 사라진다"는 말할 수 있지만 "정방향 신호가 있다"는 말할 수 없습니다.
+  화장품 자료에서는 거리 기울기가 단조롭지도 않아, 가장 강한 음의 상관이 가장 먼 구간이
+  아니라 중간 구간에 몰려 있습니다.
+</div>
+
+<h2>실패 유형 분류</h2>
+<p class="note">네 자료의 실패는 같은 원인이 아닙니다. 구분해야 다음 수집 전략이 달라집니다.</p>
+<ol>
+  <li><b>입력 결손형 — 벼룩·진드기 샴푸.</b> 피처공간 거리는 중앙값
+    0.498로 학습 분포 <b>안쪽</b>이고
+    p95를 넘는 행이 0.0%입니다.
+    그런데도 MCC -1.00가 나왔습니다. 원인은 외삽이 아니라
+    <b>입력에 반영된 조성이 0.779~3.93%뿐</b>이라는 점입니다. 거리가 가까운 것도 입력이
+    거의 비어 있어 생긴 결과이므로, 이 자료의 거리 지표 자체를 신뢰하면 안 됩니다.</li>
+  <li><b>외삽형 — quat 혼합물, 화장품 계면활성제.</b> 조성은 충분히 공개됐지만 학습
+    화학공간 밖입니다(거리 중앙값 5.875,
+    1.288; p95 밖
+    53.3%,
+    41.1%).
+    역상관이 적용범위 안에서 사라지는 것이 이 유형의 특징입니다.</li>
+  <li><b>라벨 품질형 — CIR 성분.</b> 출처 라벨이 미검증이고 mild/moderate 표현이나 평균
+    Draize 총점에서 EPA 등급을 환산했습니다. 모순 CAS 3건이
+    존재합니다. 모델 성능이 아니라 참조값의 신뢰도가 제약입니다.</li>
+</ol>
+
+<h2>엄격 검증이 0건인 구조적 이유</h2>
+<p>EU가 화장품 동물실험을 금지하면서(성분 2009, 전면 2013) <b>화장품 제형의 in vivo
+Draize 자료 생산이 중단</b>됐습니다. 현재 화장품 안자극 자료는 거의 전부 in vitro입니다
+(EpiOcular OECD TG 492, BCOP TG 437, SkinEthic HCE, HET-CAM, zein number).
+따라서 "화장품 제형 + EPA 등급 + 독립 원시험"이라는 조합은 자료가 부족한 것이 아니라
+<b>제도적으로 생성이 중단된 조합</b>입니다. 이 조합을 더 찾는 방식으로는 0건이 반복됩니다.</p>
+<div class="callout key">
+  <strong>현실적 대안</strong>
+  검증 주장을 <b>등급 일치도에서 순위 일치도로</b> 전환하고, 적용범위 내 표본을
+  늘리는 방향이 유일한 출구입니다. 본 보고서의 두 혼합물 자료가 그 전환의 첫 사례입니다.
+</div>
+
+<h2>학습자료 중복 감사</h2>
+<table>
+  <thead><tr><th>자료</th><th>구조 완전일치</th><th>피처벡터 일치</th><th>비고</th></tr></thead>
+  <tbody>
+    <tr><td class="lbl">quat 혼합물</td><td>DDAC, NaOH (Tanimoto 1.000)</td>
+      <td class="num">0</td>
+      <td>성분 수준 중복은 있으나 배합 피처 일치는 없음</td></tr>
+    <tr><td class="lbl">화장품 계면활성제</td><td>Sodium lauryl sulfate (1/22)</td>
+      <td class="num">0</td>
+      <td>제외 민감도: 혼합 -0.344 → −0.320, 결론 불변</td></tr>
+    <tr><td class="lbl">벼룩·진드기 샴푸</td><td>—</td>
+      <td class="num">0</td>
+      <td>원시험 독립성은 식별자 부족으로 확정 불가</td></tr>
+    <tr><td class="lbl">EPA 추가자료</td><td colspan="2">미확인</td>
+      <td>부록 자체가 중복 확인 미완료를 명시</td></tr>
+  </tbody>
+</table>
+
+<h2>통합 한계</h2>
+<ul>
+  <li><b>엔드포인트가 자료마다 다릅니다.</b> EPA 등급 라벨 대리값, 7일 눈자극 총점,
+    zein number는 서로 다른 측정입니다. 자료 간 수치를 직접 합산하거나 평균하면 안 됩니다.</li>
+  <li><b>p값은 보조 지표입니다.</b> 화장품 자료는 성분 공유로 관측이 비독립이어서 군집
+    치환검정으로 보정했고(행단위 p 0.0004 → 군집 p
+    0.0134), quat 자료는
+    원 보고서가 "독립표본 p값 없음"을 명시했습니다.</li>
+  <li><b>구조 해결이 근사입니다.</b> 화장품 계면활성제 22종은 모두 다분산 상업 원료로
+    단일 SMILES가 없어 사전 지정 규칙으로 대표구조를 구성했습니다.</li>
+  <li><b>검정력이 낮습니다.</b> 적용범위 내 표본이 한 자릿수~수십 건이며 CI가 넓습니다.</li>
+  <li><b>물·pH·중화가 반영되지 않습니다.</b> 학습자료에 물 성분 입력이 없고, quat 자료에서
+    물 포함 여부에 따라 분류가 2/7건
+    바뀌었습니다.</li>
+</ul>
+
+<h2>권고</h2>
+<ol>
+  <li><b>적용범위를 명시적 산출물로 만들 것.</b> 두 독립 자료에서 역상관이 적용범위 안에서
+    사라졌습니다. 모델 배포 시 거리 기반 적용범위 플래그를 함께 내보내고, 범위 밖 입력은
+    예측을 보류하는 편이 타당합니다.</li>
+  <li><b>중간 거리 구간을 규명할 것.</b> 화장품 자료에서 rho −0.681이 나온 중간 구간은
+    Glycereth-6 Cocoate, Laureth-11 Carboxylic Acid, Cocamidopropylamine Oxide,
+    Lauramine Oxide가 주로 구성합니다. 단조롭지 않은 기울기의 원인입니다.</li>
+  <li><b>적용범위 내 표본을 늘릴 것.</b> 설페이트·4급암모늄 계열은 학습공간에 가깝습니다
+    (Tanimoto 0.78~1.00). 이 계열 중심의 in vitro 자료를 모으면 적용범위 내 검정력이 확보됩니다.</li>
+  <li><b>논문의 주장을 전이 성공이 아니라 적용범위 분석으로 설정할 것.</b> 현재 자료가
+    뒷받침하는 진술은 "전이되지 않았다"도 "전이되었다"도 아니라
+    <b>"적용범위 내 표본이 확보되지 않아 판정할 수 없으며, 범위 밖에서는 순서가 보존되지
+    않는다"</b>입니다.</li>
+</ol>
+
+<footer>
+  모델 identity <code>None…</code> ·
+  임계값 0.481487 · 재학습 없음 ·
+  엄격 검증 표본 0건 (4개 자료 전체)<br>
+  구성 자료: Eye_cosmetic_validation_20261109 · Eye_재외부검증_20261109 ·
+  EPA_재검토_추가자료_20261109 · Lechuga2025_화장품_외부검증_20261109<br>
+  재현: <code>python cross_dataset_ad.py</code> → <code>python build_comprehensive_report.py</code>
+</footer>
+
+</div></body></html>

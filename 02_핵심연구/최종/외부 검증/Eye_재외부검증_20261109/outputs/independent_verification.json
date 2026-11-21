@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "source_table1_rebuilt_vectors": 2,
+  "max_vector_error": 1.4551915228366852e-11,
+  "published_day7_values_checked": 15,
+  "rank_correlation_independently_recomputed": -0.5698961337724598,
+  "prespecified_pairs_independently_recomputed": 4,
+  "pair_direction_agreement": 0,
+  "current_final_model_unchanged": true,
+  "input_manifest_unchanged": true
+}

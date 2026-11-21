@@ -1,0 +1,15 @@
+{
+  "request_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/77-92-9/property/ConnectivitySMILES,InChIKey,MolecularFormula/JSON",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 311,
+          "MolecularFormula": "C6H8O7",
+          "ConnectivitySMILES": "C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+          "InChIKey": "KRKNYBCHXYNGOX-UHFFFAOYSA-N"
+        }
+      ]
+    }
+  }
+}

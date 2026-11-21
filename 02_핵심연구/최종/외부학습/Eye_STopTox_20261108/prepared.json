@@ -1,0 +1,8 @@
+{
+  "status": "complete",
+  "elapsed_seconds": 112.08785963058472,
+  "teacher_sha256": "9feb84c1cb019bd852b3261fe6d86feeba11b3daad37fa85fd0c31bdb7c2eff6",
+  "aux_sha256": "76def042ed14286f3f5c41d2c3cc1afe3e75e9e19d2a6d961bbedf5dbc1b5ee3",
+  "protocol_sha256": "425c25122a027f42831e4d18a1aaac47ba3a0873a435ea686c593e4fd1f67252",
+  "data_audit_sha256": "8ba765904c4b6402239f13f4c3854dae4e1f8a0f655e817b7896d8f4119012dc"
+}

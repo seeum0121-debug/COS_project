@@ -1,0 +1,35 @@
+[
+  {
+    "file": "baby.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12656482/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12656482/",
+    "http_status": 403,
+    "bytes": 134,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "file": "stoptx.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8863177/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8863177/",
+    "http_status": 403,
+    "bytes": 134,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "file": "baby_supplement.zip",
+    "url": "https://mdpi-res.com/d_attachment/toxics/toxics-13-00948/article_deploy/toxics-13-00948-s001.zip",
+    "final_url": "https://mdpi-res.com/d_attachment/toxics/toxics-13-00948/article_deploy/toxics-13-00948-s001.zip",
+    "http_status": 200,
+    "bytes": 151839,
+    "content_type": "application/zip",
+    "sha256": "8f2d72c7555d1d9aa0d65435d4825d3ee86ad54b0381bf3c6ccd00955ab5708b"
+  },
+  {
+    "file": "iivs.pdf",
+    "url": "https://iivs.org/wp-content/uploads/2016/09/iivs-poster_eye-irritation-potential-of-prototype-cosmetic-formulations-containing-salicylic-acid-glycolic-acid-and-ethanol.pdf",
+    "final_url": "https://iivs.org/wp-content/uploads/2016/09/iivs-poster_eye-irritation-potential-of-prototype-cosmetic-formulations-containing-salicylic-acid-glycolic-acid-and-ethanol.pdf",
+    "http_status": 403,
+    "bytes": 146,
+    "content_type": "text/html"
+  }
+]

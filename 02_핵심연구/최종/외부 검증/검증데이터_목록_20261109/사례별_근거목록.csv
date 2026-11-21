@@ -1,0 +1,561 @@
+﻿case_id,domain,value,status,context,source_ids,source_url,location
+CIR_row_1,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 1 / 파일 줄 2; 원보고서 위치 미확인
+CIR_row_1,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 1 / 파일 줄 2; 원보고서 위치 미확인
+CIR_row_1,배합,Cocamidopropyl Betaine: 30% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 1 / 파일 줄 2; 원보고서 위치 미확인
+CIR_row_1,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 1 / 파일 줄 2; 원보고서 위치 미확인
+CIR_row_1,pH,,미확인,,REPO_CIR | CIR_REPORT_01,,
+CIR_row_2,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 2 / 파일 줄 3; 원보고서 위치 미확인
+CIR_row_2,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 2 / 파일 줄 3; 원보고서 위치 미확인
+CIR_row_2,배합,Cocamidopropyl Betaine: 15% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 2 / 파일 줄 3; 원보고서 위치 미확인
+CIR_row_2,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 2 / 파일 줄 3; 원보고서 위치 미확인
+CIR_row_2,pH,,미확인,,REPO_CIR | CIR_REPORT_01,,
+CIR_row_3,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 3 / 파일 줄 4; 원보고서 위치 미확인
+CIR_row_3,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 3 / 파일 줄 4; 원보고서 위치 미확인
+CIR_row_3,배합,Cocamidopropyl Betaine: 10% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 3 / 파일 줄 4; 원보고서 위치 미확인
+CIR_row_3,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 3 / 파일 줄 4; 원보고서 위치 미확인
+CIR_row_3,pH,4.5,CSV 기재—원문 미확인,시험 근거 요약의 pH; 직접 원문 검증 전,REPO_CIR | CIR_REPORT_01,https://github.com/tjdbf061106-sketch/COS/blob/a693ae5fb43197cac4dc530a5371f1682ede2c3c/cosmetic_validation/cir_ingredients.csv,데이터 행 3
+CIR_row_4,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 4 / 파일 줄 5; 원보고서 위치 미확인
+CIR_row_4,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 4 / 파일 줄 5; 원보고서 위치 미확인
+CIR_row_4,배합,Cocamidopropyl Betaine: 5% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 4 / 파일 줄 5; 원보고서 위치 미확인
+CIR_row_4,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 4 / 파일 줄 5; 원보고서 위치 미확인
+CIR_row_4,pH,,미확인,,REPO_CIR | CIR_REPORT_01,,
+CIR_row_5,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 5 / 파일 줄 6; 원보고서 위치 미확인
+CIR_row_5,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 5 / 파일 줄 6; 원보고서 위치 미확인
+CIR_row_5,배합,Cocamidopropyl Betaine: 10% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 5 / 파일 줄 6; 원보고서 위치 미확인
+CIR_row_5,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 5 / 파일 줄 6; 원보고서 위치 미확인
+CIR_row_5,pH,,미확인,,REPO_CIR | CIR_REPORT_01,,
+CIR_row_6,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 6 / 파일 줄 7; 원보고서 위치 미확인
+CIR_row_6,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 6 / 파일 줄 7; 원보고서 위치 미확인
+CIR_row_6,배합,Cocamidopropyl Betaine: 6.5% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 6 / 파일 줄 7; 원보고서 위치 미확인
+CIR_row_6,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 6 / 파일 줄 7; 원보고서 위치 미확인
+CIR_row_6,pH,,미확인,,REPO_CIR | CIR_REPORT_01,,
+CIR_row_7,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 7 / 파일 줄 8; 원보고서 위치 미확인
+CIR_row_7,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 7 / 파일 줄 8; 원보고서 위치 미확인
+CIR_row_7,배합,Cocamidopropyl Betaine: 30% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 7 / 파일 줄 8; 원보고서 위치 미확인
+CIR_row_7,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 7 / 파일 줄 8; 원보고서 위치 미확인
+CIR_row_7,pH,,미확인,,REPO_CIR | CIR_REPORT_01,,
+CIR_row_8,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 8 / 파일 줄 9; 원보고서 위치 미확인
+CIR_row_8,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 8 / 파일 줄 9; 원보고서 위치 미확인
+CIR_row_8,배합,Cocamidopropyl Betaine: 2.3% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 8 / 파일 줄 9; 원보고서 위치 미확인
+CIR_row_8,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_01,,cir_ingredients.csv 데이터 행 8 / 파일 줄 9; 원보고서 위치 미확인
+CIR_row_8,pH,,미확인,,REPO_CIR | CIR_REPORT_01,,
+CIR_row_9,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 9 / 파일 줄 10; 원보고서 위치 미확인
+CIR_row_9,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 9 / 파일 줄 10; 원보고서 위치 미확인
+CIR_row_9,배합,Lauramide DEA: 1% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 9 / 파일 줄 10; 원보고서 위치 미확인
+CIR_row_9,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 9 / 파일 줄 10; 원보고서 위치 미확인
+CIR_row_9,pH,,미확인,,REPO_CIR | CIR_REPORT_02,,
+CIR_row_10,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 10 / 파일 줄 11; 원보고서 위치 미확인
+CIR_row_10,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 10 / 파일 줄 11; 원보고서 위치 미확인
+CIR_row_10,배합,Lauramide DEA: 5% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 10 / 파일 줄 11; 원보고서 위치 미확인
+CIR_row_10,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 10 / 파일 줄 11; 원보고서 위치 미확인
+CIR_row_10,pH,,미확인,,REPO_CIR | CIR_REPORT_02,,
+CIR_row_11,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 11 / 파일 줄 12; 원보고서 위치 미확인
+CIR_row_11,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 11 / 파일 줄 12; 원보고서 위치 미확인
+CIR_row_11,배합,Lauramide DEA: 20% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 11 / 파일 줄 12; 원보고서 위치 미확인
+CIR_row_11,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 11 / 파일 줄 12; 원보고서 위치 미확인
+CIR_row_11,pH,,미확인,,REPO_CIR | CIR_REPORT_02,,
+CIR_row_12,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 12 / 파일 줄 13; 원보고서 위치 미확인
+CIR_row_12,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 12 / 파일 줄 13; 원보고서 위치 미확인
+CIR_row_12,배합,Lauramide DEA: 1% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 12 / 파일 줄 13; 원보고서 위치 미확인
+CIR_row_12,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 12 / 파일 줄 13; 원보고서 위치 미확인
+CIR_row_12,pH,,미확인,,REPO_CIR | CIR_REPORT_02,,
+CIR_row_13,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 13 / 파일 줄 14; 원보고서 위치 미확인
+CIR_row_13,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 13 / 파일 줄 14; 원보고서 위치 미확인
+CIR_row_13,배합,Lauramide DEA: 15% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 13 / 파일 줄 14; 원보고서 위치 미확인
+CIR_row_13,농도,CSV 15%는 근거의 10–20% 범위를 요약한 값; 실제 15% 시험으로 취급 금지,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 13 / 파일 줄 14; 원보고서 위치 미확인
+CIR_row_13,pH,,미확인,,REPO_CIR | CIR_REPORT_02,,
+CIR_row_14,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 14 / 파일 줄 15; 원보고서 위치 미확인
+CIR_row_14,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 14 / 파일 줄 15; 원보고서 위치 미확인
+CIR_row_14,배합,Lauramide DEA: 25% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 14 / 파일 줄 15; 원보고서 위치 미확인
+CIR_row_14,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 14 / 파일 줄 15; 원보고서 위치 미확인
+CIR_row_14,pH,,미확인,,REPO_CIR | CIR_REPORT_02,,
+CIR_row_15,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 15 / 파일 줄 16; 원보고서 위치 미확인
+CIR_row_15,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 15 / 파일 줄 16; 원보고서 위치 미확인
+CIR_row_15,배합,Oleamide DEA: 5% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 15 / 파일 줄 16; 원보고서 위치 미확인
+CIR_row_15,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 15 / 파일 줄 16; 원보고서 위치 미확인
+CIR_row_15,pH,,미확인,,REPO_CIR | CIR_REPORT_02,,
+CIR_row_16,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 16 / 파일 줄 17; 원보고서 위치 미확인
+CIR_row_16,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 16 / 파일 줄 17; 원보고서 위치 미확인
+CIR_row_16,배합,Oleamide DEA: 70% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 16 / 파일 줄 17; 원보고서 위치 미확인
+CIR_row_16,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_02,,cir_ingredients.csv 데이터 행 16 / 파일 줄 17; 원보고서 위치 미확인
+CIR_row_16,pH,,미확인,,REPO_CIR | CIR_REPORT_02,,
+CIR_row_17,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_03,,cir_ingredients.csv 데이터 행 17 / 파일 줄 18; 원보고서 위치 미확인
+CIR_row_17,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_03,,cir_ingredients.csv 데이터 행 17 / 파일 줄 18; 원보고서 위치 미확인
+CIR_row_17,배합,Acetamide MEA: 100% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_03,,cir_ingredients.csv 데이터 행 17 / 파일 줄 18; 원보고서 위치 미확인
+CIR_row_17,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_03,,cir_ingredients.csv 데이터 행 17 / 파일 줄 18; 원보고서 위치 미확인
+CIR_row_17,pH,,미확인,,REPO_CIR | CIR_REPORT_03,,
+CIR_row_18,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_03,,cir_ingredients.csv 데이터 행 18 / 파일 줄 19; 원보고서 위치 미확인
+CIR_row_18,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_03,,cir_ingredients.csv 데이터 행 18 / 파일 줄 19; 원보고서 위치 미확인
+CIR_row_18,배합,Stearamide MEA: 17% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_03,,cir_ingredients.csv 데이터 행 18 / 파일 줄 19; 원보고서 위치 미확인
+CIR_row_18,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_03,,cir_ingredients.csv 데이터 행 18 / 파일 줄 19; 원보고서 위치 미확인
+CIR_row_18,pH,,미확인,,REPO_CIR | CIR_REPORT_03,,
+CIR_row_19,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_04,,cir_ingredients.csv 데이터 행 19 / 파일 줄 20; 원보고서 위치 미확인
+CIR_row_19,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_04,,cir_ingredients.csv 데이터 행 19 / 파일 줄 20; 원보고서 위치 미확인
+CIR_row_19,배합,Propylene Glycol: 100% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_04,,cir_ingredients.csv 데이터 행 19 / 파일 줄 20; 원보고서 위치 미확인
+CIR_row_19,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_04,,cir_ingredients.csv 데이터 행 19 / 파일 줄 20; 원보고서 위치 미확인
+CIR_row_19,pH,,미확인,,REPO_CIR | CIR_REPORT_04,,
+CIR_row_20,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_04,,cir_ingredients.csv 데이터 행 20 / 파일 줄 21; 원보고서 위치 미확인
+CIR_row_20,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_04,,cir_ingredients.csv 데이터 행 20 / 파일 줄 21; 원보고서 위치 미확인
+CIR_row_20,배합,Propylene Glycol: 100% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_04,,cir_ingredients.csv 데이터 행 20 / 파일 줄 21; 원보고서 위치 미확인
+CIR_row_20,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_04,,cir_ingredients.csv 데이터 행 20 / 파일 줄 21; 원보고서 위치 미확인
+CIR_row_20,pH,,미확인,,REPO_CIR | CIR_REPORT_04,,
+CIR_row_21,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_05,https://www.cir-safety.org/sites/default/files/glycer_122014_FR.pdf,"cir_ingredients.csv 데이터 행 21 / 파일 줄 22; 원보고서 위치 미확인; 이전 검토 PDF 6 and 17, Table 11쪽"
+CIR_row_21,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_05,https://www.cir-safety.org/sites/default/files/glycer_122014_FR.pdf,"cir_ingredients.csv 데이터 행 21 / 파일 줄 22; 원보고서 위치 미확인; 이전 검토 PDF 6 and 17, Table 11쪽"
+CIR_row_21,배합,Glycerin: 100% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_05,https://www.cir-safety.org/sites/default/files/glycer_122014_FR.pdf,"cir_ingredients.csv 데이터 행 21 / 파일 줄 22; 원보고서 위치 미확인; 이전 검토 PDF 6 and 17, Table 11쪽"
+CIR_row_21,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_05,https://www.cir-safety.org/sites/default/files/glycer_122014_FR.pdf,"cir_ingredients.csv 데이터 행 21 / 파일 줄 22; 원보고서 위치 미확인; 이전 검토 PDF 6 and 17, Table 11쪽"
+CIR_row_21,pH,,미확인,,REPO_CIR | CIR_REPORT_05,,
+CIR_row_22,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_05,https://www.cir-safety.org/sites/default/files/glycer_122014_FR.pdf,"cir_ingredients.csv 데이터 행 22 / 파일 줄 23; 원보고서 위치 미확인; 이전 검토 PDF 6 and 17, Table 11쪽"
+CIR_row_22,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_05,https://www.cir-safety.org/sites/default/files/glycer_122014_FR.pdf,"cir_ingredients.csv 데이터 행 22 / 파일 줄 23; 원보고서 위치 미확인; 이전 검토 PDF 6 and 17, Table 11쪽"
+CIR_row_22,배합,Glycerin: 100% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_05,https://www.cir-safety.org/sites/default/files/glycer_122014_FR.pdf,"cir_ingredients.csv 데이터 행 22 / 파일 줄 23; 원보고서 위치 미확인; 이전 검토 PDF 6 and 17, Table 11쪽"
+CIR_row_22,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_05,https://www.cir-safety.org/sites/default/files/glycer_122014_FR.pdf,"cir_ingredients.csv 데이터 행 22 / 파일 줄 23; 원보고서 위치 미확인; 이전 검토 PDF 6 and 17, Table 11쪽"
+CIR_row_22,pH,,미확인,,REPO_CIR | CIR_REPORT_05,,
+CIR_row_23,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_06,,cir_ingredients.csv 데이터 행 23 / 파일 줄 24; 원보고서 위치 미확인
+CIR_row_23,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_06,,cir_ingredients.csv 데이터 행 23 / 파일 줄 24; 원보고서 위치 미확인
+CIR_row_23,배합,Triethylene Glycol: 100% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_06,,cir_ingredients.csv 데이터 행 23 / 파일 줄 24; 원보고서 위치 미확인
+CIR_row_23,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_06,,cir_ingredients.csv 데이터 행 23 / 파일 줄 24; 원보고서 위치 미확인
+CIR_row_23,pH,,미확인,,REPO_CIR | CIR_REPORT_06,,
+CIR_row_24,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_06,,cir_ingredients.csv 데이터 행 24 / 파일 줄 25; 원보고서 위치 미확인
+CIR_row_24,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_06,,cir_ingredients.csv 데이터 행 24 / 파일 줄 25; 원보고서 위치 미확인
+CIR_row_24,배합,Triethylene Glycol: 100% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_06,,cir_ingredients.csv 데이터 행 24 / 파일 줄 25; 원보고서 위치 미확인
+CIR_row_24,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_06,,cir_ingredients.csv 데이터 행 24 / 파일 줄 25; 원보고서 위치 미확인
+CIR_row_24,pH,,미확인,,REPO_CIR | CIR_REPORT_06,,
+CIR_row_25,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_07,,cir_ingredients.csv 데이터 행 25 / 파일 줄 26; 원보고서 위치 미확인
+CIR_row_25,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_07,,cir_ingredients.csv 데이터 행 25 / 파일 줄 26; 원보고서 위치 미확인
+CIR_row_25,배합,Methylparaben: 100% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_07,,cir_ingredients.csv 데이터 행 25 / 파일 줄 26; 원보고서 위치 미확인
+CIR_row_25,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_07,,cir_ingredients.csv 데이터 행 25 / 파일 줄 26; 원보고서 위치 미확인
+CIR_row_25,pH,,미확인,,REPO_CIR | CIR_REPORT_07,,
+CIR_row_26,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_07,,cir_ingredients.csv 데이터 행 26 / 파일 줄 27; 원보고서 위치 미확인
+CIR_row_26,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_07,,cir_ingredients.csv 데이터 행 26 / 파일 줄 27; 원보고서 위치 미확인
+CIR_row_26,배합,Methylparaben: 100% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_07,,cir_ingredients.csv 데이터 행 26 / 파일 줄 27; 원보고서 위치 미확인
+CIR_row_26,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_07,,cir_ingredients.csv 데이터 행 26 / 파일 줄 27; 원보고서 위치 미확인
+CIR_row_26,pH,,미확인,,REPO_CIR | CIR_REPORT_07,,
+CIR_row_27,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_07,,cir_ingredients.csv 데이터 행 27 / 파일 줄 28; 원보고서 위치 미확인
+CIR_row_27,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_07,,cir_ingredients.csv 데이터 행 27 / 파일 줄 28; 원보고서 위치 미확인
+CIR_row_27,배합,Propylparaben: 0.3% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_07,,cir_ingredients.csv 데이터 행 27 / 파일 줄 28; 원보고서 위치 미확인
+CIR_row_27,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_07,,cir_ingredients.csv 데이터 행 27 / 파일 줄 28; 원보고서 위치 미확인
+CIR_row_27,pH,,미확인,,REPO_CIR | CIR_REPORT_07,,
+CIR_row_28,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_07,,cir_ingredients.csv 데이터 행 28 / 파일 줄 29; 원보고서 위치 미확인
+CIR_row_28,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_07,,cir_ingredients.csv 데이터 행 28 / 파일 줄 29; 원보고서 위치 미확인
+CIR_row_28,배합,Propylparaben: 0.1% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_07,,cir_ingredients.csv 데이터 행 28 / 파일 줄 29; 원보고서 위치 미확인
+CIR_row_28,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_07,,cir_ingredients.csv 데이터 행 28 / 파일 줄 29; 원보고서 위치 미확인
+CIR_row_28,pH,,미확인,,REPO_CIR | CIR_REPORT_07,,
+CIR_row_29,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_07,,cir_ingredients.csv 데이터 행 29 / 파일 줄 30; 원보고서 위치 미확인
+CIR_row_29,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_07,,cir_ingredients.csv 데이터 행 29 / 파일 줄 30; 원보고서 위치 미확인
+CIR_row_29,배합,Butylparaben: 0.3% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_07,,cir_ingredients.csv 데이터 행 29 / 파일 줄 30; 원보고서 위치 미확인
+CIR_row_29,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_07,,cir_ingredients.csv 데이터 행 29 / 파일 줄 30; 원보고서 위치 미확인
+CIR_row_29,pH,,미확인,,REPO_CIR | CIR_REPORT_07,,
+CIR_row_30,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_08,https://health.ec.europa.eu/document/download/64bbaab3-66e2-44b8-817a-3d0e313c3aaf_en?filename=sccs_o_195.pdf,cir_ingredients.csv 데이터 행 30 / 파일 줄 31; 원보고서 위치 미확인; 이전 검토 PDF 10-11쪽
+CIR_row_30,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_08,https://health.ec.europa.eu/document/download/64bbaab3-66e2-44b8-817a-3d0e313c3aaf_en?filename=sccs_o_195.pdf,cir_ingredients.csv 데이터 행 30 / 파일 줄 31; 원보고서 위치 미확인; 이전 검토 PDF 10-11쪽
+CIR_row_30,배합,Phenoxyethanol: 100% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_08,https://health.ec.europa.eu/document/download/64bbaab3-66e2-44b8-817a-3d0e313c3aaf_en?filename=sccs_o_195.pdf,cir_ingredients.csv 데이터 행 30 / 파일 줄 31; 원보고서 위치 미확인; 이전 검토 PDF 10-11쪽
+CIR_row_30,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_08,https://health.ec.europa.eu/document/download/64bbaab3-66e2-44b8-817a-3d0e313c3aaf_en?filename=sccs_o_195.pdf,cir_ingredients.csv 데이터 행 30 / 파일 줄 31; 원보고서 위치 미확인; 이전 검토 PDF 10-11쪽
+CIR_row_30,pH,,미확인,,REPO_CIR | CIR_REPORT_08,,
+CIR_row_31,EPA-EYE,I/II 세부 등급 미확정; 이전 부분 검토에서 7일 이후 소견 확인,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_08,https://health.ec.europa.eu/document/download/64bbaab3-66e2-44b8-817a-3d0e313c3aaf_en?filename=sccs_o_195.pdf,cir_ingredients.csv 데이터 행 31 / 파일 줄 32; 원보고서 위치 미확인; 이전 검토 PDF 10-11쪽
+CIR_row_31,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_08,https://health.ec.europa.eu/document/download/64bbaab3-66e2-44b8-817a-3d0e313c3aaf_en?filename=sccs_o_195.pdf,cir_ingredients.csv 데이터 행 31 / 파일 줄 32; 원보고서 위치 미확인; 이전 검토 PDF 10-11쪽
+CIR_row_31,배합,Phenoxyethanol: 100% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_08,https://health.ec.europa.eu/document/download/64bbaab3-66e2-44b8-817a-3d0e313c3aaf_en?filename=sccs_o_195.pdf,cir_ingredients.csv 데이터 행 31 / 파일 줄 32; 원보고서 위치 미확인; 이전 검토 PDF 10-11쪽
+CIR_row_31,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_08,https://health.ec.europa.eu/document/download/64bbaab3-66e2-44b8-817a-3d0e313c3aaf_en?filename=sccs_o_195.pdf,cir_ingredients.csv 데이터 행 31 / 파일 줄 32; 원보고서 위치 미확인; 이전 검토 PDF 10-11쪽
+CIR_row_31,pH,,미확인,,REPO_CIR | CIR_REPORT_08,,
+CIR_row_32,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_09,,cir_ingredients.csv 데이터 행 32 / 파일 줄 33; 원보고서 위치 미확인
+CIR_row_32,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_09,,cir_ingredients.csv 데이터 행 32 / 파일 줄 33; 원보고서 위치 미확인
+CIR_row_32,배합,Benzyl Alcohol: 100% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_09,,cir_ingredients.csv 데이터 행 32 / 파일 줄 33; 원보고서 위치 미확인
+CIR_row_32,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_09,,cir_ingredients.csv 데이터 행 32 / 파일 줄 33; 원보고서 위치 미확인
+CIR_row_32,pH,,미확인,,REPO_CIR | CIR_REPORT_09,,
+CIR_row_33,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_09,,cir_ingredients.csv 데이터 행 33 / 파일 줄 34; 원보고서 위치 미확인
+CIR_row_33,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_09,,cir_ingredients.csv 데이터 행 33 / 파일 줄 34; 원보고서 위치 미확인
+CIR_row_33,배합,Benzoic Acid: 100% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_09,,cir_ingredients.csv 데이터 행 33 / 파일 줄 34; 원보고서 위치 미확인
+CIR_row_33,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_09,,cir_ingredients.csv 데이터 행 33 / 파일 줄 34; 원보고서 위치 미확인
+CIR_row_33,pH,,미확인,,REPO_CIR | CIR_REPORT_09,,
+CIR_row_34,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_09,,cir_ingredients.csv 데이터 행 34 / 파일 줄 35; 원보고서 위치 미확인
+CIR_row_34,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_09,,cir_ingredients.csv 데이터 행 34 / 파일 줄 35; 원보고서 위치 미확인
+CIR_row_34,배합,Sodium Benzoate: 100% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_09,,cir_ingredients.csv 데이터 행 34 / 파일 줄 35; 원보고서 위치 미확인
+CIR_row_34,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_09,,cir_ingredients.csv 데이터 행 34 / 파일 줄 35; 원보고서 위치 미확인
+CIR_row_34,pH,,미확인,,REPO_CIR | CIR_REPORT_09,,
+CIR_row_35,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_10,,cir_ingredients.csv 데이터 행 35 / 파일 줄 36; 원보고서 위치 미확인
+CIR_row_35,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_10,,cir_ingredients.csv 데이터 행 35 / 파일 줄 36; 원보고서 위치 미확인
+CIR_row_35,배합,Bronopol: 50% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_10,,cir_ingredients.csv 데이터 행 35 / 파일 줄 36; 원보고서 위치 미확인
+CIR_row_35,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_10,,cir_ingredients.csv 데이터 행 35 / 파일 줄 36; 원보고서 위치 미확인
+CIR_row_35,pH,,미확인,,REPO_CIR | CIR_REPORT_10,,
+CIR_row_36,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_10,,cir_ingredients.csv 데이터 행 36 / 파일 줄 37; 원보고서 위치 미확인
+CIR_row_36,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_10,,cir_ingredients.csv 데이터 행 36 / 파일 줄 37; 원보고서 위치 미확인
+CIR_row_36,배합,Bronopol: 20% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_10,,cir_ingredients.csv 데이터 행 36 / 파일 줄 37; 원보고서 위치 미확인
+CIR_row_36,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_10,,cir_ingredients.csv 데이터 행 36 / 파일 줄 37; 원보고서 위치 미확인
+CIR_row_36,pH,,미확인,,REPO_CIR | CIR_REPORT_10,,
+CIR_row_37,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_10,,cir_ingredients.csv 데이터 행 37 / 파일 줄 38; 원보고서 위치 미확인
+CIR_row_37,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_10,,cir_ingredients.csv 데이터 행 37 / 파일 줄 38; 원보고서 위치 미확인
+CIR_row_37,배합,Bronopol: 10% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_10,,cir_ingredients.csv 데이터 행 37 / 파일 줄 38; 원보고서 위치 미확인
+CIR_row_37,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_10,,cir_ingredients.csv 데이터 행 37 / 파일 줄 38; 원보고서 위치 미확인
+CIR_row_37,pH,,미확인,,REPO_CIR | CIR_REPORT_10,,
+CIR_row_38,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_10,,cir_ingredients.csv 데이터 행 38 / 파일 줄 39; 원보고서 위치 미확인
+CIR_row_38,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_10,,cir_ingredients.csv 데이터 행 38 / 파일 줄 39; 원보고서 위치 미확인
+CIR_row_38,배합,Bronopol: 10% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_10,,cir_ingredients.csv 데이터 행 38 / 파일 줄 39; 원보고서 위치 미확인
+CIR_row_38,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_10,,cir_ingredients.csv 데이터 행 38 / 파일 줄 39; 원보고서 위치 미확인
+CIR_row_38,pH,,미확인,,REPO_CIR | CIR_REPORT_10,,
+CIR_row_39,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_11,,cir_ingredients.csv 데이터 행 39 / 파일 줄 40; 원보고서 위치 미확인
+CIR_row_39,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_11,,cir_ingredients.csv 데이터 행 39 / 파일 줄 40; 원보고서 위치 미확인
+CIR_row_39,배합,Methylisothiazolinone: 97.8% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_11,,cir_ingredients.csv 데이터 행 39 / 파일 줄 40; 원보고서 위치 미확인
+CIR_row_39,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_11,,cir_ingredients.csv 데이터 행 39 / 파일 줄 40; 원보고서 위치 미확인
+CIR_row_39,pH,,미확인,,REPO_CIR | CIR_REPORT_11,,
+CIR_row_40,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_11,,cir_ingredients.csv 데이터 행 40 / 파일 줄 41; 원보고서 위치 미확인
+CIR_row_40,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_11,,cir_ingredients.csv 데이터 행 40 / 파일 줄 41; 원보고서 위치 미확인
+CIR_row_40,배합,Methylisothiazolinone: 0.01% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_11,,cir_ingredients.csv 데이터 행 40 / 파일 줄 41; 원보고서 위치 미확인
+CIR_row_40,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_11,,cir_ingredients.csv 데이터 행 40 / 파일 줄 41; 원보고서 위치 미확인
+CIR_row_40,pH,,미확인,,REPO_CIR | CIR_REPORT_11,,
+CIR_row_41,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_11,,cir_ingredients.csv 데이터 행 41 / 파일 줄 42; 원보고서 위치 미확인
+CIR_row_41,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_11,,cir_ingredients.csv 데이터 행 41 / 파일 줄 42; 원보고서 위치 미확인
+CIR_row_41,배합,Methylisothiazolinone: 0.01% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_11,,cir_ingredients.csv 데이터 행 41 / 파일 줄 42; 원보고서 위치 미확인
+CIR_row_41,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_11,,cir_ingredients.csv 데이터 행 41 / 파일 줄 42; 원보고서 위치 미확인
+CIR_row_41,pH,,미확인,,REPO_CIR | CIR_REPORT_11,,
+CIR_row_42,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_12,,cir_ingredients.csv 데이터 행 42 / 파일 줄 43; 원보고서 위치 미확인
+CIR_row_42,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_12,,cir_ingredients.csv 데이터 행 42 / 파일 줄 43; 원보고서 위치 미확인
+CIR_row_42,배합,Cetyl Alcohol: 2% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_12,,cir_ingredients.csv 데이터 행 42 / 파일 줄 43; 원보고서 위치 미확인
+CIR_row_42,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_12,,cir_ingredients.csv 데이터 행 42 / 파일 줄 43; 원보고서 위치 미확인
+CIR_row_42,pH,,미확인,,REPO_CIR | CIR_REPORT_12,,
+CIR_row_43,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_13,,cir_ingredients.csv 데이터 행 43 / 파일 줄 44; 원보고서 위치 미확인
+CIR_row_43,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_13,,cir_ingredients.csv 데이터 행 43 / 파일 줄 44; 원보고서 위치 미확인
+CIR_row_43,배합,Stearyl Alcohol: 100% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_13,,cir_ingredients.csv 데이터 행 43 / 파일 줄 44; 원보고서 위치 미확인
+CIR_row_43,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_13,,cir_ingredients.csv 데이터 행 43 / 파일 줄 44; 원보고서 위치 미확인
+CIR_row_43,pH,,미확인,,REPO_CIR | CIR_REPORT_13,,
+CIR_row_44,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_13,,cir_ingredients.csv 데이터 행 44 / 파일 줄 45; 원보고서 위치 미확인
+CIR_row_44,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_13,,cir_ingredients.csv 데이터 행 44 / 파일 줄 45; 원보고서 위치 미확인
+CIR_row_44,배합,Stearyl Alcohol: 100% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_13,,cir_ingredients.csv 데이터 행 44 / 파일 줄 45; 원보고서 위치 미확인
+CIR_row_44,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_13,,cir_ingredients.csv 데이터 행 44 / 파일 줄 45; 원보고서 위치 미확인
+CIR_row_44,pH,,미확인,,REPO_CIR | CIR_REPORT_13,,
+CIR_row_45,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_14,,cir_ingredients.csv 데이터 행 45 / 파일 줄 46; 원보고서 위치 미확인
+CIR_row_45,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_14,,cir_ingredients.csv 데이터 행 45 / 파일 줄 46; 원보고서 위치 미확인
+CIR_row_45,배합,Cetrimonium Chloride: 2% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_14,,cir_ingredients.csv 데이터 행 45 / 파일 줄 46; 원보고서 위치 미확인
+CIR_row_45,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_14,,cir_ingredients.csv 데이터 행 45 / 파일 줄 46; 원보고서 위치 미확인
+CIR_row_45,pH,,미확인,,REPO_CIR | CIR_REPORT_14,,
+CIR_row_46,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_14,,cir_ingredients.csv 데이터 행 46 / 파일 줄 47; 원보고서 위치 미확인
+CIR_row_46,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_14,,cir_ingredients.csv 데이터 행 46 / 파일 줄 47; 원보고서 위치 미확인
+CIR_row_46,배합,Cetrimonium Chloride: 10% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_14,,cir_ingredients.csv 데이터 행 46 / 파일 줄 47; 원보고서 위치 미확인
+CIR_row_46,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_14,,cir_ingredients.csv 데이터 행 46 / 파일 줄 47; 원보고서 위치 미확인
+CIR_row_46,pH,,미확인,,REPO_CIR | CIR_REPORT_14,,
+CIR_row_47,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_14,,cir_ingredients.csv 데이터 행 47 / 파일 줄 48; 원보고서 위치 미확인
+CIR_row_47,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_14,,cir_ingredients.csv 데이터 행 47 / 파일 줄 48; 원보고서 위치 미확인
+CIR_row_47,배합,Behentrimonium Chloride: 5% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_14,,cir_ingredients.csv 데이터 행 47 / 파일 줄 48; 원보고서 위치 미확인
+CIR_row_47,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_14,,cir_ingredients.csv 데이터 행 47 / 파일 줄 48; 원보고서 위치 미확인
+CIR_row_47,pH,,미확인,,REPO_CIR | CIR_REPORT_14,,
+CIR_row_48,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_14,,cir_ingredients.csv 데이터 행 48 / 파일 줄 49; 원보고서 위치 미확인
+CIR_row_48,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_14,,cir_ingredients.csv 데이터 행 48 / 파일 줄 49; 원보고서 위치 미확인
+CIR_row_48,배합,Behentrimonium Chloride: 3% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_14,,cir_ingredients.csv 데이터 행 48 / 파일 줄 49; 원보고서 위치 미확인
+CIR_row_48,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_14,,cir_ingredients.csv 데이터 행 48 / 파일 줄 49; 원보고서 위치 미확인
+CIR_row_48,pH,,미확인,,REPO_CIR | CIR_REPORT_14,,
+CIR_row_49,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_14,,cir_ingredients.csv 데이터 행 49 / 파일 줄 50; 원보고서 위치 미확인
+CIR_row_49,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_14,,cir_ingredients.csv 데이터 행 49 / 파일 줄 50; 원보고서 위치 미확인
+CIR_row_49,배합,Behentrimonium Chloride: 10% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_14,,cir_ingredients.csv 데이터 행 49 / 파일 줄 50; 원보고서 위치 미확인
+CIR_row_49,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_14,,cir_ingredients.csv 데이터 행 49 / 파일 줄 50; 원보고서 위치 미확인
+CIR_row_49,pH,,미확인,,REPO_CIR | CIR_REPORT_14,,
+CIR_row_50,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_15,,cir_ingredients.csv 데이터 행 50 / 파일 줄 51; 원보고서 위치 미확인
+CIR_row_50,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_15,,cir_ingredients.csv 데이터 행 50 / 파일 줄 51; 원보고서 위치 미확인
+CIR_row_50,배합,Sodium Lauryl Sulfate: 5.1% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_15,,cir_ingredients.csv 데이터 행 50 / 파일 줄 51; 원보고서 위치 미확인
+CIR_row_50,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_15,,cir_ingredients.csv 데이터 행 50 / 파일 줄 51; 원보고서 위치 미확인
+CIR_row_50,pH,,미확인,,REPO_CIR | CIR_REPORT_15,,
+CIR_row_51,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_15,,cir_ingredients.csv 데이터 행 51 / 파일 줄 52; 원보고서 위치 미확인
+CIR_row_51,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_15,,cir_ingredients.csv 데이터 행 51 / 파일 줄 52; 원보고서 위치 미확인
+CIR_row_51,배합,Sodium Lauryl Sulfate: 21% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_15,,cir_ingredients.csv 데이터 행 51 / 파일 줄 52; 원보고서 위치 미확인
+CIR_row_51,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_15,,cir_ingredients.csv 데이터 행 51 / 파일 줄 52; 원보고서 위치 미확인
+CIR_row_51,pH,,미확인,,REPO_CIR | CIR_REPORT_15,,
+CIR_row_52,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_15,,cir_ingredients.csv 데이터 행 52 / 파일 줄 53; 원보고서 위치 미확인
+CIR_row_52,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_15,,cir_ingredients.csv 데이터 행 52 / 파일 줄 53; 원보고서 위치 미확인
+CIR_row_52,배합,Sodium Lauryl Sulfate: 21% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_15,,cir_ingredients.csv 데이터 행 52 / 파일 줄 53; 원보고서 위치 미확인
+CIR_row_52,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_15,,cir_ingredients.csv 데이터 행 52 / 파일 줄 53; 원보고서 위치 미확인
+CIR_row_52,pH,,미확인,,REPO_CIR | CIR_REPORT_15,,
+CIR_row_53,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_15,,cir_ingredients.csv 데이터 행 53 / 파일 줄 54; 원보고서 위치 미확인
+CIR_row_53,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_15,,cir_ingredients.csv 데이터 행 53 / 파일 줄 54; 원보고서 위치 미확인
+CIR_row_53,배합,Sodium Lauryl Sulfate: 10% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_15,,cir_ingredients.csv 데이터 행 53 / 파일 줄 54; 원보고서 위치 미확인
+CIR_row_53,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_15,,cir_ingredients.csv 데이터 행 53 / 파일 줄 54; 원보고서 위치 미확인
+CIR_row_53,pH,,미확인,,REPO_CIR | CIR_REPORT_15,,
+CIR_row_54,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_16,,cir_ingredients.csv 데이터 행 54 / 파일 줄 55; 원보고서 위치 미확인
+CIR_row_54,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_16,,cir_ingredients.csv 데이터 행 54 / 파일 줄 55; 원보고서 위치 미확인
+CIR_row_54,배합,MCI/MI mixture (3:1): 0.056% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_16,,cir_ingredients.csv 데이터 행 54 / 파일 줄 55; 원보고서 위치 미확인
+CIR_row_54,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_16,,cir_ingredients.csv 데이터 행 54 / 파일 줄 55; 원보고서 위치 미확인
+CIR_row_54,pH,,미확인,,REPO_CIR | CIR_REPORT_16,,
+CIR_row_55,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_16,,cir_ingredients.csv 데이터 행 55 / 파일 줄 56; 원보고서 위치 미확인
+CIR_row_55,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_16,,cir_ingredients.csv 데이터 행 55 / 파일 줄 56; 원보고서 위치 미확인
+CIR_row_55,배합,MCI/MI mixture (3:1): 0.28% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_16,,cir_ingredients.csv 데이터 행 55 / 파일 줄 56; 원보고서 위치 미확인
+CIR_row_55,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_16,,cir_ingredients.csv 데이터 행 55 / 파일 줄 56; 원보고서 위치 미확인
+CIR_row_55,pH,,미확인,,REPO_CIR | CIR_REPORT_16,,
+CIR_row_56,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_16,,cir_ingredients.csv 데이터 행 56 / 파일 줄 57; 원보고서 위치 미확인
+CIR_row_56,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_16,,cir_ingredients.csv 데이터 행 56 / 파일 줄 57; 원보고서 위치 미확인
+CIR_row_56,배합,MCI/MI mixture (3:1): 0.56% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_16,,cir_ingredients.csv 데이터 행 56 / 파일 줄 57; 원보고서 위치 미확인
+CIR_row_56,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_16,,cir_ingredients.csv 데이터 행 56 / 파일 줄 57; 원보고서 위치 미확인
+CIR_row_56,pH,,미확인,,REPO_CIR | CIR_REPORT_16,,
+CIR_row_57,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_16,,cir_ingredients.csv 데이터 행 57 / 파일 줄 58; 원보고서 위치 미확인
+CIR_row_57,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_16,,cir_ingredients.csv 데이터 행 57 / 파일 줄 58; 원보고서 위치 미확인
+CIR_row_57,배합,MCI/MI mixture (3:1): 0.0055% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_16,,cir_ingredients.csv 데이터 행 57 / 파일 줄 58; 원보고서 위치 미확인
+CIR_row_57,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_16,,cir_ingredients.csv 데이터 행 57 / 파일 줄 58; 원보고서 위치 미확인
+CIR_row_57,pH,,미확인,,REPO_CIR | CIR_REPORT_16,,
+CIR_row_58,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_16,,cir_ingredients.csv 데이터 행 58 / 파일 줄 59; 원보고서 위치 미확인
+CIR_row_58,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_16,,cir_ingredients.csv 데이터 행 58 / 파일 줄 59; 원보고서 위치 미확인
+CIR_row_58,배합,MCI/MI mixture (3:1): 1.1% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_16,,cir_ingredients.csv 데이터 행 58 / 파일 줄 59; 원보고서 위치 미확인
+CIR_row_58,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_16,,cir_ingredients.csv 데이터 행 58 / 파일 줄 59; 원보고서 위치 미확인
+CIR_row_58,pH,,미확인,,REPO_CIR | CIR_REPORT_16,,
+CIR_row_59,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_17,,cir_ingredients.csv 데이터 행 59 / 파일 줄 60; 원보고서 위치 미확인
+CIR_row_59,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_17,,cir_ingredients.csv 데이터 행 59 / 파일 줄 60; 원보고서 위치 미확인
+CIR_row_59,배합,Butylene Glycol: 농도 미상,부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_17,,cir_ingredients.csv 데이터 행 59 / 파일 줄 60; 원보고서 위치 미확인
+CIR_row_59,농도,CSV 농도 결측,미확인,,REPO_CIR | CIR_REPORT_17,,cir_ingredients.csv 데이터 행 59 / 파일 줄 60; 원보고서 위치 미확인
+CIR_row_59,pH,,미확인,,REPO_CIR | CIR_REPORT_17,,
+CIR_row_60,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_18,,cir_ingredients.csv 데이터 행 60 / 파일 줄 61; 원보고서 위치 미확인
+CIR_row_60,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_18,,cir_ingredients.csv 데이터 행 60 / 파일 줄 61; 원보고서 위치 미확인
+CIR_row_60,배합,Sorbic Acid: 10% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_18,,cir_ingredients.csv 데이터 행 60 / 파일 줄 61; 원보고서 위치 미확인
+CIR_row_60,농도,"근거에 up to가 있음; CSV 값이 상한/여러 시험 요약일 가능성, 정확한 시험농도 미확정",CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_18,,cir_ingredients.csv 데이터 행 60 / 파일 줄 61; 원보고서 위치 미확인
+CIR_row_60,pH,,미확인,,REPO_CIR | CIR_REPORT_18,,
+CIR_row_61,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_18,,cir_ingredients.csv 데이터 행 61 / 파일 줄 62; 원보고서 위치 미확인
+CIR_row_61,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_18,,cir_ingredients.csv 데이터 행 61 / 파일 줄 62; 원보고서 위치 미확인
+CIR_row_61,배합,Sorbic Acid: 10% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_18,,cir_ingredients.csv 데이터 행 61 / 파일 줄 62; 원보고서 위치 미확인
+CIR_row_61,농도,"근거에 up to가 있음; CSV 값이 상한/여러 시험 요약일 가능성, 정확한 시험농도 미확정",CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_18,,cir_ingredients.csv 데이터 행 61 / 파일 줄 62; 원보고서 위치 미확인
+CIR_row_61,pH,,미확인,,REPO_CIR | CIR_REPORT_18,,
+CIR_row_62,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_18,,cir_ingredients.csv 데이터 행 62 / 파일 줄 63; 원보고서 위치 미확인
+CIR_row_62,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_18,,cir_ingredients.csv 데이터 행 62 / 파일 줄 63; 원보고서 위치 미확인
+CIR_row_62,배합,Potassium Sorbate: 1% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_18,,cir_ingredients.csv 데이터 행 62 / 파일 줄 63; 원보고서 위치 미확인
+CIR_row_62,농도,"근거에 up to가 있음; CSV 값이 상한/여러 시험 요약일 가능성, 정확한 시험농도 미확정",CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_18,,cir_ingredients.csv 데이터 행 62 / 파일 줄 63; 원보고서 위치 미확인
+CIR_row_62,pH,,미확인,,REPO_CIR | CIR_REPORT_18,,
+CIR_row_63,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_18,,cir_ingredients.csv 데이터 행 63 / 파일 줄 64; 원보고서 위치 미확인
+CIR_row_63,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_18,,cir_ingredients.csv 데이터 행 63 / 파일 줄 64; 원보고서 위치 미확인
+CIR_row_63,배합,Potassium Sorbate: 10% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_18,,cir_ingredients.csv 데이터 행 63 / 파일 줄 64; 원보고서 위치 미확인
+CIR_row_63,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_18,,cir_ingredients.csv 데이터 행 63 / 파일 줄 64; 원보고서 위치 미확인
+CIR_row_63,pH,,미확인,,REPO_CIR | CIR_REPORT_18,,
+CIR_row_64,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_19,,cir_ingredients.csv 데이터 행 64 / 파일 줄 65; 원보고서 위치 미확인
+CIR_row_64,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_19,,cir_ingredients.csv 데이터 행 64 / 파일 줄 65; 원보고서 위치 미확인
+CIR_row_64,배합,Tea Tree Oil: 100% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_19,,cir_ingredients.csv 데이터 행 64 / 파일 줄 65; 원보고서 위치 미확인
+CIR_row_64,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_19,,cir_ingredients.csv 데이터 행 64 / 파일 줄 65; 원보고서 위치 미확인
+CIR_row_64,pH,,미확인,,REPO_CIR | CIR_REPORT_19,,
+CIR_row_65,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_20,,cir_ingredients.csv 데이터 행 65 / 파일 줄 66; 원보고서 위치 미확인
+CIR_row_65,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_20,,cir_ingredients.csv 데이터 행 65 / 파일 줄 66; 원보고서 위치 미확인
+CIR_row_65,배합,Tea Tree Oil: 25% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_20,,cir_ingredients.csv 데이터 행 65 / 파일 줄 66; 원보고서 위치 미확인
+CIR_row_65,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_20,,cir_ingredients.csv 데이터 행 65 / 파일 줄 66; 원보고서 위치 미확인
+CIR_row_65,pH,,미확인,,REPO_CIR | CIR_REPORT_20,,
+CIR_row_66,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_21,,cir_ingredients.csv 데이터 행 66 / 파일 줄 67; 원보고서 위치 미확인
+CIR_row_66,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_21,,cir_ingredients.csv 데이터 행 66 / 파일 줄 67; 원보고서 위치 미확인
+CIR_row_66,배합,Tea Tree Oil: 2.5% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_21,,cir_ingredients.csv 데이터 행 66 / 파일 줄 67; 원보고서 위치 미확인
+CIR_row_66,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_21,,cir_ingredients.csv 데이터 행 66 / 파일 줄 67; 원보고서 위치 미확인
+CIR_row_66,pH,,미확인,,REPO_CIR | CIR_REPORT_21,,
+CIR_row_67,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_20,,cir_ingredients.csv 데이터 행 67 / 파일 줄 68; 원보고서 위치 미확인
+CIR_row_67,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_20,,cir_ingredients.csv 데이터 행 67 / 파일 줄 68; 원보고서 위치 미확인
+CIR_row_67,배합,Tea Tree Oil: 100% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_20,,cir_ingredients.csv 데이터 행 67 / 파일 줄 68; 원보고서 위치 미확인
+CIR_row_67,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_20,,cir_ingredients.csv 데이터 행 67 / 파일 줄 68; 원보고서 위치 미확인
+CIR_row_67,pH,,미확인,,REPO_CIR | CIR_REPORT_20,,
+CIR_row_68,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_22,,cir_ingredients.csv 데이터 행 68 / 파일 줄 69; 원보고서 위치 미확인
+CIR_row_68,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_22,,cir_ingredients.csv 데이터 행 68 / 파일 줄 69; 원보고서 위치 미확인
+CIR_row_68,배합,Propylparaben: 100% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_22,,cir_ingredients.csv 데이터 행 68 / 파일 줄 69; 원보고서 위치 미확인
+CIR_row_68,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_22,,cir_ingredients.csv 데이터 행 68 / 파일 줄 69; 원보고서 위치 미확인
+CIR_row_68,pH,,미확인,,REPO_CIR | CIR_REPORT_22,,
+CIR_row_69,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_23,,cir_ingredients.csv 데이터 행 69 / 파일 줄 70; 원보고서 위치 미확인
+CIR_row_69,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_23,,cir_ingredients.csv 데이터 행 69 / 파일 줄 70; 원보고서 위치 미확인
+CIR_row_69,배합,Propylparaben: 10% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_23,,cir_ingredients.csv 데이터 행 69 / 파일 줄 70; 원보고서 위치 미확인
+CIR_row_69,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_23,,cir_ingredients.csv 데이터 행 69 / 파일 줄 70; 원보고서 위치 미확인
+CIR_row_69,pH,,미확인,,REPO_CIR | CIR_REPORT_23,,
+CIR_row_70,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_24,,cir_ingredients.csv 데이터 행 70 / 파일 줄 71; 원보고서 위치 미확인
+CIR_row_70,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_24,,cir_ingredients.csv 데이터 행 70 / 파일 줄 71; 원보고서 위치 미확인
+CIR_row_70,배합,Octocrylene: 100% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_24,,cir_ingredients.csv 데이터 행 70 / 파일 줄 71; 원보고서 위치 미확인
+CIR_row_70,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_24,,cir_ingredients.csv 데이터 행 70 / 파일 줄 71; 원보고서 위치 미확인
+CIR_row_70,pH,,미확인,,REPO_CIR | CIR_REPORT_24,,
+CIR_row_71,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_24,,cir_ingredients.csv 데이터 행 71 / 파일 줄 72; 원보고서 위치 미확인
+CIR_row_71,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_24,,cir_ingredients.csv 데이터 행 71 / 파일 줄 72; 원보고서 위치 미확인
+CIR_row_71,배합,Octocrylene: 100% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_24,,cir_ingredients.csv 데이터 행 71 / 파일 줄 72; 원보고서 위치 미확인
+CIR_row_71,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_24,,cir_ingredients.csv 데이터 행 71 / 파일 줄 72; 원보고서 위치 미확인
+CIR_row_71,pH,,미확인,,REPO_CIR | CIR_REPORT_24,,
+CIR_row_72,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_25,,cir_ingredients.csv 데이터 행 72 / 파일 줄 73; 원보고서 위치 미확인
+CIR_row_72,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_25,,cir_ingredients.csv 데이터 행 72 / 파일 줄 73; 원보고서 위치 미확인
+CIR_row_72,배합,Homosalate: 10% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_25,,cir_ingredients.csv 데이터 행 72 / 파일 줄 73; 원보고서 위치 미확인
+CIR_row_72,농도,"근거에 up to가 있음; CSV 값이 상한/여러 시험 요약일 가능성, 정확한 시험농도 미확정",CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_25,,cir_ingredients.csv 데이터 행 72 / 파일 줄 73; 원보고서 위치 미확인
+CIR_row_72,pH,,미확인,,REPO_CIR | CIR_REPORT_25,,
+CIR_row_73,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_25,,cir_ingredients.csv 데이터 행 73 / 파일 줄 74; 원보고서 위치 미확인
+CIR_row_73,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_25,,cir_ingredients.csv 데이터 행 73 / 파일 줄 74; 원보고서 위치 미확인
+CIR_row_73,배합,Homosalate: 10% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_25,,cir_ingredients.csv 데이터 행 73 / 파일 줄 74; 원보고서 위치 미확인
+CIR_row_73,농도,"근거에 up to가 있음; CSV 값이 상한/여러 시험 요약일 가능성, 정확한 시험농도 미확정",CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_25,,cir_ingredients.csv 데이터 행 73 / 파일 줄 74; 원보고서 위치 미확인
+CIR_row_73,pH,,미확인,,REPO_CIR | CIR_REPORT_25,,
+CIR_row_74,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_26,,cir_ingredients.csv 데이터 행 74 / 파일 줄 75; 원보고서 위치 미확인
+CIR_row_74,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_26,,cir_ingredients.csv 데이터 행 74 / 파일 줄 75; 원보고서 위치 미확인
+CIR_row_74,배합,Avobenzone: 10% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_26,,cir_ingredients.csv 데이터 행 74 / 파일 줄 75; 원보고서 위치 미확인
+CIR_row_74,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_26,,cir_ingredients.csv 데이터 행 74 / 파일 줄 75; 원보고서 위치 미확인
+CIR_row_74,pH,,미확인,,REPO_CIR | CIR_REPORT_26,,
+CIR_row_75,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_27,,cir_ingredients.csv 데이터 행 75 / 파일 줄 76; 원보고서 위치 미확인
+CIR_row_75,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_27,,cir_ingredients.csv 데이터 행 75 / 파일 줄 76; 원보고서 위치 미확인
+CIR_row_75,배합,Avobenzone: 18% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_27,,cir_ingredients.csv 데이터 행 75 / 파일 줄 76; 원보고서 위치 미확인
+CIR_row_75,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_27,,cir_ingredients.csv 데이터 행 75 / 파일 줄 76; 원보고서 위치 미확인
+CIR_row_75,pH,,미확인,,REPO_CIR | CIR_REPORT_27,,
+CIR_row_76,EPA-EYE,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_27,,cir_ingredients.csv 데이터 행 76 / 파일 줄 77; 원보고서 위치 미확인
+CIR_row_76,EPA-SKIN,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_27,,cir_ingredients.csv 데이터 행 76 / 파일 줄 77; 원보고서 위치 미확인
+CIR_row_76,배합,Avobenzone: 20% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_27,,cir_ingredients.csv 데이터 행 76 / 파일 줄 77; 원보고서 위치 미확인
+CIR_row_76,농도,"근거에 up to가 있음; CSV 값이 상한/여러 시험 요약일 가능성, 정확한 시험농도 미확정",CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_27,,cir_ingredients.csv 데이터 행 76 / 파일 줄 77; 원보고서 위치 미확인
+CIR_row_76,pH,,미확인,,REPO_CIR | CIR_REPORT_27,,
+CIR_row_77,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_28,,cir_ingredients.csv 데이터 행 77 / 파일 줄 78; 원보고서 위치 미확인
+CIR_row_77,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_28,,cir_ingredients.csv 데이터 행 77 / 파일 줄 78; 원보고서 위치 미확인
+CIR_row_77,배합,Sodium Laureth Sulfate: 28% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_28,,cir_ingredients.csv 데이터 행 77 / 파일 줄 78; 원보고서 위치 미확인
+CIR_row_77,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_28,,cir_ingredients.csv 데이터 행 77 / 파일 줄 78; 원보고서 위치 미확인
+CIR_row_77,pH,,미확인,,REPO_CIR | CIR_REPORT_28,,
+CIR_row_78,EPA-EYE,해당 endpoint 자료 없음,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_28,,cir_ingredients.csv 데이터 행 78 / 파일 줄 79; 원보고서 위치 미확인
+CIR_row_78,EPA-SKIN,미확정—환산 근거와 시험 프로토콜 재검토 필요,저장소 EPA 환산값; 공식 EPA 분류로 확인되지 않음,,REPO_CIR | CIR_REPORT_28,,cir_ingredients.csv 데이터 행 78 / 파일 줄 79; 원보고서 위치 미확인
+CIR_row_78,배합,Sodium Laureth Sulfate: 58% (CSV),부분 확인—성분명 및 CSV 농도,,REPO_CIR | CIR_REPORT_28,,cir_ingredients.csv 데이터 행 78 / 파일 줄 79; 원보고서 위치 미확인
+CIR_row_78,농도,CSV 기재 농도; 해당 원시험의 정확한 농도인지 미확인,CSV 기재값만 있음; 원문 확인 필요,,REPO_CIR | CIR_REPORT_28,,cir_ingredients.csv 데이터 행 78 / 파일 줄 79; 원보고서 위치 미확인
+CIR_row_78,pH,,미확인,,REPO_CIR | CIR_REPORT_28,,
+SDS_69061_12_50591,EPA-EYE,II 대응 라벨 문구; 원시험 등급 미확정,EPA 눈자극 문구 대리값 + SDS 독성 요약; 원시험 자료 아님,,REPO_SDS | SDS_01 | LABEL_01 | EPA_GUIDE,https://www3.epa.gov/pesticides/chem_search/ppls/069061-00012-20150910.pdf,PDF 4쪽
+SDS_69061_12_50591,EPA-SKIN,"충돌—CSV III, 기본 등록 공식 피부 자극 문구는 II 대응; 배합·원시험 확인 전 보류",EPA 눈자극 문구 대리값 + SDS 독성 요약; 원시험 자료 아님,,REPO_SDS | SDS_01 | LABEL_01 | EPA_GUIDE,https://www3.epa.gov/pesticides/chem_search/ppls/069061-00012-20150910.pdf,PDF 4쪽
+SDS_69061_12_50591,배합,Pyrethrum (insecticide): 0.15–0.15% | Trade Secret #1: 0–1%,부분 확인—SDS 공개 성분/범위; 전체 배합 미공개,,REPO_SDS | SDS_01 | LABEL_01 | EPA_GUIDE,https://davismfg.com/medias/Flea%20Tick%20Shampoo%2005%2028%202025.pdf,"Section 3(조성), 9(pH), 11(독성); EPA 공식 라벨 별도"
+SDS_69061_12_50591,농도,성분 wt%는 제품 배합 함량. 자극 시험의 제품 희석률은 별도 미확인,미확인—사용법의 희석·세척을 자극시험 조건으로 전용하지 않음,,REPO_SDS | SDS_01 | LABEL_01 | EPA_GUIDE,https://davismfg.com/medias/Flea%20Tick%20Shampoo%2005%2028%202025.pdf,"Section 3(조성), 9(pH), 11(독성); EPA 공식 라벨 별도"
+SDS_69061_12_50591,pH,6.2–6.8,원문 확인—제품 pH,SDS 제품 pH; 시험 당시 시료와 일치 미확인,REPO_SDS | SDS_01 | LABEL_01 | EPA_GUIDE,https://davismfg.com/medias/Flea%20Tick%20Shampoo%2005%2028%202025.pdf,"PDF 3쪽, Section 9"
+SDS_1021_1723_12281,EPA-EYE,II 대응 라벨 문구; 원시험 등급 미확정,EPA 눈자극 문구 대리값 + SDS 독성 요약; 원시험 자료 아님,,REPO_SDS | SDS_02 | LABEL_02 | EPA_GUIDE,https://www3.epa.gov/pesticides/chem_search/ppls/001021-01723-20131224.pdf,PDF 4쪽
+SDS_1021_1723_12281,EPA-SKIN,"충돌—CSV III, 기본 등록 공식 피부 자극 문구는 II 대응; 배합·원시험 확인 전 보류",EPA 눈자극 문구 대리값 + SDS 독성 요약; 원시험 자료 아님,,REPO_SDS | SDS_02 | LABEL_02 | EPA_GUIDE,https://www3.epa.gov/pesticides/chem_search/ppls/001021-01723-20131224.pdf,PDF 4쪽
+SDS_1021_1723_12281,배합,Pyrethrins: 0.15–0.15% | Piperonyl Butoxide (PBO): 0.3–0.3% | MGK-264 Insecticide Synergist: 0.479–0.479%,부분 확인—SDS 공개 성분/범위; 전체 배합 미공개,,REPO_SDS | SDS_02 | LABEL_02 | EPA_GUIDE,https://www.durvet.com/wp-content/uploads/2017/12/No_Bite-Flea-and-Tick-Shampoo_DV_neogen_sds_7_6_2015.pdf,"Section 3(조성), 9(pH), 11(독성); EPA 공식 라벨 별도"
+SDS_1021_1723_12281,농도,성분 wt%는 제품 배합 함량. 자극 시험의 제품 희석률은 별도 미확인,미확인—사용법의 희석·세척을 자극시험 조건으로 전용하지 않음,,REPO_SDS | SDS_02 | LABEL_02 | EPA_GUIDE,https://www.durvet.com/wp-content/uploads/2017/12/No_Bite-Flea-and-Tick-Shampoo_DV_neogen_sds_7_6_2015.pdf,"Section 3(조성), 9(pH), 11(독성); EPA 공식 라벨 별도"
+SDS_1021_1723_12281,pH,,미확인—본문 접근 실패,SDS 본문 접근 실패; pH 미보고라고 단정하지 않음,REPO_SDS | SDS_02 | LABEL_02 | EPA_GUIDE,https://www.durvet.com/wp-content/uploads/2017/12/No_Bite-Flea-and-Tick-Shampoo_DV_neogen_sds_7_6_2015.pdf,본문 재확보 필요
+SDS_270_324,EPA-EYE,II 대응 라벨 문구; 원시험 등급 미확정,EPA 눈자극 문구 대리값 + SDS 독성 요약; 원시험 자료 아님,,REPO_SDS | SDS_03 | LABEL_03 | EPA_GUIDE,https://www3.epa.gov/pesticides/chem_search/ppls/000270-00324-20120301.pdf,PDF 3쪽
+SDS_270_324,EPA-SKIN,미확정—GHS/형용사만으로 EPA 피부등급 환산 불가,EPA 눈자극 문구 대리값 + SDS 독성 요약; 원시험 자료 아님,,REPO_SDS | SDS_03 | LABEL_03 | EPA_GUIDE,https://www3.epa.gov/pesticides/chem_search/ppls/000270-00324-20120301.pdf,PDF 3쪽
+SDS_270_324,배합,Pyrethrins: 0.075–0.075% | Piperonyl butoxide: 0.75–0.75% | Pyriproxyfen: 0.086–0.086% | Sodium lauryl sulfate: 6–9% | Coconut oil acid diethanolamide: 5.4–6% | Diethanolamine: 0.3–0.6% | Non-hazardous/balance: 미공개,부분 확인—SDS 공개 성분/범위; 전체 배합 미공개,,REPO_SDS | SDS_03 | LABEL_03 | EPA_GUIDE,https://labelsds.com/images/user_uploads/Adams%20F%20and%20T%20Cleansing%20SDS%209-28-23.pdf,"Section 3(조성), 9(pH), 11(독성); EPA 공식 라벨 별도"
+SDS_270_324,농도,성분 wt%는 제품 배합 함량. 자극 시험의 제품 희석률은 별도 미확인,미확인—사용법의 희석·세척을 자극시험 조건으로 전용하지 않음,,REPO_SDS | SDS_03 | LABEL_03 | EPA_GUIDE,https://labelsds.com/images/user_uploads/Adams%20F%20and%20T%20Cleansing%20SDS%209-28-23.pdf,"Section 3(조성), 9(pH), 11(독성); EPA 공식 라벨 별도"
+SDS_270_324,pH,7–8,원문 확인—제품 pH,SDS 제품 pH; 시험 당시 시료와 일치 미확인,REPO_SDS | SDS_03 | LABEL_03 | EPA_GUIDE,https://labelsds.com/images/user_uploads/Adams%20F%20and%20T%20Cleansing%20SDS%209-28-23.pdf,"PDF 4쪽, Section 9"
+SDS_2724_485,EPA-EYE,III/IV 대응 라벨 문구; III 단독 확정 불가,EPA 눈자극 문구 대리값 + SDS 독성 요약; 원시험 자료 아님,,REPO_SDS | SDS_04 | LABEL_04 | EPA_GUIDE,https://www3.epa.gov/pesticides/chem_search/ppls/002724-00485-20180405.pdf,PDF 3쪽
+SDS_2724_485,EPA-SKIN,미확정—GHS/형용사만으로 EPA 피부등급 환산 불가,EPA 눈자극 문구 대리값 + SDS 독성 요약; 원시험 자료 아님,,REPO_SDS | SDS_04 | LABEL_04 | EPA_GUIDE,https://www3.epa.gov/pesticides/chem_search/ppls/002724-00485-20180405.pdf,PDF 3쪽
+SDS_2724_485,배합,S-Methoprene: 0.1–0.1% | Pyrethrins: 0.15–0.15% | Piperonyl butoxide: 1.88–1.88% | Cocamidopropyl betaine: 8.12–8.68% | Ammonium laureth sulfate: 7.54–7.8% | Ethanol: 1.69–1.95% | Coconut oil monoethanolamide: 1.35–1.5% | Other ingredients (NDA): 미공개,부분 확인—SDS 공개 성분/범위; 전체 배합 미공개,,REPO_SDS | SDS_04 | LABEL_04 | EPA_GUIDE,https://labelsds.com/images/user_uploads/Zodiac%20Shampoo%20-%20Puppy-Dog%20SDS%206-24-16.pdf,"Section 3(조성), 9(pH), 11(독성); EPA 공식 라벨 별도"
+SDS_2724_485,농도,성분 wt%는 제품 배합 함량. 자극 시험의 제품 희석률은 별도 미확인,미확인—사용법의 희석·세척을 자극시험 조건으로 전용하지 않음,,REPO_SDS | SDS_04 | LABEL_04 | EPA_GUIDE,https://labelsds.com/images/user_uploads/Zodiac%20Shampoo%20-%20Puppy-Dog%20SDS%206-24-16.pdf,"Section 3(조성), 9(pH), 11(독성); EPA 공식 라벨 별도"
+SDS_2724_485,pH,5.9,원문 확인—제품 pH,"SDS 제품 pH, 21.3°C; 시험 당시 시료와 일치 미확인",REPO_SDS | SDS_04 | LABEL_04 | EPA_GUIDE,https://labelsds.com/images/user_uploads/Zodiac%20Shampoo%20-%20Puppy-Dog%20SDS%206-24-16.pdf,"PDF 5쪽, Section 9"
+SDS_2724_485_270,EPA-EYE,III/IV 대응 라벨 문구; III 단독 확정 불가,EPA 눈자극 문구 대리값 + SDS 독성 요약; 원시험 자료 아님,,REPO_SDS | SDS_05 | LABEL_05 | EPA_GUIDE,https://www3.epa.gov/pesticides/chem_search/ppls/002724-00485-20180405.pdf,PDF 3쪽
+SDS_2724_485_270,EPA-SKIN,미확정—GHS/형용사만으로 EPA 피부등급 환산 불가,EPA 눈자극 문구 대리값 + SDS 독성 요약; 원시험 자료 아님,,REPO_SDS | SDS_05 | LABEL_05 | EPA_GUIDE,https://www3.epa.gov/pesticides/chem_search/ppls/002724-00485-20180405.pdf,PDF 3쪽
+SDS_2724_485_270,배합,(s)-Methoprene Technical: 0.1–0.1% | Pyrethrins: 0.15–0.15% | Piperonyl butoxide: 1.88–1.88% | Cocamidopropyl betaine: 8.12–8.68% | Ammonium laureth sulfate: 6.5–7.8% | Ethanol: 1.3–2.6% | Coconut oil monoethanolamide: 1.35–1.5% | Non-hazardous/balance: 미공개,부분 확인—SDS 공개 성분/범위; 전체 배합 미공개,,REPO_SDS | SDS_05 | LABEL_05 | EPA_GUIDE,https://pdf.lowes.com/productdocuments/6bba45d9-6f5a-4d63-837f-6e3a07a1bf05/44866530.pdf,"Section 3(조성), 9(pH), 11(독성); EPA 공식 라벨 별도"
+SDS_2724_485_270,농도,성분 wt%는 제품 배합 함량. 자극 시험의 제품 희석률은 별도 미확인,미확인—사용법의 희석·세척을 자극시험 조건으로 전용하지 않음,,REPO_SDS | SDS_05 | LABEL_05 | EPA_GUIDE,https://pdf.lowes.com/productdocuments/6bba45d9-6f5a-4d63-837f-6e3a07a1bf05/44866530.pdf,"Section 3(조성), 9(pH), 11(독성); EPA 공식 라벨 별도"
+SDS_2724_485_270,pH,5.9,원문 확인—제품 pH,"SDS 제품 pH, 21.3°C; 시험 당시 시료와 일치 미확인",REPO_SDS | SDS_05 | LABEL_05 | EPA_GUIDE,https://pdf.lowes.com/productdocuments/6bba45d9-6f5a-4d63-837f-6e3a07a1bf05/44866530.pdf,"PDF 4쪽, Section 9"
+Zodiac_2724_792,EPA-EYE,III/IV 대응 라벨 문구; III 단독 확정 불가,EPA 눈자극 라벨 대리값 + SDS 독성 요약,,SDS_06 | LABEL_06 | EPA_GUIDE,https://www3.epa.gov/pesticides/chem_search/ppls/002724-00792-20150129.pdf,PDF 4쪽
+Zodiac_2724_792,EPA-SKIN,미확정—GHS 피부2를 EPA II/III로 자동 환산 불가,EPA 눈자극 라벨 대리값 + SDS 독성 요약,,SDS_06 | LABEL_06 | EPA_GUIDE,https://www3.epa.gov/pesticides/chem_search/ppls/002724-00792-20150129.pdf,PDF 4쪽
+Zodiac_2724_792,배합,Pyrethrins 0.05%; PBO 0.5%; ethanol 1.69–1.95%; coconut monoethanolamide 1.08–1.2%; 나머지 미공개,부분 확인—SDS 공개 성분/범위; 전체 배합 미공개,,SDS_06 | LABEL_06 | EPA_GUIDE,https://www.domyown.com/msds/Zodiac_Flea_and_Tick_Shampoo_for_Dogs_and_Cats_SDS_2020.pdf,"PDF 2쪽 조성, 5쪽 pH·독성"
+Zodiac_2724_792,농도,성분 wt%는 제품 배합 함량; 시험 제품 희석률 미확인,미확인,,SDS_06 | LABEL_06 | EPA_GUIDE,https://www.domyown.com/msds/Zodiac_Flea_and_Tick_Shampoo_for_Dogs_and_Cats_SDS_2020.pdf,"PDF 2쪽 조성, 5쪽 pH·독성"
+Zodiac_2724_792,pH,5.64,원문 확인—제품 pH,SDS 제품 pH; 시험 당시 시료와 일치 미확인,SDS_06 | LABEL_06 | EPA_GUIDE,https://www.domyown.com/msds/Zodiac_Flea_and_Tick_Shampoo_for_Dogs_and_Cats_SDS_2020.pdf,"PDF 5쪽, Section 9"
+Q_T1_C1,EPA-EYE,미확정—평균 Draize 총점으로 EPA 등급 부여 불가,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 1, 왼쪽부터 조건 1"
+Q_T1_C1,EPA-SKIN,해당 endpoint 자료 없음,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 1, 왼쪽부터 조건 1"
+Q_T1_C1,배합,FMB 유효성분 1.2% | EDTA 0.9% | NaOH 0.33% | 물 97.27% 추가; 원료 stock 잔량 별도,부분 확인—주요 투입량/유효성분 확인; stock 용매·중화 후 화학종 미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 1, 왼쪽부터 조건 1"
+Q_T1_C1,농도,특허 배합 농도 확인; 별도 시험 희석률·노출량은 분리 확인 필요,표 배합의 시험으로 서술; 추가 희석 여부/실제 투여량 별도 미확정,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 1, 왼쪽부터 조건 1"
+Q_T1_C1,pH,7.1,원문 확인—시험 배합 pH,해당 표의 배합 pH; 시험 직전·직후 측정 시점은 미기재,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 1, 조건 1, pH 행"
+Q_T1_C2,EPA-EYE,미확정—평균 Draize 총점으로 EPA 등급 부여 불가,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 1, 왼쪽부터 조건 2"
+Q_T1_C2,EPA-SKIN,해당 endpoint 자료 없음,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 1, 왼쪽부터 조건 2"
+Q_T1_C2,배합,FMB 유효성분 1.2% | 물 98.5% 추가; 원료 stock 잔량 별도,부분 확인—주요 투입량/유효성분 확인; stock 용매·중화 후 화학종 미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 1, 왼쪽부터 조건 2"
+Q_T1_C2,농도,특허 배합 농도 확인; 별도 시험 희석률·노출량은 분리 확인 필요,표 배합의 시험으로 서술; 추가 희석 여부/실제 투여량 별도 미확정,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 1, 왼쪽부터 조건 2"
+Q_T1_C2,pH,6.9,원문 확인—시험 배합 pH,해당 표의 배합 pH; 시험 직전·직후 측정 시점은 미기재,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 1, 조건 2, pH 행"
+Q_T2_C1,EPA-EYE,미확정—평균 Draize 총점으로 EPA 등급 부여 불가,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 1"
+Q_T2_C1,EPA-SKIN,해당 endpoint 자료 없음,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 1"
+Q_T2_C1,배합,DDAC 유효성분 1% | 물 q.s.; stock 용매 조성 미확인,부분 확인—주요 투입량/유효성분 확인; stock 용매·중화 후 화학종 미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 1"
+Q_T2_C1,농도,특허 배합 농도 확인; 별도 시험 희석률·노출량은 분리 확인 필요,표 배합의 시험으로 서술; 추가 희석 여부/실제 투여량 별도 미확정,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 1"
+Q_T2_C1,pH,7.1,원문 확인—시험 배합 pH,해당 표의 배합 pH; 시험 직전·직후 측정 시점은 미기재,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 조건 1, pH 행"
+Q_T2_C2,EPA-EYE,미확정—평균 Draize 총점으로 EPA 등급 부여 불가,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 2"
+Q_T2_C2,EPA-SKIN,해당 endpoint 자료 없음,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 2"
+Q_T2_C2,배합,DDAC 유효성분 1% | EDTA 1% | NaOH 0.4% | 물 q.s.; stock 용매 조성 미확인,부분 확인—주요 투입량/유효성분 확인; stock 용매·중화 후 화학종 미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 2"
+Q_T2_C2,농도,특허 배합 농도 확인; 별도 시험 희석률·노출량은 분리 확인 필요,표 배합의 시험으로 서술; 추가 희석 여부/실제 투여량 별도 미확정,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 2"
+Q_T2_C2,pH,7.5,원문 확인—시험 배합 pH,해당 표의 배합 pH; 시험 직전·직후 측정 시점은 미기재,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 조건 2, pH 행"
+Q_T2_C3,EPA-EYE,미확정—평균 Draize 총점으로 EPA 등급 부여 불가,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 3"
+Q_T2_C3,EPA-SKIN,해당 endpoint 자료 없음,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 3"
+Q_T2_C3,배합,MB 유효성분 1% | 물 q.s.; stock 용매 조성 미확인,부분 확인—주요 투입량/유효성분 확인; stock 용매·중화 후 화학종 미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 3"
+Q_T2_C3,농도,특허 배합 농도 확인; 별도 시험 희석률·노출량은 분리 확인 필요,표 배합의 시험으로 서술; 추가 희석 여부/실제 투여량 별도 미확정,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 3"
+Q_T2_C3,pH,7.5,원문 확인—시험 배합 pH,해당 표의 배합 pH; 시험 직전·직후 측정 시점은 미기재,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 조건 3, pH 행"
+Q_T2_C4,EPA-EYE,미확정—평균 Draize 총점으로 EPA 등급 부여 불가,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 4"
+Q_T2_C4,EPA-SKIN,해당 endpoint 자료 없음,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 4"
+Q_T2_C4,배합,MB 유효성분 1% | EDTA 1% | NaOH 0.4% | 물 q.s.; stock 용매 조성 미확인,부분 확인—주요 투입량/유효성분 확인; stock 용매·중화 후 화학종 미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 4"
+Q_T2_C4,농도,특허 배합 농도 확인; 별도 시험 희석률·노출량은 분리 확인 필요,표 배합의 시험으로 서술; 추가 희석 여부/실제 투여량 별도 미확정,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 4"
+Q_T2_C4,pH,7.4,원문 확인—시험 배합 pH,해당 표의 배합 pH; 시험 직전·직후 측정 시점은 미기재,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 조건 4, pH 행"
+Q_T2_C5,EPA-EYE,미확정—평균 Draize 총점으로 EPA 등급 부여 불가,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 5"
+Q_T2_C5,EPA-SKIN,해당 endpoint 자료 없음,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 5"
+Q_T2_C5,배합,MB 유효성분 1.28% | 물 q.s.; stock 용매 조성 미확인,부분 확인—주요 투입량/유효성분 확인; stock 용매·중화 후 화학종 미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 5"
+Q_T2_C5,농도,특허 배합 농도 확인; 별도 시험 희석률·노출량은 분리 확인 필요,표 배합의 시험으로 서술; 추가 희석 여부/실제 투여량 별도 미확정,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 5"
+Q_T2_C5,pH,7,원문 확인—시험 배합 pH,해당 표의 배합 pH; 시험 직전·직후 측정 시점은 미기재,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 조건 5, pH 행"
+Q_T2_C6,EPA-EYE,미확정—평균 Draize 총점으로 EPA 등급 부여 불가,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 6"
+Q_T2_C6,EPA-SKIN,해당 endpoint 자료 없음,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 6"
+Q_T2_C6,배합,MB 유효성분 1.28% | EDTA 1.2% | NaOH 0.48% | 물 q.s.; stock 용매 조성 미확인,부분 확인—주요 투입량/유효성분 확인; stock 용매·중화 후 화학종 미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 6"
+Q_T2_C6,농도,특허 배합 농도 확인; 별도 시험 희석률·노출량은 분리 확인 필요,표 배합의 시험으로 서술; 추가 희석 여부/실제 투여량 별도 미확정,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 6"
+Q_T2_C6,pH,6.9,원문 확인—시험 배합 pH,해당 표의 배합 pH; 시험 직전·직후 측정 시점은 미기재,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 조건 6, pH 행"
+Q_T2_C7,EPA-EYE,미확정—평균 Draize 총점으로 EPA 등급 부여 불가,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 7"
+Q_T2_C7,EPA-SKIN,해당 endpoint 자료 없음,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 7"
+Q_T2_C7,배합,MX 유효성분 2% | EDTA 2% | NaOH 0.8% | 물 q.s.; stock 용매 조성 미확인,부분 확인—주요 투입량/유효성분 확인; stock 용매·중화 후 화학종 미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 7"
+Q_T2_C7,농도,특허 배합 농도 확인; 별도 시험 희석률·노출량은 분리 확인 필요,표 배합의 시험으로 서술; 추가 희석 여부/실제 투여량 별도 미확정,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 7"
+Q_T2_C7,pH,7,원문 확인—시험 배합 pH,해당 표의 배합 pH; 시험 직전·직후 측정 시점은 미기재,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 조건 7, pH 행"
+Q_T2_C8,EPA-EYE,미확정—평균 Draize 총점으로 EPA 등급 부여 불가,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 8"
+Q_T2_C8,EPA-SKIN,해당 endpoint 자료 없음,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 8"
+Q_T2_C8,배합,MX 유효성분 2.1% | EDTA 4% | NaOH 1.6% | 물 q.s.; stock 용매 조성 미확인,부분 확인—주요 투입량/유효성분 확인; stock 용매·중화 후 화학종 미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 8"
+Q_T2_C8,농도,특허 배합 농도 확인; 별도 시험 희석률·노출량은 분리 확인 필요,표 배합의 시험으로 서술; 추가 희석 여부/실제 투여량 별도 미확정,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 왼쪽부터 조건 8"
+Q_T2_C8,pH,7,원문 확인—시험 배합 pH,해당 표의 배합 pH; 시험 직전·직후 측정 시점은 미기재,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 2, 조건 8, pH 행"
+Q_T3_C1,EPA-EYE,미확정—평균 Draize 총점으로 EPA 등급 부여 불가,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 왼쪽부터 조건 1"
+Q_T3_C1,EPA-SKIN,해당 endpoint 자료 없음,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 왼쪽부터 조건 1"
+Q_T3_C1,배합,MB 유효성분 2% | 물 97.5% 추가; 원료 stock 잔량 별도,부분 확인—주요 투입량/유효성분 확인; stock 용매·중화 후 화학종 미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 왼쪽부터 조건 1"
+Q_T3_C1,농도,특허 배합 농도 확인; 별도 시험 희석률·노출량은 분리 확인 필요,표 배합의 시험으로 서술; 추가 희석 여부/실제 투여량 별도 미확정,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 왼쪽부터 조건 1"
+Q_T3_C1,pH,7,원문 확인—시험 배합 pH,해당 표의 배합 pH; 시험 직전·직후 측정 시점은 미기재,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 조건 1, pH 행"
+Q_T3_C2,EPA-EYE,미확정—평균 Draize 총점으로 EPA 등급 부여 불가,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 왼쪽부터 조건 2"
+Q_T3_C2,EPA-SKIN,해당 endpoint 자료 없음,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 왼쪽부터 조건 2"
+Q_T3_C2,배합,MB 유효성분 1.9% | EDTA 6% | NaOH 2.4% | 물 89.225% 추가; 원료 stock 잔량 별도,부분 확인—주요 투입량/유효성분 확인; stock 용매·중화 후 화학종 미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 왼쪽부터 조건 2"
+Q_T3_C2,농도,특허 배합 농도 확인; 별도 시험 희석률·노출량은 분리 확인 필요,표 배합의 시험으로 서술; 추가 희석 여부/실제 투여량 별도 미확정,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 왼쪽부터 조건 2"
+Q_T3_C2,pH,7,원문 확인—시험 배합 pH,해당 표의 배합 pH; 시험 직전·직후 측정 시점은 미기재,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 조건 2, pH 행"
+Q_T3_C3,EPA-EYE,미확정—평균 Draize 총점으로 EPA 등급 부여 불가,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 왼쪽부터 조건 3"
+Q_T3_C3,EPA-SKIN,해당 endpoint 자료 없음,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 왼쪽부터 조건 3"
+Q_T3_C3,배합,MB 유효성분 1.9% | EDTA 8% | NaOH 3.2% | 물 86.425% 추가; 원료 stock 잔량 별도,부분 확인—주요 투입량/유효성분 확인; stock 용매·중화 후 화학종 미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 왼쪽부터 조건 3"
+Q_T3_C3,농도,특허 배합 농도 확인; 별도 시험 희석률·노출량은 분리 확인 필요,표 배합의 시험으로 서술; 추가 희석 여부/실제 투여량 별도 미확정,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 왼쪽부터 조건 3"
+Q_T3_C3,pH,7.2,원문 확인—시험 배합 pH,해당 표의 배합 pH; 시험 직전·직후 측정 시점은 미기재,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 조건 3, pH 행"
+Q_T3_C4,EPA-EYE,미확정—평균 Draize 총점으로 EPA 등급 부여 불가,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 왼쪽부터 조건 4"
+Q_T3_C4,EPA-SKIN,해당 endpoint 자료 없음,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 왼쪽부터 조건 4"
+Q_T3_C4,배합,MB 유효성분 1.9% | NaCl 6% | 물 91.625% 추가; 원료 stock 잔량 별도,부분 확인—주요 투입량/유효성분 확인; stock 용매·중화 후 화학종 미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 왼쪽부터 조건 4"
+Q_T3_C4,농도,특허 배합 농도 확인; 별도 시험 희석률·노출량은 분리 확인 필요,표 배합의 시험으로 서술; 추가 희석 여부/실제 투여량 별도 미확정,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 왼쪽부터 조건 4"
+Q_T3_C4,pH,7,원문 확인—시험 배합 pH,해당 표의 배합 pH; 시험 직전·직후 측정 시점은 미기재,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 조건 4, pH 행"
+Q_T3_C5,EPA-EYE,미확정—평균 Draize 총점으로 EPA 등급 부여 불가,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 왼쪽부터 조건 5"
+Q_T3_C5,EPA-SKIN,해당 endpoint 자료 없음,특허 평균 눈자극 시계열; 공식 EPA 분류 없음,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 왼쪽부터 조건 5"
+Q_T3_C5,배합,MB 유효성분 1.9% | NaOH 3.2% | glycolic 6% | 물 88.425% 추가; 원료 stock 잔량 별도,부분 확인—주요 투입량/유효성분 확인; stock 용매·중화 후 화학종 미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 왼쪽부터 조건 5"
+Q_T3_C5,농도,특허 배합 농도 확인; 별도 시험 희석률·노출량은 분리 확인 필요,표 배합의 시험으로 서술; 추가 희석 여부/실제 투여량 별도 미확정,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 왼쪽부터 조건 5"
+Q_T3_C5,pH,7,원문 확인—시험 배합 pH,해당 표의 배합 pH; 시험 직전·직후 측정 시점은 미기재,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 3, 조건 5, pH 행"
+Q_T4_C1,EPA-EYE,미확정—평균 총점만 있음,특허 눈자극 평균 총점,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 왼쪽부터 조건 1"
+Q_T4_C1,EPA-SKIN,해당 endpoint 자료 없음,특허 눈자극 평균 총점,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 왼쪽부터 조건 1"
+Q_T4_C1,배합,nominal quat active 1.92% | EDTA 6% | NaOH 2.4% | 물 q.s.; 실측 quat actives 2.06%,부분 확인—열별 수치 있음; 상업원료명-열 대응 미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 왼쪽부터 조건 1"
+Q_T4_C1,농도,명목 함량과 실측 actives를 구분; 시험 희석률 미확정,미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 왼쪽부터 조건 1"
+Q_T4_C1,pH,7,원문 확인—시험 배합 pH,표의 열 위치 기준 배합 pH; 원료 정체 대응은 보류,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 조건 1, pH 행"
+Q_T4_C2,EPA-EYE,미확정—평균 총점만 있음,특허 눈자극 평균 총점,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 왼쪽부터 조건 2"
+Q_T4_C2,EPA-SKIN,해당 endpoint 자료 없음,특허 눈자극 평균 총점,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 왼쪽부터 조건 2"
+Q_T4_C2,배합,nominal quat active 1.92% | NaCl 6% | 물 q.s.; 실측 quat actives 1.94%,부분 확인—열별 수치 있음; 상업원료명-열 대응 미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 왼쪽부터 조건 2"
+Q_T4_C2,농도,명목 함량과 실측 actives를 구분; 시험 희석률 미확정,미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 왼쪽부터 조건 2"
+Q_T4_C2,pH,6.65,원문 확인—시험 배합 pH,표의 열 위치 기준 배합 pH; 원료 정체 대응은 보류,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 조건 2, pH 행"
+Q_T4_C3,EPA-EYE,미확정—평균 총점만 있음,특허 눈자극 평균 총점,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 왼쪽부터 조건 3"
+Q_T4_C3,EPA-SKIN,해당 endpoint 자료 없음,특허 눈자극 평균 총점,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 왼쪽부터 조건 3"
+Q_T4_C3,배합,nominal quat active 1.92% | EDTA 4% | NaOH 1.62% | 물 q.s.; 실측 quat actives 2%,부분 확인—열별 수치 있음; 상업원료명-열 대응 미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 왼쪽부터 조건 3"
+Q_T4_C3,농도,명목 함량과 실측 actives를 구분; 시험 희석률 미확정,미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 왼쪽부터 조건 3"
+Q_T4_C3,pH,7.1,원문 확인—시험 배합 pH,표의 열 위치 기준 배합 pH; 원료 정체 대응은 보류,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 조건 3, pH 행"
+Q_T4_C4,EPA-EYE,미확정—평균 총점만 있음,특허 눈자극 평균 총점,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 왼쪽부터 조건 4"
+Q_T4_C4,EPA-SKIN,해당 endpoint 자료 없음,특허 눈자극 평균 총점,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 왼쪽부터 조건 4"
+Q_T4_C4,배합,nominal quat active 1.92% | EDTA 4% | NaOH 1.62% | 물 q.s.; 실측 quat actives 2%,부분 확인—열별 수치 있음; 상업원료명-열 대응 미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 왼쪽부터 조건 4"
+Q_T4_C4,농도,명목 함량과 실측 actives를 구분; 시험 희석률 미확정,미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 왼쪽부터 조건 4"
+Q_T4_C4,pH,7,원문 확인—시험 배합 pH,표의 열 위치 기준 배합 pH; 원료 정체 대응은 보류,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 조건 4, pH 행"
+Q_T4_C5,EPA-EYE,미확정—평균 총점만 있음,특허 눈자극 평균 총점,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 왼쪽부터 조건 5"
+Q_T4_C5,EPA-SKIN,해당 endpoint 자료 없음,특허 눈자극 평균 총점,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 왼쪽부터 조건 5"
+Q_T4_C5,배합,nominal quat active 1.92% | NaCl 4% | 물 q.s.; 실측 quat actives 2%,부분 확인—열별 수치 있음; 상업원료명-열 대응 미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 왼쪽부터 조건 5"
+Q_T4_C5,농도,명목 함량과 실측 actives를 구분; 시험 희석률 미확정,미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 왼쪽부터 조건 5"
+Q_T4_C5,pH,7.3,원문 확인—시험 배합 pH,표의 열 위치 기준 배합 pH; 원료 정체 대응은 보류,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 조건 5, pH 행"
+Q_T4_C6,EPA-EYE,미확정—평균 총점만 있음,특허 눈자극 평균 총점,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 왼쪽부터 조건 6"
+Q_T4_C6,EPA-SKIN,해당 endpoint 자료 없음,특허 눈자극 평균 총점,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 왼쪽부터 조건 6"
+Q_T4_C6,배합,nominal quat active 1.6% | EDTA 6% | NaOH 2.4% | 물 q.s.; 실측 quat actives 1.71%,부분 확인—열별 수치 있음; 상업원료명-열 대응 미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 왼쪽부터 조건 6"
+Q_T4_C6,농도,명목 함량과 실측 actives를 구분; 시험 희석률 미확정,미확인,,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 왼쪽부터 조건 6"
+Q_T4_C6,pH,7,원문 확인—시험 배합 pH,표의 열 위치 기준 배합 pH; 원료 정체 대응은 보류,Q_PATENT,https://patents.google.com/patent/US6583181B1/en,"Table 4, 조건 6, pH 행"
+SH_Example1,EPA-EYE,미확정—7일 평균 총점만으로 EPA 등급 재구성 불가,특허의 토끼 3마리 평균 Draize 점수,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 1"
+SH_Example1,EPA-SKIN,해당 endpoint 자료 없음,특허의 토끼 3마리 평균 Draize 점수,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 1"
+SH_Example1,배합,ALS/ALES-1 commercial blend (Table I footnote 3): 52.5% | Ethylene oxide homopolymer POLYOX WSRN60-K: 0.0117% | Ammonium chloride 20% aqueous stock: 5% | Dye solution: 2% | Fragrance: 0.5% | Deionized water added: 39.9883%,투입 원료 배합표 확인; 상업 원료의 상세 분자 조성 일부 미해결,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 1"
+SH_Example1,농도,표의 wt%는 상업 원료 투입량. 원료 활성분%와 곱해야 활성성분 함량이며 시험 희석률과 다름,배합별 Draize 시험으로 서술; 추가 희석·투여량 별도 미확정,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 1"
+SH_Example1,pH,,미보고—표의 대시,Example 1 pH는 대시; 다른 예시의 pH로 대체하지 않음,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I, Example 1, pH 행"
+SH_Example2,EPA-EYE,미확정—7일 평균 총점만으로 EPA 등급 재구성 불가,특허의 토끼 3마리 평균 Draize 점수,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 2"
+SH_Example2,EPA-SKIN,해당 endpoint 자료 없음,특허의 토끼 3마리 평균 Draize 점수,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 2"
+SH_Example2,배합,Sodium lauryl sulfate stock: 40.55% | Sodium laureth-3 sulfate stock: 10.89% | Ammonium chloride crystals: 2.6% | Dye solution: 2% | Fragrance: 0.5% | Deionized water added: 43.46%,투입 원료 배합표 확인; 상업 원료의 상세 분자 조성 일부 미해결,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 2"
+SH_Example2,농도,표의 wt%는 상업 원료 투입량. 원료 활성분%와 곱해야 활성성분 함량이며 시험 희석률과 다름,배합별 Draize 시험으로 서술; 추가 희석·투여량 별도 미확정,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 2"
+SH_Example2,pH,4.64,원문 확인—시험 배합 pH,Table I 제조 후 배합 pH; 시험 직전 측정 여부 미기재,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I, Example 2, pH 행"
+SH_Example3,EPA-EYE,미확정—7일 평균 총점만으로 EPA 등급 재구성 불가,특허의 토끼 3마리 평균 Draize 점수,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 3"
+SH_Example3,EPA-SKIN,해당 endpoint 자료 없음,특허의 토끼 3마리 평균 Draize 점수,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 3"
+SH_Example3,배합,Ammonium lauryl sulfate stock: 41.03% | Ammonium laureth-3 sulfate stock: 7.78% | Oleamphopropyl sulfonate stock: 2.98% | Ammonium chloride 20% aqueous stock: 2.35% | Citric acid 50% aqueous stock: 0.39% | Tetrasodium EDTA: 0.25% | Preservative solution: 0.01% | Fragrance: 0.5% | Deionized water added: 44.71%,투입 원료 배합표 확인; 상업 원료의 상세 분자 조성 일부 미해결,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 3"
+SH_Example3,농도,표의 wt%는 상업 원료 투입량. 원료 활성분%와 곱해야 활성성분 함량이며 시험 희석률과 다름,배합별 Draize 시험으로 서술; 추가 희석·투여량 별도 미확정,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 3"
+SH_Example3,pH,5.61,원문 확인—시험 배합 pH,Table I 제조 후 배합 pH; 시험 직전 측정 여부 미기재,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I, Example 3, pH 행"
+SH_Example4,EPA-EYE,미확정—7일 평균 총점만으로 EPA 등급 재구성 불가,특허의 토끼 3마리 평균 Draize 점수,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 4"
+SH_Example4,EPA-SKIN,해당 endpoint 자료 없음,특허의 토끼 3마리 평균 Draize 점수,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 4"
+SH_Example4,배합,Ammonium lauryl sulfate stock: 41.03% | Ammonium laureth-3 sulfate stock: 7.78% | Cocamidopropyl hydroxysultaine stock: 3.26% | Ammonium chloride 20% aqueous stock: 3% | Citric acid 50% aqueous stock: 0.14% | Tetrasodium EDTA: 0.25% | Preservative solution: 0.01% | Fragrance: 0.5% | Deionized water added: 44.03%,투입 원료 배합표 확인; 상업 원료의 상세 분자 조성 일부 미해결,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 4"
+SH_Example4,농도,표의 wt%는 상업 원료 투입량. 원료 활성분%와 곱해야 활성성분 함량이며 시험 희석률과 다름,배합별 Draize 시험으로 서술; 추가 희석·투여량 별도 미확정,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 4"
+SH_Example4,pH,5.39,원문 확인—시험 배합 pH,Table I 제조 후 배합 pH; 시험 직전 측정 여부 미기재,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I, Example 4, pH 행"
+SH_Example5,EPA-EYE,미확정—7일 평균 총점만으로 EPA 등급 재구성 불가,특허의 토끼 3마리 평균 Draize 점수,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 5"
+SH_Example5,EPA-SKIN,해당 endpoint 자료 없음,특허의 토끼 3마리 평균 Draize 점수,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 5"
+SH_Example5,배합,Ammonium lauryl sulfate stock: 41.03% | Ammonium laureth-3 sulfate stock: 7.78% | Oleamidopropyl betaine stock: 5.45% | Ammonium chloride 20% aqueous stock: 2.4% | Citric acid 50% aqueous stock: 0.17% | Tetrasodium EDTA: 0.25% | Preservative solution: 0.01% | Fragrance: 0.5% | Deionized water added: 42.41%,투입 원료 배합표 확인; 상업 원료의 상세 분자 조성 일부 미해결,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 5"
+SH_Example5,농도,표의 wt%는 상업 원료 투입량. 원료 활성분%와 곱해야 활성성분 함량이며 시험 희석률과 다름,배합별 Draize 시험으로 서술; 추가 희석·투여량 별도 미확정,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 5"
+SH_Example5,pH,5.15,원문 확인—시험 배합 pH,Table I 제조 후 배합 pH; 시험 직전 측정 여부 미기재,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I, Example 5, pH 행"
+SH_Example6,EPA-EYE,미확정—7일 평균 총점만으로 EPA 등급 재구성 불가,특허의 토끼 3마리 평균 Draize 점수,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 6"
+SH_Example6,EPA-SKIN,해당 endpoint 자료 없음,특허의 토끼 3마리 평균 Draize 점수,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 6"
+SH_Example6,배합,SLES-2/CAPB aqueous blend (footnote 11): 27.59% | Sodium chloride 20% aqueous stock: 3% | Dye solution: 0.3% | Fragrance: 0.5% | Deionized water added: 68.61%,투입 원료 배합표 확인; 상업 원료의 상세 분자 조성 일부 미해결,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 6"
+SH_Example6,농도,표의 wt%는 상업 원료 투입량. 원료 활성분%와 곱해야 활성성분 함량이며 시험 희석률과 다름,배합별 Draize 시험으로 서술; 추가 희석·투여량 별도 미확정,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 6"
+SH_Example6,pH,7.52,원문 확인—시험 배합 pH,Table I 제조 후 배합 pH; 시험 직전 측정 여부 미기재,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I, Example 6, pH 행"
+SH_Example7,EPA-EYE,미확정—7일 평균 총점만으로 EPA 등급 재구성 불가,특허의 토끼 3마리 평균 Draize 점수,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 7"
+SH_Example7,EPA-SKIN,해당 endpoint 자료 없음,특허의 토끼 3마리 평균 Draize 점수,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 7"
+SH_Example7,배합,Ammonium lauryl sulfate stock: 43.14% | Ammonium laureth-3 sulfate stock: 11.19% | Lauric/myristic DEA: 2% | Ammonium chloride 20% aqueous stock: 1% | Citric acid 50% aqueous stock: 0.18% | Tetrasodium EDTA: 0.25% | Preservative solution: 0.01% | Fragrance: 0.5% | Deionized water added: 41.73%,투입 원료 배합표 확인; 상업 원료의 상세 분자 조성 일부 미해결,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 7"
+SH_Example7,농도,표의 wt%는 상업 원료 투입량. 원료 활성분%와 곱해야 활성성분 함량이며 시험 희석률과 다름,배합별 Draize 시험으로 서술; 추가 희석·투여량 별도 미확정,,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I 배합 / Table II 결과, Example 7"
+SH_Example7,pH,5.78,원문 확인—시험 배합 pH,Table I 제조 후 배합 pH; 시험 직전 측정 여부 미기재,SH_PATENT,https://patents.google.com/patent/US4992266A/en,"Table I, Example 7, pH 행"

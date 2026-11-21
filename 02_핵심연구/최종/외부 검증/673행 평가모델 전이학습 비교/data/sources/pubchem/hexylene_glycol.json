@@ -1,0 +1,15 @@
+{
+  "request_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/107-41-5/property/ConnectivitySMILES,InChIKey,MolecularFormula/JSON",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 7870,
+          "MolecularFormula": "C6H14O2",
+          "ConnectivitySMILES": "CC(CC(C)(C)O)O",
+          "InChIKey": "SVTBMSDMJJWYQN-UHFFFAOYSA-N"
+        }
+      ]
+    }
+  }
+}

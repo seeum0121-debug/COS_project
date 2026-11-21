@@ -1,0 +1,21 @@
+{
+  "repository": "molecularmodelinglab/StopTox-External-Validation",
+  "commit": "efbd5c526ba117e91d9f02c74fb4fe12efd6d79d",
+  "files": [
+    {
+      "local_file": "eye_irritation_external.xlsx",
+      "repository_path": "data/Original Integrated Chemical Environment (ICE) Datasets/eye_irritation.xlsx",
+      "sha256": "d809399bd3aafcb7d757d30c5af767b886f9cb3ea826868d860b1af10780ee0f"
+    },
+    {
+      "local_file": "curated_external_all.xlsx",
+      "repository_path": "data/Curated_compound_list_all_endpoints.xlsx",
+      "sha256": "da433598f8a7524e26f8d30793790d70601a55241a812cabf343526a075db6ce"
+    },
+    {
+      "local_file": "stoptx_training_all.xlsx",
+      "repository_path": "data/Original STopTox Training Set/STopTox_Training_Set_All_Endpoints.xlsx",
+      "sha256": "4e6b057f63f471655f5a3cf9ddc57d52b38192f722cc87859ef6a6916e209f38"
+    }
+  ]
+}

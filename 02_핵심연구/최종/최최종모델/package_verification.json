@@ -1,0 +1,1 @@
+{"status": "passed", "comparison_identity": "39b2b63435edd09794dc471bc4dc73258757da764c851286d73526af4d3fe8ce", "full_row_predictions_checked": 673, "separate_process_predictions_checked": 8, "feature_parity_rows": 29, "feature_parity_representations": ["wmean", "max"]}

@@ -1,0 +1,27 @@
+﻿kind,case,represented_signature,same_represented_mixture_training_count,same_feature_training_count,name_registration_url_match_count,matching_training_ids,metadata_matching_ids,original_study_independence
+shampoo,No-Bite Flea & Tick Shampoo,CCCCC(CC)CN1C(=O)C2C3C=CC(C3)C2C1=O:0.61489089|CCCCOCCOCCOCc1cc2c(cc1CCC)OCO2:0.38510911,0,0,0,,,unverified: training/source study crosswalk incomplete
+shampoo,Adams Flea & Tick Cleansing Shampoo,CC(COc1ccc(Oc2ccccc2)cc1)Oc1ccccn1:0.06687403|CCCCOCCOCCOCc1cc2c(cc1CCC)OCO2:0.58320373|OCCNCCO:0.34992224,0,0,0,,,unverified: training/source study crosswalk incomplete
+shampoo,Zodiac Oatmeal Conditioning Shampoo for Dogs & Puppies,CCCCOCCOCCOCc1cc2c(cc1CCC)OCO2:0.49473684|CCO:0.47894737|COC(C)(C)CCCC(C)CC=CC(C)=CC(=O)OC(C)C:0.02631579,0,0,0,,,unverified: training/source study crosswalk incomplete
+shampoo,Adams Plus Flea & Tick Shampoo with Precor,CCCCOCCOCCOCc1cc2c(cc1CCC)OCO2:0.47837150|CCO:0.49618321|COC(C)(C)CCCC(C)CC=CC(C)=CC(=O)OC(C)C:0.02544529,0,0,0,,,unverified: training/source study crosswalk incomplete
+CIR,CIR_row_13,CCCCCCCCCCCC(=O)N(CCO)CCO:1.00000000,0,0,0,,,unverified: training/source study crosswalk incomplete
+CIR,CIR_row_14,CCCCCCCCCCCC(=O)N(CCO)CCO:1.00000000,0,0,0,,,unverified: training/source study crosswalk incomplete
+CIR,CIR_row_15,CCCCCCCCCCCC(=O)N(CCO)CCO:1.00000000,0,0,0,,,unverified: training/source study crosswalk incomplete
+CIR,CIR_row_21,CC(O)CO:1.00000000,0,0,0,,,unverified: training/source study crosswalk incomplete
+CIR,CIR_row_23,OCC(O)CO:1.00000000,0,0,0,,,unverified: training/source study crosswalk incomplete
+CIR,CIR_row_25,OCCOCCOCCO:1.00000000,0,0,0,,,unverified: training/source study crosswalk incomplete
+CIR,CIR_row_27,COC(=O)c1ccc(O)cc1:1.00000000,0,0,0,,,unverified: training/source study crosswalk incomplete
+CIR,CIR_row_29,CCCOC(=O)c1ccc(O)cc1:1.00000000,0,0,0,,,unverified: training/source study crosswalk incomplete
+CIR,CIR_row_32,OCCOc1ccccc1:1.00000000,0,0,0,,,unverified: training/source study crosswalk incomplete
+CIR,CIR_row_38,O=[N+]([O-])C(Br)(CO)CO:1.00000000,0,0,0,,,unverified: training/source study crosswalk incomplete
+CIR,CIR_row_39,O=[N+]([O-])C(Br)(CO)CO:1.00000000,0,0,0,,,unverified: training/source study crosswalk incomplete
+CIR,CIR_row_42,Cn1sccc1=O:1.00000000,0,0,0,,,unverified: training/source study crosswalk incomplete
+CIR,CIR_row_45,CCCCCCCCCCCCCCCCCCO:1.00000000,0,0,0,,,unverified: training/source study crosswalk incomplete
+CIR,CIR_row_46,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Cl-]:1.00000000,0,0,0,,,unverified: training/source study crosswalk incomplete
+CIR,CIR_row_47,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Cl-]:1.00000000,0,0,0,,,unverified: training/source study crosswalk incomplete
+CIR,CIR_row_49,CCCCCCCCCCCCCCCCCCCCCC[N+](C)(C)C.[Cl-]:1.00000000,0,0,0,,,unverified: training/source study crosswalk incomplete
+CIR,CIR_row_50,CCCCCCCCCCCCCCCCCCCCCC[N+](C)(C)C.[Cl-]:1.00000000,0,0,0,,,unverified: training/source study crosswalk incomplete
+CIR,CIR_row_62,CC=CC=CC(=O)O:1.00000000,0,0,0,,,unverified: training/source study crosswalk incomplete
+CIR,CIR_row_64,CC=CC=CC(=O)[O-].[K+]:1.00000000,0,0,0,,,unverified: training/source study crosswalk incomplete
+CIR,CIR_row_72,CCCCC(CC)COC(=O)C(C#N)=C(c1ccccc1)c1ccccc1:1.00000000,0,0,0,,,unverified: training/source study crosswalk incomplete
+CIR,CIR_row_74,CC1CC(OC(=O)c2ccccc2O)CC(C)(C)C1:1.00000000,0,0,0,,,unverified: training/source study crosswalk incomplete
+CIR,CIR_row_77,COc1ccc(C(=O)CC(=O)c2ccc(C(C)(C)C)cc2)cc1:1.00000000,0,0,0,,,unverified: training/source study crosswalk incomplete

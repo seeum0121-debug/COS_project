@@ -1,0 +1,15 @@
+{
+  "request_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/128-37-0/property/ConnectivitySMILES,InChIKey,MolecularFormula/JSON",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 31404,
+          "MolecularFormula": "C15H24O",
+          "ConnectivitySMILES": "CC1=CC(=C(C(=C1)C(C)(C)C)O)C(C)(C)C",
+          "InChIKey": "NLZUEZXRPGMBCV-UHFFFAOYSA-N"
+        }
+      ]
+    }
+  }
+}

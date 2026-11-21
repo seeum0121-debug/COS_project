@@ -1,0 +1,34 @@
+﻿kind,case,ingredient,CAS,canonical_smiles,training_CAS_match,training_structure_match,max_training_Morgan_Tanimoto,nearest_training_smiles,matched_training_formulations
+shampoo,No-Bite Flea & Tick Shampoo,Piperonyl Butoxide (PBO),51-03-6,CCCCOCCOCCOCc1cc2c(cc1CCC)OCO2,True,True,1.0,CCCCOCCOCCOCc1cc2c(cc1CCC)OCO2,AUG_v2:C053 | AUG_v3:N037 | AUG_v3:N046 | AUG_v3:N050 | AUG_v3:N056 | EyeIrritation6pack_PID180 | EyeIrritation6pack_PID520 | EyeIrritation6pack_PID631 | EyeIrritation6pack_PID657 | EyeIrritation6pack_PID660 | EyeIrritation6pack_PID792 | EyeIrritation6pack_PID795 | EyeIrritation6pack_PID800 | EyeIrritation6pack_PID934
+shampoo,No-Bite Flea & Tick Shampoo,MGK-264 Insecticide Synergist,113-48-4,CCCCC(CC)CN1C(=O)C2C3C=CC(C3)C2C1=O,True,True,1.0,CCCCC(CC)CN1C(=O)C2C3C=CC(C3)C2C1=O,EyeIrritation6pack_PID631
+shampoo,Adams Flea & Tick Cleansing Shampoo,Piperonyl butoxide,51-03-6,CCCCOCCOCCOCc1cc2c(cc1CCC)OCO2,True,True,1.0,CCCCOCCOCCOCc1cc2c(cc1CCC)OCO2,AUG_v2:C053 | AUG_v3:N037 | AUG_v3:N046 | AUG_v3:N050 | AUG_v3:N056 | EyeIrritation6pack_PID180 | EyeIrritation6pack_PID520 | EyeIrritation6pack_PID631 | EyeIrritation6pack_PID657 | EyeIrritation6pack_PID660 | EyeIrritation6pack_PID792 | EyeIrritation6pack_PID795 | EyeIrritation6pack_PID800 | EyeIrritation6pack_PID934
+shampoo,Adams Flea & Tick Cleansing Shampoo,Pyriproxyfen,95737-68-1,CC(COc1ccc(Oc2ccccc2)cc1)Oc1ccccn1,True,True,1.0,CC(COc1ccc(Oc2ccccc2)cc1)Oc1ccccn1,AUG_v3:N001 | AUG_v3:N009 | AUG_v3:N010 | EyeIrritation6pack_PID137 | EyeIrritation6pack_PID54 | EyeIrritation6pack_PID659 | EyeIrritation6pack_PID710 | EyeIrritation6pack_PID795 | EyeIrritation6pack_PID919 | EyeIrritation6pack_PID932
+shampoo,Adams Flea & Tick Cleansing Shampoo,Diethanolamine,111-42-2,OCCNCCO,False,False,0.23076923076923078,CCO,
+shampoo,Zodiac Oatmeal Conditioning Shampoo for Dogs & Puppies,S-Methoprene,65733-16-6,COC(C)(C)CCCC(C)CC=CC(C)=CC(=O)OC(C)C,True,True,1.0,COC(C)(C)CCCC(C)CC=CC(C)=CC(=O)OC(C)C,EyeIrritation6pack_PID214 | EyeIrritation6pack_PID868
+shampoo,Zodiac Oatmeal Conditioning Shampoo for Dogs & Puppies,Piperonyl butoxide,51-03-6,CCCCOCCOCCOCc1cc2c(cc1CCC)OCO2,True,True,1.0,CCCCOCCOCCOCc1cc2c(cc1CCC)OCO2,AUG_v2:C053 | AUG_v3:N037 | AUG_v3:N046 | AUG_v3:N050 | AUG_v3:N056 | EyeIrritation6pack_PID180 | EyeIrritation6pack_PID520 | EyeIrritation6pack_PID631 | EyeIrritation6pack_PID657 | EyeIrritation6pack_PID660 | EyeIrritation6pack_PID792 | EyeIrritation6pack_PID795 | EyeIrritation6pack_PID800 | EyeIrritation6pack_PID934
+shampoo,Zodiac Oatmeal Conditioning Shampoo for Dogs & Puppies,Ethanol,64-17-5,CCO,True,True,1.0,CCO,AUG_v2:C050 | AUG_v3:N031 | AUG_v3:N038 | AUG_v3:N039 | EyeIrritation6pack_PID205
+shampoo,Adams Plus Flea & Tick Shampoo with Precor,(s)-Methoprene Technical,65733-16-6,COC(C)(C)CCCC(C)CC=CC(C)=CC(=O)OC(C)C,True,True,1.0,COC(C)(C)CCCC(C)CC=CC(C)=CC(=O)OC(C)C,EyeIrritation6pack_PID214 | EyeIrritation6pack_PID868
+shampoo,Adams Plus Flea & Tick Shampoo with Precor,Piperonyl butoxide,51-03-6,CCCCOCCOCCOCc1cc2c(cc1CCC)OCO2,True,True,1.0,CCCCOCCOCCOCc1cc2c(cc1CCC)OCO2,AUG_v2:C053 | AUG_v3:N037 | AUG_v3:N046 | AUG_v3:N050 | AUG_v3:N056 | EyeIrritation6pack_PID180 | EyeIrritation6pack_PID520 | EyeIrritation6pack_PID631 | EyeIrritation6pack_PID657 | EyeIrritation6pack_PID660 | EyeIrritation6pack_PID792 | EyeIrritation6pack_PID795 | EyeIrritation6pack_PID800 | EyeIrritation6pack_PID934
+shampoo,Adams Plus Flea & Tick Shampoo with Precor,Ethanol,64-17-5,CCO,True,True,1.0,CCO,AUG_v2:C050 | AUG_v3:N031 | AUG_v3:N038 | AUG_v3:N039 | EyeIrritation6pack_PID205
+CIR,CIR_row_13,Lauramide DEA,120-40-1,CCCCCCCCCCCC(=O)N(CCO)CCO,False,False,0.4642857142857143,CCCCCCCC(=O)O,
+CIR,CIR_row_14,Lauramide DEA,120-40-1,CCCCCCCCCCCC(=O)N(CCO)CCO,False,False,0.4642857142857143,CCCCCCCC(=O)O,
+CIR,CIR_row_15,Lauramide DEA,120-40-1,CCCCCCCCCCCC(=O)N(CCO)CCO,False,False,0.4642857142857143,CCCCCCCC(=O)O,
+CIR,CIR_row_21,Propylene Glycol,57-55-6,CC(O)CO,False,False,0.45454545454545453,CC(C)O,
+CIR,CIR_row_23,Glycerin,56-81-5,OCC(O)CO,False,False,0.25,CC(C)O,
+CIR,CIR_row_25,Triethylene Glycol,112-27-6,OCCOCCOCCO,False,False,0.4,CCCCOCCCO,
+CIR,CIR_row_27,Methylparaben,99-76-3,COC(=O)c1ccc(O)cc1,False,False,0.2777777777777778,COC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OC,
+CIR,CIR_row_29,Propylparaben,94-13-3,CCCOC(=O)c1ccc(O)cc1,False,False,0.25,CCOC(=O)NCCOc1ccc(Oc2ccccc2)cc1,
+CIR,CIR_row_32,Phenoxyethanol,122-99-6,OCCOc1ccccc1,False,False,0.38461538461538464,CCOC(=O)NCCOc1ccc(Oc2ccccc2)cc1,
+CIR,CIR_row_38,Bronopol,52-51-7,O=[N+]([O-])C(Br)(CO)CO,True,True,1.0,O=[N+]([O-])C(Br)(CO)CO,AUG_v2:C029 | EyeIrritation6pack_PID49 | EyeIrritation6pack_PID773 | EyeIrritation6pack_PID822
+CIR,CIR_row_39,Bronopol,52-51-7,O=[N+]([O-])C(Br)(CO)CO,True,True,1.0,O=[N+]([O-])C(Br)(CO)CO,AUG_v2:C029 | EyeIrritation6pack_PID49 | EyeIrritation6pack_PID773 | EyeIrritation6pack_PID822
+CIR,CIR_row_42,Methylisothiazolinone,2682-20-4,Cn1sccc1=O,True,True,1.0,Cn1sccc1=O,AUG_v2:C029 | EyeIrritation6pack_PID47 | EyeIrritation6pack_PID48 | EyeIrritation6pack_PID49 | EyeIrritation6pack_PID52 | EyeIrritation6pack_PID773 | EyeIrritation6pack_PID822
+CIR,CIR_row_45,Stearyl Alcohol,112-92-5,CCCCCCCCCCCCCCCCCCO,False,False,0.5,CCCCOCCCO,
+CIR,CIR_row_46,Cetrimonium Chloride,112-02-7,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Cl-],False,False,0.6842105263157895,CCCCCCCCCC[N+](C)(C)CCCCCCCC.[Cl-],
+CIR,CIR_row_47,Cetrimonium Chloride,112-02-7,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Cl-],False,False,0.6842105263157895,CCCCCCCCCC[N+](C)(C)CCCCCCCC.[Cl-],
+CIR,CIR_row_49,Behentrimonium Chloride,17301-53-0,CCCCCCCCCCCCCCCCCCCCCC[N+](C)(C)C.[Cl-],False,False,0.6842105263157895,CCCCCCCCCC[N+](C)(C)CCCCCCCC.[Cl-],
+CIR,CIR_row_50,Behentrimonium Chloride,17301-53-0,CCCCCCCCCCCCCCCCCCCCCC[N+](C)(C)C.[Cl-],False,False,0.6842105263157895,CCCCCCCCCC[N+](C)(C)CCCCCCCC.[Cl-],
+CIR,CIR_row_62,Sorbic Acid,110-44-1,CC=CC=CC(=O)O,False,False,0.5454545454545454,CC=CC=CC(=O)[O-].[K+],
+CIR,CIR_row_64,Potassium Sorbate,24634-61-5,CC=CC=CC(=O)[O-].[K+],True,True,1.0,CC=CC=CC(=O)[O-].[K+],AUG_v3:N043
+CIR,CIR_row_72,Octocrylene,6197-30-4,CCCCC(CC)COC(=O)C(C#N)=C(c1ccccc1)c1ccccc1,False,False,0.39344262295081966,CCCCC(CC)COC(=O)COc1ccc(Cl)cc1Cl,
+CIR,CIR_row_74,Homosalate,118-56-9,CC1CC(OC(=O)c2ccccc2O)CC(C)(C)C1,False,False,0.22388059701492538,COC(=O)c1ccccc1S(=O)(=O)NC(=O)N(C)c1nc(C)nc(OC)n1,
+CIR,CIR_row_77,Avobenzone,70356-09-1,COc1ccc(C(=O)CC(=O)c2ccc(C(C)(C)C)cc2)cc1,False,False,0.24444444444444444,CNC.COc1c(Cl)ccc(Cl)c1C(=O)O,

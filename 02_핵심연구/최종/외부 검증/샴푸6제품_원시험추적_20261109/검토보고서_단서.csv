@@ -1,0 +1,7 @@
+﻿lead_id,registration_family,review_title,review_date,mrid,source_id,confirmation_scope,full_review_obtained,distinct_review_verified,note
+R_Z08_TOX,2724-792,Acute Toxicity Review,2008-04-09,,Z08,명칭·날짜·기본 등록번호 확인,False,False,각 동봉 언급이 서로 다른 검토보고서인지 미확정. 날짜를 원시험일로 사용하지 않음.
+R_Z08_CHEM,2724-792,Product Chemistry Review,2008-03-11,,Z08,명칭·날짜·기본 등록번호 확인,False,False,각 동봉 언급이 서로 다른 검토보고서인지 미확정. 날짜를 원시험일로 사용하지 않음.
+R_Z15_TOX,2724-792,Acute toxicity review enclosed with reregistration letter,,,Z15,2015 승인서에서 동봉 언급; 검토보고서 작성일과 MRID 미상,False,False,각 동봉 언급이 서로 다른 검토보고서인지 미확정. 날짜를 원시험일로 사용하지 않음.
+R_Z15_CHEM,2724-792,Product chemistry review enclosed with reregistration letter,,,Z15,2015 승인서에서 동봉 언급; 검토보고서 작성일과 MRID 미상,False,False,각 동봉 언급이 서로 다른 검토보고서인지 미확정. 날짜를 원시험일로 사용하지 않음.
+R_O12_TOX,2724-485,Acute toxicity review enclosed with reregistration letter,,,O12,2012 승인서 검색 색인에 동봉 언급; 본문 미확보,False,False,각 동봉 언급이 서로 다른 검토보고서인지 미확정. 날짜를 원시험일로 사용하지 않음.
+R_O12_CHEM,2724-485,Product chemistry review enclosed with reregistration letter,,,O12,2012 승인서 검색 색인에 동봉 언급; 본문 미확보,False,False,각 동봉 언급이 서로 다른 검토보고서인지 미확정. 날짜를 원시험일로 사용하지 않음.

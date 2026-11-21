@@ -1,0 +1,2 @@
+{"time_utc": "2026-11-06T04:39:45.815388+00:00", "download_id": "D002", "source_id": "S01", "url": "https://comptox.epa.gov/chemexpo/dl_pucs/", "status": "failed", "error_type": "URLError", "error": "<urlopen error [WinError 10013] 액세스 권한에 의해 숨겨진 소켓에 액세스를 시도했습니다>"}
+{"time_utc": "2026-11-06T04:39:46.308731+00:00", "download_id": "D016", "source_id": "S07", "url": "https://www3.epa.gov/pesticides/PPISdata/formula.zip", "status": "failed", "error_type": "URLError", "error": "<urlopen error [WinError 10013] 액세스 권한에 의해 숨겨진 소켓에 액세스를 시도했습니다>"}

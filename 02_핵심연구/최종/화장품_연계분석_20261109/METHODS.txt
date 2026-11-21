@@ -1,0 +1,30 @@
+﻿METHODS AND LIMITS
+Frozen model: Eye A LR weighted-mean, 2265 features; no fit or threshold change.
+Endpoint A: EPA categories I/II versus III/IV. Negative is not equivalent to zero irritation.
+Subgroup source: saved outer held-out predictions, 606 original rows x 3 seeds.
+Augmentation: 67 rows were used in prior model training, not in subgroup evaluation.
+Three seed repetitions are not 1818 independent substances. SD across seeds is not a confidence interval.
+Product screening: document titles and product categories; metadata screen only, not independently verified complete formulations.
+Primary CAS overlap excludes water and valid raw/curated identity disagreements. No CAS auto-correction.
+Composition weights refer to represented source components, not assured full product composition.
+Conditional cases are purposively selected before computing scores, based on simple discrete constituents and amount ranges.
+No inference of water, vehicle, fragrance structures, polymer grades or undisclosed percentages.
+For all-finite component features f_i, the frozen LR logit is:
+  intercept - beta dot scaler_mean + sum(a_i * (beta dot f_i)) / sum(a_i)
+where beta = fitted_logistic_coefficient / fitted_scaler_scale.
+Consequently the mixture logit is a convex combination of component logits.
+All eight represented components score above the fixed threshold; all their weighted-mean mixtures must also do so.
+Threshold stability in these cases is therefore a model property, not evidence of reliable product classification.
+Exact extrema use Charnes-Cooper LP: w_i=a_i/sum(a), t=1/sum(a), sum(w)=1;
+  lower_i*t <= w_i <= upper_i*t; t >= 1/(1 - omitted_lower_sum).
+LP extrema allow omitted quantities at their lower bounds. Unknown remainder stays outside the feature representation.
+Scenarios: independent uniform draws for ALL listed component bounds, retain total <=1; 8192 scenarios per case.
+The distribution within source ranges is an assumption. Quantiles and threshold fractions are not confidence intervals/risk probabilities.
+Reference composition: source midpoints; if sum exceeds one, Euclidean box-constrained projection to sum=1.
+This reference is assumed, never a measured composition. Original source fractions already use 0..1 units.
+Whole-molecule Morgan bits: radius=2, 2048 bits, no chirality. Descriptors: largest fragment, same saved recipe.
+Ionic SMILES are kept intact; no acid-base reactions, pH, solution chemistry, aerosol exposure or mineral/polymer grades modeled.
+Bath Fizz acid/bicarbonate reactions are not represented by the ingredient weighted mean.
+Training fingerprint similarity is descriptive; no validated applicability-domain threshold was fitted.
+The water check is an input plausibility diagnostic, not a newly collected experiment or external performance metric.
+No CIR-to-EPA converted labels were used. No external cosmetic accuracy, sensitivity or specificity can be estimated here.

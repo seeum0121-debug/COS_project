@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "checks": {
+    "all_rows_accounted": true,
+    "unresolved_not_scored": true,
+    "no_invented_UVCB_smiles": true,
+    "all_positive_baseline": true,
+    "independent_auc": true,
+    "independent_rank": true,
+    "cutoff_from_averaged_ZN": true,
+    "scaffold_gate": true,
+    "B_not_trained": true,
+    "manual_logistic_mixture_score": true,
+    "source_model_protocol_unchanged": true,
+    "report_warns_baseline": true
+  },
+  "scope": "Independent metric recomputation, one manual logistic mixture inference, scaffold and preservation checks; not original assay validation"
+}

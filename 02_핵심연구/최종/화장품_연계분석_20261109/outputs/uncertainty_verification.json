@@ -1,0 +1,17 @@
+{
+  "model_sha256": "d71394e691ac5072e4ce900a53b47ddbb65c8685961fe2c9536411acfbbc58a2",
+  "threshold": 0.4814867474694138,
+  "case_count": 3,
+  "total_scenarios": 24576,
+  "exact_formula_pipeline_max_abs_error": 1.1102230246251565e-16,
+  "all_component_features_finite": true,
+  "all_scenarios_within_reported_bounds": true,
+  "all_scenarios_mass_feasible": true,
+  "all_scenarios_within_exact_score_bounds": true,
+  "two_component_dense_grid_consistent": true,
+  "fully_structure_resolved_cases": 0,
+  "conditional_partial_representation_cases": 3,
+  "model_refit": false,
+  "threshold_refit": false,
+  "external_cosmetic_validation": false
+}

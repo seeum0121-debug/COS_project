@@ -1,0 +1,288 @@
+US4992266A - Reducing the ocular irritancy of anionic shampoos - Google Patents (https://patents.google.com/patent/US4992266A/en)
+citeturn33view0 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: open({"ref_id":"https://patents.google.com/patent/US4992266A/en","lineno":369}); Total lines: 762
+L336: Other anionic surfactants can be C_{8} -C_{25} olefin sulfonates such as C_{14} -C_{16} olefin sulfonate and sodium C_{16} -C_{18} olefin sulfonate; C_{10} -C_{20} paraffin sulfonates, such as those having from about 10 to 20, preferably about 15-20 carbon atoms such as the primary paraffin sulfonates made by reacting long chain alpha olefins and bisulfites (e.g., sodium bisulfite) or paraffin sulfonates having the sulfonate groups distributed along the paraffin chain such as the products made by reacting a long chain paraffin with sulphur dioxide and oxygen under ultraviolet light followed by neutralization with sodium hydroxide or other suitable base; and C_{8} -C_{9} alkyl phenyl ethoxamer sulfates such as sodium nonoxynol-1 sulfate, sodium nonoxynol-4 sulfate, sodium octoxynol-2 ethane sulfonate, and ammonium nonoxynol-4 sulfate.
+L337: Mixtures of one or more of the above anionic surfactants can be employed in the shampoo compositions. More preferably, the anionic surfactants are selected from C_{8} -C_{18} alkyl sulfates containing from 0 to an average of about 4 ethyleneoxy units per molecule and more preferably, C_{12} alkyl sulfates.
+L338: A single alkyl sulfate or alkyl ether sulfate can be employed or a mixture of the same such as blend of a 50:50 weight ratio of ammonium lauryl sulfate and ammonium lauryl ether sulfate containing between 1 and 4 ethyleneoxy units per molecule can be employed. These surfactants are well known to those of ordinary skill in the art and many are available commercially.
+L339: For the purposes of this invention, the term "consisting essentially of" as used when referring to the shampoo composition means that the shampoo composition is free of surfactants such as fatty alkyl betaines and alkanolamides which have been employed in the past to reduce the ocular irritancy of the sulfate and sulfonate surfactants.
+L340: The method of the present invention employs from about 0.005 to about 5% of a high molecular weight polyethylene oxide polymer of the formula H(OCH_{2} CH_{2})_{x} OH as a sole additive to reduce the ocular irritation of the shampoo composition, the value of x being such that the weight average molecular weight of the homopolymer is from about 100,000 to about 5,000,000.
+L341: More preferably, a higher molecular weight homopolymer is employed having a molecular weight of between 500,000 to about 4,000,000 and most preferably, the homopolymer has a molecular weight of about 2,000,000. These homopolymers are well known to those of ordinary skill in the art and are sold by Union Carbide Corporation under the registered trademark POLYOX.
+L342: The amount of homopolymer required to reduce the ocular irritancy of the anionic surfactants present inversely varies with the molecular weight of the ethylene oxide homopolymer. Thus it was found that about 0.01% of a homopolymer of ethylene oxide having a weight average molecular weight of about 2,000,000 was needed to significantly reduce the ocular irritation of an anionic surfactant containing shampoo composition as will be further described, infra.
+L343: It is anticipated that higher amounts of the ethylene oxide homopolymer will be required for a given amount of anionic surfactant in a shampoo composition when lower molecular weight homopolymers are employed. Because of the effect that the homopolymer of ethylene oxide has on the viscosity of shampoo compositions, small amounts of high molecular weight ethylene oxide homopolymers are preferably employed.
+L344: A use level of from 0.01% to no more than .5% and preferably, no more than about about 0.1%, is presently preferred as is a homopolymer of ethylene oxide having a weight average molecular weight of about 2,000,000.
+L345: Typically, shampoos based on anionic surfactants have a pH in the range of from about 3.0 to about 6.5. The pH of the compositions made by the present invention can be adjusted with organic or inorganic acids of the type commonly used in cosmetic compositions such as citric acid and phosphoric acid.
+L346: 
+L347: The remainder of the composition consists essentially of water, which is preferably in the form of deionized water.
+L348: The shampoo compositions contemplated as being useful in the present invention can further include other conventional additives in small amounts of no more than about 5%. Examples of such conventional additives are proteins, thickening agents, inorganic salts such as sodium chloride and ammonium chloride, dyes, fragrances, preservatives, conditioning agents which are compatible with the anionic surfactants present, and the like.
+L349: 
+L350: INDUSTRIAL APPLICABILITY
+L351: The method of the present invention is practiced by adding the water soluble ingredients such as the ethylene oxide homopolymer and surfactants together with the water to form a solution and separately mixing the oil soluble ingredients such as the pearlizing agents, conditioning agents, and moisturizing agents to form a second mixture which is then dispersed into the aqueous solution with agitation. After mixing well, the fragrance is then added.
+L352: Alternatively, all of the ingredients except the volatile fragrance can be added to the water with agitation and the mixture can be heated to melt the ingredients being added, typically to about 48.89° C. (120° F.) and agitated until the mixture is homogeneous. The mixture is then cooled to room temperature (about 20°-25° C.) and the fragrance is added with agitation. Inline blending of ingredients can also be employed. The order of ingredient addition is not felt to be critical.
+L353: The improved compositions are useful as shampoos for the hair, although they can be used for cleaning the face and hands.
+L354: 
+L355: The following Examples are provided to show various aspects of the present invention without departing from the scope and spirit of the invention. Unless otherwise indicated, all parts and percentages used in the examples are by weight.
+L356: 
+L357: EXAMPLES 1-7
+L358: These Examples demonstrate the reduction in ocular irritancy of shampoo compositions containing fatty alkyl sulfate surfactants resulting from the addition of a small amount of an ethylene oxide homopolymer (Example 1) versus comparative examples containing no additives (Examples 2) or other conventional ocular irritancy reduction additives (Examples 3-7).
+L359: Each shampoo composition had the formulation given in Table I and the resulting pH and viscosity are also reported therein. The general procedure used to prepare Examples 1-7 was as follows: The surfactants were added to the water with agitation and mixed until homogeneous. At this point in Example 1, the ethylene oxide homopolymer was added with agitation and allowed to dissolve. The mixture was heated to about 48.89° C.
+L360: (120° F.) and any pH adjusting agent, preservatives, dye solution and tetrasodium EDTA was added with agitation. Finally, when the composition was homogeneous, it was cooled to about 32.22° C. (90° F.) and the fragrance and any remaining salt or salt solution were added to the composition with agitation.
+L361: The ocular irritancy of each of the compositions was measured using the well-known Draize eye irritation testing method which is described in the Gilman et al. article noted above. For this testing, only three New Zealand white rabbits were used instead of the six normally employed in the Draize method and a 7 day observation period was used. The scores obtained for each composition are reported in Table II as well as a 7 day time weighted average score for each composition.
+L362: The scores obtained after 24 hours, 48 hours, 72 hours and 7 days are the averages for the three rabbits tested for each shampoo composition tested.
+L363: The time weighted average score makes it easier to compare the ocular irritancy of each shampoo composition. As can be seen from Table II, Example 1 had the lowest time weighted average score of all of the compositions tested even though only 0.01% of the ethylene oxide homopolymer, POLYOX^{R} WSRN-60-K, was employed.
+L364: Example 2, which employed the sodium salts of sodium lauryl and laureth-3 sulfates instead of the ammonium salts used in Example 1, was much more irritating to the eyes as can be seen from a comparison of the seven day time weighted average and the 7 day score. Example 2 did contain more (11.75%) of the more irritating sodium lauryl sulfate than did Example 1 contain ammonium lauryl sulfate (7.35%) although the total amount of anionic surfactant present in each composition was comparable.
+L365: Example 1 was comparable in ocular irritation to Example 5, but Example 5 employed an additional 1.6% of oleamidopropyl betaine while Example 1 only employed 0.01% of the ethylene oxide homopolymer. Example 1 had significantly lower ocular irritation scores than did the remaining shampoo compositions tested in this series.
+L366: EXAMPLES 8-11
+L367: These Examples further illustrate shampoo compositions prepared in accordance with the present invention. The shampoo compositions are given in Table III as well as the resulting pH and viscosity. It is believed that the ocular irritancy of these compositions will be similar to that obtained for Example 1. The viscosity of the shampoo compositions can be conventionally increased by adding more ammonium chloride solution. For example, the viscosity at 23.33° C.
+L368: (74° F.) of Example 8 increased to 4,000 centipoise upon the addition of 1.8% more ammonium chloride solution.
+L369: EXAMPLES 1-7
+L370: 
+L371:                                       TABLE I
+L372:     __________________________________________________________________________
+L373:     Example No.:      1    2   3    4    5    6    7
+L374:     __________________________________________________________________________
+L375:     Ammonium Lauryl Sulfate (1)
+L376:                       (3)  --  41.03
+L377:                                     41.03
+L378:                                          41.03
+L379:                                               --   43.14
+L380:     Ammonium Laureth-1 Sulfate (13)
+L381:                       (3)  --  --   --   --   --   --
+L382:     Ammonium Laureth-3 Sulfate (2)
+L383:                       --   --  7.78 7.78 7.78 --   11.19
+L384:     Sodium Lauryl Sulfate(4)
+L385:                       --   40.55
+L386:                                --   --   --   --   --
+L387:     Sodium Laureth-2 Sulfate
+L388:                       --   --  --   --   --   (11) --
+L389:     Sodium Laureth-3 Sulfate (5)
+L390:                       --   10.89
+L391:                                --   --   --   --   --
+L392:     Ethylene Oxide Homoploymer (6)
+L393:                         0.0117
+L394:                            --  --   --   --   --   --
+L395:     Oleamphopropyl Sulfonate (7)
+L396:                       --   --  2.98 --   --   --   --
+L397:     Cocamidopropyl Hydroxysultaine (8)
+L398:                       --   --  --   3.26 --   --   --
+L399:     Oleamidopropyl Betaine (9)
+L400:                       --   --  --   --   5.45 --   --
+L401:     Cocamidopropyl Betaine
+L402:                       --   --  --   --   --   (11) --
+L403:     Lauric/Myristic DEA (10)
+L404:                       --   --  --   --   --   --   2.00
+L405:     Ammonium Chloride (20% in water)
+L406:                       5.0  --  2.35 3.00 2.40 --   1.00
+L407:     Ammonium Chloride (crystals)
+L408:                       --    2.60
+L409:                                --   --   --   --   --
+L410:     Sodium Chloride (20% in water)
+L411:                       --   --  --   --   --    3.00
+L412:                                                    --
+L413:     Citric Acid (50% in water)
+L414:                       --   --  0.39 0.14 0.17 --   0.18
+L415:     Tetrasodium EDTA  --   --  0.25 0.25 0.25 --   0.25
+L416:     Preservative Solution
+L417:                       --   --  0.01 0.01 0.01 --   0.01
+L418:     Dye Solution      2.0   2.00
+L419:                                --   --   --    0.30
+L420:                                                    --
+L421:     Fragrance         0.5  0.5 0.50 0.50 0.5  0.5  0.50
+L422:     Deionized Water    39.9883
+L423:                            43.46
+L424:                                44.71
+L425:                                     44.03
+L426:                                          42.41`
+L427:                                               68.61
+L428:                                                    41.73
+L429:     Totals             100.0000
+L430:                            100.00
+L431:                                100.00
+L432:                                     100.00
+L433:                                          100.00
+L434:                                               100.00
+L435:                                                    100.00
+L436:     pH                --    4.64
+L437:                                5.61 5.39 5.15  7.52
+L438:                                                    5.78
+L439:     Viscosity-centipoise (12)
+L440:                       450  4900
+L441:                                4000 5600 3600 1400 3000
+L442:     __________________________________________________________________________
+L443:      (1) SIPON ® L22 from Alcolac, Ltd. with 29% actives level.
+L444:      (2) SIPON ® EA from Alcolac, Ltd. with 27% actives level.
+L445:      (3) 52.5 parts of a 50:50 by weight of an aqueous blend of each surfactan
+L446:      having a combined actives level of 27% and containing 0.045%
+L447:      preservatives.
+L448:      (4) SIPON ® LSB from Alcolac, Ltd. with 29% actives level.
+L449:      (5) SIPON ® ES from Alcolac, Ltd. with 27% actives level.
+L450:      (6) POLYOX ® WSRN60-K from Union Carbide Corporation which is PEG45M
+L451:      of average molecular weight of about 2,000,000.
+L452:      (7) SANDOTERIC ® TFL Conc. from Sandoz Chemicals Corp. with 47%
+L453:      actives level.
+L454:      (8) MIRATAINE ® CBS from Miranol, Inc. with 43% actives level.
+L455:      (9) CYCLOTERIC ® BET 030 from Alcolac, Inc. with 30% actives level.
+L456:      (10) CYCLOMIDE ® DL207/S from Alcolac, Inc. with 100% actives which i
+L457:      a 1:1 blend of lauric diethanolamide:myristic diethanolamide.
+L458:      (11) 27.59 parts of an aqueous blend containing, as actives, 49% sodium
+L459:      laureth2-sulfate and 9% cocamidopropyl betaine.
+L460:      (12) Brookfield Viscosimeter at 23.33° C. (74° F.) using #4
+L461:      spindle at 30 r.p.m. for 30 seconds.
+L462:      (13) SIPON ® EAY from Alcolac, Ltd. with 26% actives level.    (5)
+L463:      SIPON.sup.R ES from Alcolac, Ltd. with 27% actives level. (6) POLYOX.sup.R
+L464:      WSRN-60-K from Union Carbide Corporation which is PEG-45M of average
+L465:      molecular weight of about 2,000,000. (7) SANDOTERIC.sup.R TFL Conc. from
+L466:      Sandoz Chemicals Corp. with 47% actives level. (8) MIRATAINE.sup.R CBS
+L467:      from Miranol, Inc. with 43% actives level. (9) CYCLOTERIC.sup.R BET 0-30
+L468:      from Alcolac, Inc. with 30% actives level. (10) CYCLOMIDE.sup.R DL207/S
+L469:      from Alcolac, Inc. with 100% actives which is a 1:1 blend of lauric
+L470:      diethanolamide:myristic diethanolamide. (11) 27.59 parts of an aqueous
+L471:      blend containing, as actives, 49% sodium laureth-2-sulfate and 9%
+L472:      cocamidopropyl betaine. (12) Brookfield Viscosimeter at 23.33° C.
+L473:      (74° F.) using #4 spindle at 30 r.p.m. for 30 seconds. (13)
+L474:      SIPON.sup.R EAY from Alcolac, Ltd. with 26% actives level.
+L475: 
+L476: 
+L477:                   TABLE II
+L478:     ______________________________________
+L479:     Example
+L480:            Observation         7 Day Time
+L481:     No.    24 hrs. 48 hrs. 72 hrs.
+L482:                                  7 days
+L483:                                        Weighted Avg. (1)
+L484:     ______________________________________
+L485:     1      30.0    21.3    13.0  0.7   7.4
+L486:     2      32.0    27.0    20.0  16.7  18.5
+L487:     3      33.3    27.0    17.7  6.4   12.4
+L488:     4      34.0    27.7    19.3  8.0   13.7
+L489:     5      31.7    19.6    13.0  2.0   8.1
+L490:     6      32.0    27.3    23.0  13.0  16.9
+L491:     7      36.6    28.6    19.1  12.0  16.3
+L492:     ______________________________________
+L493:      (1) The formula used is ((0.5 × 24 hr. reading) + 48 hr. reading +7
+L494:      hr. reading + (4 × 7 day reading))/7
+L495: 
+L496: 
+L497:                   TABLE III
+L498:     ______________________________________
+L499:     Example No.    8        9       10     11
+L500:     ______________________________________
+L501:     Deionized Water
+L502:                     39.995   39.985  39.95  39.90
+L503:     Surfactant Blend (1)
+L504:                     52.500   52.500  52.50  52.50
+L505:     POLYOX ® WSRN-60-K
+L506:                     0.005    0.015   0.05   0.10
+L507:     Dye Solution    2.000    2.000   2.00   2.00
+L508:     Ammonium Chloride
+L509:                     5.000    5.000   5.00   5.00
+L510:     (20% in water)
+L511:     Fragrance       0.500    0.500   0.50   0.50
+L512:     Totals         100.000  100.000 100.00 100.00
+L513:     pH              3.79     3.65    3.63   3.69
+L514:     Viscosity-centipoise
+L515:                    1000     800     700    700
+L516:     ______________________________________
+L517:      (1) a 50:50 by weight of an aqueous blend of ammonium lauryl sulfate and
+L518:      ammonium laureth1 sulfate having a combined actives level of 27%.
+L519:      (2) Brookfield Viscosimeter at 23.33° C. (74° F.) using #4
+L520:      spindle at 30 r.p.m. for 30 seconds.
+L521: ## Claims (7)
+L522: 
+L523: What is claimed is:
+L524: 1.
+L525: A method of reducing the ocular irritancy of an aqueous shampoo composition consisting essentially of from about 1 to about 20% by weight of at least one eye irritating anionic surfactant selected from the group consisting of C_{8} -C_{18} alkyl sulfates containing from 0 to an average of about 4 ethyleneoxy units per molecule, C_{8} -C_{18} alkyl benzene sulfonates, C_{8} -C_{25} olefin sulfonates, C_{10} -C_{20} paraffin sulfonates, C_{8} -C_{9} alkyl phenol ethoxamer sulfates and mixtures thereof and the balance consisting essentially of water, said method comprising including within said shampoo composition from about 0.005% to about 5% by weight of an ethylene oxide homopolymer of the formula H(OCH_{2} CH_{2})_{x} OH as the sole additive to reduce the ocular irritation of the shampoo, the value of x being such that the weight average molecular weight of the homopolymer is from about 100,000 to about 5,000,000.
+L526: 2. The method as claimed in claim 1 wherein the value of x is such that the molecular weight of the homopolymer is from about 500,000 to about 4,000,000 and the amount is from about 0.01 to 1% by weight of the shampoo composition.
+L527: 
+L528: 3. The method as claimed in claim 2 wherein the sole anionic surfactant present is selected from C_{8} -C_{18} alkyl sulfates containing from 0 to an average of about 4 ethyleneoxy units per molecule.
+L529: 4. The method as claimed in claim 3 wherein the anionic surfactant is selected from C_{12} alkyl sulfates containing from 0 to an average of about 4 ethyleneoxy units per molecule.
+L530: 
+L531: 5. The method as claimed in claim 3 wherein the anoinic surfactant is an ammonium or sodium salt of C_{12} alkyl sulfates containing from 0 to an average of about 4 ethyleneoxy units per molecule.
+L532: 
+L533: 6. The method as claimed in claim 3 wherein the homopolymer is from 0.01 to 0.5% by weight.
+L534: 7. The method as claimed in claim 4 wherein the ethylene oxide homopolymer has a number average molecular weight of about 2,000,000.
+L535: 
+L536: US07/393,438 1989-08-14 1989-08-14 Reducing the ocular irritancy of anionic shampoos Expired - Fee Related 【7†US4992266A (en)】
+L537: ## Priority Applications (3)
+L538: 
+L539: Application Number  | Priority Date  | Filing Date  | Title
+L540: --- | --- | --- | ---
+L541: US07/393,438 【7†US4992266A (en)】  | 1989-08-14  | 1989-08-14  | Reducing the ocular irritancy of anionic shampoos
+L542: AU61704/90A 【8†AU6170490A (en)】  | 1989-08-14  | 1990-08-10  | Reducing the ocular irritancy of anionic shampoos
+L543: PCT/US1990/004513 【9†WO1991002509A1 (en)】  | 1989-08-14  | 1990-08-10  | Reducing the ocular irritancy of anionic shampoos
+L544: ## Applications Claiming Priority (1)
+L545: 
+L546: Application Number  | Priority Date  | Filing Date  | Title
+L547: --- | --- | --- | ---
+L548: US07/393,438 【7†US4992266A (en)】  | 1989-08-14  | 1989-08-14  | Reducing the ocular irritancy of anionic shampoos
+L549: 
+L550: ## Publications (1)
+L551: 
+L552: Publication Number  | Publication Date
+L553: --- | ---
+L554: US4992266A true 【7†US4992266A (en)】  | 1991-02-12
+L555: 
+L556: # Family
+L557: 
+L558: ## ID=23554711
+L559: ## Family Applications (1)
+L560: 
+L561: Application Number  | Title  | Priority Date  | Filing Date
+L562: --- | --- | --- | ---
+L563: US07/393,438 Expired - Fee Related 【7†US4992266A (en)】  | 1989-08-14  | 1989-08-14  | Reducing the ocular irritancy of anionic shampoos
+L564: 
+L565: ## Country Status (3)
+L566: 
+L567: Country  | Link
+L568: --- | ---
+L569: US (1)  | 【7†US4992266A (en)】
+L570: AU (1)  | 【8†AU6170490A (en)】
+L571: WO (1)  | 【9†WO1991002509A1 (en)】
+L572: ## Cited By (8)
+L573: * Cited by examiner, † Cited by third party
+L574: Publication number  | Priority date  | Publication date  | Assignee  | Title
+L575: --- | --- | --- | --- | ---
+L576: 【10†US5106613A (en)】 *  | 1990-04-09  | 1992-04-21  | Colgate-Palmolive Company  | Hair conditioning shampoo
+L577: 【11†US5472688A (en)】 *  | 1990-10-01  | 1995-12-05  | Soukup; Yaclav  | Process for producing a hair conditioner
+L578: 【12†WO2001007010A1 (en)】 *  | 1999-07-26  | 2001-02-01  | Alberto-Culver Company  | Personal cleansing composition and method
+L579: 【13†US20020010215A1 (en)】 *  | 2000-05-11  | 2002-01-24  | Kenichiro Shiroyama  | Clear aqueous ceramide composition
+L580: 【14†US6348439B1 (en)】 *  | 1998-03-05  | 2002-02-19  | Bristol-Myers Squibb Company  | High alkaline hair compositions for increased fullness and body
+L581: 【15†US20030041885A1 (en)】 *  | 2001-03-20  | 2003-03-06  | Held Theodore D.  | Acidic, phosphate-free plastic cleaner composition with reduced mild steel equipment etch and method of cleaning plastic parts
+L582: 【16†WO2006010441A1 (en)】 *  | 2004-07-27  | 2006-02-02  | Unilever Plc  | Hair care compositions
+L583: 【17†US8470753B2 (en)】  | 2011-01-28  | 2013-06-25  | Rhodia Operations  | Personal cleansing systems exhibiting low eye irritation potential
+L584: ## Families Citing this family (1)
+L585: 
+L586: * Cited by examiner, † Cited by third party
+L587: Publication number  | Priority date  | Publication date  | Assignee  | Title
+L588: --- | --- | --- | --- | ---
+L589: 【18†BRPI0615011A2 (en)】 *  | 2005-08-11  | 2011-05-03  | Kao Corp  | detergent composition for hand washing
+L590: ## Citations (38)
+L591: * Cited by examiner, † Cited by third party
+L592: Publication number  | Priority date  | Publication date  | Assignee  | Title
+L593: --- | --- | --- | --- | ---
+L594: 【19†US2309722A (en)】 *  | 1940-08-03  | 1943-02-02  | Carbide & Carbon Chem Corp  | Toilet preparation
+L595: 【20†US2991229A (en)】 *  | 1958-09-30  | 1961-07-04  | Union Carbide Corp  | Toothpaste composition
+L596: 【21†US2999068A (en)】 *  | 1959-04-27  | 1961-09-05  | Procter & Gamble  | Personal use detergent lotion
+L597: 【22†US3001944A (en)】 *  | 1957-07-12  | 1961-09-26  | Colgate Palmolive Co  | Controlling viscosity of synthetic detergent-soap shampoos
+L598: 【23†US3086943A (en)】 *  | 1959-06-10  | 1963-04-23  | Procter & Gamble  | Shampoo containing amine oxide
+L599: 【24†US3095381A (en)】 *  | 1959-08-28  | 1963-06-25  | Air Reduction  | Cleaning compositions
+L600: 【25†US3598746A (en)】 *  | 1969-05-09  | 1971-08-10  | Armour Dial Inc  | Cosmetic soap bar
+L601: 【26†US3630934A (en)】 *  | 1967-02-01  | 1971-12-28  | Cincinnati Milacron Inc  | Mildness additive
+L602: 【27†US3634271A (en)】 *  | 1967-11-02  | 1972-01-11  | Allied Chem  | Liquid detergent compositions
+L603: 【28†US3649543A (en)】 *  | 1966-08-18  | 1972-03-14  | Lever Brothers Ltd  | Combinations of hydroxyalkyl-n-methyl taurines and anionic surfactants as synergistic emulsifiers
+L604: 【29†US3763047A (en)】 *  | 1971-05-03  | 1973-10-02  | Procter & Gamble  | Detergent compositions
+L605: 【30†US3767788A (en)】 *  | 1970-06-08  | 1973-10-23  | Burton Parsons Chemicals Inc  | Ophthalmic solution
+L606: 【31†US3783872A (en)】 *  | 1969-06-23  | 1974-01-08  | Union Carbide Corp  | Disposable absorbent pads containing insoluble hydrogels
+L607: 【32†US3811349A (en)】 *  | 1971-05-13  | 1974-05-21  | J Jennings  | Method of shaving
+L608: 【33†US3813350A (en)】 *  | 1967-02-01  | 1974-05-28  | Cincinnati Milacron Inc  | Mildness additive
+L609: 【34†US3819528A (en)】 *  | 1968-12-23  | 1974-06-25  | Procter & Gamble  | Stabilized aqueous enzyme compositions
+L610: 【35†US3856919A (en)】 *  | 1970-06-08  | 1974-12-24  | Burton Parsons Chemicals Inc  | Ophthalmic solution
+L611: 【36†US3868445A (en)】 *  | 1972-11-30  | 1975-02-25  | Pharmacia Ab  | Dosage unit containing a substance showing a topical effect on the eye, and a method of preparing same
+L612: 【37†US3880766A (en)】 *  | 1966-07-12  | 1975-04-29  | Oreal  | New non-ionic surface-active agents derived from fatty chain diols and method of preparing same
+L613: 【38†US3882036A (en)】 *  | 1968-04-26  | 1975-05-06  | Flow Pharma Inc  | Contact lens cleaning and storing composition including nonionic surfactant, benzalkonium chloride and Na{hd 3{b EDTA
+L614: 【39†US3882038A (en)】 *  | 1968-06-07  | 1975-05-06  | Union Carbide Corp  | Cleaner compositions
+L615: 【40†US3890238A (en)】 *  | 1972-12-21  | 1975-06-17  | Basf Wyandotte Corp  | Water solubility of polyoxyalkylene polymers
+L616: 【41†US3896040A (en)】 *  | 1971-01-04  | 1975-07-22  | Andre Danesh  | Detergent composition
+L617: 【42†US3928251A (en)】 *  | 1972-12-11  | 1975-12-23  | Procter & Gamble  | Mild shampoo compositions
+L618: 【43†US3944663A (en)】 *  | 1971-06-16  | 1976-03-16  | Colgate Palmolive Company  | Mild light duty detergent containing homopolymers of ethylene oxide
+L619: 【44†US3947573A (en)】 *  | 1969-12-01  | 1976-03-30  | Burton, Parsons And Company, Inc.  | Opthalmic solution
+L620: 【45†US4148743A (en)】 *  | 1976-06-04  | 1979-04-10  | Colgate-Palmolive Company  | Process for making a toilet soap bar containing polyethylene oxide
+

@@ -1,0 +1,14 @@
+# Archival copies must retain their original line endings and bytes.
+00_보존목록/** -text
+01_최종제출물/** -text
+02_핵심연구/** -text
+03_수집데이터_전처리/** -text
+04_이전연구_보관/** -text
+*.pdf binary
+*.docx binary
+*.xlsx binary
+*.mp4 binary
+*.png binary
+*.jpg binary
+*.joblib binary
+*.npy binary

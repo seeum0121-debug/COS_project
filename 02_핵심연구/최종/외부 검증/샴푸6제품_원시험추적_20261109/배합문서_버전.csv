@@ -1,0 +1,8 @@
+﻿registration_family,csf_type,csf_date,source_id,confirmation_scope,csf_contents_obtained,retail_product_csf_match_verified,study_csf_match_verified
+69061-12,Basic,2012-07-19,D15,등록문서에서 존재/날짜 확인,False,False,False
+69061-12,Alternate 1,2012-07-19,D15,등록문서에서 존재/날짜 확인,False,False,False
+2724-485,Basic,2010-12-21,O12,과거 승인서 검색 색인만 확인,False,False,False
+2724-485,Alternate (번호 미기재),2010-12-21,O12,과거 승인서 검색 색인만 확인,False,False,False
+2724-485,Basic,2015-01-07,O18,등록문서에서 존재/날짜 확인,False,False,False
+2724-485,Alternate 1,2015-01-07,O18,등록문서에서 존재/날짜 확인,False,False,False
+2724-485,Alternate 2,2017-10-06,O18,등록문서에서 존재/날짜 확인; 거품형 추가 승인과 연결,False,False,False

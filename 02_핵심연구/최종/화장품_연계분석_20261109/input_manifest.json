@@ -1,0 +1,54 @@
+{
+  "inputs/chemexpo_personal_care.csv": {
+    "source": "C:\\Users\\DS\\COS\\최종\\준비\\학습용데이터\\ChemExpo_personal_care_full_composition_108.csv",
+    "sha256": "97dae90d85a07e474ef0a4e43010dc90a801b79704844434d6a1c17432e2145b"
+  },
+  "inputs/chemexpo_eye.csv": {
+    "source": "C:\\Users\\DS\\COS\\최종\\준비\\학습용데이터\\eye_personal_care_full_composition_21.csv",
+    "sha256": "67a103f841e11ffbab50be2a3a9d1e1ee07f8d74785d9a44e5023ad451aca104"
+  },
+  "inputs/production_rows.csv": {
+    "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\모델 최종\\aggregation_compare_20261109\\input_snapshot.csv",
+    "sha256": "f22f4e1e8d74268a78a6a8d059e1a8dbd20e62692d07d5fb87a384a190224150"
+  },
+  "inputs/production_components.csv": {
+    "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\모델 최종\\aggregation_compare_20261109\\component_linkage.csv",
+    "sha256": "6fe2f3b08861bc5255e1e4d63f788fe3ca6845dc57e6713ca1b3759b565ab974"
+  },
+  "inputs/production_wmean.npy": {
+    "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\모델 최종\\aggregation_compare_20261109\\wmean.npy",
+    "sha256": "8c9960cd54a71af8fc96a9cc401d6f3e28f6d33551d72be029a4bd2d6ef28bb7"
+  },
+  "inputs/comparison_oof.csv": {
+    "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\모델 최종\\aggregation_compare_20261109\\oof_predictions.csv",
+    "sha256": "cb271b12258b657534b5ebfbb7a887cfbd361c2b8baa3a98438e53391f440702"
+  },
+  "inputs/comparison_config.json": {
+    "source": "C:\\Users\\DS\\COS\\최종\\모델 실험\\eye\\모델 최종\\aggregation_compare_20261109\\config.json",
+    "sha256": "18796d900dceb348e86c741a4f562b4f4af7c079ce7ba3179fd03fa78d9511f1"
+  },
+  "inference/eye_A_LR_wmean.joblib": {
+    "source": "C:\\Users\\DS\\COS\\최종\\최종모델\\eye_A_LR_wmean.joblib",
+    "sha256": "d71394e691ac5072e4ce900a53b47ddbb65c8685961fe2c9536411acfbbc58a2"
+  },
+  "inference/predict.py": {
+    "source": "C:\\Users\\DS\\COS\\최종\\최종모델\\predict.py",
+    "sha256": "9600c6001a8c7576ddb42ca55d5802a0d736607743adf23637f6e7ef55989ee7"
+  },
+  "inference/metadata.json": {
+    "source": "C:\\Users\\DS\\COS\\최종\\최종모델\\metadata.json",
+    "sha256": "4fca7229f48880ca82d03840747c644073ab4a73c8d4e958d247d6a935d254f4"
+  },
+  "inference/feature_names.json": {
+    "source": "C:\\Users\\DS\\COS\\최종\\최종모델\\feature_names.json",
+    "sha256": "1500757e4264c4989e46688c296f5a5621d87d47412f91fd4ed19ee9a9c4f38a"
+  },
+  "inputs/prior_external_audit.json": {
+    "source": "C:\\Users\\DS\\COS\\최종\\외부학습\\Eye_STopTox_20261108\\external_validation_audit.json",
+    "sha256": "f1210e1c47ccd3a22bb24f1c754eaabf8b5a5761e5f411608cb0ad2d04c398f8"
+  },
+  "inputs/cir_ingredients_candidate_list.csv": {
+    "source": "git:a693ae5fb43197cac4dc530a5371f1682ede2c3c:cosmetic_validation/cir_ingredients.csv",
+    "sha256": "ec28b1aea5c0cbf6030b43e6da1059fe8b47a5ce0c88415e8765942dfbc18612"
+  }
+}

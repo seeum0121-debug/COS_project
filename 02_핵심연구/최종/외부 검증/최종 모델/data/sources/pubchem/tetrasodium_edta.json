@@ -1,0 +1,15 @@
+{
+  "request_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/64-02-8/property/ConnectivitySMILES,InChIKey,MolecularFormula/JSON",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 6144,
+          "MolecularFormula": "C10H12N2Na4O8",
+          "ConnectivitySMILES": "C(CN(CC(=O)[O-])CC(=O)[O-])N(CC(=O)[O-])CC(=O)[O-].[Na+].[Na+].[Na+].[Na+]",
+          "InChIKey": "UEUXEKPTXMALOB-UHFFFAOYSA-J"
+        }
+      ]
+    }
+  }
+}

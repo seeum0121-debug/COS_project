@@ -1,0 +1,20 @@
+{
+  "inputs\\excluded_cases.csv": "6f0f417546c0845c800b60c82fc288b54f9f22c691a94c7ba934d341a5452b5c",
+  "inputs\\prespecified_pairs.csv": "6fb907e0477dec1a758570e1e2f5d9a471a0653fb9f02f1cf82523690c964036",
+  "inputs\\quat_components.csv": "3862e93a91062f78c26c936c127f6691dd99820846407ef5d94aef636a2d8aee",
+  "inputs\\quat_formulations.csv": "fb8827eac39e8a2bf19176f5b106a1f4632b3fc019d06fad0c12d3540b0cb38d",
+  "inputs\\quat_observations.csv": "7b2539462a1b4a7972d296daab8c6428c2282b1547a4a409e49a701a458007bb",
+  "inputs\\shampoo_patent_observations.csv": "429f8f8d9ab31a4f31b53ab4a4b1d0db213878eb2e3c3d3ca6ce2d3234e8aeac",
+  "inputs\\structure_registry.csv": "9154fcd3364dce92069449b0cf54f5b79310c97014eddaebf01118153e7d42fc",
+  "inputs\\zodiac_source.json": "3370d18ff02c84c8313b04cc4ef568766d38e5692d92027edf213a4bcbb88a51",
+  "model\\eye_A_LR_wmean.joblib": "d71394e691ac5072e4ce900a53b47ddbb65c8685961fe2c9536411acfbbc58a2",
+  "model\\feature_names.json": "1500757e4264c4989e46688c296f5a5621d87d47412f91fd4ed19ee9a9c4f38a",
+  "model\\metadata.json": "4fca7229f48880ca82d03840747c644073ab4a73c8d4e958d247d6a935d254f4",
+  "model\\predict.py": "9600c6001a8c7576ddb42ca55d5802a0d736607743adf23637f6e7ef55989ee7",
+  "model\\smoke_test_cases.json": "14b58cff6e737d61f52147eac3e221fc7516c53f0fd0bae3e5e5319a661755e6",
+  "sources\\epa_criteria_web.txt": "511e670ae4204e813bd0aa71ab9a8464b063c0818d49aeeeea2255f2af5a1ba6",
+  "sources\\quat_pdf_and_table4_web.txt": "cbf8a2536f99d46fd6bb69d1c7c0d8d9f10bff8684548076fec2715cca8d9eb2",
+  "sources\\quat_tables_1_3_web.txt": "debb5b551815a178ab1bfff2c4eeb2e27b2ef00f343e5a7de6667448660a45e4",
+  "sources\\shampoo_recipe_web.txt": "40861fdf1e299a2c1d0dfa51228bf6228fbcf24d3f13cc3fda137a83e916a525",
+  "protocol.json": "0d06f76e340da8f679513571335a6c8c61ba2070f813c8e23a9047236c15fb25"
+}

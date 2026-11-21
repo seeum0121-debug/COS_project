@@ -1,0 +1,23 @@
+﻿surfactant,max_tanimoto_to_training,mean_top5_tanimoto,nearest_training_smiles
+Capryl Glucoside,0.2927,0.2416,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+]
+Coco Glucoside,0.2927,0.2416,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+]
+Lauryl Glucoside,0.2927,0.2416,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+]
+Glycereth-17 Cocoate,0.3333,0.287,CCCCOCCCO
+Glycereth-6 Cocoate,0.3333,0.287,CCCCOCCCO
+Glycereth-7 Cocoate,0.3333,0.287,CCCCOCCCO
+Glycereth-2 Cocoate,0.3333,0.287,CCCCOCCCO
+Disodium Lauroyl Glutamate,0.3611,0.2629,CCCCCCCC(=O)O
+Disodium Capryloyl Glutamate: 30% - 37%,0.3611,0.2629,CCCCCCCC(=O)O
+Cocamidopropylamine Oxide,0.3824,0.3216,CCCCCCCC(=O)O
+Capryleth-6 Carboxylic Acid,0.4643,0.3529,CCCCCCCC(=O)O
+Laureth-11 Carboxylic Acid,0.4643,0.3529,CCCCCCCC(=O)O
+Laureth-4 Carboxylic Acid,0.4643,0.3529,CCCCCCCC(=O)O
+Lauramine Oxide,0.5714,0.474,CCCCCCCC[N+](C)(C)CCCCCCCC.[Cl-]
+Myristamine Oxide,0.5714,0.474,CCCCCCCC[N+](C)(C)CCCCCCCC.[Cl-]
+Polyoxyethylene(11) alkyl(C12-14) ethers,0.6087,0.3771,CCCCOCCCO
+Polyoxyethylene(11) alkyl(C16-18) ethers,0.6087,0.3771,CCCCOCCCO
+Polyoxyethylene(6) alkyl(C8-12) ethers,0.6087,0.3771,CCCCOCCCO
+Zinc Coceth Sulfate,0.7143,0.3656,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+]
+Sodium laureth sulfate,0.7778,0.3783,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+]
+Zinc Coco-Sulfate: 27% - 30%,0.913,0.4064,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+]
+Sodium lauryl sulfate,1.0,0.4238,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+]

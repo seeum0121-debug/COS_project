@@ -1,0 +1,468 @@
+ (https://davismfg.com/medias/Flea%20Tick%20Shampoo%2005%2028%202025.pdf)
+citeturn39view0 [wordlim: 200] Crawled: 2 weeks ago; Content type: application/pdf; Number of pages: 5; Source: find({"ref_id":"https://davismfg.com/medias/Flea%20Tick%20Shampoo%2005%2028%202025.pdf","pattern":"pH"}); Total lines: 255
+L144@P2: Trade Secret # 1 TWA mg/m3=10 mg/m3=10
+L145@P2: Trade Secret # 1 STEL mg/m3=20 mg/m3=20
+L146@P2: OSHA Table Comments: 1. Skin Exposure
+L147@P2: Engineering Controls: Mechanical ventilation should be used when handling this product in enclosed spaces. Local exhaust
+L148@P2: ventilation may be necessary.
+L149@P2: Personal Protective
+L150@P2: Equipment:
+L151@P2: HMIS PP, B | Goggles, Gloves
+L152@P2: Chemical safety glasses with side shields, or Chemical splash goggles, or a full-faced shield. Chemical
+L153@P2: resistant gloves.
+L154@P2: Wearing a respirator is not normally required when handling this product. Use in well-vnetilated areas.
+L155@P2: Take prudent precautions to avoid breathing vapors and/or spray mists of this product.
+L156@P2: 9 PHYSICAL AND CHEMICAL PROPERTIES
+L157@P2: Appearance: Green Liquid
+L158@P2: N/A
+L159@P2: 1.008-1.020
+L160@P2: 1000-2500 cps @ 25 C
+L161@P2: N/A
+L162@P2: N/A
+L163@P2: N/A
+L164@P2: 6.2-6.8
+L165@P2: N/A
+L166@P2: N/A
+L167@P2: Solubility:
+L168@P2: Freezing/Melting Pt.:
+L169@P2: Flash Point:
+L170@P2: Vapor Density:
+L171@P2: Auto-Ignition Temp:
+L172@P2: UFL/LFL:
+L173@P2: Miscible in water
+L174@P2: Not Available
+L175@P2: N/A
+L176@P2: Heavier than air
+L177@P2: N/A
+L178@P2: N/A
+L179@P2: Odor Threshold:
+L180@P2: Spec Grav./Density:
+L181@P2: Viscosity:
+L182@P2: Boiling Point:
+L183@P2: Partition Coefficient:
+L184@P2: Vapor Pressure:
+L185@P2: pH:
+L186@P2: Evap. Rate:
+L187@P2: Decomp Temp:
+L188@P2: Physical State: Liquid Odor: Herbal-Floral Aroma
+L189@P2: 10 STABILITY AND REACTIVITY
+L190@P2: Chemical Stability:
+L191@P2: Conditions to Avoid:
+L192@P2: Materials to Avoid:
+L193@P2: Hazardous Decomposition:
+L194@P2: Hazardous Polymerization:
+L195@P2: Product is stable under normal conditions.
+L196@P2: Avoid extremely high temperatures.
+L197@P2: Avoid storing in direct sunlight in open or clear container.
+L198@P2: Strong Acids; Strong Bases; Strong Oxidizing Agents.
+L199@P2: May give off toxic gases such as carbon monoxide, carbon dioxide or nitrogen oxides.
+L200@P2: Will not occur.
+L201@P2: 11 TOXICOLOGICAL INFORMATION
+L202@P2: Acute Toxicity:
+L203@P2-3: SDS Number: 125192Rev el Page: 3 / 5 Revision Date: 05/28/2025Oral ( LD 50): > 5000 mg/kg
+L204@P3: Inhalation ( LC 50): The acute inhalation LC 50 of this material places it in EPA Toxic Category III
+L205@P3: Skin irritation: Moderate irriation at 72 hours. Produced a primary skin irritation index of 4.3
+L206@P3: Eye irritation: Severly irritating to both the unrinsed and rinsed eye. All ocular ittitation cleared within 17 days post treatment.
+L207@P3: Sensitation: Negative; not considered to be a dermal sensitizer to albino guinea pigs
+L208@P3: Chronic Toxicity: Unknown for mixture
+L209@P3: 12 ECOLOGICAL INFORMATION
+L210@P3: This product is very toxic to fish and other aquatic invertebrates.
+L211@P3: 13 DISPOSAL CONSIDERATIONS
+L212@P3: If Empty: Do not reuse this container. Place in trash or offer for recycling if available. If Empty: Do not reuse this container. Place in trash or
+L213@P3: offer for recycling if available.
+L214@P3: If Partly Filled: Call your local solid waste agency for disposal instructions. Never place unused product down any indoor or outdoor drain.
+L215@P3: RCRA/EPA WASTE INFORMATION: this product contains the folowing RCRA/CERCLA Hazardous wastes/substances: Pyrethrins, RCRA
+L216@P3: ID# N/A, CERCLA RQ 1 Lb
+L217@P3: 14 TRANSPORT INFORMATION
+L218@P3: DOT Class: Not regulated #
+L219@P3: This material is not regulated s a hazardous material by the DOT in quantities less than 666.7 Lbs (74.7 Gallons
+L220@P3: Proper Shipping Name: Insecticides, Insect or Animal Repellent, Liquid, N.O.S.
+L221@P3: Reportable Quantity (RQ) Under CERCLA: 1 Lb
+L222@P3: DOT Shipping Name for quantities more than 666.7 Lbs (74.7 Gallons: UN 3082 Environmentally Hazardoous Sustance,
+L223@P3: Liquid N.O.S. RQ (Pyrethrins) 9, PGIII
+L224@P3: Ocean/Sea Transport (IMD/IMDG): UN 3082 Environmentally Hazardous Substance, Liquid N.O.S. (Pyrethrins) RQ = 1 Lb,
+L225@P3: Marine Pollutant
+L226@P3: (Small sizes can be classed as LTD QTY)
+L227@P3: Air Transport ICAO-TI and IATA-DGR: Insecticides, Insect or Animal Repellent, Liquid, N.O.S.
+L228@P3: Not considered hazardous by IATA/ICAO regulations for transportation via air.
+L229@P3: UN3082, Environmentally hazardous substances, liquid, n.o.s., 9, PG III
+L230@P3: 15 REGULATORY INFORMATION
+L231@P3: Component (CAS#) [%] - CODES
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn39view1 [wordlim: 200] Source: find({"ref_id":"https://www.durvet.com/wp-content/uploads/2017/12/No_Bite-Flea-and-Tick-Shampoo_DV_neogen_sds_7_6_2015.pdf","pattern":"pH"}); 
+Failed to fetch https://www.durvet.com/wp-content/uploads/2017/12/No_Bite-Flea-and-Tick-Shampoo_DV_neogen_sds_7_6_2015.pdf: (502) Bad Gateway--------------------------------------------------------------------------------
+ (https://labelsds.com/images/user_uploads/Adams%20F%20and%20T%20Cleansing%20SDS%209-28-23.pdf)
+citeturn39view2 [wordlim: 200] Crawled: 8 months ago; Content type: application/pdf; Number of pages: 7; Source: find({"ref_id":"https://labelsds.com/images/user_uploads/Adams%20F%20and%20T%20Cleansing%20SDS%209-28-23.pdf","pattern":"pH"}); Total lines: 395
+L124@P2: OSHA OSHA PEL TWA [1] 5 mg/m³
+L125@P2: IDLH IDLH 5000 mg/m³
+L126@P2: NIOSH NIOSH REL TWA 5 mg/m³
+L127@P2: Diethanolamine (111-42-2)
+L128@P2: ACGIH ACGIH OEL TWA 1 mg/m³ (inhalable fraction and vapor)
+L129@P2: ACGIH Remark (ACGIH) Liver & kidney dam
+L130@P2: NIOSH NIOSH REL TWA 15 mg/m³
+L131@P2: NIOSH NIOSH REL TWA [ppm] 3 ppm
+L132@P2: 8.2. Appropriate engineering controls
+L133@P2: Appropriate engineering controls : Adequate ventilation systems as needed to control concentrations of airborne contaminants
+L134@P2: below applicable threshold limit values.
+L135@P2: Environmental exposure controls : Avoid release to the environment.
+L136@P2: 8.3. Individual protection measures/Personal protective equipment
+L137@P2: Hand protection:
+L138@P2: Protective gloves
+L139@P2: Eye protection:
+L140@P2: Not required for normal conditions of use
+L141@P2: Skin and body protection:
+L142@P2: Not required for normal conditions of use
+L143@P2: Respiratory protection:
+L144@P2: Not required for normal conditions of use
+L145@P2: SECTION 9: Physical and chemical properties
+L146@P2: 9.1. Information on basic physical and chemical properties
+L147@P2: Physical state : Liquid
+L148@P2: Appearance : Clear green liquid
+L149@P2: Color : Green
+L150@P2: Odor : Pleasant
+L151@P2-3: Odor threshold : No data availableAdams Flea & Tick Cleansing Shampoo
+L152@P3: Safety Data Sheet
+L153@P3: 09/28/2023 US - en 4/7
+L154@P3: pH : 7 – 8
+L155@P3: Melting point : Not applicable
+L156@P3: Freezing point : No data available
+L157@P3: Boiling point : No data available
+L158@P3: Flash point : > 200ºF
+L159@P3: Relative evaporation rate (butyl acetate=1) : No data available
+L160@P3: Flammability : Not applicable
+L161@P3: Vapor pressure : No data available
+L162@P3: Relative vapor density at 20 °C : No data available
+L163@P3: Relative density : 1.02
+L164@P3: Solubility : Insoluble
+L165@P3: Partition coefficient n-octanol/water (Log Pow) : No data available
+L166@P3: Auto-ignition temperature : No data available
+L167@P3: Decomposition temperature : No data available
+L168@P3: Viscosity, kinematic : No data available
+L169@P3: Viscosity, dynamic : < 1000 cP
+L170@P3: Explosion limits : No data available
+L171@P3: Explosive properties : Not explosive
+L172@P3: Oxidizing properties : Not applicable
+L173@P3: 9.2. Other information
+L174@P3: No additional information available
+L175@P3: SECTION 10: Stability and reactivity
+L176@P3: 10.1. Reactivity
+L177@P3: The product is non-reactive under normal conditions of use, storage and transport.
+L178@P3: 10.2. Chemical stability
+L179@P3: Stable under normal conditions.
+L180@P3: 10.3. Possibility of hazardous reactions
+L181@P3: No dangerous reactions known under normal conditions of use. Hazardous polymerization will not occur.
+L182@P3: 10.4. Conditions to avoid
+L183@P3: None under recommended storage and handling conditions (see section 7).
+L184@P3: 10.5. Incompatible materials
+L185@P3: No additional information available
+L186@P3: 10.6. Hazardous decomposition products
+L187@P3: Under normal conditions of storage and use, hazardous decomposition products should not be produced.
+L188@P3: SECTION 11: Toxicological information
+L189@P3: 11.1. Information on toxicological effects
+L190@P3: Pyrethrins (8003-34-7)
+L191@P3: LD50 oral rat 2370 mg/kg Adult male; 1030 mg/kg Adult female
+L192@P3: LD50 dermal rat 2000 mg/kg
+L193@P3: LC50 Inhalation - Rat 3.4 mg/l/4h
+L194@P3: Piperonyl butoxide (51-03-6)
+L195@P3: LD50 oral rat 4300 mg/kg
+L196@P3: LD50 dermal rat > 2000 mg/kg
+L197@P3: LC50 Inhalation - Rat > 5 mg/l/4h
+L198@P3: Pyriproxyfen (95737-68-1)
+L199@P3: LD50 oral rat 5004 mg/kg
+L200@P3: LD50 dermal > 2000 mg/kg
+L201@P3: LC50 Inhalation - Rat > 11.07 mg/l
+L202@P3-4: GHS-US Properties ClassificationAdams Flea & Tick Cleansing Shampoo
+L203@P4: Safety Data Sheet
+L204@P4: 09/28/2023 US - en 5/7
+L205@P4: Acute toxicity (oral) Not classified
+L206@P4: Acute toxicity (dermal) Not classified
+L207@P4: Acute toxicity (inhalation) Not classified
+L208@P4: Skin corrosion/irritation Causes skin irritation.
+L209@P4: Serious eye damage/irritation Causes serious eye irritation.
+L210@P4: Respiratory or skin sensitization Not classified
+L211@P4: Germ cell mutagenicity Not classified
+L212@P4: Carcinogenicity Suspected of causing cancer.
+L213@P4: Reproductive toxicity Not classified
+L214@P4: Specific target organ toxicity
+L215@P4: (single exposure)
+L216@P4: Not classified
+L217@P4: Specific target organ toxicity
+L218@P4: (repeated exposure)
+L219@P4: Not classified
+L220@P4: Aspiration hazard Not classified
+L221@P4: Potential health effects
+L222@P4: Inhalation
+L223@P4: Acute : Under normal conditions of use, no health effects are expected.
+L224@P4: Skin
+L225@P4: Acute : Causes moderate skin irritation.
+L226@P4: Eye
+L227@P4: Acute : Causes moderate eye irritation.
+--------------------------------------------------------------------------------
+ (https://labelsds.com/images/user_uploads/Zodiac%20Shampoo%20-%20Puppy-Dog%20SDS%206-24-16.pdf)
+citeturn39view3 [wordlim: 200] Crawled: 10 months ago; Content type: application/pdf; Number of pages: 9; Source: find({"ref_id":"https://labelsds.com/images/user_uploads/Zodiac%20Shampoo%20-%20Puppy-Dog%20SDS%206-24-16.pdf","pattern":"pH"}); Total lines: 436
+L153@P3: TWAs Not established 1000 ppm TWA; 1900 mg/m3 TWA 1000 ppm TWA; 1900 mg/m3 TWA
+L154@P3: STELs 1000 ppm STEL Not established Not established
+L155@P3: Exposure Limits Supplemental
+L156@P3: ACGIH
+L157@P3: •Pyrethrins (8003-34-7): TLV Basis - Critical Effects: (liver damage; lower respiratory tract irritation)
+L158@P3: •Ethanol (64-17-5): TLV Basis - Critical Effects: (upper respiratory tract irritation)
+L159@P3: Exposure controls
+L160@P3: Engineering
+L161@P3: Measures/Controls
+L162@P3: • No data available
+L163@P3: Personal Protective Equipment
+L164@P3: Respiratory • Not required with normal use.
+L165@P3: Eye/Face • Not required with normal use.
+L166@P3: Hands • Not required with normal use.
+L167@P3: Skin/Body • Not required with normal use.
+L168@P3: Environmental Exposure
+L169@P3: Controls
+L170@P3: • Avoid release to the environment.
+L171@P3: Section 9 - Physical and Chemical Properties
+L172@P3: Information on Physical and Chemical Properties
+L173@P3: Material Description
+L174@P3: Physical Form Liquid Appearance/Description Pale green pearlescent viscous
+L175@P3: liquid.
+L176@P3: Color Pale green. Odor Similar to baby powder.
+L177@P3: Odor Threshold No data available
+L178@P3: General Properties
+L179@P3: Zodiac Oatmeal Conditioning Shampoo for Dogs & Puppies
+L180@P3: Preparation Date: 24/June/2016
+L181@P3: Revision Date: 24/June/2016
+L182@P3: Format: GHS Language: English (US)
+L183@P3-4: OSHA HCS 2012 Page 4 of 9Boiling Point No data available Melting Point/Freezing Point No data available
+L184@P4: Decomposition Temperature No data available pH 5.9 @ 21.3ºC (70.3ºF)
+L185@P4: Specific Gravity/Relative Density 1.024 @ 20ºC (68ºF) Bulk Density No data available
+L186@P4: Water Solubility Insoluble Viscosity 2000 Centipoise (cPs, cP) or mPas
+L187@P4: @ 20 °C(68 °F)
+L188@P4: Volatility
+L189@P4: Vapor Pressure No data available Vapor Density No data available
+L190@P4: Evaporation Rate No data available
+L191@P4: Flammability
+L192@P4: Flash Point No data available UEL No data available
+L193@P4: LEL No data available Flame Duration No data available
+L194@P4: Flammability (solid, gas) Not Flammable.
+L195@P4: Environmental
+L196@P4: Octanol/Water Partition coefficient No data available
+L197@P4: Section 10: Stability and Reactivity
+L198@P4: Reactivity
+L199@P4: • No dangerous reaction known under conditions of normal use.
+L200@P4: Chemical stability
+L201@P4: • Stable
+L202@P4: Possibility of hazardous reactions
+L203@P4: • Hazardous polymerization will not occur.
+L204@P4: Conditions to avoid
+L205@P4: • No data available.
+L206@P4: Incompatible materials
+L207@P4: • No data available.
+L208@P4: Hazardous decomposition products
+L209@P4: • No data available.
+L210@P4: Section 11 - Toxicological Information
+L211@P4: Information on toxicological effects
+L212@P4: CAS
+L213@P4: Zodiac Oatmeal Conditioning Shampoo for Dogs &
+L214@P4: Puppies NDA
+L215@P4: Acute Toxicity: Ingestion/Oral-Rat LD50 • >5100 mg/kg; Skin-Rabbit LD50 •
+L216@P4: >2100 mg/kg;
+L217@P4: Irritation: Eye-Rabbit • Mild irritation; Skin-Rabbit • Moderate irritation
+L218@P4: GHS Properties Classification
+L219@P4: Acute toxicity
+L220@P4: OSHA HCS 2012 • Acute Toxicity - Dermal - Classification criteria not met; Acute
+L221@P4: Toxicity - Inhalation - Classification criteria not met; Acute Toxicity - Oral -
+L222@P4: Classification criteria not met
+L223@P4: Skin corrosion/Irritation OSHA HCS 2012 • Skin Irritation 2
+L224@P4: Zodiac Oatmeal Conditioning Shampoo for Dogs & Puppies
+L225@P4: Preparation Date: 24/June/2016
+L226@P4: Revision Date: 24/June/2016
+L227@P4: Format: GHS Language: English (US)
+L228@P4-5: OSHA HCS 2012 Page 5 of 9Serious eye damage/Irritation OSHA HCS 2012 • Eye Mild Irritation 2B
+L229@P5: Skin sensitization OSHA HCS 2012 • Classification criteria not met
+L230@P5: Respiratory sensitization OSHA HCS 2012 • Classification criteria not met
+L231@P5: Aspiration Hazard OSHA HCS 2012 • Classification criteria not met
+L232@P5: Carcinogenicity OSHA HCS 2012 • Classification criteria not met
+L233@P5: Germ Cell Mutagenicity OSHA HCS 2012 • Classification criteria not met
+L234@P5: Toxicity for Reproduction OSHA HCS 2012 • Classification criteria not met
+L235@P5: STOT-SE OSHA HCS 2012 • Classification criteria not met
+L236@P5: STOT-RE OSHA HCS 2012 • Classification criteria not met
+L237@P5: Route(s) of entry/exposure • Inhalation, Ingestion, Eyes, and Skin
+L238@P5: Potential Health Effects
+L239@P5: Inhalation
+--------------------------------------------------------------------------------
+ (https://pdf.lowes.com/productdocuments/6bba45d9-6f5a-4d63-837f-6e3a07a1bf05/44866530.pdf)
+citeturn39view4 [wordlim: 200] Crawled: 2 days ago; Content type: application/pdf; Number of pages: 7; Source: find({"ref_id":"https://pdf.lowes.com/productdocuments/6bba45d9-6f5a-4d63-837f-6e3a07a1bf05/44866530.pdf","pattern":"pH"}); Total lines: 356
+L118@P2: ACGIH Remark (ACGIH) Liver dam; LRT irr
+L119@P2: OSHA OSHA PEL (TWA) (mg/m³) 5 mg/m³
+L120@P2: IDLH US IDLH (mg/m³) 5000 mg/m³
+L121@P2: NIOSH NIOSH REL (TWA) (mg/m³) 5 mg/m³
+L122@P2: Ethanol (64-17-5)
+L123@P2: ACGIH ACGIH STEL (ppm) 1000 ppm
+L124@P2: ACGIH Remark (ACGIH) URT irr
+L125@P2: OSHA OSHA PEL (TWA) (mg/m³) 1900 mg/m³
+L126@P2: OSHA OSHA PEL (TWA) (ppm) 1000 ppm
+L127@P2: IDLH US IDLH (ppm) 3300 ppm (10% LEL)
+L128@P2: NIOSH NIOSH REL (TWA) (mg/m³) 1900 mg/m³
+L129@P2: NIOSH NIOSH REL (TWA) (ppm) 1000 ppm
+L130@P2: 8.2. Appropriate engineering controls
+L131@P2: Appropriate engineering controls : Adequate ventilation systems as needed to control concentrations of airborne contaminants
+L132@P2: below applicable threshold limit values.
+L133@P2: Environmental exposure controls : Avoid release to the environment.
+L134@P2: 8.3. Individual protection measures/Personal protective equipment
+L135@P2: Hand protection:
+L136@P2: Protective gloves
+L137@P2: Eye protection:
+L138@P2: Safety glasses
+L139@P2: Skin and body protection:
+L140@P2: Not required for normal conditions of use
+L141@P2: Respiratory protection:
+L142@P2-3: Not required for normal conditions of useAdams Plus Flea & Tick Shampoo with Precor
+L143@P3: Safety Data Sheet
+L144@P3: 10/29/2020 EN (English US) 4/7
+L145@P3: SECTION 9: Physical and chemical properties
+L146@P3: 9.1. Information on basic physical and chemical properties
+L147@P3: Physical state : Liquid
+L148@P3: Appearance : Pale green pearlescent viscous liquid
+L149@P3: Color : Pale green
+L150@P3: Odor : Similar to baby powder
+L151@P3: Odor threshold : No data available
+L152@P3: pH : 5.9 @ 21.3ºC (70.3ºF)
+L153@P3: Melting point : Not applicable
+L154@P3: Freezing point : No data available
+L155@P3: Boiling point : No data available
+L156@P3: Flash point : No data available
+L157@P3: Relative evaporation rate (butyl acetate=1) : No data available
+L158@P3: Flammability (solid, gas) : Not applicable
+L159@P3: Vapor pressure : No data available
+L160@P3: Relative vapor density at 20 °C : No data available
+L161@P3: Relative density : 1.024 @ 20ºC (68ºF)
+L162@P3: Solubility : Insoluble
+L163@P3: Partition coefficient n-octanol/water (Log Pow) : No data available
+L164@P3: Auto-ignition temperature : No data available
+L165@P3: Decomposition temperature : No data available
+L166@P3: Viscosity, kinematic : No data available
+L167@P3: Viscosity, dynamic : 2000 cP (20 °C) (68 °F)
+L168@P3: Explosion limits : No data available
+L169@P3: Explosive properties : Not explosive
+L170@P3: Oxidizing properties : Not applicable
+L171@P3: 9.2. Other information
+L172@P3: No additional information available
+L173@P3: SECTION 10: Stability and reactivity
+L174@P3: 10.1. Reactivity
+L175@P3: The product is non-reactive under normal conditions of use, storage and transport.
+L176@P3: 10.2. Chemical stability
+L177@P3: Stable under normal conditions.
+L178@P3: 10.3. Possibility of hazardous reactions
+L179@P3: No dangerous reactions known under normal conditions of use. Hazardous polymerization will not occur.
+L180@P3: 10.4. Conditions to avoid
+L181@P3: None under recommended storage and handling conditions (see section 7).
+L182@P3: 10.5. Incompatible materials
+L183@P3: No additional information available
+L184@P3: 10.6. Hazardous decomposition products
+L185@P3: Under normal conditions of storage and use, hazardous decomposition products should not be produced.
+L186@P3: SECTION 11: Toxicological information
+L187@P3: 11.1. Information on toxicological effects
+L188@P3: Adams Plus Flea & Tick Shampoo with Precor
+L189@P3: LD50 oral rat > 5100 mg/kg
+L190@P3: LD50 dermal rabbit > 2100 mg/kg
+L191@P3: GHS-US Properties Classification
+L192@P3: Acute toxicity (oral) Not classified
+L193@P3-4: Acute toxicity (dermal) Not classifiedAdams Plus Flea & Tick Shampoo with Precor
+L194@P4: Safety Data Sheet
+L195@P4: 10/29/2020 EN (English US) 5/7
+L196@P4: Acute toxicity (inhalation) Not classified
+L197@P4: Skin corrosion/irritation Causes skin irritation.
+L198@P4: Serious eye damage/irritation Causes eye irritation.
+L199@P4: Respiratory or skin sensitization Not classified
+--------------------------------------------------------------------------------
+ (https://www.domyown.com/msds/Zodiac_Flea_and_Tick_Shampoo_for_Dogs_and_Cats_SDS_2020.pdf)
+citeturn39view5 [wordlim: 200] Crawled: last month; Content type: application/pdf; Number of pages: 8; Source: find({"ref_id":"https://www.domyown.com/msds/Zodiac_Flea_and_Tick_Shampoo_for_Dogs_and_Cats_SDS_2020.pdf","pattern":"pH"}); Total lines: 366
+L158@P3: Personal Protective Equipment
+L159@P3: Pictograms •
+L160@P3: Respiratory • In case of insufficient ventilation, use NIOSH approved respiratory protection.
+L161@P3: Eye/Face • Wear safety glasses.
+L162@P3: Hands • Wear appropriate gloves.
+L163@P3: Skin/Body •
+L164@P3: If prolonged exposure is anticipated, it is recommended for handlers to wear
+L165@P3: appropriate clothing to prevent skin contact.
+L166@P3: Environmental Exposure
+L167@P3: Controls
+L168@P3: • Avoid release to the environment.
+L169@P3: Section 9 - Physical and Chemical Properties
+L170@P3: Information on Physical and Chemical Properties
+L171@P3: Material Description
+L172@P3: Physical Form Liquid Appearance/Description Clear green liquid.
+L173@P3: Color Green Odor Woody, herbaceous.
+L174@P3: Zodiac Flea & Tick Shampoo for Dogs & Cats
+L175@P3: Preparation Date: 07/April/2016
+L176@P3: Revision Date: 07/April/2016
+L177@P3: Format: GHS Language: English (US)
+L178@P3-4: OSHA HCS 2012 Page 4 of 8Odor Threshold No data available
+L179@P4: General Properties
+L180@P4: Boiling Point No data available Melting Point/Freezing Point No data available
+L181@P4: Decomposition Temperature No data available pH 5.64
+L182@P4: Specific Gravity/Relative Density 1.01 g/ml Bulk Density No data available
+L183@P4: Water Solubility No data available Viscosity 1500 to 7000 Centipoise (cPs, cP)
+L184@P4: or mPas @ 20 °C(68 °F)
+L185@P4: Volatility
+L186@P4: Vapor Pressure No data available Vapor Density No data available
+L187@P4: Evaporation Rate No data available
+L188@P4: Flammability
+L189@P4: Flash Point No data available UEL No data available
+L190@P4: LEL No data available Flame Duration No data available
+L191@P4: Flammability (solid, gas) Not Flammable.
+L192@P4: Environmental
+L193@P4: Octanol/Water Partition coefficient No data available
+L194@P4: Section 10: Stability and Reactivity
+L195@P4: Reactivity
+L196@P4: • No dangerous reaction known under conditions of normal use.
+L197@P4: Chemical stability
+L198@P4: • Stable
+L199@P4: Possibility of hazardous reactions
+L200@P4: • Hazardous polymerization will not occur.
+L201@P4: Conditions to avoid
+L202@P4: • Extreme temperatures. Keep away from fire.
+L203@P4: Incompatible materials
+L204@P4: • Strong oxidizing agents.
+L205@P4: Hazardous decomposition products
+L206@P4: • Thermal decomposition may produce toxic gases.
+L207@P4: Section 11 - Toxicological Information
+L208@P4: Information on toxicological effects
+L209@P4: CAS
+L210@P4: Zodiac Flea & Tick Shampoo for Dogs &
+L211@P4: Cats NDA
+L212@P4: Acute Toxicity: Ingestion/Oral-Rat LD50 • >5100 mg/kg; Skin-Rabbit LD50 • >2100
+L213@P4: mg/kg;
+L214@P4: Irritation: Eye-Rabbit • Mild irritation; Skin-Rabbit • Moderate irritation
+L215@P4: GHS Properties Classification
+L216@P4: Acute toxicity
+L217@P4: OSHA HCS 2012 • Acute Toxicity - Dermal - Classification criteria not met; Acute
+L218@P4: Toxicity - Inhalation - Classification criteria not met; Acute Toxicity - Oral -
+L219@P4: Classification criteria not met
+L220@P4: Zodiac Flea & Tick Shampoo for Dogs & Cats
+L221@P4: Preparation Date: 07/April/2016
+L222@P4: Revision Date: 07/April/2016
+L223@P4: Format: GHS Language: English (US)
+L224@P4-5: OSHA HCS 2012 Page 5 of 8Skin corrosion/Irritation OSHA HCS 2012 • Skin Irritation 2
+L225@P5: Serious eye damage/Irritation OSHA HCS 2012 • Eye Mild Irritation 2B
+L226@P5: Skin sensitization OSHA HCS 2012 • Classification criteria not met
+L227@P5: Respiratory sensitization OSHA HCS 2012 • Classification criteria not met
+L228@P5: Aspiration Hazard OSHA HCS 2012 • Classification criteria not met
+L229@P5: Carcinogenicity OSHA HCS 2012 • Classification criteria not met
+L230@P5: Germ Cell Mutagenicity OSHA HCS 2012 • Not classified - data lacking
+L231@P5: Toxicity for Reproduction OSHA HCS 2012 • Classification criteria not met
+L232@P5: STOT-SE OSHA HCS 2012 • Classification criteria not met
+L233@P5: STOT-RE OSHA HCS 2012 • Classification criteria not met
+L234@P5: Route(s) of entry/exposure • Inhalation, Ingestion, Eyes, and Skin
+L235@P5: Potential Health Effects
+L236@P5: Inhalation
+L237@P5: Acute (Immediate) • Under normal conditions of use, no health effects are expected.
+L238@P5: Chronic (Delayed) • No data available.
+L239@P5: Skin
+L240@P5: Acute (Immediate) • Causes skin irritation.
+L241@P5: Chronic (Delayed) • No data available.
+L242@P5: Eye
+L243@P5: Acute (Immediate) • Causes eye irritation.
+L244@P5: Chronic (Delayed) • No data available.
+L245@P5: Ingestion
+L246@P5: Acute (Immediate) • Under normal conditions of use, no health effects are expected.
+

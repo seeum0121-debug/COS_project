@@ -1,0 +1,13 @@
+﻿component_id,name,cas,smiles,formula,molecular_weight,structure_basis
+DDAC,didecyldimethylammonium chloride,7173-51-5,CCCCCCCCCC[N+](C)(C)CCCCCCCCCC.[Cl-],C22H48ClN,362.0860000000001,Explicit molecular name/homologue in source; salts retain counterions; RDKit formula and charge checked
+BAC12,benzyl dimethyl dodecyl ammonium chloride,139-07-1,CCCCCCCCCCCC[N+](C)(C)Cc1ccccc1.[Cl-],C21H38ClN,339.995,Explicit molecular name/homologue in source; salts retain counterions; RDKit formula and charge checked
+BAC14,benzyl dimethyl tetradecyl ammonium chloride,139-08-2,CCCCCCCCCCCCCC[N+](C)(C)Cc1ccccc1.[Cl-],C23H42ClN,368.049,Explicit molecular name/homologue in source; salts retain counterions; RDKit formula and charge checked
+BAC16,benzyl dimethyl hexadecyl ammonium chloride,122-18-9,CCCCCCCCCCCCCCCC[N+](C)(C)Cc1ccccc1.[Cl-],C25H46ClN,396.10300000000007,Explicit molecular name/homologue in source; salts retain counterions; RDKit formula and charge checked
+BAC18,benzyl dimethyl octadecyl ammonium chloride,122-19-0,CCCCCCCCCCCCCCCCCC[N+](C)(C)Cc1ccccc1.[Cl-],C27H50ClN,424.15700000000004,Explicit molecular name/homologue in source; salts retain counterions; RDKit formula and charge checked
+EDTA,ethylenediaminetetraacetic acid,60-00-4,O=C(O)CN(CCN(CC(=O)O)CC(=O)O)CC(=O)O,C10H16N2O8,292.24399999999997,Explicit molecular name/homologue in source; salts retain counterions; RDKit formula and charge checked
+NaOH,sodium hydroxide,1310-73-2,[Na+].[OH-],HNaO,39.997,Explicit molecular name/homologue in source; salts retain counterions; RDKit formula and charge checked
+NaCl,sodium chloride,7647-14-5,[Cl-].[Na+],ClNa,58.443,Explicit molecular name/homologue in source; salts retain counterions; RDKit formula and charge checked
+glycolic,glycolic acid,79-14-1,O=C(O)CO,C2H4O3,76.051,Explicit molecular name/homologue in source; salts retain counterions; RDKit formula and charge checked
+water,water,7732-18-5,O,H2O,18.015,Explicit molecular name/homologue in source; salts retain counterions; RDKit formula and charge checked
+ethanol,ethanol,64-17-5,CCO,C2H6O,46.069,Explicit molecular name/homologue in source; salts retain counterions; RDKit formula and charge checked
+PBO,piperonyl butoxide; technical mixture approximation,51-03-6,CCCCOCCOCCOCc1cc2c(cc1CCC)OCO2,C19H30O5,338.44400000000013,Frozen previous CAS resolution; technical related compounds remain unresolved

@@ -1,0 +1,131 @@
+{
+  "verified_at_utc": "2026-11-08T23:28:34.430082+00:00",
+  "existing_files_checked": 88623,
+  "changed_or_missing_original_files": [],
+  "input_hash_checks": [
+    {
+      "file": "inputs/chemexpo_personal_care.csv",
+      "snapshot_sha256": "97dae90d85a07e474ef0a4e43010dc90a801b79704844434d6a1c17432e2145b",
+      "expected_sha256": "97dae90d85a07e474ef0a4e43010dc90a801b79704844434d6a1c17432e2145b",
+      "original_sha256": "97dae90d85a07e474ef0a4e43010dc90a801b79704844434d6a1c17432e2145b",
+      "snapshot_matches": true,
+      "original_matches": true
+    },
+    {
+      "file": "inputs/chemexpo_eye.csv",
+      "snapshot_sha256": "67a103f841e11ffbab50be2a3a9d1e1ee07f8d74785d9a44e5023ad451aca104",
+      "expected_sha256": "67a103f841e11ffbab50be2a3a9d1e1ee07f8d74785d9a44e5023ad451aca104",
+      "original_sha256": "67a103f841e11ffbab50be2a3a9d1e1ee07f8d74785d9a44e5023ad451aca104",
+      "snapshot_matches": true,
+      "original_matches": true
+    },
+    {
+      "file": "inputs/production_rows.csv",
+      "snapshot_sha256": "f22f4e1e8d74268a78a6a8d059e1a8dbd20e62692d07d5fb87a384a190224150",
+      "expected_sha256": "f22f4e1e8d74268a78a6a8d059e1a8dbd20e62692d07d5fb87a384a190224150",
+      "original_sha256": "f22f4e1e8d74268a78a6a8d059e1a8dbd20e62692d07d5fb87a384a190224150",
+      "snapshot_matches": true,
+      "original_matches": true
+    },
+    {
+      "file": "inputs/production_components.csv",
+      "snapshot_sha256": "6fe2f3b08861bc5255e1e4d63f788fe3ca6845dc57e6713ca1b3759b565ab974",
+      "expected_sha256": "6fe2f3b08861bc5255e1e4d63f788fe3ca6845dc57e6713ca1b3759b565ab974",
+      "original_sha256": "6fe2f3b08861bc5255e1e4d63f788fe3ca6845dc57e6713ca1b3759b565ab974",
+      "snapshot_matches": true,
+      "original_matches": true
+    },
+    {
+      "file": "inputs/production_wmean.npy",
+      "snapshot_sha256": "8c9960cd54a71af8fc96a9cc401d6f3e28f6d33551d72be029a4bd2d6ef28bb7",
+      "expected_sha256": "8c9960cd54a71af8fc96a9cc401d6f3e28f6d33551d72be029a4bd2d6ef28bb7",
+      "original_sha256": "8c9960cd54a71af8fc96a9cc401d6f3e28f6d33551d72be029a4bd2d6ef28bb7",
+      "snapshot_matches": true,
+      "original_matches": true
+    },
+    {
+      "file": "inputs/comparison_oof.csv",
+      "snapshot_sha256": "cb271b12258b657534b5ebfbb7a887cfbd361c2b8baa3a98438e53391f440702",
+      "expected_sha256": "cb271b12258b657534b5ebfbb7a887cfbd361c2b8baa3a98438e53391f440702",
+      "original_sha256": "cb271b12258b657534b5ebfbb7a887cfbd361c2b8baa3a98438e53391f440702",
+      "snapshot_matches": true,
+      "original_matches": true
+    },
+    {
+      "file": "inputs/comparison_config.json",
+      "snapshot_sha256": "18796d900dceb348e86c741a4f562b4f4af7c079ce7ba3179fd03fa78d9511f1",
+      "expected_sha256": "18796d900dceb348e86c741a4f562b4f4af7c079ce7ba3179fd03fa78d9511f1",
+      "original_sha256": "18796d900dceb348e86c741a4f562b4f4af7c079ce7ba3179fd03fa78d9511f1",
+      "snapshot_matches": true,
+      "original_matches": true
+    },
+    {
+      "file": "inference/eye_A_LR_wmean.joblib",
+      "snapshot_sha256": "d71394e691ac5072e4ce900a53b47ddbb65c8685961fe2c9536411acfbbc58a2",
+      "expected_sha256": "d71394e691ac5072e4ce900a53b47ddbb65c8685961fe2c9536411acfbbc58a2",
+      "original_sha256": "d71394e691ac5072e4ce900a53b47ddbb65c8685961fe2c9536411acfbbc58a2",
+      "snapshot_matches": true,
+      "original_matches": true
+    },
+    {
+      "file": "inference/predict.py",
+      "snapshot_sha256": "9600c6001a8c7576ddb42ca55d5802a0d736607743adf23637f6e7ef55989ee7",
+      "expected_sha256": "9600c6001a8c7576ddb42ca55d5802a0d736607743adf23637f6e7ef55989ee7",
+      "original_sha256": "9600c6001a8c7576ddb42ca55d5802a0d736607743adf23637f6e7ef55989ee7",
+      "snapshot_matches": true,
+      "original_matches": true
+    },
+    {
+      "file": "inference/metadata.json",
+      "snapshot_sha256": "4fca7229f48880ca82d03840747c644073ab4a73c8d4e958d247d6a935d254f4",
+      "expected_sha256": "4fca7229f48880ca82d03840747c644073ab4a73c8d4e958d247d6a935d254f4",
+      "original_sha256": "4fca7229f48880ca82d03840747c644073ab4a73c8d4e958d247d6a935d254f4",
+      "snapshot_matches": true,
+      "original_matches": true
+    },
+    {
+      "file": "inference/feature_names.json",
+      "snapshot_sha256": "1500757e4264c4989e46688c296f5a5621d87d47412f91fd4ed19ee9a9c4f38a",
+      "expected_sha256": "1500757e4264c4989e46688c296f5a5621d87d47412f91fd4ed19ee9a9c4f38a",
+      "original_sha256": "1500757e4264c4989e46688c296f5a5621d87d47412f91fd4ed19ee9a9c4f38a",
+      "snapshot_matches": true,
+      "original_matches": true
+    },
+    {
+      "file": "inputs/prior_external_audit.json",
+      "snapshot_sha256": "f1210e1c47ccd3a22bb24f1c754eaabf8b5a5761e5f411608cb0ad2d04c398f8",
+      "expected_sha256": "f1210e1c47ccd3a22bb24f1c754eaabf8b5a5761e5f411608cb0ad2d04c398f8",
+      "original_sha256": "f1210e1c47ccd3a22bb24f1c754eaabf8b5a5761e5f411608cb0ad2d04c398f8",
+      "snapshot_matches": true,
+      "original_matches": true
+    },
+    {
+      "file": "inputs/cir_ingredients_candidate_list.csv",
+      "snapshot_sha256": "ec28b1aea5c0cbf6030b43e6da1059fe8b47a5ce0c88415e8765942dfbc18612",
+      "expected_sha256": "ec28b1aea5c0cbf6030b43e6da1059fe8b47a5ce0c88415e8765942dfbc18612",
+      "original_sha256": null,
+      "snapshot_matches": true,
+      "original_matches": null
+    }
+  ],
+  "original_files_unchanged": true,
+  "scope": "Original files under the final directory; baseline excludes the newly created analysis folder.",
+  "model_unchanged": true,
+  "scientific_checks": {
+    "model_sha256": "d71394e691ac5072e4ce900a53b47ddbb65c8685961fe2c9536411acfbbc58a2",
+    "threshold": 0.4814867474694138,
+    "case_count": 3,
+    "total_scenarios": 24576,
+    "exact_formula_pipeline_max_abs_error": 1.1102230246251565e-16,
+    "all_component_features_finite": true,
+    "all_scenarios_within_reported_bounds": true,
+    "all_scenarios_mass_feasible": true,
+    "all_scenarios_within_exact_score_bounds": true,
+    "two_component_dense_grid_consistent": true,
+    "fully_structure_resolved_cases": 0,
+    "conditional_partial_representation_cases": 3,
+    "model_refit": false,
+    "threshold_refit": false,
+    "external_cosmetic_validation": false
+  }
+}

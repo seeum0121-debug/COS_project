@@ -1,0 +1,12 @@
+﻿document_id,title,raw_name,cas,lower_fraction,upper_fraction,represented,smiles,omission_reason,reference_fraction,reference_basis
+277977,Body Spray,"Castor oil, hydrogenated, ethoxylated",61788-85-0,0.01,0.05,False,,Ethoxylated hydrogenated castor oil is a distributed mixture; no single structure is assigned.,0.02000000000000003,midpoint_projected_to_mass_constraint_assumption
+277977,Body Spray,Ethyl Alcohol,64-17-5,0.1,0.3,True,CCO,,0.19000000000000003,midpoint_projected_to_mass_constraint_assumption
+277977,Body Spray,water,7732-18-5,0.6,1.0,True,O,,0.79,midpoint_projected_to_mass_constraint_assumption
+281340,Nail Polish,butyl acetate,123-86-4,0.2,0.3,True,CCCCOC(=O)C,,0.25,midpoint_assumption
+281340,Nail Polish,ethyl acetate,141-78-6,0.25,0.45,True,CCOC(=O)C,,0.35,midpoint_assumption
+281340,Nail Polish,isopropanol,67-63-0,0.03,0.17,True,CC(C)O,,0.1,midpoint_assumption
+281340,Nail Polish,nitrocellulose,9004-70-0,0.03,0.17,False,,Nitrocellulose is a polymer of unspecified chain length/nitration; no surrogate structure.,0.1,midpoint_assumption
+277611,Bath Fizz,citric acid,77-92-9,0.2,0.25,True,C(C(=O)O)C(CC(=O)O)(C(=O)O)O,,0.225,midpoint_assumption
+277611,Bath Fizz,nonoxynol-10,9016-45-9,0.0015,0.003,False,,Nonoxynol-10 is a distributed ethoxylated mixture; no single structure is assigned.,0.0022500000000000003,midpoint_assumption
+277611,Bath Fizz,sodium hydrogen carbonate powder,144-55-8,0.5,0.55,True,C(=O)(O)[O-].[Na+],,0.525,midpoint_assumption
+277611,Bath Fizz,sodium sulfate,7757-82-6,0.2,0.25,True,[O-]S(=O)(=O)[O-].[Na+].[Na+],,0.225,midpoint_assumption

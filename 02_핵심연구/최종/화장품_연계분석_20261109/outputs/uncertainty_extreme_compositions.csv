@@ -1,0 +1,17 @@
+﻿document_id,bound,cas,amount,normalized_weight,score,omitted_total_lower,omitted_note
+277977,min,64-17-5,0.3,0.33333333333333337,0.6181744920413554,0.01,Endpoint feasibility uses omitted lower bounds; unknown remainder is not featurized
+277977,min,7732-18-5,0.6,0.6666666666666667,0.6181744920413554,0.01,Endpoint feasibility uses omitted lower bounds; unknown remainder is not featurized
+277977,max,64-17-5,0.1,0.10101010101010102,0.6270206594712527,0.01,Endpoint feasibility uses omitted lower bounds; unknown remainder is not featurized
+277977,max,7732-18-5,0.89,0.898989898989899,0.6270206594712527,0.01,Endpoint feasibility uses omitted lower bounds; unknown remainder is not featurized
+281340,min,123-86-4,0.2,0.29411764705882354,0.5796492419262003,0.03,Endpoint feasibility uses omitted lower bounds; unknown remainder is not featurized
+281340,min,141-78-6,0.45,0.6617647058823529,0.5796492419262003,0.03,Endpoint feasibility uses omitted lower bounds; unknown remainder is not featurized
+281340,min,67-63-0,0.03,0.044117647058823525,0.5796492419262003,0.03,Endpoint feasibility uses omitted lower bounds; unknown remainder is not featurized
+281340,max,123-86-4,0.3,0.41666666666666663,0.5888407466600294,0.03,Endpoint feasibility uses omitted lower bounds; unknown remainder is not featurized
+281340,max,141-78-6,0.25,0.34722222222222215,0.5888407466600294,0.03,Endpoint feasibility uses omitted lower bounds; unknown remainder is not featurized
+281340,max,67-63-0,0.17,0.2361111111111111,0.5888407466600294,0.03,Endpoint feasibility uses omitted lower bounds; unknown remainder is not featurized
+277611,min,77-92-9,0.25,0.2631578947368421,0.582437583067362,0.0015,Endpoint feasibility uses omitted lower bounds; unknown remainder is not featurized
+277611,min,144-55-8,0.5,0.5263157894736842,0.582437583067362,0.0015,Endpoint feasibility uses omitted lower bounds; unknown remainder is not featurized
+277611,min,7757-82-6,0.2,0.2105263157894737,0.582437583067362,0.0015,Endpoint feasibility uses omitted lower bounds; unknown remainder is not featurized
+277611,max,77-92-9,0.2,0.2105263157894737,0.5839090604070626,0.0015,Endpoint feasibility uses omitted lower bounds; unknown remainder is not featurized
+277611,max,144-55-8,0.55,0.5789473684210527,0.5839090604070626,0.0015,Endpoint feasibility uses omitted lower bounds; unknown remainder is not featurized
+277611,max,7757-82-6,0.2,0.2105263157894737,0.5839090604070626,0.0015,Endpoint feasibility uses omitted lower bounds; unknown remainder is not featurized

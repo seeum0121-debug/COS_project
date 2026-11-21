@@ -1,0 +1,148 @@
+{
+  "generated": "2026-11-09",
+  "model_identity": null,
+  "threshold": 0.4814867474694138,
+  "primary_endpoint": "Spearman rank correlation (model score vs zein number)",
+  "endpoint_caveat": "zein number는 in vitro 단백질 변성 지표로 EPA 눈자극 등급과 동일한 엔드포인트가 아니다. 분류 성능은 1차 결과가 아니다.",
+  "n_raw_rows": 205,
+  "n_unique_formulations": 66,
+  "n_analysis_units": 163,
+  "n_surfactants": 22,
+  "concentration_strata": [
+    0.5,
+    1.0,
+    2.0
+  ],
+  "results": [
+    {
+      "concentration_pct": 0.5,
+      "tier": "all",
+      "n": 60,
+      "spearman": -0.1496,
+      "p_value": 0.254,
+      "ci_low": -0.3761,
+      "ci_high": 0.1022,
+      "n_unique_scores": 59
+    },
+    {
+      "concentration_pct": 0.5,
+      "tier": "Tier1_single",
+      "n": 20,
+      "spearman": 0.1783,
+      "p_value": 0.452,
+      "ci_low": -0.2456,
+      "ci_high": 0.5238,
+      "n_unique_scores": 19
+    },
+    {
+      "concentration_pct": 0.5,
+      "tier": "Tier2_mixture",
+      "n": 40,
+      "spearman": -0.3445,
+      "p_value": 0.0295,
+      "ci_low": -0.6117,
+      "ci_high": -0.0299,
+      "n_unique_scores": 40
+    },
+    {
+      "concentration_pct": 1.0,
+      "tier": "all",
+      "n": 66,
+      "spearman": -0.1001,
+      "p_value": 0.424,
+      "ci_low": -0.3414,
+      "ci_high": 0.1582,
+      "n_unique_scores": 64
+    },
+    {
+      "concentration_pct": 1.0,
+      "tier": "Tier1_single",
+      "n": 22,
+      "spearman": 0.1667,
+      "p_value": 0.459,
+      "ci_low": -0.2513,
+      "ci_high": 0.5476,
+      "n_unique_scores": 20
+    },
+    {
+      "concentration_pct": 1.0,
+      "tier": "Tier2_mixture",
+      "n": 44,
+      "spearman": -0.2161,
+      "p_value": 0.159,
+      "ci_low": -0.5032,
+      "ci_high": 0.1077,
+      "n_unique_scores": 44
+    },
+    {
+      "concentration_pct": 2.0,
+      "tier": "all",
+      "n": 37,
+      "spearman": -0.1394,
+      "p_value": 0.411,
+      "ci_low": -0.4701,
+      "ci_high": 0.2182,
+      "n_unique_scores": 37
+    },
+    {
+      "concentration_pct": 2.0,
+      "tier": "Tier1_single",
+      "n": 18,
+      "spearman": -0.0671,
+      "p_value": 0.791,
+      "ci_low": -0.5462,
+      "ci_high": 0.4727,
+      "n_unique_scores": 18
+    },
+    {
+      "concentration_pct": 2.0,
+      "tier": "Tier2_mixture",
+      "n": 19,
+      "spearman": -0.3702,
+      "p_value": 0.119,
+      "ci_low": -0.7562,
+      "ci_high": 0.1573,
+      "n_unique_scores": 19
+    },
+    {
+      "concentration_pct": "pooled",
+      "tier": "all",
+      "n": 163,
+      "spearman": -0.1722,
+      "p_value": 0.0279,
+      "ci_low": -0.3146,
+      "ci_high": -0.0177,
+      "n_unique_scores": 64
+    },
+    {
+      "concentration_pct": "pooled",
+      "tier": "Tier1_single",
+      "n": 60,
+      "spearman": 0.0623,
+      "p_value": 0.636,
+      "ci_low": -0.181,
+      "ci_high": 0.3097,
+      "n_unique_scores": 20
+    },
+    {
+      "concentration_pct": "pooled",
+      "tier": "Tier2_mixture",
+      "n": 103,
+      "spearman": -0.3435,
+      "p_value": 0.000381,
+      "ci_low": -0.5079,
+      "ci_high": -0.1565,
+      "n_unique_scores": 44
+    }
+  ],
+  "training_overlap": {
+    "n_overlapping_surfactants": 1,
+    "overlapping": [
+      "Sodium lauryl sulfate"
+    ]
+  },
+  "source_sha256": "934be014b5e364bf4e5470b8824a12b3788405235bd6ebd2698ea8ad252a0a44",
+  "model_sha256": "d71394e691ac5072e4ce900a53b47ddbb65c8685961fe2c9536411acfbbc58a2",
+  "bootstrap_iterations": 10000,
+  "seed": 20261109
+}

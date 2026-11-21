@@ -1,0 +1,30 @@
+{
+  "source_rows": 1472,
+  "unique_documents": 140,
+  "source_files": {
+    "chemexpo_eye.csv": {
+      "rows": 175,
+      "documents": 21
+    },
+    "chemexpo_personal_care.csv": {
+      "rows": 1297,
+      "documents": 121
+    }
+  },
+  "product_status_counts": {
+    "primary_cosmetic": 77,
+    "outside_study_scope": 35,
+    "supplementary_title_only": 11,
+    "unresolved_product": 9,
+    "excluded_industrial": 8
+  },
+  "primary_cosmetic_records": 874,
+  "invalid_nonmissing_curated_cas": 9,
+  "raw_curated_identity_disagreements": 107,
+  "nonwater_cosmetic_cas": 190,
+  "nonwater_cosmetic_cas_in_original_evaluation": 7,
+  "original_evaluation_rows": 606,
+  "augmentation_training_only_rows": 67,
+  "label_use": "Only original EPA evaluation labels in saved held-out predictions. No CIR-derived labels.",
+  "inference": "Shared ingredient CAS indicates ingredient-use overlap, not cosmetic product domain validation."
+}

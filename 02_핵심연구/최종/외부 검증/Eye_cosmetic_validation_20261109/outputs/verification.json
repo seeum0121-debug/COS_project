@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "source_blob_hashes_verified": true,
+  "training_snapshot_hashes_verified": true,
+  "frozen_threshold_verified": true,
+  "model_unchanged": true,
+  "locked_environment_verified": true,
+  "saved_model_regression_fixtures": 6,
+  "source_rows_accounted_for": true,
+  "no_fit_called": true,
+  "grouped_metrics_account_for_shared_registration": true
+}

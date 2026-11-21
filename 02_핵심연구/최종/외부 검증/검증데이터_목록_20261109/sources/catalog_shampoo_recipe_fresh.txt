@@ -1,0 +1,448 @@
+US4992266A - Reducing the ocular irritancy of anionic shampoos - Google Patents (https://patents.google.com/patent/US4992266A/en)
+citeturn43view0 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: open({"ref_id":"https://patents.google.com/patent/US4992266A/en","lineno":null}); Total lines: 762
+L0: # US4992266A - Reducing the ocular irritancy of anionic shampoos - Google Patents
+L1: 
+L2: Reducing the ocular irritancy of anionic shampoos 【0†Download PDF†patentimages.storage.googleapis.com】
+L3: ## Info
+L4: Publication number
+L5:     US4992266A
+L6: US4992266A US07/393,438 US39343889A US4992266A US 4992266 A US4992266 A US 4992266A US 39343889 A US39343889 A US 39343889A US 4992266 A US4992266 A US 4992266A Authority
+L7:     US
+L8:     United States
+L9: Prior art keywords
+L10:     homopolymer
+L11:     weight
+L12:     molecular weight
+L13:     ocular
+L14:     ethylene oxide
+L15: Prior art date
+L16:     1989-08-14
+L17: Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)
+L18:     Expired - Fee Related
+L19: Application number
+L20:     US07/393,438
+L21: Inventor
+L22:     Donald W Knoll
+L23: Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)
+L24:     Schwarzkopf and DEP Corp
+L25: Original Assignee
+L26:     SC Johnson and Son Inc
+L27: Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+L28:     1989-08-14
+L29: Filing date
+L30:     1989-08-14
+L31: Publication date
+L32:     1991-02-12
+L33:     1989-08-14 Application filed by SC Johnson and Son Inc filed Critical SC Johnson and Son Inc
+L34:     1989-08-14 Priority to US07/393,438 priority Critical patent/US4992266A/en
+L35:     1989-08-14 Assigned to S.C. JOHNSON & SON reassignment S.C. JOHNSON & SON ASSIGNMENT OF ASSIGNORS INTEREST. Assignors: KNOLL, DONALD W.
+L36:     1990-08-10 Priority to AU61704/90A priority patent/AU6170490A/en
+L37:     1990-08-10 Priority to PCT/US1990/004513 priority patent/WO1991002509A1/en
+L38:     1991-02-12 Application granted granted Critical
+L39:     1991-02-12 Publication of US4992266A publication Critical patent/US4992266A/en
+L40:     1993-08-09 Assigned to DEP CORPORATION reassignment DEP CORPORATION ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS). Assignors: OVERSEAS DIVERSIFIED, INC.
+L41:     1993-08-09 Assigned to OVERSEAS DIVERSIFIED, INC. reassignment OVERSEAS DIVERSIFIED, INC. ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS). Assignors: S.C. JOHNSON & SON, INC.
+L42:     2009-08-14 Anticipated expiration legal-status Critical
+L43:     Status Expired - Fee Related legal-status Critical Current
+L44: ## Links
+L45: 
+L46:   * 【1†USPTO†patft.uspto.gov】
+L47:   * 【2†USPTO PatentCenter†patentcenter.uspto.gov】
+L48:   * 【3†USPTO Assignment†assignment.uspto.gov】
+L49:   * 【4†Espacenet†worldwide.espacenet.com】
+L50:   * 【5†Global Dossier†globaldossier.uspto.gov】
+L51:   * 【6†Discuss†patents.stackexchange.com】
+L52:   * 239000002453 shampoo Substances 0.000 title claims abstract description 35
+L53:   * 125000000129 anionic group Chemical group 0.000 title 1
+L54:   * 239000000203 mixture Substances 0.000 claims abstract description 63
+L55:   * 229920001519 homopolymer Polymers 0.000 claims abstract description 36
+L56:   * IAYPIBMASNFSPL-UHFFFAOYSA-N Ethylene oxide Chemical group C1CO1 IAYPIBMASNFSPL-UHFFFAOYSA-N 0.000 claims abstract description 32
+L57:   * 239000003945 anionic surfactant Substances 0.000 claims abstract description 24
+L58:   * 230000000622 irritating effect Effects 0.000 claims abstract description 11
+L59:   * 150000008051 alkyl sulfates Chemical class 0.000 claims abstract description 10
+L60:   * 239000004094 surface-active agent Substances 0.000 claims description 19
+L61:   * 238000000034 method Methods 0.000 claims description 18
+L62:   * XLYOFNOQVPJJNP-UHFFFAOYSA-N water Substances O XLYOFNOQVPJJNP-UHFFFAOYSA-N 0.000 claims description 14
+L63:   * 230000007794 irritation Effects 0.000 claims description 13
+L64:   * 239000000654 additive Substances 0.000 claims description 9
+L65:   * 239000012188 paraffin wax Substances 0.000 claims description 7
+L66:   * 150000003871 sulfonates Chemical class 0.000 claims description 6
+L67:   * JRZJOMJEPLMPRA-UHFFFAOYSA-N olefin Natural products CCCCCCCC=C JRZJOMJEPLMPRA-UHFFFAOYSA-N 0.000 claims description 5
+L68:   * 230000000996 additive effect Effects 0.000 claims description 4
+L69:   * 150000004996 alkyl benzenes Chemical class 0.000 claims description 4
+--------------------------------------------------------------------------------
+US EPA, Pesticide Product Label, PYROCIDE FLEA & TICK SHAMPOO 51921, 12/24/2013 (https://www3.epa.gov/pesticides/chem_search/ppls/001021-01723-20131224.pdf)
+citeturn43view1 [wordlim: 200] Crawled: last month; Content type: application/pdf; Number of pages: 5; Source: find({"ref_id":"turn42view0","pattern":"Causes skin"}); Total lines: 324
+L193@P3: [*Step 3: Spot-On Spray]
+L194@P3: [*Step 4: Yard & Kennel Spray]
+L195@P3: [RIP] [Money Back Guarantee]
+L196@P3: ACTIVE INGREDIENTS:
+L197@P3: Pyrethrins
+L198@P3: *Piperonyl butoxide, Technical
+L199@P3: "N-Octyl bicycloheptene dicarboximide
+L200@P3: OTHER INGREDIENTS
+L201@P3: [Kills Fleas and Ticks with Pyrethrum, Piperonyl Butoxide, and
+L202@P3: MGK® 264]
+L207@P3: [Kills Fleas and Ticks on contact]
+L208@P3: [Leaves pet smelling fresh and clean]
+L209@P3: [Leaves no sticky residue on your(oet]
+L210@P3: [Leaves pet's coat shiny clean] c r. ?
+L211@P3: [Cleans and conditions pet's coatf
+L212@P3:  r
+L213@P3: t
+L214@P3: r (
+L215@P3: c e
+L216@P3: '- C <
+L217@P3: (
+L218@P3: . c
+L219@P3: c r c f
+L220@P3: r c
+L221@P3: c c c r .
+L222@P3: 0.150%
+L223@P3: 0.300%
+L224@P3: 0.479%
+L225@P3: 99.071%
+L226@P3: 100.000%
+L227@P3: f C I, C f
+L228@P3: * Equivalent to 0.240% (butylcarbityl) (6-propylpiperonyl) ether and 0.060% related
+L229@P3: compounds
+L230@P3: "MGK 264 Insecticide Synergist
+L231@P3: PYROCIDE® and MGK* - Registered trademarks of McLaughlin Gormley King Company
+L232@P3: KEEP OUT OF REACH OF CHILDREN
+L233@P3: WARNING
+L234@P3: FIRST AID
+L235@P3: IF IN EYES:
+L236@P3: IF ON SKIN OR CLOTHING:
+L237@P3: IF INHALED:
+L238@P3: Hold eye open and rinse slowly and gently with water for 15-20 minutes.
+L239@P3: Remove contact lenses, if present, after the first 5 minutes, then continue rinsing eyes.
+L240@P3: Call a poison control center or doctor for treatment advice.
+L241@P3: Take off contaminated clothing.
+L242@P3: Rinse skin immediately with plenty of water for 15-20 minutes.
+L243@P3: Call a poison control center or doctor for treatment advice.
+L244@P3: Move person to fresh air.
+L245@P3: If person is not breathing, call 91 1 or an ambulance. Then give artificial respiration, preferably mouth-to-mouth if
+L246@P3: possible.
+L247@P3: • Call a poison control center or doctor for further treatment advice.
+L248@P3: Have the product container or label with you when calling a poison control center or doctoror going for treatment. For information regarding medical
+L249@P3: emergencies or pesticide incidents, call 1-888-740-8712.
+L250@P3: Manufactured by
+L251@P3: MGK
+L252@P3: 8810 Tenth Avenue North
+L253@P3: Minneapolis, MN 55427
+L254@P3: DEC 2 4 2013
+L255@P3: EPA Reg. No. 1021-1723
+L256@P3: Net Contents:
+L257@P3: EPAEst. No. 1021-MN-2
+L258@P3: PRECAUTIONARY STATEMENTS
+L259@P3: HAZARDS TO HUMANS AND DOMESTIC ANIMALS
+L260@P3: WARNING
+L261@P3: Causes substantial but temporary eye injury. Causes skin irritation. Do not get in eyes, on skin, or clothing. Harmful if inhaled. Avoid breathing
+L262@P3: product vapor. If available, wear protective eyewear such as goggles or safety glasses. Wear gloves made out of any water proof material. Wash
+L263@P3: thoroughly with soap and water after handling and before eating, drinking, chewing gum, using tobacco, or using the toilet. Remove and wash
+L264@P3: contaminated clothing before reuse.
+L265@P3: PHYSICAL OR CHEMICAL HAZARDS
+L266@P3: Combustible. Do not use or store near heat or open flame.
+L267@P3-4: 51921_1021-1723_1113 Page 1 of 2DIRECTIONS FOR USE
+L268@P4: It is a violation of Federal Law to use this product
+L269@P4: in a manner inconsistent with its labeling.
+L270@P4: READ ENTIRE LABEL BEFORE EACH USE. USE ONLY ON HORSES, FERRETS, DOGS, and CATS. Follow all precautions and directions.
+L271@P4: [SHAKE WELL BEFORE USE]
+L272@P4: For use on Horses, Ferrets, Dogs, Cats, Puppies^and Kittens over the age of 12 weeks for control of Fleas and Ticks. Do not repeat treatment for 7
+L273@P4: "days. "DoTiot use on puppies and kittens under 12 weeks. Consult a veterinarian before using this product on debilitated, aged, pregnant, orfiursing
+L274@P4: animals. Sensitivities may occur using any pesticide product for pets. If signs of sensitivity occur, bathe your pet with mild soap and rinse with large
+L275@P4: amounts of water. If signs continue, consult a veterinarian immediately. r < t
+L276@P4: r crc ( r
+L277@P4: c •
+L278@P4: HOW TO USE: Wet the animal's coat for 2-3 minutes with warm water. Apply shampoo on head and ears and lather. Then repeatcprocedure with
+L279@P4: neck, chest, and middle and hindquarters, finishing legs last and paying special attention to the footpads (between the toes) and uoderboe'y aVeas.
+L280@P4: Wash the head and ear areas carefully, making sure to keep the shampoo out of the animal's eyes. NOTE: A drop tof glycerin in eachce
+L281@P4: r
+L282@P4: ye before
+L283@P4: bathing may prevent or reduce irritation if the shampoo gets in the animal's eyes. Pay special attention to the base:.of'tSeTail,-as it is a'place
+L284@P4: frequented by fleas. Fully lather animal and let lather remain on animal for 5 minutes before rinsing thoroughly with* water/'NOTE^TlTis^final step is an
+L285@P4: important part of grooming procedure. tcrcr r c<r,- r ,
+L286@P4: For small dogs and cats less than 15 pounds, wrapping the animal in a towel for several minutes to absorb moistur°-ir.revised. This'alsc wil^allow
+L287@P4: dying fleas and ticks to crawl off animal into towel before drying animal with a towel or blow dryer. < c c t c '' •
+L288@P4: Flea and tick control on the animal is only part of the solution to the problem. The inside of the house and the outdoor area usedjb^ttje'ranimal must
+L289@P4: also be treated for complete control.
+L290@P4:  c
+L291@P4: <• c
+L292@P4: STORAGE AND DISPOSAL <•><•< •
+L293@P4: Do not contaminate water, food, or feed by storage and disposal.
+L294@P4: Pesticide Storage:
+L295@P4: Store in a cool dry area. Always store pesticides in the original container. Store away from food and pet food.-
+L296@P4: Pesticide Disposal and Container Handling:
+L297@P4: Nonrefillable container. Do not'reuse or refill this container.
+L298@P4: If empty:
+L299@P4: Place in trash or offer for recycling if available.
+L300@P4: If partly filled:
+L301@P4: Call your local solid waste agency for disposal instructions. Never place unused product down any indoor or outdoor drain.
+L302@P4: [Optional storage and disposal for containers larger than 5 gallon capacity:]
+L303@P4: STORAGE AND DISPOSAL
+L304@P4: Do not contaminate water,' food or feed by storage and disposal.
+L305@P4: PESTICIDE STORAGE: Store in a cool, dry place. Keep container closed.
+L306@P4: PESTICIDE DISPOSAL: Wastes resulting from the use of this product may be disposed of on site or at an approved waste disposal facility.
+L307@P4: CONTAINER HANDLING & DISPOSAL:
+L308@P4: CONTAINERS LARGER THAN 5 GALLON CAPACITY: Empty the remaining contents into the application equipment or a mix tank. Fill the
+L309@P4: container
+L310@P4:  1/4 full with water. Replace and tighten closures. Tip container on its side and roll it back and forth, ensuring at least one complete
+--------------------------------------------------------------------------------
+US EPA - Label Review Manual (https://www.epa.gov/sites/production/files/documents/label-review-manual.pdf)
+citeturn43view2 [wordlim: 200] Crawled: 5 days ago; Content type: application/pdf; Number of pages: 265; Source: find({"ref_id":"turn42view2","pattern":"Table 7."}); Total lines: 9315
+L2355@P74: to use category III labeling.
+L2356@P74-75: * Choose the word which appropriately describes the product during use. Label Review Manual
+L2357@P75: Chapter 7: Precautionary Statements 7-8
+L2358@P75: Table 6. Typical Statements for Primary Eye Irritation
+L2359@P75: Toxicity
+L2360@P75: Category
+L2361@P75: Signal Word Statements
+L2362@P75: I DANGER Corrosive.* Causes irreversible eye damage. Do not get in eyes or
+L2363@P75: on clothing. Wear (specify appropriate protective eyewear such as
+L2364@P75: goggles, face shield, or safety glasses). Wash thoroughly with soap
+L2365@P75: and water after handling and before eating, drinking, chewing gum,
+L2366@P75: using tobacco or using the toilet. Remove and wash contaminated
+L2367@P75: clothing before reuse.
+L2368@P75: II WARNING Causes substantial but temporary eye injury. Do not get in eyes or
+L2369@P75: on clothing. Wear (specify appropriate protective eyewear such as
+L2370@P75: goggles, face shield, or safety glasses). Wash thoroughly with soap
+L2371@P75: and water after handling and before eating, drinking, chewing gum,
+L2372@P75: using tobacco or using the toilet. Remove and wash contaminated
+L2373@P75: clothing before reuse.
+L2374@P75: III CAUTION Causes moderate eye irritation. Avoid contact with eyes or clothing.
+L2375@P75: Wear (specify protective eyewear, if appropriate). Wash thoroughly
+L2376@P75: with soap and water after handling and before eating, drinking,
+L2377@P75: chewing gum, using tobacco or using the toilet.
+L2378@P75: IV CAUTION
+L2379@P75: (optional)
+L2380@P75: No statements are required. However, the registrant may choose to
+L2381@P75: use category III labeling.
+L2382@P75: *The term “corrosive” is not required if corrosive effects were not observed during the study.
+L2383@P75: Table 7. Typical Statements for Primary Skin Irritation
+L2384@P75: Toxicity
+L2385@P75: Category
+L2386@P75: Signal Word Statements
+L2387@P75: I DANGER Corrosive. Causes skin burns. Do not get in eyes, on skin, or on
+L2388@P75: clothing. Wear (specify appropriate protective clothing and gloves).
+L2389@P75: Wash thoroughly with soap and water after handling and before
+L2390@P75: eating, drinking, chewing gum, using tobacco or using the toilet.
+L2391@P75: Remove and wash contaminated clothing before reuse.
+L2392@P75: II WARNING Causes skin irritation. Do not get on skin or on clothing. Wear
+L2393@P75: (specify appropriate protective clothing and gloves). Wash
+L2394@P75: thoroughly with soap and water after handling and before eating,
+L2395@P75: drinking, chewing gum, using tobacco or using the toilet. Remove
+L2396@P75: and wash contaminated clothing before reuse.
+L2397@P75: III CAUTION Avoid contact with skin or clothing. Wash thoroughly with soap and
+L2398@P75: water after handling and before eating, drinking, chewing gum,
+L2399@P75: using tobacco or using the toilet. Wear (specify protective clothing
+L2400@P75: and gloves, if appropriate).
+L2401@P75: IV CAUTION
+L2402@P75: (optional)
+L2403@P75: No statements are required. However, the registrant may choose to
+L2404@P75-76: use category III labeling.Label Review Manual
+L2405@P76: Chapter 7: Precautionary Statements 7-9
+L2406@P76: Table 8. Typical Statements for Dermal Sensitization*
+L2407@P76: Study Results Statement
+L2408@P76: Product is a sensitizer or is positive for
+L2409@P76: sensitization
+L2410@P76: Prolonged or frequently repeated skin contact may
+L2411@P76: cause allergic reactions in some individuals.
+L2412@P76: Product is not a sensitizer or is negative
+L2413@P76: for sensitization
+L2414@P76: No labeling is required for this result.
+L2415@P76: *A positive dermal sensitization study for a category IV product does not trigger a PPE requirement.
+L2416@P76: E. Personal Protective Equipment (PPE)
+L2417@P76: PPE requirements are specified for uses covered under the Worker Protection Standard
+L2418@P76: (WPS), but there are no regulatory requirements for non-WPS products, products used by
+L2419@P76: residents, or products intended only for manufacturing use. However, to protect human
+L2420@P76: health, the following guidance is offered.
+L2421@P76: 1. For Non-WPS (Industrial/Commercial) Uses. While there are no regulatory
+L2422@P76: requirements that demand PPE for non-WPS products, many states test applicators for
+L2423@P76: their comprehension regarding what types of PPE are used and how to use it correctly,
+L2424@P76: however, this training and testing is normally only done for users of RUPs, not
+L2425@P76: unclassified pesticides. Label reviewers should ensure that adequate, understandable
+L2426@P76: language regarding the types of PPE that should be worn for the product’s hazards is
+L2427@P76: included in any label, whether RUP or unclassified. In cases where the reviewers
+L2428@P76: determine PPE would be necessary, the various PPE tables in Chapter 10 provide
+L2429@P76: information about which PPE is protective in specific circumstances. If there is an
+L2430@P76: applicable regulatory document which specifies PPE requirements based on concerns
+L2431@P76: specific to the active ingredient then those PPE requirements must be placed on the
+L2432@P76: label.
+L2433@P76: 2. For Products used by Residents/Consumers. In order to protect human health, label
+L2434@P76: reviewers should review the toxicity data and the product’s uses to determine whether
+L2435@P76: PPE would be necessary to meet the standards for registration. In cases where the
+L2436@P76: reviewers determine PPE would be necessary, the PPE tables in Chapter 10 provide
+L2437@P76: information about which PPE is protective in specific circumstances. In some cases, the
+L2438@P76: PPE indicated in these tables may need to be modified; for example, to fit the
+L2439@P76: consumer’s ability to acquire it. For example, “shoes” may need to be substituted for
+L2440@P76: “chemical resistant footwear” or “safety glasses” may need to be substituted for
+L2441@P76: “protective eyewear”. If there is an applicable regulatory document which specifies PPE
+L2442@P76: requirements based on concerns specific to the active ingredient then those PPE
+L2443@P76-77: requirements must be placed on the label. Label Review Manual
+L2444@P77: Chapter 7: Precautionary Statements 7-10
+L2445@P77: F. First Aid Statements
+L2446@P77: 1. When Required. A First Aid statement is required when any acute toxicity study result
+L2447@P77: is classified as category I, II, or III. It is acceptable, but not required, for the registrant to
+L2448@P77: include First Aid statements for products that are classified as category IV.
+L2449@P77: 2. Appropriate Headers. The first aid statements appear under either of the following
+L4038@P118: Time limitations: Use
+L4039@P118: and reuse of N-series
+L4040@P118: filters would be subject
+L4041@P118: only to considerations of
+L4042@P118: hygiene, damage and
+L4043@P118: increased breathing
+L4044@P118: resistance.
+L4045@P118: (See manufacturer’s
+L4046@P118: recommendations, and
+L4047@P118: the Use Limitation
+L4048@P118: R95/ R99/ R100
+L4049@P118: section within PR Notice
+L4050@P118: 98-9 for guidance on
+L4051@P118: determining whether a
+L4052@P118: respirator filter can still
+L4053@P118: function after a particular
+L4054@P118: exposure).
+L4055@P118: Oil-resistant.
+L4056@P118: May be used for solid &
+L4057@P118: liquid particulate hazards.
+L4058@P118: Time limitations: The Rseries filters should be
+L4059@P118: used only for a single shift
+L4060@P118: (or for 8 hours of
+L4061@P118: continuous or intermittent
+L4062@P118: use) when oil is present.
+L4063@P118: (See manufacturer’s
+L4064@P118: recommendations, and the
+L4065@P118: Use Limitation
+L4066@P118: P95/ P99/ P100
+L4067@P118: section
+L4068@P118: within PR Notice 98-9 for
+L4069@P118: guidance on determining
+L4070@P118: whether a respirator filter
+L4071@P118: can still function after a
+L4072@P118: particular exposure).
+L4073@P118: Oil-proof
+L4074@P118: May be used for solid &
+L4075@P118: liquid particulate hazards.
+L4076@P118: Time limitations: Use and
+L4077@P118: reuse of the P-series filters
+L4078@P118: would be subject to the
+L4079@P118: manufacturer’s
+L4080@P118: recommendation Repeated
+L4081@P118: exposures may degrade the
+L4082@P118: filter below its rated
+L4083@P118: efficiency. (See
+L4084@P118: manufacturer’s
+L4085@P118: recommendation and the
+L4086@P118: Use Limitation section within
+L4087@P118: PR Notice 98-9 for guidance
+L4088@P118: on determining whether a
+L4089@P118: respirator filter can still
+L4090@P118: function after a particular
+L4091@P118: exposure).
+L4092@P118: 5. Compare Product-Specific PPE with PPE Required by the Regulatory Assessment
+L4093@P118: Document. After completing sections 1 through 4 above and identifying the handler
+L4094@P118: PPE based on the product-specific acute toxicity data, the reviewer should now consider
+L4095@P118: the PPE required by the regulatory assessment document for the active ingredient (such
+L4096@P118: as a RED), if one has been published. A combination of the most protective PPE
+L4097@P118: specified in the Acute Toxicity Review (or derived from sections 1 through 4 above)
+L4098@P118: and the regulatory assessment document must be used to determine the appropriate
+L4099@P118: product labeling. For guidance on which PPE is considered more protective, consult
+L4100@P118: Table 7.
+L4101@P118: Note: All end-use occupational use products (WPS or non-WPS) must have the
+L4102@P118-119: minimum baseline handler PPE of long-sleeved shirt, long pants and socks and shoes. Label Review Manual
+L4103@P119: Chapter 10: Worker Protection Labeling 10-13
+L4104@P119: Table 7. Guide to Selecting the Most Protective Handler PPE Level of Protection
+L4105@P119: Type of PPE Minimum
+L4106@P119: Required
+L4107@P119: Next Highest
+L4108@P119: Level of
+L4109@P119: Protection
+L4110@P119: Next Highest
+L4111@P119: Level of
+L4112@P119: Protection
+L4113@P119: Highest Level of
+L4114@P119: Protection
+L4115@P119: Protective
+L4116@P119: Clothing
+L4117@P119: Long-sleeved shirt
+L4118@P119: and long pants
+L4119@P119: Coveralls over
+L4120@P119: short-sleeved
+L4121@P119: shirt and short
+L4122@P119: pants
+L4123@P119: Coveralls over
+L4124@P119: long-sleeved shirt
+L4125@P119: and long pants
+L4126@P119: Chemical
+L4127@P119: Resistant Suit
+L4128@P119: Protective
+L4129@P119: Footwear
+L4130@P119: Socks and Shoes Chemical -
+L4131@P119: resistant footwear
+L4132@P119: Chemicalresistant bootsNA
+L4133@P119: Gloves None Chemicalresistant glovesNA NA
+L4134@P119: Protective
+L4135@P119: Headwear
+L4136@P119: None Chemicalresistant
+L4137@P119: headgear
+L4138@P119: NA NA
+L4139@P119: Chemical
+L4140@P119: resistant Apron
+L4141@P119: None Chemicalresistant apron
+L4142@P119: worn over longsleeved shirt and
+L4143@P119: long pants
+L4144@P119: Chemicalresistant apron
+L4145@P119: worn over
+L4146@P119: coveralls over
+L4147@P119: long-sleeved shirt
+L4148@P119: and long pants
+L4149@P119: NA
+L4150@P119: Respiratory
+L4151@P119: Protection
+L4152@P119: Device
+L4153@P119: None Filtering facepiece
+L4154@P119: respirator (N95,
+L4155@P119: R95,or P95)1
+L4156@P119: Elastomeric Half
+L4157@P119: Mask respirator
+L4158@P119: with appropriate
+L4159@P119: cartridges and/or
+L4160@P119: filters2
+L4161@P119: Air Supplying
+L4162@P119: Respirator
+L4163@P119: 1 Can be used only for dusts/mists where a protection factor of 5 is needed. 2 Can be used for dusts/mists and/or vapors/gases with appropriate cartridges and/or filters.
+L4164@P119: 6. Required Location for Handler PPE. Handler PPE statements for applicators and
+L4165@P119: other handlers must appear in the PRECAUTIONARY STATEMENTS section of the
+L4166@P119: labeling in the “HAZARDS TO HUMANS (AND DOMESTIC ANIMALS)” section.
+L4167@P119: See 40 CFR 156.212(c)(1).
+L4168@P119: 7. States May Require the Use of Additional PPE. The Agency will approve additional
+L4169@P119: state-required language if it is clear that it applies only in that state.
+L4170@P119: B. Statements for Contaminated PPE
+L4171@P119: The statements for contaminated PPE must appear in the PRECAUTIONARY
+L4172@P119: STATEMENTS section of the labeling. The preferred location is directly below the Personal
+L4173@P119: Protective Equipment. Remember to check the regulatory assessment document, if one has
+L4174@P119: been completed, for specific User Safety and PPE requirements such as engineering
+L4175@P119: controls. All occupational use products must bear the following statements:
+L4176@P119: “Follow the manufacturer’s instructions for cleaning/maintaining PPE. If no
+L4177@P119: such instructions for washables, use detergent and hot water. Keep and wash
+L4178@P119-120: PPE separately from other laundry”. Label Review Manual
+L4179@P120: Chapter 10: Worker Protection Labeling 10-14
+L4180@P120: If the product is a concentrate (diluted before use, or is an ultra-low-volume or low-volume
+L4181@P120: concentrate, or contains more than 50% active ingredient) and is in Toxicity Category I or
+L4182@P120: II, its label must include the following statement before the previous statement:
+L4183@P120: “Discard clothing and other absorbent materials that have been drenched or
+L4184@P120: heavily contaminated with this product’s concentrate. Do not reuse them”.
+L4185@P120: C. Engineering Controls
+L4186@P120: Engineering Controls (eg. closed systems, enclosed cabs, lock and load containers) may be
+L4187@P120: required by the regulatory assessment document or by the Acute Toxicity profile of a given
+L4188@P120: product. The following statement should appear on the label in the Precautionary Statement
+L4189@P120: section unless supplemented or superseded by a regulatory assessment document:
+L4190@P120: “When handlers use closed systems, enclosed cabs, or aircraft in a manner
+L4191@P120: that meets the requirements listed in the Worker Protection Standard (WPS)
+L4192@P120: for agricultural pesticides (40 CFR 170.240(d)(4-6)), the handler PPE
+L4193@P120: requirements may be reduced or modified as specified in the WPS”.
+L4194@P120: 1. For Toxicity I and II Products packaged in water soluble package. If a product is in
+L4195@P120: Toxicity Category I or II (signal word Danger or Warning) for either acute dermal
+L4196@P120: toxicity or skin irritation potential, then the following statements shall appear on the
+L4197@P120: label unless supplemented or superseded by a regulatory assessment document:
+

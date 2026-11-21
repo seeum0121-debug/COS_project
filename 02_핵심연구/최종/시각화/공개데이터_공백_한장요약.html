@@ -1,0 +1,321 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>공개 자극성 데이터의 벽</title>
+<style>
+:root{
+  color-scheme: light;
+  --surface-0:#f4f3f0; --surface-1:#fcfcfb; --surface-2:#eceae5;
+  --border:#dedbd4; --border-strong:#c3c0b7;
+  --text-primary:#0b0b0b; --text-secondary:#52514e; --text-muted:#7a7872;
+  --s1:#2a78d6; --s2:#eb6834; --s3:#1baf7a;
+  --good:#1a7f4b; --crit:#b4232a; --crit-bg:#fbeceb; --warn:#9a6b00;
+  --q1:#86b6ef; --q2:#6da7ec; --q3:#5598e7; --q4:#2a78d6; --q5:#1c5cab; --q6:#104281;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    color-scheme: dark;
+    --surface-0:#121211; --surface-1:#1a1a19; --surface-2:#232321;
+    --border:#33332f; --border-strong:#4b4a45;
+    --text-primary:#f0efec; --text-secondary:#c3c2b7; --text-muted:#908e85;
+    --s1:#3987e5; --s2:#d95926; --s3:#199e70;
+    --good:#4fbd84; --crit:#f08c84; --crit-bg:#2e1a18; --warn:#d7a53a;
+    --q1:#184f95; --q2:#1c5cab; --q3:#256abf; --q4:#3987e5; --q5:#5598e7; --q6:#86b6ef;
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme: dark;
+  --surface-0:#121211; --surface-1:#1a1a19; --surface-2:#232321;
+  --border:#33332f; --border-strong:#4b4a45;
+  --text-primary:#f0efec; --text-secondary:#c3c2b7; --text-muted:#908e85;
+  --s1:#3987e5; --s2:#d95926; --s3:#199e70;
+  --good:#4fbd84; --crit:#f08c84; --crit-bg:#2e1a18; --warn:#d7a53a;
+  --q1:#184f95; --q2:#1c5cab; --q3:#256abf; --q4:#3987e5; --q5:#5598e7; --q6:#86b6ef;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{background:var(--surface-0);color:var(--text-primary);
+  font-family:"Pretendard","Malgun Gothic","Apple SD Gothic Neo",system-ui,-apple-system,"Segoe UI",sans-serif;
+  -webkit-font-smoothing:antialiased;font-feature-settings:"tnum" 1}
+.page{max-width:1200px;margin:0 auto;padding:30px 16px 52px}
+header.top{display:flex;flex-wrap:wrap;gap:16px;align-items:flex-end;justify-content:space-between;
+  padding-bottom:16px;border-bottom:2px solid var(--border-strong);margin-bottom:22px}
+h1{font-size:clamp(23px,3.6vw,34px);line-height:1.18;margin:0 0 7px;letter-spacing:-.022em}
+.sub{color:var(--text-secondary);font-size:14px;line-height:1.55;margin:0;max-width:66ch}
+.meta{color:var(--text-muted);font-size:12px;text-align:right;line-height:1.7;white-space:nowrap}
+.theme-btn{appearance:none;border:1px solid var(--border-strong);background:var(--surface-1);
+  color:var(--text-secondary);border-radius:999px;padding:5px 12px;font-size:12px;cursor:pointer;font-family:inherit}
+h2{font-size:14.5px;margin:0 0 3px}
+.note{font-size:12px;color:var(--text-muted);margin:0 0 13px;line-height:1.5}
+section{margin-bottom:26px}
+.card{background:var(--surface-1);border:1px solid var(--border);border-radius:12px;padding:18px}
+
+.hero{display:grid;grid-template-columns:270px 1fr;gap:16px}
+@media (max-width:900px){.hero{grid-template-columns:1fr}}
+.zerocard{background:var(--crit-bg);border:1px solid var(--crit);border-radius:12px;
+  padding:20px;display:flex;flex-direction:column;justify-content:center}
+.zerocard .big{font-size:clamp(64px,10vw,86px);font-weight:700;color:var(--crit);line-height:.95;letter-spacing:-.04em}
+.zerocard .lab{font-size:14px;font-weight:650;margin-top:10px;line-height:1.35}
+.zerocard .d{font-size:12px;color:var(--text-secondary);margin-top:8px;line-height:1.55}
+
+.funnel{display:flex;flex-direction:column;gap:7px;margin-top:5px}
+.fr{display:grid;grid-template-columns:1fr 96px;gap:12px;align-items:center}
+.fbar{height:34px;border-radius:5px;display:flex;align-items:center;padding:0 11px;
+  font-size:12px;font-weight:600;white-space:nowrap;overflow:hidden;min-width:90px}
+.fv{font-size:14px;font-weight:650;text-align:right;line-height:1.2}
+.fv small{display:block;font-size:10.5px;font-weight:400;color:var(--text-muted);margin-top:1px}
+.fbar.z{background:repeating-linear-gradient(135deg,var(--crit-bg),var(--crit-bg) 5px,transparent 5px,transparent 10px);
+  border:1.5px solid var(--crit);color:var(--crit)}
+
+.tag{display:inline-block;font-size:9.5px;font-weight:700;border-radius:4px;padding:1px 5px;
+  margin-right:6px;vertical-align:1px;letter-spacing:.02em}
+.tag.eye{background:rgba(42,120,214,.15);color:var(--s1)}
+.tag.skin{background:rgba(26,175,122,.17);color:var(--good)}
+.tag.both{background:var(--surface-2);color:var(--text-muted)}
+
+.bars{display:flex;flex-direction:column;gap:6px;margin-top:4px}
+.brow{display:grid;grid-template-columns:232px 1fr 62px;gap:10px;align-items:center;padding:2px 3px;border-radius:6px}
+.brow:hover{background:var(--surface-2)}
+.blab{font-size:11.5px;color:var(--text-secondary);text-align:right;line-height:1.3}
+.bfill{height:14px;border-radius:0 4px 4px 0;min-width:3px;background:var(--s1)}
+.bfill.mix{background:var(--s2)}
+.bval{font-size:12px;font-weight:650;text-align:right}
+.brow.ours .blab{color:var(--text-primary);font-weight:650}
+.brow.ours{background:var(--surface-2);outline:1.5px solid var(--s2)}
+.legend{display:flex;flex-wrap:wrap;gap:14px;font-size:11px;color:var(--text-muted);margin-top:12px;align-items:center}
+.sw{width:14px;height:10px;border-radius:3px;display:inline-block;margin-right:5px;vertical-align:-1px}
+
+table.mx{width:100%;border-collapse:separate;border-spacing:0;font-size:12px}
+table.mx th{font-weight:500;color:var(--text-secondary);font-size:11px;padding:0 4px 9px;text-align:center;line-height:1.3}
+table.mx th.rh{text-align:left;padding-left:2px}
+table.mx td{padding:3px 4px;text-align:center}
+table.mx td.rh{text-align:left;font-size:12px;padding-left:2px;line-height:1.35;white-space:nowrap}
+table.mx tr.ours td{background:var(--surface-2)}
+table.mx tr.ours td.rh{font-weight:650}
+table.mx tr.ours td:first-child{border-radius:6px 0 0 6px}
+table.mx tr.ours td:last-child{border-radius:0 6px 6px 0}
+.mk{display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;
+  border-radius:6px;font-size:12px;font-weight:700}
+.mk.y{background:rgba(26,127,75,.14);color:var(--good)}
+.mk.p{background:rgba(154,107,0,.16);color:var(--warn)}
+.mk.n{background:rgba(180,35,42,.12);color:var(--crit)}
+
+.two{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+@media (max-width:900px){.two{grid-template-columns:1fr}}
+.q{border-left:3px solid var(--s1);padding:2px 0 2px 13px;margin-bottom:15px}
+.q p{margin:0 0 5px;font-size:12.5px;line-height:1.6;color:var(--text-primary)}
+.q cite{font-size:11px;color:var(--text-muted);font-style:normal;line-height:1.5;display:block}
+.q:last-child{margin-bottom:0}
+ul.eff{margin:0;padding:0;list-style:none}
+ul.eff li{display:grid;grid-template-columns:22px 1fr;gap:9px;padding:8px 0;border-bottom:1px solid var(--border);
+  font-size:12.5px;line-height:1.55}
+ul.eff li:last-child{border-bottom:none}
+ul.eff .ic{color:var(--good);font-weight:700;text-align:center}
+ul.eff b{font-weight:650}
+ul.eff .m{color:var(--text-muted);font-size:11.5px;display:block;margin-top:2px}
+
+.punch{background:var(--surface-1);border:1px solid var(--border);border-left:3px solid var(--s2);
+  border-radius:10px;padding:16px 18px}
+.punch p{margin:0;font-size:13px;line-height:1.7;color:var(--text-secondary)}
+.punch b{color:var(--text-primary)}
+
+footer{border-top:1px solid var(--border);padding-top:13px;font-size:11px;color:var(--text-muted);line-height:1.7}
+footer a{color:var(--text-muted)}
+</style>
+</head>
+<body>
+<div class="page">
+
+<header class="top">
+  <div>
+    <h1>성분 목록은 15,000개, 제형 정답은 0개</h1>
+    <p class="sub">화장품 <b>안자극·피부자극</b> 예측에 쓸 수 있는 공개 데이터가 어디까지 존재하는지 전수 조사한 결과입니다.
+      성분 이름은 넘치지만, 완제품 배합비와 자극성 정답을 함께 공개한 데이터셋은 두 엔드포인트 모두 존재하지 않습니다.</p>
+  </div>
+  <div style="display:flex;flex-direction:column;align-items:flex-end;gap:8px">
+    <button class="theme-btn" id="tbtn" type="button">◐ 테마</button>
+    <div class="meta">2026-11 기준 공개 문헌·DB 조사<br>안자극(eye) · 피부자극(skin)</div>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="zerocard">
+    <div class="big">0</div>
+    <div class="lab">공개된 “화장품 제형 + 전체 배합비 + 자극성 정답” 데이터셋</div>
+    <div class="d">성분 인벤토리, 단일물질 독성 DB, 완제품 성분표는 각각 존재하지만
+      <b>셋을 연결한 공개 자료는 안자극·피부자극 모두 없습니다.</b></div>
+  </div>
+  <div class="card">
+    <h2>공개 자료는 단계마다 줄어든다</h2>
+    <p class="note">같은 ‘화장품 안전성’ 주제라도, 요구 조건을 하나씩 더할 때마다 남는 공개 자료가 급격히 줄어듭니다.</p>
+    <div class="funnel" id="funnel"></div>
+  </div>
+</section>
+
+<section>
+  <h2>공개 자극성 데이터셋 지도 — 엔드포인트별 크기와 단위</h2>
+  <p class="note">안자극·피부자극 모두 규모가 큰 자료는 전부 <b>단일 화학물질</b> 단위이고, 제형(혼합물) 단위 자료는 수백 건 규모에 그칩니다.</p>
+  <div class="card">
+    <div class="bars" id="bars"></div>
+    <div class="legend">
+      <span><span class="sw" style="background:var(--s1)"></span>단일 화학물질 단위</span>
+      <span><span class="sw" style="background:var(--s2)"></span>제형·혼합물 포함</span>
+      <span><span class="tag eye">안</span>안자극 <span class="tag skin" style="margin-left:8px">피</span>피부자극
+        <span class="tag both" style="margin-left:8px">공</span>공통</span>
+      <span style="margin-left:4px">※ 가로축은 제곱근 축척 — 작은 자료도 보이도록 조정했습니다</span>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>왜 그중 어느 것도 바로 쓸 수 없었나</h2>
+  <p class="note">화장품 자극성 모델에 필요한 다섯 조건을 모두 만족하는 공개 자료는 없습니다. 가로로 읽으면 각 자료가 어디서 막히는지 보입니다.</p>
+  <div class="card">
+    <table class="mx" id="mx"></table>
+    <div class="legend">
+      <span><span class="mk y" style="width:16px;height:16px;font-size:10px">✓</span> 충족</span>
+      <span><span class="mk p" style="width:16px;height:16px;font-size:10px">△</span> 부분·제한</span>
+      <span><span class="mk n" style="width:16px;height:16px;font-size:10px">✕</span> 미충족</span>
+    </div>
+  </div>
+</section>
+
+<section class="two">
+  <div class="card">
+    <h2>같은 벽에 막힌 것은 우리만이 아니다</h2>
+    <p class="note">최근 문헌이 같은 제약을 명시적으로 기록하고 있습니다.</p>
+    <div class="q">
+      <p>“그래서 <b>혼합물은 독성 모델링 연구에서 아예 제외되는 경우가 많다.</b>”</p>
+      <cite>Mixtures-inclusive in silico models of ocular toxicity, 2025 (PMC12973229)</cite>
+    </div>
+    <div class="q">
+      <p>혼합물을 포함한 최신 공개 안독성 모델(OCUTOXDB, 593물질·혼합물 약 20%)의
+        <b>외부 검증 balanced accuracy는 64–71%</b>이며, 저자들은 <b>작은 데이터 크기를 “주요 한계”</b>로 명시합니다.</p>
+      <cite>동 논문 Table 6 및 Limitations</cite>
+    </div>
+    <div class="q">
+      <p>“QSAR 분야는 물질 및 혼합물의 <b>피부·안자극 예측에 완전히 성공하지 못했다.</b>”</p>
+      <cite>NC3Rs CRACK IT — QSARs Mix 과제 공고문 (피부·안자극 혼합물 모델 공모)</cite>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>그 벽 앞에서 우리가 한 일</h2>
+    <p class="note">자료를 못 구했다는 결론에 도달하기까지, 확인 가능한 경로를 모두 시도했습니다.</p>
+    <ul class="eff">
+      <li><span class="ic">✓</span><span><b>두 엔드포인트 모두 제형 단위로 구축</b>
+        <span class="m">안자극 673제형 · 피부자극 662제형을 동일 벡터화·그룹분할 프로토콜로 정비</span></span></li>
+      <li><span class="ic">✓</span><span><b>공개 자료 전수 조사</b>
+        <span class="m">문헌·포스터 단위까지 추적 — Baby bath 102시험, IIVS 14제형 등 175건 확인, EPA 호환 정답 확보 0건</span></span></li>
+      <li><span class="ic">✓</span><span><b>가장 가까운 공개 자료로 외부 보조학습 수행</b>
+        <span class="m">STopTox 3,545행 → 중복·UVCB 제외 후 3,261행으로 보조모델 신규 학습</span></span></li>
+      <li><span class="ic">✓</span><span><b>사전학습 언어모델 전이학습까지 시도</b>
+        <span class="m">ChemBERTa 성분 임베딩 → 제형 단위 분류기 학습 및 내부 holdout 평가</span></span></li>
+      <li><span class="ic">✓</span><span><b>입력 자체의 결함을 찾아 복원</b>
+        <span class="m">단일성분에서 농도가 약분되는 문제 발견 — 동일입력 충돌 221행을 18행까지 해소</span></span></li>
+      <li><span class="ic">✓</span><span><b>20개 실험 트랙 · 후보 적합 14,318회</b>
+        <span class="m">모델 7종 × seed 3개 × 20후보 전체격자, grouped nested CV로 전량 검증</span></span></li>
+    </ul>
+  </div>
+</section>
+
+<section>
+  <div class="punch">
+    <p><b>결론.</b> 화장품 자극성은 데이터가 없어서 어려운 문제입니다. 성분 목록은 15,000개가 공개돼 있지만,
+      제형 단위로 배합비와 자극성 정답을 함께 가진 공개 데이터셋은 안자극·피부자극 모두 0개이고,
+      혼합물을 포함한 최대 규모의 공개 안독성 DB조차 593물질에 외부 balanced accuracy 64–71% 수준입니다.
+      피부자극은 참조셋이 ECETOC 176물질·ChemSkin 100물질 규모로 더 작습니다. 우리는 그 공백을 확인한 뒤,
+      <b>구할 수 있는 가장 가까운 자료(안자극 673제형 · 피부자극 662제형)로 모델을 세우고, 외부 보조학습과 전이학습까지 적용해 한계를 측정했습니다.</b>
+      낮은 성능은 방법을 덜 써서가 아니라, 이 분야에서 공개적으로 접근 가능한 자료의 한계를 그대로 반영한 결과입니다.</p>
+  </div>
+</section>
+
+<footer>
+  <b>출처</b> — CosIng 성분 glossary(European Commission, 15,000+) · COSMOS DB(EPA CompTox chemical list, 7,021; 부분 수록·큐레이션 진행 중) ·
+  REACH 마이닝 Draize 데이터셋(5,629물질, <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5461467/">PMC5461467</a>) ·
+  STopTox(Borba 등 2022, EHP9341 — 안자극 Table S4 3,545행, 피부자극 균형 모델링셋 2,292물질) ·
+  Cosmetics Europe DRD(634물질·681연구, <a href="https://link.springer.com/article/10.1007/s00204-016-1679-x">Arch Toxicol 2017</a>) ·
+  OCUTOXDB(<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12973229/">PMC12973229</a>, 593물질·810기록, 혼합물 약 20%) ·
+  ECETOC TR 066 피부자극·부식 참조 데이터뱅크(176물질) · <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8625019/">ChemSkin</a> 100물질 ·
+  CON4EI 80물질 · ECETOC 안자극 표준셋 38물질 · <a href="https://nc3rs.org.uk/crackit/qsars-mix">NC3Rs CRACK IT QSARs Mix</a>.
+  공개 보고값을 인용했으며 일부는 발표 시점이 달라 현재 수치와 차이가 있을 수 있습니다.
+  본 연구 데이터(안자극 673제형 · 피부자극 662제형)는 내부 production 입력 파일 집계값입니다.
+</footer>
+
+</div>
+
+<script>
+const F = [
+  ["화장품 성분 이름이 등재된 목록 (CosIng)", 15000, "성분명만 — 독성 정보 없음", "var(--q1)"],
+  ["독성 정보가 연결된 성분 DB (COSMOS)", 7021, "성분 단위, 제형 아님", "var(--q2)"],
+  ["안자극 in vivo 정답이 공개된 물질 (REACH 마이닝)", 5629, "농약·산업화학물질 중심", "var(--q3)"],
+  ["피부자극 모델링용 공개 물질 (STopTox 균형셋)", 2292, "전량 단일물질", "var(--q4)"],
+  ["혼합물을 포함한 공개 안독성 DB (OCUTOXDB)", 593, "그중 혼합물은 약 20%", "var(--q5)"],
+  ["화장품 제형 + 배합비 + 자극성 정답", 0, "안자극·피부자극 모두 해당 자료 없음", "zero"]
+];
+const fmax = F[0][1];
+document.getElementById('funnel').innerHTML = F.map(([nm,v,d,c])=>{
+  if(c==='zero') return `<div class="fr" title="${nm} — ${d}">
+    <div class="fbar z" style="width:26%">${nm}</div>
+    <div><div class="fv" style="color:var(--crit)">0</div><small style="color:var(--text-muted);font-size:10.5px">${d}</small></div></div>`;
+  const w = Math.max(26, Math.sqrt(v/fmax)*100);
+  const dark = ["var(--q4)","var(--q5)","var(--q6)"].includes(c);
+  return `<div class="fr" title="${nm} — ${d}">
+    <div class="fbar" style="width:${w.toFixed(1)}%;background:${c};color:${dark?'#fff':'var(--text-primary)'}">${nm}</div>
+    <div><div class="fv">${v.toLocaleString()}</div><small>${d}</small></div></div>`;
+}).join('');
+
+const TAGN = {eye:"안", skin:"피", both:"공"};
+const D = [
+  ["both","COSMOS DB (독성 전반)", 7021, false, false],
+  ["eye","REACH 마이닝 Draize", 5629, false, false],
+  ["eye","STopTox 안자극 (Table S4)", 3545, false, false],
+  ["skin","STopTox 피부자극 균형셋", 2292, false, false],
+  ["eye","EPA FIFRA 안자극 제형 — 본 연구", 673, true, true],
+  ["eye","Cosmetics Europe DRD", 634, false, false],
+  ["skin","피부자극 제형 — 본 연구", 662, true, true],
+  ["eye","OCUTOXDB (혼합물 포함)", 593, true, false],
+  ["skin","ECETOC TR 066 피부자극·부식", 176, false, false],
+  ["skin","ChemSkin 피부자극 참조", 100, false, false],
+  ["eye","CON4EI 안자극 평가셋", 80, false, false],
+  ["eye","ECETOC 안자극 표준셋", 38, false, false]
+].sort((a,b)=>b[2]-a[2]);
+const dmax = Math.max(...D.map(d=>d[2]));
+document.getElementById('bars').innerHTML = D.map(([tg,nm,v,mix,ours])=>`
+  <div class="brow ${ours?'ours':''}" title="${nm} — ${v.toLocaleString()}건 · ${mix?'제형·혼합물 포함':'단일 화학물질 단위'}">
+    <div class="blab"><span class="tag ${tg}">${TAGN[tg]}</span>${nm}</div>
+    <div><div class="bfill ${mix?'mix':''}" style="width:${(Math.sqrt(v/dmax)*100).toFixed(1)}%"></div></div>
+    <div class="bval">${v.toLocaleString()}</div>
+  </div>`).join('');
+
+const COLS = ["공개 접근","제형(혼합물) 단위","성분 농도 정보","화장품 대상","in vivo 자극성 정답"];
+const R = [
+  ["CosIng 성분 glossary", "both",            ["y","n","n","y","n"], false],
+  ["COSMOS DB", "both",                       ["y","n","n","y","p"], false],
+  ["REACH 마이닝 Draize", "eye",              ["y","n","n","n","y"], false],
+  ["STopTox (안자극·피부자극)", "both",        ["y","n","n","n","y"], false],
+  ["Cosmetics Europe DRD", "eye",             ["p","n","n","p","y"], false],
+  ["OCUTOXDB", "eye",                         ["y","p","n","n","y"], false],
+  ["ECETOC·ChemSkin·CON4EI 참조셋", "both",    ["y","n","n","n","y"], false],
+  ["화장품 논문·포스터 기록", "both",           ["y","y","p","y","p"], false],
+  ["안 673제형 · 피 662제형 — 본 연구", "both", ["y","y","y","n","y"], true]
+];
+document.getElementById('mx').innerHTML =
+  `<thead><tr><th class="rh">자료</th>${COLS.map(c=>`<th>${c}</th>`).join('')}</tr></thead>`+
+  `<tbody>${R.map(([nm,tg,v,ours])=>
+    `<tr class="${ours?'ours':''}"><td class="rh"><span class="tag ${tg}">${TAGN[tg]}</span>${nm}</td>${v.map((m,j)=>
+      `<td title="${nm} — ${COLS[j]}: ${m==='y'?'충족':m==='p'?'부분·제한':'미충족'}">
+        <span class="mk ${m}">${m==='y'?'✓':m==='p'?'△':'✕'}</span></td>`).join('')}</tr>`
+  ).join('')}</tbody>`;
+
+const btn=document.getElementById('tbtn');
+btn.addEventListener('click',()=>{
+  const cur=document.documentElement.getAttribute('data-theme');
+  const dark=cur?cur==='dark':matchMedia('(prefers-color-scheme: dark)').matches;
+  document.documentElement.setAttribute('data-theme',dark?'light':'dark');
+});
+</script>
+</body>
+</html>

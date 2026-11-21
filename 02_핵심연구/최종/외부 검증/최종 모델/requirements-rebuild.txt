@@ -1,0 +1,4 @@
+-r requirements-lock.txt
+PyMuPDF==2.1
+matplotlib==3.11.0
+requests==2.34.2

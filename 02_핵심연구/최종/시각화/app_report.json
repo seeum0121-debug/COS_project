@@ -1,0 +1,31 @@
+{
+  "done": true,
+  "ok": true,
+  "skin": 0.202,
+  "eye": 0.6192026683768463,
+  "eye_threshold": 0.48345327423625106,
+  "eye_model_sha256": "5d5c0532cd12fd00927c9564ee28dc9c95a8bb396a049c705c77dcafaf5b28e5",
+  "skin_model_sha256": "1ff0bd062fba0fab11c0407731ddb6996c7646bf033e07a4c501a391a2459e34",
+  "structure_preview": true,
+  "stale_result_cleared": true,
+  "cards": 2,
+  "caution_live_update": true,
+  "caution_unmatched": true,
+  "identity_verified": true,
+  "caution_coverage": true,
+  "demo_components": 6,
+  "demo_default_target": "\ub808\ud2f0\ub180",
+  "demo_fragrance": true,
+  "demo_surfactant_pattern": true,
+  "caution_cards": 2,
+  "caution_items": 5,
+  "auxiliary_cards": 2,
+  "auxiliary_ids": [
+    "fragrance_similarity",
+    "surfactant_likeness"
+  ],
+  "target_switch": true,
+  "report_body_px": 16,
+  "irritation_score_px": 43,
+  "pdf_created": true
+}

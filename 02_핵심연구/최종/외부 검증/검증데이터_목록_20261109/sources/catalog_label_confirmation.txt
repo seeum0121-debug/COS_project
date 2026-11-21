@@ -1,0 +1,476 @@
+US EPA, Pesticide Product Label, PYROCIDE FLEA & TICK SHAMPOO 51921, 12/24/2013 (https://www3.epa.gov/pesticides/chem_search/ppls/001021-01723-20131224.pdf)
+citeturn42view0 [wordlim: 200] Crawled: last month; Content type: application/pdf; Number of pages: 5; Source: open({"ref_id":"https://www3.epa.gov/pesticides/chem_search/ppls/001021-01723-20131224.pdf","lineno":null}); Total lines: 324
+L0@P0: UNITED STATES ENVIRONMENTAL PROTECTION AGENCY
+L1@P0: WASHINGTON, D.C. 20460
+L2@P0: OFFICE OF CHEMICAL SAFETY
+L3@P0: , AND POLLUTION PREVENTION
+L4@P0: Mr. Jeffrey Nelson
+L5@P0: McLaughlin Gormley King Company OEC 24 2D13
+L6@P0: 8810 *Tenth Avenue North
+L7@P0: Minneapolis, MN 55427-4.372
+L8@P0: Subject: Label Notification(s) for Pesticide Registration Notice 2007-4
+L9@P0: Dear Mr. Nelson:
+L10@P0: The Agency is in receipt of your Application(s) for Pesticide
+L11@P0: Notification under Pesticide Registration Notice (PRN) 2007-4 November 22, 2013
+L12@P0: for the following product(s):
+L13@P0: Pyrocide® Flea & Tick EPA Reg. No. 1021-1723
+L14@P0: Shampoo 51921
+L15@P0: The Registration Division (RD) has conducted a review of this request for
+L16@P0: applicability under PR Notice 2007-4 and finds that the label change(s)
+L17@P0: requested falls within the scope of PRN 2007-4. The label has been datestamped "Notification" and will be placed in our records.
+L18@P0: If you have any questions, please contact Linda A. DeLuise at 703-305-
+L19@P0: 5428.
+L20@P0: Sincerely,
+L21@P0: Richard J. G'ebken
+L22@P0: Product Manager.
+L23@P0: Insecticide Branch
+L24@P0-1: Registration Division (7504P)Please read instructions before completing form _( Form/' ved. OMB No. 2070-0060. Approval expires 05-31 -98
+L25@P1: 'united States
+L26@P1: Environmental Protection Agency
+L27@P1: Washington, DC 20460
+L28@P1: Reg., ./ation
+L29@P1: Amendment
+L30@P1: Other
+L31@P1: OPP Identifier Number
+L32@P1: Application for Pesticide - Section 1
+L33@P1: 1. Company/Product Number
+L34@P1: 1021-1723
+L35@P1: 4. Company/Product (Name)
+L36@P1: PYROCIDE® Flea &Tick Shampoo 51921
+L37@P1: 2. EPA Product Manager
+L38@P1: Richard Gebken
+L39@P1: 10
+L40@P1: 3. Proposed Classification
+L41@P1: PI None 1 1 Restricted
+L42@P1: 5. Name and Address of Applicant (Include Zip Code)
+L43@P1: MCLAUGHLIN GORMLEY KING COMPANY
+L44@P1: 8810 TENTH AVENUE NORTH
+L45@P1: MINNEAPOLIS, MN 55427
+L46@P1: C7l Check if this is a new address
+L47@P1: 6. Expedited Revieyv. In accordance with FIFRA Section 3(c)(3)(b)(i), my
+L48@P1: product is similar or identical in composition and labeling to: I ' r c' '
+L49@P1: EPA Reg. No.
+L50@P1: Product Name
+L51@P1: Section - II
+L52@P1: I | Amendment - Explain below.
+L53@P1: I | Resubmission in response to Agency letter dated
+L54@P1: Lil Notification - Explain below.
+L55@P1: | | Final printed labels 'i'n-rosponse to
+L56@P1: Agency letter dated <; _
+L57@P1: I I "Me Too" Application.
+L58@P1:  c
+L59@P1: . 1 I Other - Explain below.
+L60@P1: c ,
+L61@P1: Explanation: Use additional page(s) if necessary. (For section I and Section II.)
+L62@P1: Notification per PR-Notice 2007-4.
+L63@P1: Section -
+L64@P1: 1. Material This Product Will Be Packaged In:
+L65@P1: Child-Resistant Packaging
+L66@P1: Q Yes*
+L67@P1: 0 No
+L68@P1: 'Certification must
+L69@P1: be submitted
+L70@P1: Unit Packaging
+L71@P1: Q Yes
+L72@P1: 0 No
+L73@P1: If "Yes"
+L74@P1: Unit Packaging wgt.
+L75@P1: No. per
+L76@P1: container
+L77@P1: Water Soluble Packaging
+L78@P1: n
+L79@P1:  Yes
+L80@P1: PJ No
+L81@P1: If "Yes"
+L82@P1: Package wgt.
+L83@P1: No. per
+L84@P1: container
+L85@P1: 2. Type of Container
+L86@P1: [7J Metal
+L87@P1: Pj Plastic
+L88@P1: | _ | Glass
+L89@P1: FJ Paper
+L90@P1: Cl Other (Specify)
+L91@P1: 3. Location of Net Contents information
+L92@P1: [7J Label [~~| Container
+L93@P1: 4. Size(s) Retail Container
+L94@P1: 4 OZ. to
+L95@P1: 275 gallons
+L96@P1: 5. Location of Label Directions
+L97@P1: [7] On Label
+L98@P1: [ | On Labeling accompanying product
+L99@P1: 6. Manner in Which Label is Affixed to Product [_] Lithograph.
+L100@P1: " [7] Paper glued
+L101@P1: Stenciled
+L102@P1: Other
+L103@P1: Section - IV
+L104@P1: 1 . Contact Point (Complete items directly below for identification of individual to be contacted, if necessary, to process this application.)
+L105@P1: Name
+L106@P1: Jeffrey Nelson
+L107@P1: Title
+L108@P1: Regulatory Affairs Specialist
+L109@P1: Telephone No. (Include Area Code)
+L110@P1: (763) 593.3440
+L111@P1: Certification
+L112@P1: I certify that the statements I have made on this form and all attachments thereto are true, accurate and complete.
+L113@P1: I acknowledge that any knowingly false or misleading statement may be punishable by fine or imprisonment or
+L114@P1: both nder applicable law.
+L115@P1: re
+L116@P1: 4. Typea Name
+L117@P1: Jeffrey Nelson
+L118@P1: 3. Title
+L119@P1: Regulatory Affairs Specialist
+L120@P1: 5. Date
+L121@P1: 11/22/2013
+L122@P1: 6. Date Application
+L123@P1: Received
+L124@P1: (Stamped)
+L125@P1-2: EPA Form 8570-1 (Rev. 8-94) Previous editions are obsolete.r c 3,
+L126@P2: Insecf Control Solutions
+L127@P2: November 22, 2013
+L128@P2: Docume~nTProcessing~Desk"(NOTIF)
+L129@P2: U.S. ENVIRONMENTAL PROTECTION AGENCY
+L130@P2: Office of Pesticide Programs (H7504C)
+L131@P2: Room S-4900, One Potomac Yard
+L132@P2: 2777 South Crystal Dr.
+L133@P2: Arlington, VA 22202-4501
+L134@P2: Subject: Pyrocide Flea & Tick Shampoo 51921
+L135@P2: EPA Reg. No. 1021-1723
+L136@P2: Notification Per PR-Notice 2007-4
+L137@P2: Dear Sir or Madam:
+L138@P2: Via Courier
+L139@P2: I C O C c C
+L140@P2: «• t e
+L141@P2: c c c e c c
+L142@P2: t c
+L143@P2: c c
+L144@P2: c c t c r;
+L145@P2: r c
+L146@P2: c c c c c
+L147@P2: <•- r
+L148@P2: t e t c a .
+L149@P2: c
+L150@P2: c c e
+L151@P2: « e <
+L152@P2: « co
+L153@P2: e
+L154@P2: c e c o
+L155@P2: e c c e o e
+L156@P2: I
+L157@P2: By Notification we are including an additional, optional Storage and Disposal instructions for
+L158@P2: containers greater than 5 gallons. This will not affect the accepted use of the product. Enclosed,
+L159@P2: please find the following documents to support this application:
+L160@P2: Application for Notification (EPA Form 8570-1)
+L161@P2: One color, highlighted copy of the label
+L162@P2: One monochrome copy of the label
+L163@P2: This notification is consistent with the provisions of PR Notice 2007-4 and EPA regulation at 40
+L164@P2: CFR 152.46, and no other change have been made to the labeling or the confidential statement
+L165@P2: of formula for this product. I understand that it is a violation .of 18 U.S.C. Sec. 1001 to willfully
+L166@P2: make any false statement to EPA. I further understand that if this notification is not consistent
+L167@P2: with the terms of PR Notice 2007-4 and 40 CFR 152.46, this product may be in violation of FIFRA
+L168@P2: and I may be subject to enforcement action and penalties under sections 12 and 14 of FIFRA.
+L169@P2: If there are any questions or you need anything further, please contact this office.
+L170@P2: Sincerely,
+L171@P2: MCLAUGHLIN GORMLEY KING COMPANY
+L172@P2: Jeffrey Nelson
+L173@P2: Regulatory Affairs Specialist
+L174@P2: ieff.nelson@mgk.com
+L175@P2: 800-645-6466 - Telephone
+L176@P2: 763-544-6437 - FAX
+L177@P2: Enclosures
+L178@P2: 8810 Tenth Avenue North
+L179@P2: Minneapolis, MN 55427
+L180@P2: TOLL FREE 800.645.6466
+L181@P2: TEL 763.544.0341
+L182@P2: FAX 763.544.6437
+L183@P2-3: WWW.MGK.COMf
+L184@P3: PYROCIDE® Flea & Tick Shampoo 51921
+L185@P3: [ ] OR () indicates alternate or optional wording
+L186@P3: [Step!] _
+L187@P3: [Leaves Pet Smelling Fresh & Clean with a Shiny Coat]
+L188@P3: [For Horses, Ferrets, Dogs, Cats, Puppies & Kittens (Over 12 Weeks)]
+L189@P3: [No Sticky Residue]
+L190@P3: [Complete Control in 4 steps]
+L191@P3: [*Step 1: Shampoo]
+L192@P3: [*Step 2: Premise Treatment]
+L193@P3: [*Step 3: Spot-On Spray]
+L194@P3: [*Step 4: Yard & Kennel Spray]
+L195@P3: [RIP] [Money Back Guarantee]
+L196@P3: ACTIVE INGREDIENTS:
+L197@P3: Pyrethrins
+L198@P3: *Piperonyl butoxide, Technical
+L199@P3: "N-Octyl bicycloheptene dicarboximide
+L200@P3: OTHER INGREDIENTS
+L201@P3: [Kills Fleas and Ticks with Pyrethrum, Piperonyl Butoxide, and
+L202@P3: MGK® 264]
+L203@P3: [Contains Pyrethrum, which is derived from flowers]
+L204@P3: [Kills Fleas & Ticks on Horses, Ferrets, Dogs, Cats, Puppies, and
+L205@P3: Kittens (over 12 weeks)] r f
+L206@P3: [Leaves no insecticide residue - rinses clean] ( ' c c c c
+L207@P3: [Kills Fleas and Ticks on contact]
+L208@P3: [Leaves pet smelling fresh and clean]
+L209@P3: [Leaves no sticky residue on your(oet]
+L210@P3: [Leaves pet's coat shiny clean] c r. ?
+L211@P3: [Cleans and conditions pet's coatf
+L212@P3:  r
+L213@P3: t
+L214@P3: r (
+L215@P3: c e
+L216@P3: '- C <
+L217@P3: (
+L218@P3: . c
+L219@P3: c r c f
+L220@P3: r c
+L221@P3: c c c r .
+L222@P3: 0.150%
+L223@P3: 0.300%
+L224@P3: 0.479%
+L225@P3: 99.071%
+L226@P3: 100.000%
+L227@P3: f C I, C f
+L228@P3: * Equivalent to 0.240% (butylcarbityl) (6-propylpiperonyl) ether and 0.060% related
+L229@P3: compounds
+L230@P3: "MGK 264 Insecticide Synergist
+L231@P3: PYROCIDE® and MGK* - Registered trademarks of McLaughlin Gormley King Company
+L232@P3: KEEP OUT OF REACH OF CHILDREN
+L233@P3: WARNING
+L234@P3: FIRST AID
+L235@P3: IF IN EYES:
+L236@P3: IF ON SKIN OR CLOTHING:
+L237@P3: IF INHALED:
+L238@P3: Hold eye open and rinse slowly and gently with water for 15-20 minutes.
+L239@P3: Remove contact lenses, if present, after the first 5 minutes, then continue rinsing eyes.
+L240@P3: Call a poison control center or doctor for treatment advice.
+L241@P3: Take off contaminated clothing.
+L242@P3: Rinse skin immediately with plenty of water for 15-20 minutes.
+L243@P3: Call a poison control center or doctor for treatment advice.
+--------------------------------------------------------------------------------
+US EPA, Pesticide Product Label, SIVAD FLEA & TICK SHAMPOO,09/10/2015 (https://www3.epa.gov/pesticides/chem_search/ppls/069061-00012-20150910.pdf)
+citeturn42view1 [wordlim: 200] Crawled: 3 weeks ago; Content type: application/pdf; Number of pages: 5; Source: open({"ref_id":"https://www3.epa.gov/pesticides/chem_search/ppls/069061-00012-20150910.pdf","lineno":null}); Total lines: 170
+L0@P0:  UNITED STATES ENVIRONMENTAL PROTECTION AGENCY
+L1@P0:  WASHINGTON, DC 20460
+L2@P0: Amended Under Reregistration v.20150320
+L3@P0: OFFICE OF CHEMICAL SAFETY
+L4@P0: AND POLLUTION PREVENTION
+L5@P0: September 10, 2015
+L6@P0: Micah Reynolds
+L7@P0: Sivad Manufacturing & Packaging, Inc.
+L8@P0: 541 Proctor Ave.
+L9@P0: Scottdale, GA 30079
+L10@P0: Subject: Amended Reregistration Label
+L11@P0:  Product Name: Sivad Flea & Tick Shampoo™
+L12@P0:  EPA Registration Number: 69061-12
+L13@P0:  Decision Number: 414109; 411781; 410235
+L14@P0: Dear Mr. Reynolds:
+L15@P0: The Agency, in accordance with the Federal Insecticide, Fungicide and Rodenticide Act
+L16@P0: (FIFRA), as amended, has completed reviewing all of the information submitted with your
+L17@P0: application to support the reregistration of the above referenced product in connection with the
+L18@P0: pyrethrins, PBO, and MGK 264 REDs, and has concluded that your submission is acceptable.
+L19@P0: The label referred to above, submitted in connection with registration under FIFRA, as amended,
+L20@P0: is acceptable.
+L21@P0: NOTE: This product is not yet being reregistered under section 4(g) of FIFRA.
+L22@P0: Please note that the record for this product currently contains the Confidential Statements of
+L23@P0: Formulation (CSFs) listed below. Any previously dated CSFs are superseded.
+L24@P0:  Basic CSF, dated 07/19/2012
+L25@P0:  Alternate CSF 1, dated 07/19/2012
+L26@P0: Should you wish to add/retain a reference to the company’s website on your label, then please be
+L27@P0: aware that the website becomes labeling under the Federal Insecticide Fungicide and Rodenticide
+L28@P0: Act and is subject to review by the Agency. If the website is false or misleading, the product
+L29@P0: would be misbranded and unlawful to sell or distribute under FIFRA section 12(a)(1)(E). 40
+L30@P0: CFR 156.10(a)(5) list examples of statements EPA may consider false or misleading. In addition,
+L31@P0: regardless of whether a website is referenced on your product’s label, claims made on the
+L32@P0: website may not substantially differ from those claims approved through the registration process.
+L33@P0: Therefore, should the Agency find or if it is brought to our attention that a website contains false
+L34@P0: or misleading statements or claims substantially differing from the EPA approved registration,
+L35@P0: the website will be referred to the EPA’s Office of Enforcement and Compliance.
+L36@P0: A copy of your label stamped “Accepted” is enclosed. Products shipped after 12 months from the
+L37@P0: date of this amendment or the next printing of the label, whichever occurs first, must bear the
+L38@P0-1: new revised label. Your release for shipment of the product bearing the amended label Page 2 of 2
+L39@P1: EPA Reg. No. 69061-12
+L40@P1: Decision No. 414109; 411781; 410235
+L41@P1: constitutes acceptance of these conditions. If these conditions are not complied with, the
+L42@P1: registration will be subject to cancellation in accordance with FIFRA section 6.
+L43@P1: If you have any questions about this letter, please contact Jennifer Gaines at 703-305-5967 or via
+L44@P1: email at gaines.jennifer@epa.gov.
+L45@P1: Sincerely,
+L46@P1: Jennifer Urbanski, PhD, Product Manager 4
+L47@P1: Invertebrate and Vertebrate Branch 1 (IVB1)
+L48@P1: Registration Division (7505P)
+L49@P1: Office of Pesticide Programs
+L50@P1-2: Enclosure NOTE to Reviewer: (parenthetical text is informational); [bracketed text is optional or alternate wording].
+L51@P2: Sivad Flea & Tick Shampoo (EPA Reg. No. 69061-12)
+L52@P2: Re-Registration_Master Label, dated March 23, 2015
+L53@P2: Page 1 of 3
+L54@P2: [FRONT PANEL]
+L55@P2: SIVAD
+L56@P2:  Flea & Tick Shampoo™
+L57@P2: FOR DOGS, CATS AND HORSES
+L58@P2: Kills fleas and ticks through contact
+L59@P2: ACTIVE INGREDIENTS:
+L60@P2:  Pyrethrins (CAS# 8003-34-7) ............................................... 0.15%
+L61@P2:  Piperonyl Butoxide* (CAS# 51-03-6) .................................... 0.30%
+L62@P2:  N-Octyl bicycloheptene dicarboximide**
+L63@P2:  (CAS # 113-48-4) ................................................................ 0.50%
+L64@P2: OTHER INGREDIENTS ........................................................ 99.05%
+L65@P2: TOTAL ................................................................................ 100.00%
+L66@P2: * (butyl carbityl) (6-propylpiperonyl) ether and related compounds
+L67@P2: ** MGK®
+L68@P2:  264 Insecticide Synergist
+L69@P2: KEEP OUT OF REACH OF CHILDREN
+L70@P2: WARNING
+L71@P2:  SEE [SIDE] [OTHER] [BACK] PANEL FOR [ADDITIONAL] PRECAUTIONARY STATEMENTS
+L72@P2: EPA REG. NO. 69061-12
+L73@P2: EPA Est. No. 50591-GA-01
+L74@P2: Manufactured by:
+L75@P2: Davis Manufacturing and Packaging Inc.
+L76@P2: 541 Proctor Avenue
+L77@P2: Scottdale, GA 30079
+L78@P2:  800-292-2424
+L79@P2: www.davismfg.com
+L80@P2: Net Contents:
+L81@P2: Batch code:/Lot No.:
+L82@P2: Sep 10, 2015
+L83@P2-3: 69061-12NOTE to Reviewer: (parenthetical text is informational); [bracketed text is optional or alternate wording].
+L84@P3: Sivad Flea & Tick Shampoo (EPA Reg. No. 69061-12)
+L85@P3: Re-Registration_Master Label, dated March 23, 2015
+L86@P3: Page 2 of 3
+L87@P3: [SIDE PANEL]
+L88@P3: Sivad Flea & Tick Shampoo kills fleas and ticks on dogs and cats over 12 weeks of age and on
+L89@P3: horses. It cleans and conditions while leaving the coat shiny and smelling fresh.
+L90@P3: PRECAUTIONARY STATEMENTS
+L91@P3: HAZARDS TO HUMANS AND DOMESTIC ANIMALS
+L92@P3: WARNING
+L93@P3: Causes substantial but temporary eye injury. Causes skin irritation. Do not get in eyes, on skin or
+L94@P3: clothing. Wear goggles or face shield. Harmful if inhaled. Avoid breathing vapors or spray mist.
+L95@P3: Wash thoroughly with soap and water after handling and before eating, drinking, chewing gum,
+L96@P3: using tobacco or using the toilet. Remove clothing immediately if pesticide gets inside. Then wash
+L97@P3: thoroughly and put on clean clothing. Remove and wash contaminated clothing before reuse.
+L98@P3: Wear long-sleeved shirt, long pants, socks plus shoes and chemical-resistant gloves.
+L99@P3: PHYSICAL OR CHEMICAL HAZARDS
+L100@P3: Combustible: Do not use or store near heat or open flame.
+L101@P3: FIRST AID
+L102@P3: IF IN
+L103@P3: EYES
+L104@P3: x Hold eye open and rinse slowly and gently with water for 15-20
+L105@P3: minutes.
+L106@P3: x Remove contact lenses, if present, after the first 5 minutes, then
+L107@P3: continue rinsing eyes.
+L108@P3: x Call a poison control center or doctor for treatment advice.
+L109@P3: IF ON SKIN OR
+L110@P3: ON CLOTHING
+L111@P3: x Take off contaminated clothing immediately.
+L112@P3: x Rinse skin immediately with plenty of water for 15-20 minutes.
+L113@P3: x Call a poison control center or doctor for further treatment advice.
+L114@P3: IF
+L115@P3: INHALED
+L116@P3: x Move person to fresh air.
+L117@P3: x If person is not breathing, call 911 or an ambulance. Then give
+L118@P3: artificial respiration, preferably mouth to mouth if possible.
+L119@P3: x Call a poison control center or doctor for treatment advice.
+L120@P3: Have a product container or label with you when calling a poison control center or doctor, or going
+L121@P3: for treatment. For additional information on this product (including health concerns, medical
+L122@P3: emergencies or pesticide incidents) you may call 1-888-740-8712 or the National Pesticide
+L123@P3: Information Center at 1-800-858-7378.
+L124@P3: DIRECTIONS FOR USE
+L125@P3: It is a violation of Federal law to use this product in a manner inconsistent with its labeling.
+L126@P3: Use Restrictions
+L127@P3: Apply this product only as specified on this label. Do not repeat treatment for 7 days. Do not apply to pets
+L128@P3: less than 12 weeks old. Consult a veterinarian before applying this product on medicated, debilitated, aged,
+L129@P3: pregnant or nursing animals. Certain medications can interact with pesticides. Consult a veterinarian before
+L130@P3: using on medicated animals. Sensitivities may occur after using ANY pesticide product for pets. If signs of
+L131@P3: sensitivity occur, bathe your pet with mild soap and water and rinse with large amounts of water. If signs
+L132@P3-4: continue, consult a veterinarian immediately. NOTE to Reviewer: (parenthetical text is informational); [bracketed text is optional or alternate wording].
+L133@P4: Sivad Flea & Tick Shampoo (EPA Reg. No. 69061-12)
+L134@P4: Re-Registration_Master Label, dated March 23, 2015
+L135@P4: Page 3 of 3
+--------------------------------------------------------------------------------
+US EPA - Label Review Manual (https://www.epa.gov/sites/production/files/documents/label-review-manual.pdf)
+citeturn42view2 [wordlim: 200] Crawled: 5 days ago; Content type: application/pdf; Number of pages: 265; Source: open({"ref_id":"https://www.epa.gov/sites/production/files/documents/label-review-manual.pdf","lineno":null}); Total lines: 9315
+L0@P0: i
+L1@P0: Label Review Manual
+L2@P0: Contents
+L3@P0: Chapter 1: Purpose of the Manual
+L4@P0: I. Purpose ............................................................................................. 1-1
+L5@P0: II. Approach ........................................................................................... 1-1
+L6@P0: III. Availability ....................................................................................... 1-2
+L7@P0: IV. Maintenance/Update ......................................................................... 1-2
+L8@P0: Chapter 2: What Is a Pesticide?
+L9@P0: I. Introduction ....................................................................................... 2-1
+L10@P0: II. Products that are not pesticides ......................................................... 2-1
+L11@P0: III. What makes a product a pesticide? ................................................... 2-5
+L12@P0: IV. Pesticides exempted from registration .............................................. 2-6
+L13@P0: V. Is the product a device and, therefore, not a pesticide? .................... 2-8
+L14@P0: Chapter 3: General Labeling Requirements
+L15@P0: I. Introduction ....................................................................................... 3-1
+L16@P0: II. General information .......................................................................... 3-1
+L17@P0: III. Mandatory and advisory statements.................................................. 3-3
+L18@P0: IV. Types of labels and labeling ............................................................. 3-6
+L19@P0: V. Non-FIFRA labeling ......................................................................... 3-8
+L20@P0: VI. Label submission requirements ........................................................ 3-8
+L21@P0: VII. Label format ...................................................................................... 3-9
+L22@P0: VIII. Final printed labels and labeling ..................................................... 3-11
+L23@P0: Chapter 4: Types of Label Reviews
+L24@P0: I. Introduction ....................................................................................... 4-1
+L25@P0: II. Labels that do not require review...................................................... 4-2
+L26@P0: III. Labels that require review ................................................................. 4-4
+L27@P0: IV. When a use is deleted ...................................................................... 4-10
+L28@P0-1: V. Label resubmissions ........................................................................ 4-10 Label Review Manual
+L29@P1: Contents ii
+L30@P1: Chapter 5: Ingredient Statement
+L31@P1: I. Introduction ....................................................................................... 5-1
+L32@P1: II. What is included in an ingredient statement ..................................... 5-1
+L33@P1: III. Location of ingredient statement ...................................................... 5-2
+L34@P1: IV. Names to be used in the ingredient statement ................................... 5-3
+L35@P1: V. Criteria for determination of pesticidal activity ................................ 5-4
+L36@P1: VI. Statement of concentrations .............................................................. 5-5
+L37@P1: VII. Substatements ................................................................................... 5-7
+L38@P1: VIII. Deterioration ..................................................................................... 5-7
+L39@P1: IX. Specific designations for some ingredient statements ...................... 5-8
+L40@P1: X. Inert ingredients .............................................................................. 5-13
+L41@P1: XI. Alternate formulations .................................................................... 5-14
+L42@P1: Chapter 6: Use Classification
+L43@P1: I. Introduction ....................................................................................... 6-1
+L44@P1: II. Unclassified products ........................................................................ 6-1
+L45@P1: III. Restricted use pesticides (RUP) ........................................................ 6-2
+L46@P1: Chapter 7: Precautionary Statements
+L47@P1: I. Introduction ....................................................................................... 7-1
+L48@P1: II. Background information ................................................................... 7-1
+L49@P1: III. Determining the precautionary labeling ............................................ 7-2
+L50@P1: IV. Labeling options ............................................................................. 7-14
+L51@P1: Chapter 8: Environmental Hazards
+L52@P1: I. Introduction ....................................................................................... 8-1
+L53@P1: II. Reviewing the statements ................................................................. 8-1
+L54@P1: III. General statements ............................................................................ 8-3
+L55@P1: IV. Non-target organism statements ....................................................... 8-7
+L56@P1: V. Mosquito control label statements .................................................... 8-9
+L57@P1: VI. Endangered species protection requirements .................................. 8-12
+L58@P1-2: VII. Miscellaneous statements ............................................................... 8-13 Label Review Manual
+L59@P2: Contents iii
+L60@P2: Chapter 9: Physical or Chemical Hazards
+L61@P2: I. Introduction ....................................................................................... 9-1
+L62@P2: II. Placement of the physical or chemical hazards statement ................ 9-1
+L63@P2: III. Labeling for flammable products ...................................................... 9-1
+L64@P2: IV. Declaration of non-flammability ...................................................... 9-3
+L65@P2: V. Labeling for liquid products used near electrical equipment
+L66@P2: (Dielectric Breakdown Voltage) ....................................................... 9-4
+L67@P2: VI. Labeling for explosive potential ....................................................... 9-4
+L68@P2: VII. Additional label statements for certain fumigants ............................ 9-5
+L69@P2: VIII. Warning statements about mixing certain products .......................... 9-5
+L70@P2: IX. Requirements for use of fire retardant .............................................. 9-6
+L71@P2: X. Other physical/chemical hazard statements ...................................... 9-6
+L72@P2: 
+L73@P2: Chapter 10: Worker Protection Labeling
+L74@P2: I. Introduction ..................................................................................... 10-1
+L75@P2: II. Background ..................................................................................... 10-1
+L76@P2: III. Determination of products subject to the WPS ............................... 10-2
+L77@P2: IV. Signal word ..................................................................................... 10-4
+L78@P2: V. Split labeling for WPS and non-WPS products .............................. 10-4
+L79@P2: VI. Precautionary statements ................................................................ 10-5
+L80@P2: VII. Directions for use .......................................................................... 10-15
+L81@P2: VIII. Determining the correct REI ......................................................... 10-19
+L82@P2: IX. Labeling statements for special situations .................................... 10-22
+L83@P2: X. Sample agricultural use requirements box .................................... 10-24
+L84@P2: Chapter 11: Directions for Use
+L85@P2: I. Introduction ..................................................................................... 11-1
+L86@P2: II. Purpose of directions for use .......................................................... 11-1
+

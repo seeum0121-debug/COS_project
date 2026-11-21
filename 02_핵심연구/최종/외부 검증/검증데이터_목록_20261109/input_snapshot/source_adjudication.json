@@ -1,0 +1,20 @@
+{
+  "reviewed_date": "2026-11-09",
+  "epa_category_reference": "https://www.epa.gov/sites/default/files/2015-09/documents/pr81-3.pdf",
+  "epa_label_reference": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P101DSX3.TXT",
+  "registration_group_reference": "https://www.epa.gov/pesticide-labels/pesticide-labeling-questions-answers",
+  "shampoo": {
+    "69061-12-50591": {"label_basis": "SDS reports ocular effects clearing within 17 days; consistent with source positive binary label. Exact II vs earlier clearance cannot be independently reconstructed without the study time series.", "source_checked": true, "source_page": "4, section 11", "issue": "SDS header also lists CAS 51-03-6 and 113-48-4; amounts are not supplied in the extracted composition. Do not copy amounts from another brand. No resolved input in source CSV."},
+    "1021-1723-12281": {"label_basis": "Manufacturer SDS indexed text states rabbit irritation clearing in 21 days, consistent with EPA II.", "source_checked": true, "source_page": "Manufacturer SDS search-index text; full PDF open failed", "issue": "Manufacturer ingredient sheet calls 0.300% PBO technical: 0.240% main ether plus 0.060% related compounds. Source CSV represents the full nominal amount by one structure; retained as an explicit source approximation.", "additional_url": "https://www.durvet.com/wp-content/uploads/2017/12/Nobite-Shampoo_12oz.pdf"},
+    "270-324": {"label_basis": "SDS section 15 reproduces the FIFRA eye-specific temporary-injury statement supporting EPA II; not inferred from the general WARNING word.", "source_checked": true, "source_page": "7, section 15", "issue": "Only three resolved ingredients; UVCB surfactants and balance missing from molecular representation."},
+    "2724-485": {"label_basis": "SDS FIFRA eye-specific moderate-irritation statement supports EPA III. This strengthens the source CSV rationale, which relied on GHS 2B and CAUTION.", "source_checked": true, "source_page": "8, FIFRA labeling", "issue": "Same primary registration family as Adams Plus 2724-485-270; not two independent products for pooled inference."},
+    "2724-485-270": {"label_basis": "SDS section 15 reproduces the FIFRA eye-specific moderate-irritation statement supporting EPA III; not based on GHS translation alone.", "source_checked": true, "source_page": "7, section 15", "issue": "Same primary registration family as Zodiac 2724-485. SDS alcohol ranges differ, so keep both variants and average within family only for descriptive grouped metrics."}
+  },
+  "cir": {
+    "151-21-3": {"issue": "CAS denotes sodium lauryl sulfate, but supplied SMILES is neutral alkyl sulfuric acid without sodium. Exclude this row from molecular-label comparison until corrected from a verified structure source."},
+    "122-99-6": {"issue": "SCCS original report still shows slight corneal opacity in one animal on day 15; full recovery by day 15 is not established. EPA I vs II is unresolved, but persistence beyond day 7 supports the merged I/II positive endpoint.", "url": "https://health.ec.europa.eu/document/download/64bbaab3-66e2-44b8-817a-3d0e313c3aaf_en?filename=sccs_o_195.pdf", "pages": "10-11"},
+    "56-81-5": {"issue": "CIR supports nonirritating rabbit glycerin tests up to 100%, but the CSV aggregates studies without a unique underlying study identifier.", "url": "https://www.cir-safety.org/sites/default/files/glycer_122014_FR.pdf", "pages": "6 and 17, Table 11"},
+    "general": "Other CIR entries are repository-extracted labels, not all independently readjudicated. Diluted ingredients lack complete vehicles; multiple concentrations/rinsing conditions of one CAS cannot be treated as independent chemicals. A Draize score or mild/moderate adjective alone does not establish EPA recovery-time category."
+  },
+  "zein": "The supplied CSV contains a zein protein-solubilization endpoint. It is not an EPA eye reference label and is excluded from all eye metrics."
+}

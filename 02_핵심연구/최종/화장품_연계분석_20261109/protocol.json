@@ -1,0 +1,28 @@
+{
+  "created_at": "2026-11-08T23:15:20.695435+00:00",
+  "scope": "Cosmetics relevance and input-composition uncertainty, not external cosmetic performance validation.",
+  "write_scope": "C:\\Users\\DS\\COS\\최종\\화장품_연계분석_20261109",
+  "existing_files": "read only; no model refit, threshold retune, Git commit/push, or changes outside this folder",
+  "model": "Frozen Eye A LR weighted mean; threshold and 2265-feature recipe unchanged",
+  "cosmetics_evidence": "Review product category together with product/document title. Exclude industrial misclassification and medical/oral-care scope; separate unclassified plausible cosmetics.",
+  "identity": "Exact checksum-valid CAS matching; no automatic correction of malformed CAS. CIR converted labels are never used as ground truth.",
+  "subgroups": [
+    "original 606 overall",
+    "at least one represented non-water ingredient CAS also reported in screened cosmetic documents",
+    "at least 50% of represented ingredient weight from those non-water cosmetic CAS",
+    "no represented non-water cosmetic CAS overlap"
+  ],
+  "subgroup_selection": "Rules use composition and product identity, never scores/labels. Metrics use saved original nested-CV held-out predictions and original fold thresholds; no retraining.",
+  "subgroup_reporting": "Report unique rows, groups, positive/negative counts and three seed results. AUC undefined for a single class. Flag <20 rows, <10 groups, or <5 of either class as too sparse for stable comparison.",
+  "case_eligibility": "Select before scores: screened cosmetic product, unambiguous discrete structures, usable reported weight bounds, at least two distinct represented structures, feasible sum of disclosed fractions <=1. All omitted/unknown fractions remain unknown.",
+  "case_scope": "If recipe completeness is not independently established, scores describe the normalized disclosed and resolved component representation, not an experimentally characterized complete product.",
+  "uncertainty": "Use only source lower/upper bounds or exact central values; never treat midpoint as measured. Enforce nonnegative mass fractions and disclosed sum <=1. Do not invent water/vehicle amounts.",
+  "bounds": "For all-finite component vectors, frozen LR logit is a linear-fractional function of component amounts. Use constrained linear programming for exact representation score extrema and verify against the model.",
+  "scenarios": "Seeded uniform-within-reported-bounds scenarios conditioned on disclosed sum <=1. Scenario proportions are not biological risk probabilities or statistical confidence intervals.",
+  "limitations": [
+    "No cosmetic assay gold labels",
+    "EPA III/IV negative does not mean no eye irritation",
+    "Source mixture/grade and pH can be unresolved",
+    "No ingredient causal claims or safe formulation optimization"
+  ]
+}

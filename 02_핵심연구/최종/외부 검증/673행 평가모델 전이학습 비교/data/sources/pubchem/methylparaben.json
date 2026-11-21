@@ -1,0 +1,15 @@
+{
+  "request_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/99-76-3/property/ConnectivitySMILES,InChIKey,MolecularFormula/JSON",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 7456,
+          "MolecularFormula": "C8H8O3",
+          "ConnectivitySMILES": "COC(=O)C1=CC=C(C=C1)O",
+          "InChIKey": "LXCFILQKKLGQFO-UHFFFAOYSA-N"
+        }
+      ]
+    }
+  }
+}

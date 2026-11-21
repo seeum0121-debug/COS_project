@@ -1,0 +1,25 @@
+{
+  "status": "blocked_before_training",
+  "trained": false,
+  "endpoint": "zein_binary_not_eye_EPA",
+  "named_chemical_identities": 5,
+  "fully_named_analysis_units": 18,
+  "unique_model_inputs": 6,
+  "component_connected_groups": 4,
+  "scaffold_groups": 1,
+  "scaffolds": {
+    "Lauramine Oxide": "ACYCLIC",
+    "Myristamine Oxide": "ACYCLIC",
+    "Sodium lauryl sulfate": "ACYCLIC",
+    "Disodium Lauroyl Glutamate": "ACYCLIC",
+    "Disodium Capryloyl Glutamate: 30% - 37%": "ACYCLIC"
+  },
+  "reasons": [
+    "All retained named identities are acyclic: one scaffold group; scaffold-disjoint train/test cannot be formed under the existing protocol.",
+    "Absolute active amount and commercial lot composition are not confirmed; nominal ratio is not substituted for amount_pct.",
+    "Final Eye A LR has no ChemBERTa encoder to attach a new head. A separate archived ChemBERTa encoder exists, but using it is a different model lineage."
+  ],
+  "available_separate_encoder": "C:/Users/DS/COS/최종/검증/skin_team_audit_20261108/source/pretraining/best/model.safetensors",
+  "existing_eye_model_modified": false,
+  "next_required": "Obtain verified structures/amounts and data supporting independent evaluation, or explicitly redesign scaffold validation for acyclic surfactants before training. No random-row fallback."
+}

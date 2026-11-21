@@ -1,0 +1,9 @@
+﻿cas,name,score,above_frozen_threshold,threshold,purpose
+123-86-4,아세트산부틸,0.5928299280181938,True,0.4814867474694138,Input plausibility diagnostic only; not a measured irritation label or validated pure-chemical test.
+141-78-6,아세트산에틸,0.5719467200977405,True,0.4814867474694138,Input plausibility diagnostic only; not a measured irritation label or validated pure-chemical test.
+144-55-8,탄산수소나트륨,0.5913963055712922,True,0.4814867474694138,Input plausibility diagnostic only; not a measured irritation label or validated pure-chemical test.
+64-17-5,에탄올,0.5923695339045632,True,0.4814867474694138,Input plausibility diagnostic only; not a measured irritation label or validated pure-chemical test.
+67-63-0,이소프로판올,0.6063702281170329,True,0.4814867474694138,Input plausibility diagnostic only; not a measured irritation label or validated pure-chemical test.
+77-92-9,구연산,0.5633393038347028,True,0.4814867474694138,Input plausibility diagnostic only; not a measured irritation label or validated pure-chemical test.
+7732-18-5,물,0.6308408518233263,True,0.4814867474694138,Input plausibility diagnostic only; not a measured irritation label or validated pure-chemical test.
+7757-82-6,황산나트륨,0.583700799712597,True,0.4814867474694138,Input plausibility diagnostic only; not a measured irritation label or validated pure-chemical test.

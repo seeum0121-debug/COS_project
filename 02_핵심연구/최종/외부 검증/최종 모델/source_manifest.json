@@ -1,0 +1,46 @@
+{
+  "data/sources/HETCAM_appendixB.pdf": {
+    "original_path": "C:\\Users\\DS\\COS\\시행착오\\12. external_validation_search\\sources\\HETCAM_appendixB.pdf",
+    "sha256": "bdb6ace3d95bd5d3616c1b11edd38ae6c8d73b05bfeee29ae6ba0af110ee82b0"
+  },
+  "data/sources/HETCAM_appendixD5.pdf": {
+    "original_path": "C:\\Users\\DS\\COS\\시행착오\\16. cosmetics_transfer_preparation\\sources\\HETCAM_appendixD5.pdf",
+    "sha256": "ae78b59599c9c12f3bdef9b66629edd11331d0f61d913bc548574661bcb26e80"
+  },
+  "data/sources/CTFA53_material_inputs.csv": {
+    "original_path": "C:\\Users\\DS\\COS\\시행착오\\16. cosmetics_transfer_preparation\\tables\\CTFA53_material_inputs.csv",
+    "sha256": "6f9377c3eb09ffda9648029250e046b3965bd12e298363c740ffc5ac42946298"
+  },
+  "data/sources/CTFA53_formulation_registry.csv": {
+    "original_path": "C:\\Users\\DS\\COS\\시행착오\\16. cosmetics_transfer_preparation\\tables\\CTFA53_formulation_registry.csv",
+    "sha256": "4157278819af2ef514abf5458d6ae9f4fd2afe3b069f86e9a6b43ac144ff16d0"
+  },
+  "reference/original_report.pdf": {
+    "original_path": "C:\\Users\\DS\\COS\\최종\\ㅎ.최종정리파일\\전이학습.pdf",
+    "sha256": "3498ca050d99cf64251bd00e43fbd32fe818957a534f658196537a10a102ba9f"
+  },
+  "reference/original_figure.png": {
+    "original_path": "C:\\Users\\DS\\COS\\최종\\ㅎ.최종정리파일\\eye 전이학습 시각화.png",
+    "sha256": "47755595bbae72e700f96a4f7f5d67e59fc2d7ae243281bba7be817bb5a1877d"
+  },
+  "source_model/eye_A_final.joblib": {
+    "original_path": "C:\\Users\\DS\\COS\\최종\\최최종모델\\eye_A_final.joblib",
+    "sha256": "5d5c0532cd12fd00927c9564ee28dc9c95a8bb396a049c705c77dcafaf5b28e5"
+  },
+  "source_model/feature_names.json": {
+    "original_path": "C:\\Users\\DS\\COS\\최종\\최최종모델\\feature_names.json",
+    "sha256": "b462c25e98c9bdb82be24dcf6127446684506fa2587a02ed3af6b1deb1660b55"
+  },
+  "source_model/metadata.json": {
+    "original_path": "C:\\Users\\DS\\COS\\최종\\최최종모델\\metadata.json",
+    "sha256": "6a261f4fc796c4f415162b3a45091efca77f5c5e5752795fdb71004703a3cdb4"
+  },
+  "source_model/predict.py": {
+    "original_path": "C:\\Users\\DS\\COS\\최종\\최최종모델\\predict.py",
+    "sha256": "6126f477fbcc0f911abdf0284019bc64d1a16b908e64a01389765d6586aa6c68"
+  },
+  "source_model/requirements-lock.txt": {
+    "original_path": "C:\\Users\\DS\\COS\\최종\\최최종모델\\requirements-lock.txt",
+    "sha256": "f21b49e339b43d47e92ae8b4ec6cd13fb29f2d3696a8148c118ba0a1b4d86371"
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "US EPA Chemical and Products Database",
+    "url": "https://www.epa.gov/chemical-research/chemical-and-products-database-cpdat",
+    "use": "Chemical/product-use evidence; not assay labels"
+  },
+  {
+    "title": "ChemExpo download terminology",
+    "url": "https://comptox.epa.gov/chemexpo/static/user_guide/download_terminology.html",
+    "use": "Document/chemical identity and composition field interpretation"
+  },
+  {
+    "title": "Johns Manville Expand-O-Flash installation instructions",
+    "url": "https://www.jm.com/content/dam/jm/global/en/commercial-roofing/Installation-Application_Guides/EOF%20EJ%20Installation%20Instructions.pdf",
+    "use": "Roofing/building-joint use supports rejecting adhesive from eye cosmetics"
+  },
+  {
+    "title": "PubChem PUG REST",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/docs/pug-rest",
+    "use": "CAS-to-structure lookup; raw property/synonym responses saved in evidence"
+  }
+]

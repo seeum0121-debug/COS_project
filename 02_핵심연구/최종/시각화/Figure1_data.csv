@@ -1,0 +1,28 @@
+panel,item,endpoint,unit,n,note,source
+A,화장품 성분 인벤토리,공통,성분,15000,CosIng 등재 성분명,European Commission CosIng
+A,+ 독성 정보 연결,공통,성분,7021,부분 수록·큐레이션 진행 중,US EPA CompTox chemical list COSMOSDB
+A,+ in vivo 안자극 정답,안자극,물질,5629,자극 1931 / 비자극 3698,PMC5461467
+A,+ in vivo 피부자극 정답,피부자극,물질,2292,자극 1146 / 비자극 1146,Borba 2022 EHP9341
+A,+ 혼합물 포함,안자극,물질·혼합물,593,810기록 중 혼합물 약 20%,PMC12973229
+A,+ 화장품 제형·전체 배합비,공통,제형,0,조건을 모두 만족하는 공개 자료 없음,본 연구 조사
+B,COSMOS DB (화장품 관련 독성),공통,단일물질,7021,부분 수록·큐레이션 진행 중,US EPA CompTox chemical list COSMOSDB
+B,REACH 마이닝 Draize,안자극,단일물질,5629,자극 1931 / 비자극 3698,PMC5461467
+B,STopTox 안자극 (Table S4),안자극,단일물질,3545,관측 라벨 행,Borba 2022 EHP9341
+B,STopTox 피부자극 균형셋,피부자극,단일물질,2292,자극 1146 / 비자극 1146,Borba 2022 EHP9341
+B,본 연구 — 안자극 제형,안자극,제형(혼합물),673,평가 606 + 증강 67,production데이터/eye_vectorized.csv
+B,본 연구 — 피부자극 제형,피부자극,제형(혼합물),662,,production데이터/skin_vectorized.csv
+B,Cosmetics Europe DRD,안자극,단일물질,634,681 in vivo 연구,Arch Toxicol 2017 doi:10.1007/s00204-016-1679-x
+B,OCUTOXDB,안자극,제형(혼합물) 포함,593,810기록 중 혼합물 약 20%,PMC12973229
+B,ECETOC TR 066 (피부자극·부식),피부자극,단일물질,176,토끼 피부자극·부식 참조 데이터뱅크,ECETOC Technical Report No.66 1995
+B,ChemSkin 참조 DB,피부자극,단일물질,100,in vitro 시험 개발용 참조 화학물질,PMC8625019
+B,CON4EI 평가셋,안자극,단일물질,80,액상 38 / 고상 42; DRD에서 선정,CON4EI
+B,ECETOC 안자극 표준셋,안자극,단일물질,38,OECD TG 405 준거,ECETOC
+C,CosIng 성분 glossary,공통,,,"공개접근=충족; 제형단위=미충족; 농도정보=미충족; 화장품대상=충족; in vivo정답=미충족",European Commission CosIng
+C,COSMOS DB,공통,,,"공개접근=충족; 제형단위=미충족; 농도정보=미충족; 화장품대상=충족; in vivo정답=부분",US EPA CompTox
+C,REACH 마이닝 Draize,안자극,,,"공개접근=충족; 제형단위=미충족; 농도정보=미충족; 화장품대상=미충족; in vivo정답=충족",PMC5461467
+C,STopTox (안자극·피부자극),공통,,,"공개접근=충족; 제형단위=미충족; 농도정보=미충족; 화장품대상=미충족; in vivo정답=충족",Borba 2022 EHP9341
+C,Cosmetics Europe DRD,안자극,,,"공개접근=부분(DB 자유 내려받기 미확인); 제형단위=미충족; 농도정보=미충족; 화장품대상=부분; in vivo정답=충족",Arch Toxicol 2017
+C,OCUTOXDB,안자극,,,"공개접근=충족; 제형단위=부분(혼합물 약 20%); 농도정보=미충족; 화장품대상=미충족; in vivo정답=충족",PMC12973229
+C,ECETOC · ChemSkin · CON4EI,공통,,,"공개접근=충족; 제형단위=미충족; 농도정보=미충족; 화장품대상=미충족; in vivo정답=충족",각 참조셋
+C,화장품 자극성 문헌·포스터,공통,,,"공개접근=충족; 제형단위=충족; 농도정보=부분; 화장품대상=충족; in vivo정답=부분(EPA 호환 정답 확보 0건)",본 연구 전수조사 175건
+C,본 연구 (안 673 · 피 662 제형),공통,,,"공개접근=충족; 제형단위=충족; 농도정보=충족; 화장품대상=미충족(FIFRA 농약 등록자료); in vivo정답=충족",내부 production 입력

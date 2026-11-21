@@ -1,0 +1,4 @@
+﻿registration_group,product,n_products,label,score,score_low,score_high,prediction,aggregation,correct
+1021-1723,No-Bite Flea & Tick Shampoo,1,1,0.41547359114716714,0.41547359114716714,0.41547359114716714,0,unweighted mean of member midpoint scores; descriptive only,False
+270-324,Adams Flea & Tick Cleansing Shampoo,1,1,0.44815037531973445,0.43349967335062234,0.45980574656988427,0,unweighted mean of member midpoint scores; descriptive only,False
+2724-485,Zodiac Oatmeal Conditioning Shampoo for Dogs & Puppies | Adams Plus Flea & Tick Shampoo with Precor,2,0,0.4865269732784079,0.4675355359355214,0.5032404927935574,1,unweighted mean of member midpoint scores; descriptive only,False

@@ -1,0 +1,53 @@
+{
+  "status": "reference_metrics_mismatch",
+  "user_requirement_met": false,
+  "original_artifacts_recovered": false,
+  "expected": {
+    "rows": 16,
+    "feature_groups": 15,
+    "correct": 13,
+    "confusion_matrix": [
+      [
+        3,
+        2
+      ],
+      [
+        1,
+        10
+      ]
+    ],
+    "MCC": 0.5449492609130661,
+    "ROC_AUC": 0.7636363636363637
+  },
+  "observed": {
+    "rows": 16,
+    "feature_groups": 15,
+    "correct": 14,
+    "confusion_matrix": [
+      [
+        3,
+        2
+      ],
+      [
+        0,
+        11
+      ]
+    ],
+    "MCC": 0.7125253031944253,
+    "ROC_AUC": 0.7636363636363637
+  },
+  "checks": {
+    "rows": true,
+    "feature_groups": true,
+    "correct": false,
+    "confusion_matrix": false,
+    "MCC": false,
+    "ROC_AUC": true
+  },
+  "note": "Aggregate agreement alone cannot establish original-model reproduction. Original mapping, code and held-out predictions are still required.",
+  "required_original_artifacts": [
+    "cosmetic_validation/test_evidence_collection/eye_partial_transfer/",
+    "세팅/생성스크립트/run_gettings_eye_partial_transfer.py"
+  ],
+  "existing_model_disposition": "Retained as an unaccepted reconstruction; no score, threshold or label changed."
+}

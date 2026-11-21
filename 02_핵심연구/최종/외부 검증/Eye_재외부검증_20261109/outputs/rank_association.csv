@@ -1,0 +1,4 @@
+﻿analysis,n,spearman_day7,spearman_auc_days1_7,interpretation
+all_15_related_cases,15,-0.5698961337724598,-0.5519748717041436,Descriptive endpoint consistency; not EPA classifier accuracy; no independent-sample p-value
+unique_represented_inputs,13,-0.7252747252747254,-0.6648351648351648,Descriptive endpoint consistency; not EPA classifier accuracy; no independent-sample p-value
+unique_inputs_without_training_feature_match,13,-0.7252747252747254,-0.6648351648351648,Descriptive endpoint consistency; not EPA classifier accuracy; no independent-sample p-value

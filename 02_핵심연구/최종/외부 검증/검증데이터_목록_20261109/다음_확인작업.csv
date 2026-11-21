@@ -1,0 +1,113 @@
+﻿case_id,dataset,name,priority,conflict_flags,next_action,source_url,grouping_key
+Q_T1_C1,4급암모늄 특허,표 1 / 조건 1 (FMB),P1,,동물별 각 조직 점수·회복/부식 여부 및 원시험 번호 확보; stock 성분과 중화 상태·투여량 확인,https://patents.google.com/patent/US6583181B1/en,PATENT:US6583181B1
+Q_T1_C2,4급암모늄 특허,표 1 / 조건 2 (FMB),P1,1일 평균값: 표 41.7 / 본문 47.1 불일치; 기존 분석은 표 41.7 유지,동물별 각 조직 점수·회복/부식 여부 및 원시험 번호 확보; stock 성분과 중화 상태·투여량 확인,https://patents.google.com/patent/US6583181B1/en,PATENT:US6583181B1
+Q_T2_C1,4급암모늄 특허,표 2 / 조건 1 (DDAC),P1,,동물별 각 조직 점수·회복/부식 여부 및 원시험 번호 확보; stock 성분과 중화 상태·투여량 확인,https://patents.google.com/patent/US6583181B1/en,PATENT:US6583181B1
+Q_T2_C2,4급암모늄 특허,표 2 / 조건 2 (DDAC),P1,,동물별 각 조직 점수·회복/부식 여부 및 원시험 번호 확보; stock 성분과 중화 상태·투여량 확인,https://patents.google.com/patent/US6583181B1/en,PATENT:US6583181B1
+Q_T2_C3,4급암모늄 특허,표 2 / 조건 3 (MB),P1,,동물별 각 조직 점수·회복/부식 여부 및 원시험 번호 확보; stock 성분과 중화 상태·투여량 확인,https://patents.google.com/patent/US6583181B1/en,PATENT:US6583181B1
+Q_T2_C4,4급암모늄 특허,표 2 / 조건 4 (MB),P1,,동물별 각 조직 점수·회복/부식 여부 및 원시험 번호 확보; stock 성분과 중화 상태·투여량 확인,https://patents.google.com/patent/US6583181B1/en,PATENT:US6583181B1
+Q_T2_C5,4급암모늄 특허,표 2 / 조건 5 (MB),P1,,동물별 각 조직 점수·회복/부식 여부 및 원시험 번호 확보; stock 성분과 중화 상태·투여량 확인,https://patents.google.com/patent/US6583181B1/en,PATENT:US6583181B1
+Q_T2_C6,4급암모늄 특허,표 2 / 조건 6 (MB),P1,,동물별 각 조직 점수·회복/부식 여부 및 원시험 번호 확보; stock 성분과 중화 상태·투여량 확인,https://patents.google.com/patent/US6583181B1/en,PATENT:US6583181B1
+Q_T2_C7,4급암모늄 특허,표 2 / 조건 7 (MX),P1,,동물별 각 조직 점수·회복/부식 여부 및 원시험 번호 확보; stock 성분과 중화 상태·투여량 확인,https://patents.google.com/patent/US6583181B1/en,PATENT:US6583181B1
+Q_T2_C8,4급암모늄 특허,표 2 / 조건 8 (MX),P1,,동물별 각 조직 점수·회복/부식 여부 및 원시험 번호 확보; stock 성분과 중화 상태·투여량 확인,https://patents.google.com/patent/US6583181B1/en,PATENT:US6583181B1
+Q_T3_C1,4급암모늄 특허,표 3 / 조건 1 (MB),P1,,동물별 각 조직 점수·회복/부식 여부 및 원시험 번호 확보; stock 성분과 중화 상태·투여량 확인,https://patents.google.com/patent/US6583181B1/en,PATENT:US6583181B1
+Q_T3_C2,4급암모늄 특허,표 3 / 조건 2 (MB),P1,,동물별 각 조직 점수·회복/부식 여부 및 원시험 번호 확보; stock 성분과 중화 상태·투여량 확인,https://patents.google.com/patent/US6583181B1/en,PATENT:US6583181B1
+Q_T3_C3,4급암모늄 특허,표 3 / 조건 3 (MB),P1,,동물별 각 조직 점수·회복/부식 여부 및 원시험 번호 확보; stock 성분과 중화 상태·투여량 확인,https://patents.google.com/patent/US6583181B1/en,PATENT:US6583181B1
+Q_T3_C4,4급암모늄 특허,표 3 / 조건 4 (MB),P1,,동물별 각 조직 점수·회복/부식 여부 및 원시험 번호 확보; stock 성분과 중화 상태·투여량 확인,https://patents.google.com/patent/US6583181B1/en,PATENT:US6583181B1
+Q_T3_C5,4급암모늄 특허,표 3 / 조건 5 (MB),P1,,동물별 각 조직 점수·회복/부식 여부 및 원시험 번호 확보; stock 성분과 중화 상태·투여량 확인,https://patents.google.com/patent/US6583181B1/en,PATENT:US6583181B1
+Q_T4_C1,4급암모늄 특허,표 4 / 조건 1 (상업원료 대응 보류),P1,상업원료 머리글 대응 미확인,원본 PDF Table 4 병합 머리글의 제품명·열 대응 확인; 원료 조성 및 동물별 조직 점수 확보,https://patents.google.com/patent/US6583181B1/en,PATENT:US6583181B1
+Q_T4_C2,4급암모늄 특허,표 4 / 조건 2 (상업원료 대응 보류),P1,상업원료 머리글 대응 미확인,원본 PDF Table 4 병합 머리글의 제품명·열 대응 확인; 원료 조성 및 동물별 조직 점수 확보,https://patents.google.com/patent/US6583181B1/en,PATENT:US6583181B1
+Q_T4_C3,4급암모늄 특허,표 4 / 조건 3 (상업원료 대응 보류),P1,상업원료 머리글 대응 미확인,원본 PDF Table 4 병합 머리글의 제품명·열 대응 확인; 원료 조성 및 동물별 조직 점수 확보,https://patents.google.com/patent/US6583181B1/en,PATENT:US6583181B1
+Q_T4_C4,4급암모늄 특허,표 4 / 조건 4 (상업원료 대응 보류),P1,상업원료 머리글 대응 미확인,원본 PDF Table 4 병합 머리글의 제품명·열 대응 확인; 원료 조성 및 동물별 조직 점수 확보,https://patents.google.com/patent/US6583181B1/en,PATENT:US6583181B1
+Q_T4_C5,4급암모늄 특허,표 4 / 조건 5 (상업원료 대응 보류),P1,상업원료 머리글 대응 미확인,원본 PDF Table 4 병합 머리글의 제품명·열 대응 확인; 원료 조성 및 동물별 조직 점수 확보,https://patents.google.com/patent/US6583181B1/en,PATENT:US6583181B1
+Q_T4_C6,4급암모늄 특허,표 4 / 조건 6 (상업원료 대응 보류),P1,상업원료 머리글 대응 미확인,원본 PDF Table 4 병합 머리글의 제품명·열 대응 확인; 원료 조성 및 동물별 조직 점수 확보,https://patents.google.com/patent/US6583181B1/en,PATENT:US6583181B1
+CIR_row_50,CIR,Sodium Lauryl Sulfate,P1,CAS–SMILES 염 형태 불일치,검증된 SLS 나트륨염 구조 확인; 원문 농도·세척별 피부/눈 결과 대조 후 EPA 재판정,,CAS:151-21-3
+CIR_row_51,CIR,Sodium Lauryl Sulfate,P1,세척 조건별 시험 분리 필요 | CAS–SMILES 염 형태 불일치,검증된 SLS 나트륨염 구조 확인; 원문 농도·세척별 피부/눈 결과 대조 후 EPA 재판정,,CAS:151-21-3
+CIR_row_52,CIR,Sodium Lauryl Sulfate,P1,세척 조건별 시험 분리 필요 | CAS–SMILES 염 형태 불일치,검증된 SLS 나트륨염 구조 확인; 원문 농도·세척별 피부/눈 결과 대조 후 EPA 재판정,,CAS:151-21-3
+CIR_row_53,CIR,Sodium Lauryl Sulfate,P1,세척 조건별 시험 분리 필요 | CAS–SMILES 염 형태 불일치,검증된 SLS 나트륨염 구조 확인; 원문 농도·세척별 피부/눈 결과 대조 후 EPA 재판정,,CAS:151-21-3
+SDS_1021_1723_12281,제품 SDS,No-Bite Flea & Tick Shampoo,P1,SKIN 원래 III/0와 공식 라벨 II 대응 문구/1 불일치,최우선: SKIN III 환산 근거를 공식 피부 자극 문구·원시험과 대조; 배합 버전 연결 후 판정. 등록 배합 버전·원시험 번호 연결; 눈/피부 각각 원시험 점수·회복자료 확보; 전체 배합과 시험 희석률·시험 pH 확인,https://www.durvet.com/wp-content/uploads/2017/12/No_Bite-Flea-and-Tick-Shampoo_DV_neogen_sds_7_6_2015.pdf,EPA_BASIC:1021-1723
+SDS_270_324,제품 SDS,Adams Flea & Tick Cleansing Shampoo,P1,,등록 배합 버전·원시험 번호 연결; 눈/피부 각각 원시험 점수·회복자료 확보; 전체 배합과 시험 희석률·시험 pH 확인,https://labelsds.com/images/user_uploads/Adams%20F%20and%20T%20Cleansing%20SDS%209-28-23.pdf,EPA_BASIC:270-324
+SDS_2724_485,제품 SDS,Zodiac Oatmeal Conditioning Shampoo for Dogs & Puppies,P1,,등록 배합 버전·원시험 번호 연결; 눈/피부 각각 원시험 점수·회복자료 확보; 전체 배합과 시험 희석률·시험 pH 확인,https://labelsds.com/images/user_uploads/Zodiac%20Shampoo%20-%20Puppy-Dog%20SDS%206-24-16.pdf,EPA_BASIC:2724-485
+SDS_2724_485_270,제품 SDS,Adams Plus Flea & Tick Shampoo with Precor,P1,,등록 배합 버전·원시험 번호 연결; 눈/피부 각각 원시험 점수·회복자료 확보; 전체 배합과 시험 희석률·시험 pH 확인,https://pdf.lowes.com/productdocuments/6bba45d9-6f5a-4d63-837f-6e3a07a1bf05/44866530.pdf,EPA_BASIC:2724-485
+SDS_69061_12_50591,제품 SDS,Davis Manufacturing Flea & Tick Shampoo,P1,SKIN 원래 III/0와 공식 라벨 II 대응 문구/1 불일치,최우선: SKIN III 환산 근거를 공식 피부 자극 문구·원시험과 대조; 배합 버전 연결 후 판정. 등록 배합 버전·원시험 번호 연결; 눈/피부 각각 원시험 점수·회복자료 확보; 전체 배합과 시험 희석률·시험 pH 확인,https://davismfg.com/medias/Flea%20Tick%20Shampoo%2005%2028%202025.pdf,EPA_BASIC:69061-12
+Zodiac_2724_792,제품 SDS,Zodiac Flea & Tick Shampoo for Dogs & Cats,P1,,원시험 번호·배합 버전 연결 및 전체 배합·시험 희석률·시험 pH 확보,https://www.domyown.com/msds/Zodiac_Flea_and_Tick_Shampoo_for_Dogs_and_Cats_SDS_2020.pdf,EPA_BASIC:2724-792
+CIR_row_1,CIR,Cocamidopropyl Betaine,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:61789-40-0
+CIR_row_10,CIR,Lauramide DEA,P2,반복/누적시험—급성 endpoint 적합성 검토,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:120-40-1
+CIR_row_11,CIR,Lauramide DEA,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:120-40-1
+CIR_row_12,CIR,Lauramide DEA,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:120-40-1
+CIR_row_13,CIR,Lauramide DEA,P2,농도 범위가 단일값으로 요약됨,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:120-40-1
+CIR_row_14,CIR,Lauramide DEA,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:120-40-1
+CIR_row_15,CIR,Oleamide DEA,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:5299-69-4
+CIR_row_16,CIR,Oleamide DEA,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:5299-69-4
+CIR_row_17,CIR,Acetamide MEA,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:142-26-7
+CIR_row_18,CIR,Stearamide MEA,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:111-57-9
+CIR_row_19,CIR,Propylene Glycol,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:57-55-6
+CIR_row_2,CIR,Cocamidopropyl Betaine,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:61789-40-0
+CIR_row_20,CIR,Propylene Glycol,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:57-55-6
+CIR_row_21,CIR,Glycerin,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,https://www.cir-safety.org/sites/default/files/glycer_122014_FR.pdf,CAS:56-81-5
+CIR_row_22,CIR,Glycerin,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,https://www.cir-safety.org/sites/default/files/glycer_122014_FR.pdf,CAS:56-81-5
+CIR_row_23,CIR,Triethylene Glycol,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:112-27-6
+CIR_row_24,CIR,Triethylene Glycol,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:112-27-6
+CIR_row_25,CIR,Methylparaben,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:99-76-3
+CIR_row_26,CIR,Methylparaben,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:99-76-3
+CIR_row_27,CIR,Propylparaben,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:94-13-3
+CIR_row_28,CIR,Propylparaben,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:94-13-3
+CIR_row_29,CIR,Butylparaben,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:94-26-8
+CIR_row_3,CIR,Cocamidopropyl Betaine,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:61789-40-0
+CIR_row_30,CIR,Phenoxyethanol,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,https://health.ec.europa.eu/document/download/64bbaab3-66e2-44b8-817a-3d0e313c3aaf_en?filename=sccs_o_195.pdf,CAS:122-99-6
+CIR_row_31,CIR,Phenoxyethanol,P2,회복 시점 서술 재확인—15일 완전 회복으로 단정 금지,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,https://health.ec.europa.eu/document/download/64bbaab3-66e2-44b8-817a-3d0e313c3aaf_en?filename=sccs_o_195.pdf,CAS:122-99-6
+CIR_row_32,CIR,Benzyl Alcohol,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:100-51-6
+CIR_row_33,CIR,Benzoic Acid,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:65-85-0
+CIR_row_34,CIR,Sodium Benzoate,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:532-32-1
+CIR_row_35,CIR,Bronopol,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:52-51-7
+CIR_row_36,CIR,Bronopol,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:52-51-7
+CIR_row_37,CIR,Bronopol,P2,세척 조건별 시험 분리 필요,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:52-51-7
+CIR_row_38,CIR,Bronopol,P2,세척 조건별 시험 분리 필요,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:52-51-7
+CIR_row_39,CIR,Methylisothiazolinone,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:2682-20-4
+CIR_row_4,CIR,Cocamidopropyl Betaine,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:61789-40-0
+CIR_row_40,CIR,Methylisothiazolinone,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:2682-20-4
+CIR_row_41,CIR,Methylisothiazolinone,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:2682-20-4
+CIR_row_42,CIR,Cetyl Alcohol,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:36653-82-4
+CIR_row_43,CIR,Stearyl Alcohol,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:112-92-5
+CIR_row_44,CIR,Stearyl Alcohol,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:112-92-5
+CIR_row_45,CIR,Cetrimonium Chloride,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:112-02-7
+CIR_row_46,CIR,Cetrimonium Chloride,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:112-02-7
+CIR_row_47,CIR,Behentrimonium Chloride,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:17301-53-0
+CIR_row_48,CIR,Behentrimonium Chloride,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:17301-53-0
+CIR_row_49,CIR,Behentrimonium Chloride,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:17301-53-0
+CIR_row_5,CIR,Cocamidopropyl Betaine,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:61789-40-0
+CIR_row_54,CIR,MCI/MI mixture (3:1),P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:26172-55-4;2682-20-4
+CIR_row_55,CIR,MCI/MI mixture (3:1),P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:26172-55-4;2682-20-4
+CIR_row_56,CIR,MCI/MI mixture (3:1),P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:26172-55-4;2682-20-4
+CIR_row_57,CIR,MCI/MI mixture (3:1),P2,반복/누적시험—급성 endpoint 적합성 검토,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:26172-55-4;2682-20-4
+CIR_row_58,CIR,MCI/MI mixture (3:1),P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:26172-55-4;2682-20-4
+CIR_row_59,CIR,Butylene Glycol,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:107-88-0
+CIR_row_6,CIR,Cocamidopropyl Betaine,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:61789-40-0
+CIR_row_60,CIR,Sorbic Acid,P2,농도 상한·다중 시험 요약 가능 | 반복/누적시험—급성 endpoint 적합성 검토,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:110-44-1
+CIR_row_61,CIR,Sorbic Acid,P2,농도 상한·다중 시험 요약 가능,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:110-44-1
+CIR_row_62,CIR,Potassium Sorbate,P2,농도 상한·다중 시험 요약 가능,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:24634-61-5
+CIR_row_63,CIR,Potassium Sorbate,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:24634-61-5
+CIR_row_64,CIR,Tea Tree Oil,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:68647-73-4
+CIR_row_65,CIR,Tea Tree Oil,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:68647-73-4
+CIR_row_66,CIR,Tea Tree Oil,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:68647-73-4
+CIR_row_67,CIR,Tea Tree Oil,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:68647-73-4
+CIR_row_68,CIR,Propylparaben,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:94-13-3
+CIR_row_69,CIR,Propylparaben,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:94-13-3
+CIR_row_7,CIR,Cocamidopropyl Betaine,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:61789-40-0
+CIR_row_70,CIR,Octocrylene,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:6197-30-4
+CIR_row_71,CIR,Octocrylene,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:6197-30-4
+CIR_row_72,CIR,Homosalate,P2,농도 상한·다중 시험 요약 가능,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:118-56-9
+CIR_row_73,CIR,Homosalate,P2,농도 상한·다중 시험 요약 가능,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:118-56-9
+CIR_row_74,CIR,Avobenzone,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:70356-09-1
+CIR_row_75,CIR,Avobenzone,P2,반복/누적시험—급성 endpoint 적합성 검토,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:70356-09-1
+CIR_row_76,CIR,Avobenzone,P2,농도 상한·다중 시험 요약 가능,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:70356-09-1
+CIR_row_77,CIR,Sodium Laureth Sulfate,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:9004-82-4
+CIR_row_78,CIR,Sodium Laureth Sulfate,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:9004-82-4
+CIR_row_8,CIR,Cocamidopropyl Betaine,P2,세척 조건별 시험 분리 필요,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:61789-40-0
+CIR_row_9,CIR,Lauramide DEA,P2,,원보고서의 해당 시험 표·페이지와 원시험 번호 확보; 농도·기제·세척 조건 대조; endpoint별 EPA 기준 재판정,,CAS:120-40-1
+SH_Example1,샴푸 특허,US4992266A Example 1,P2,,원료별 상세 조성·분포/분자량과 시험 투여조건 확보; 동물별 조직점수·7일 이후 회복 자료 확인,https://patents.google.com/patent/US4992266A/en,PATENT:US4992266A
+SH_Example2,샴푸 특허,US4992266A Example 2,P2,,원료별 상세 조성·분포/분자량과 시험 투여조건 확보; 동물별 조직점수·7일 이후 회복 자료 확인,https://patents.google.com/patent/US4992266A/en,PATENT:US4992266A
+SH_Example3,샴푸 특허,US4992266A Example 3,P2,,원료별 상세 조성·분포/분자량과 시험 투여조건 확보; 동물별 조직점수·7일 이후 회복 자료 확인,https://patents.google.com/patent/US4992266A/en,PATENT:US4992266A
+SH_Example4,샴푸 특허,US4992266A Example 4,P2,,원료별 상세 조성·분포/분자량과 시험 투여조건 확보; 동물별 조직점수·7일 이후 회복 자료 확인,https://patents.google.com/patent/US4992266A/en,PATENT:US4992266A
+SH_Example5,샴푸 특허,US4992266A Example 5,P2,,원료별 상세 조성·분포/분자량과 시험 투여조건 확보; 동물별 조직점수·7일 이후 회복 자료 확인,https://patents.google.com/patent/US4992266A/en,PATENT:US4992266A
+SH_Example6,샴푸 특허,US4992266A Example 6,P2,,원료별 상세 조성·분포/분자량과 시험 투여조건 확보; 동물별 조직점수·7일 이후 회복 자료 확인,https://patents.google.com/patent/US4992266A/en,PATENT:US4992266A
+SH_Example7,샴푸 특허,US4992266A Example 7,P2,,원료별 상세 조성·분포/분자량과 시험 투여조건 확보; 동물별 조직점수·7일 이후 회복 자료 확인,https://patents.google.com/patent/US4992266A/en,PATENT:US4992266A

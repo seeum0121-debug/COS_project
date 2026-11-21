@@ -1,0 +1,6 @@
+{
+  "reason": "sklearn constant imputer stores numeric zero statistics with object dtype; convert to float for numerical equality without changing values or tolerance",
+  "frozen_auditor_sha256": "70e56bd6b378ea13759dc2607d913b8eaaac82970a28148db562f3af764697e5",
+  "corrected_auditor_sha256": "56f9d92b619a0fc9263213c5a3582191018071580c6dbe8bb47518728d91fcb8",
+  "training_code_changed": false
+}

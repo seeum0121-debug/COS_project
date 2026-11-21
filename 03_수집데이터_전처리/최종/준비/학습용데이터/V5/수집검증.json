@@ -1,0 +1,19 @@
+{
+  "status": "passed_local_consistency_checks",
+  "date": "2026-11-06",
+  "sources": 20,
+  "products": 10,
+  "ingredients": 63,
+  "puc_display_rows": 454,
+  "download_links": 31,
+  "ppis_schema_rows": 18,
+  "evidence_references_exist": true,
+  "foreign_key_integrity": true,
+  "range_bounds_checked": true,
+  "no_inferred_epa_values": true,
+  "quarantined_conflict_preserved": true,
+  "xlsx_reopened_row_counts_match": true,
+  "network_download_success_verified": false,
+  "bulk_original_files_saved": 0,
+  "source_factual_correctness": "Reviewed extracts; not independent laboratory validation"
+}

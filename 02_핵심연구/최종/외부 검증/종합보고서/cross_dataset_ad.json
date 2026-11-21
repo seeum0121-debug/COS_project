@@ -1,0 +1,69 @@
+{
+  "training_distance_percentiles": {
+    "p50": 0.7801,
+    "p75": 0.9966,
+    "p90": 1.2266,
+    "p95": 1.4454
+  },
+  "datasets": {
+    "quat_mixture": {
+      "source": "US6583181B1 Tables 1-4",
+      "n": 15,
+      "distance_min": 0.4432,
+      "distance_median": 5.8747,
+      "distance_max": 9.6475,
+      "pct_beyond_training_p95": 53.3,
+      "ad_stratified": [
+        {
+          "ad_cut": "전체",
+          "n": 15,
+          "spearman_day7": -0.5699,
+          "p_value": 0.0266
+        },
+        {
+          "ad_cut": "p50",
+          "n": 2,
+          "spearman_day7": null,
+          "p_value": null
+        },
+        {
+          "ad_cut": "p75",
+          "n": 2,
+          "spearman_day7": null,
+          "p_value": null
+        },
+        {
+          "ad_cut": "p90",
+          "n": 7,
+          "spearman_day7": 0.1482,
+          "p_value": 0.751
+        },
+        {
+          "ad_cut": "p95",
+          "n": 7,
+          "spearman_day7": 0.1482,
+          "p_value": 0.751
+        }
+      ]
+    },
+    "lechuga_surfactant": {
+      "source": "Lechuga et al. 2025 ACS Omega",
+      "n_mixture": 103,
+      "n_single": 60,
+      "distance_min": 0.8531,
+      "distance_median": 1.2882,
+      "distance_max": 6.5494,
+      "pct_beyond_training_p95": 41.1
+    },
+    "flea_tick_shampoo": {
+      "source": "EPA 등록 벼룩·진드기 샴푸 라벨",
+      "n_feature_rows": 4,
+      "n_prediction_rows": 5,
+      "distance_min": 0.4399,
+      "distance_median": 0.498,
+      "distance_max": 0.8469,
+      "pct_beyond_training_p95": 0.0,
+      "caveat": "입력에 반영된 조성이 0.779~3.93%뿐이라 거리 자체의 해석이 제한적"
+    }
+  }
+}

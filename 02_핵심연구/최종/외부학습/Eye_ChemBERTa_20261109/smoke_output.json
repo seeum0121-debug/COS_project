@@ -1,0 +1,9 @@
+{
+  "endpoint": "eye_epa",
+  "label_definition": "1=EPA I/II; 0=EPA III/IV, not no irritation",
+  "score": 0.04189194952611122,
+  "prediction": 0,
+  "threshold": 0.5,
+  "validation_scope": "internal_group_holdout_only",
+  "warning": "Research only; disclose all represented components; do not infer missing structure or treat score as calibrated risk"
+}

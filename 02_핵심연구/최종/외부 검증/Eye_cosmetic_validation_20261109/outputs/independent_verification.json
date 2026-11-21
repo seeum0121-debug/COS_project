@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "independently_rebuilt_shampoo_vectors": 4,
+  "manual_confusion_counts": {
+    "TP": 0,
+    "TN": 0,
+    "FP": 2,
+    "FN": 2
+  },
+  "pairwise_AUC": 0.0,
+  "registration_groups": 3,
+  "range_flip_products": 2,
+  "original_model_package_checksums_unchanged": true,
+  "saved_model_regression_cases": 6,
+  "CIR_no_invented_dilution_vehicle": true
+}

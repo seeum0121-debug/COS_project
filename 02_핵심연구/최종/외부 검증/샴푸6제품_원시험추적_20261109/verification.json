@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "check_count": 19,
+  "checks": [
+    "six unique products; five registration families",
+    "no invented gold labels or test conditions",
+    "all formal evaluations remain held",
+    "MRID endpoint counts",
+    "all MRIDs found in retained EPA bibliography evidence",
+    "MRIDs not administrative IDs",
+    "study citations do not assert report access",
+    "review mentions do not assert report access",
+    "CSF existence not upgraded to content/match",
+    "two explicit dated review leads",
+    "version chronology does not assign 2017 CSF to 2016 SDS",
+    "all product document IDs link",
+    "source unchanged: 검증용_데이터목록.csv",
+    "source unchanged: 출처목록.csv",
+    "source unchanged: input_snapshot.csv",
+    "model unchanged",
+    "saved workbook row counts",
+    "saved workbook no active formulas",
+    "offline report local links resolve"
+  ],
+  "scope": "자료 연결과 보존·보고서 구조 확인; 독성 결과를 새로 검증했다는 뜻은 아님"
+}

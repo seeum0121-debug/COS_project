@@ -1,0 +1,15 @@
+{
+  "request_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/60-00-4/property/ConnectivitySMILES,InChIKey,MolecularFormula/JSON",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 6049,
+          "MolecularFormula": "C10H16N2O8",
+          "ConnectivitySMILES": "C(CN(CC(=O)O)CC(=O)O)N(CC(=O)O)CC(=O)O",
+          "InChIKey": "KCXVZYZYPLLWCC-UHFFFAOYSA-N"
+        }
+      ]
+    }
+  }
+}

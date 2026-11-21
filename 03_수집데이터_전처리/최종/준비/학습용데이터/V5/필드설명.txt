@@ -1,0 +1,32 @@
+﻿공통 필드
+source_id: 공개자료원.csv와 연결되는 자료원 식별자.
+product_id: 제품목록.csv와 연결되는 이 수집의 문서/처방 식별자. 외부 공식 ID가 아님.
+ingredient_row_id: 성분 행 식별자.
+source_url: 직접 열람/확인한 원문 주소. 날짜별 내용은 바뀔 수 있음.
+evidence_file: 조사 당시 보존한 웹 도구 응답 텍스트의 상대 경로.
+source_location: PDF 페이지 또는 웹 도구 텍스트의 줄 위치. PDF 페이지는 1부터 표기.
+retrieved_date: 이번 수집 기준일. 웹 검색의 캐시 시점과 원문 문서 개정일은 별개.
+concentration_raw: 원문 함량 표시. 미공개는 빈칸.
+unit_raw: 원문 단위/기준; 질량%로 일괄 변환하지 않음.
+value_min/value_max: 원문 숫자만 추출. 범위 중간값을 생성하지 않음. 충돌 값은 비움.
+alternate_strength_raw: 동일 라벨의 다른 표기 방식. 상충 값도 그대로 보존.
+concentration_basis: 이번 성분 행은 최종 제품/처방 기준. 투입 원료 용액 비율을 기록한 것이 아님.
+cas_raw: 원문 CAS. 외부 이름 매핑으로 추정하지 않음.
+unii: 원문 UNII. CAS 필드와 별도.
+quality_status: extracted_reported 또는 quarantine_product.
+skin_epa/eye_epa: 확인된 실제 시험 등급이 없어 이번 수집에서는 모두 null.
+full_recipe_confirmed: 전체 정량 처방 확인 여부. 이번 10개 행은 false.
+default_download: downloader가 --id 없이 --download 실행할 때 선택하는지 여부.
+original_file_saved/local_original_path/local_sha256: 원본 HTTP 파일 바이트에 대한 확보 상태.
+  추출 텍스트 보존을 원본 다운로드 성공으로 기록하지 않음.
+priority: 조사 목적에 대한 정성적 추천 A/B/C. 공식 기관의 품질 점수가 아님.
+
+CSV 빈 문자열과 JSON null
+결측은 CSV 빈칸, JSON null로 표현합니다. 숫자 0과 구별해야 합니다.
+문자열 식별자는 선행 0을 보존합니다. Excel 자동 숫자 변환을 피하려면 XLSX를 사용하세요.
+
+PPIS 파일스키마
+start_1_based/end_inclusive는 공식 2021 데이터 사전의 고정 폭 위치입니다.
+원본 파일을 확보하지 못해 현재 릴리스의 실제 레이아웃과 대조하지 못했습니다.
+PC_PCT 소수점 표기/스케일을 파일 내용에서 확인하기 전 임의로 10000으로 나누지 마세요.
+CHEMCAS는 PC_CODE와 CAS의 다대다 관계이므로 단일 CAS를 임의 선택하지 마세요.

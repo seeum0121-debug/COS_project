@@ -1,0 +1,11 @@
+{
+  "rows": 673,
+  "eligible_rows": 653,
+  "unique_smiles": 283,
+  "encoded_smiles": 280,
+  "encoder_frozen": true,
+  "encoder_dim": 384,
+  "torch": "2.15.0+cpu",
+  "encoder_sha256": "8bfea57ec448ee11aa37e6c046f2c750a404b24d2d61cd62515a9af9b946dfd4",
+  "upstream_pretraining_overlap": "unknown"
+}

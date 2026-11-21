@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "checksummed_files": 95,
+  "source_feature_recipe_max_abs_error": 0.0,
+  "source_preprocessing_unchanged": true,
+  "held_out_fold_models_checked": 30,
+  "each_row_predicted_once_per_method": true,
+  "held_out_group_leakage": false,
+  "metrics_recalculated": true,
+  "objective_gradient_finite_difference_checked": true,
+  "final_fit_gradient_max_abs": 1.6765196092505263e-08,
+  "invalid_inputs_rejected": 8,
+  "cli_from_other_directory": true,
+  "original_model_recovered": false,
+  "scope": "software and reconstruction checks; no independent external validation"
+}
