@@ -6,6 +6,7 @@ import json
 import shutil
 import tempfile
 import zipfile
+from contextlib import contextmanager
 from pathlib import Path
 
 
@@ -14,6 +15,33 @@ def safe_path(root, relative):
     if not candidate.is_relative_to(root.resolve()) or candidate == root.resolve():
         raise ValueError(f'Unsafe path: {relative}')
     return candidate
+
+
+@contextmanager
+def verified_archive(archives, item):
+    with tempfile.TemporaryDirectory(prefix='cos-restore-') as temporary:
+        ap = safe_path(archives, item['name'])
+        if not ap.exists() and item.get('parts'):
+            ap = Path(temporary) / 'assembled.zip'
+            with ap.open('xb') as output:
+                for part in item['parts']:
+                    path = safe_path(archives, part['name'])
+                    if path.stat().st_size != part['bytes']:
+                        raise ValueError(f'Part size mismatch: {path}')
+                    h = hashlib.sha256()
+                    with path.open('rb') as source:
+                        while chunk := source.read(4 * 1024 * 1024):
+                            h.update(chunk)
+                            output.write(chunk)
+                    if h.hexdigest() != part['sha256']:
+                        raise ValueError(f'Part hash mismatch: {path}')
+        if ap.stat().st_size != item['bytes']:
+            raise ValueError(f'Archive size mismatch: {ap}')
+        with ap.open('rb') as f:
+            if hashlib.file_digest(f, 'sha256').hexdigest() != item['sha256']:
+                raise ValueError(f'Archive hash mismatch: {ap}')
+        with zipfile.ZipFile(ap) as z:
+            yield z
 
 
 def restore(manifest, receipts, archives, destination=None):
@@ -32,12 +60,7 @@ def restore(manifest, receipts, archives, destination=None):
     seen = set()
     for item in receipts['archives']:
         ap = archives / item['name']
-        if ap.stat().st_size != item['bytes']:
-            raise ValueError(f'Archive size mismatch: {ap}')
-        with ap.open('rb') as f:
-            if hashlib.file_digest(f, 'sha256').hexdigest() != item['sha256']:
-                raise ValueError(f'Archive hash mismatch: {ap}')
-        with zipfile.ZipFile(ap) as z:
+        with verified_archive(archives, item) as z:
             for member in z.infolist():
                 key = (ap.name, member.filename)
                 if key not in targets or key in seen:
